@@ -1,0 +1,14 @@
+---
+title: "Research"
+format:
+  html: default
+title-block-style: none
+listing:
+  type: default
+  contents:
+    - "publications/*.qmd"
+appendix-style: none
+citation: false
+---
+
+[Add text here about the main interests driving my research]
