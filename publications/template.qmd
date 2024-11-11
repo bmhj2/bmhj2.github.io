@@ -1,0 +1,62 @@
+---
+# abstract: >
+#   [add]
+# # Standard metadata in this section
+# author:
+#   - id: string
+#     number: number
+#     name:
+#       given: string
+#       family: string
+#       literal: string
+#       dropping-particle: string
+#       non-dropping-particle: string
+#     url: string
+#     email: string
+#     phone: string
+#     fax: string
+#     degrees: 
+#       # see schema [below](https://quarto.org/docs/journals/authors.html#degrees)
+#     orcid: string
+#     note: string
+#     acknowledgements: string
+#     attributes:
+#       corresponding: boolean
+#       equal-contributor: boolean
+#       deceased: boolean
+#     roles: 
+#       # see schema [below](https://quarto.org/docs/journals/authors.html#roles)
+#     metadata: object
+#     affiliations: 
+#       # see schema [below](https://quarto.org/docs/journals/authors.html#affiliations-schema)
+
+# date: 
+# title: 
+# subtitle: 
+# funding: # see [schema](https://quarto.org/docs/authoring/front-matter.html#funding)
+# keywords: 
+#   - one
+#   - two
+#   - three
+# lang: en-GB
+# date: 
+# doi: 
+# url: 
+# title-block-banner: true
+# license: [Refer to publication] or [something else].
+# copyright: © ICPR 2024
+# toc: [true|false] # Will depend on whether it's a full text or a summary.
+
+# citation:
+  # [add CSL YAML here]
+
+draft: true # remove after finishing.
+---
+
+<!-- ## Summary -->
+
+<!-- Brief description here [e.g. A briefing paper on prison labour in the US, available at <https://eprints.bbk.ac.uk/id/eprint/53813>.]-->
+
+<!-- OR -->
+
+<!-- ## Title here and text to follow -->

@@ -1,0 +1,90 @@
+---
+abstract: >
+  This briefing examines the law, policy, and practice of prison work in the United States, focusing on Arizona, California, and Texas. It provides a comprehensive analysis of work and employment training opportunities for prisoners in these states, contextualised within recent trends in their prison populations and in the legal framework governing prison labour. The briefing explores how different levels of custodial security affect access to work opportunities and examines relevant case law and state-specific approaches. Recent policy developments are linked to penal cultures and prison population trends. The briefing suggests that prison work in these states primarily subsidises state institutions rather than enabling exploitation for private profit, with most work involving prison maintenance or producing goods for public sector use. Despite low labour costs, many prison industries struggle for economic viability. The analysis highlights a lack of reliable, comprehensive data on prison work, hindering thorough analysis and informed policymaking. Areas requiring further research include the specifics of 'prison housework', long-term outcomes of prison work, and implications of penal policy shifts. The briefing aims to contribute to evidence-based policy reforms that can improve outcomes for prisoners while addressing broader societal concerns about justice and rehabilitation.
+affiliations:
+  - id: bbk
+    name: "Birkbeck College"
+    department: "Faculty of Humanities and Social Sciences"
+    address: |
+      "Malet Street"
+      "Bloomsbury"
+    city: London
+    postal-code: "WC1E 7HX"
+    country: "United Kingdom"
+    url: "https://www.bbk.ac.uk"
+  - id: icpr
+    name: "Institute for Crime & Justice Policy Research"
+    address: |
+      "Malet Street"
+      "Bloomsbury"
+    city: London
+    postal-code: "WC1E 7HX"
+    country: "United Kingdom"
+    url: "https://www.icpr.org.uk"
+author:
+  - id: bj
+    affiliation:
+      - ref: bbk
+      - ref: icpr
+    attributes:
+      corresponding: true
+    # email: "b.jarman@bbk.ac.uk"
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    orcid: "0000-0003-3527-5437"
+  - id: hf
+    affiliation:
+      - ref: bbk
+      - ref: icpr
+    email: "helen.fair@bbk.ac.uk"
+    name:
+      given: Helen
+      family: Fair
+      literal: Helen Fair
+    orcid: "0000-0002-1736-5730"
+keywords:
+  - prison labour
+  - work in prison
+  - human rights
+  - labour rights
+  - united states of america
+title: "Working prisoners in the USA"
+subtitle: "Laws, policies, and practical realities"
+date: '2024-09-11'
+funding: 
+  statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"
+url: https://eprints.bbk.ac.uk/id/eprint/53813
+title-block-banner: true
+license: All rights reserved.
+copyright: © ICPR 2024
+draft: false
+toc: false
+
+citation:
+  id: jarmanWorkingPrisonersUSA2024
+  abstract: >
+    This briefing examines the law, policy, and practice of prison work in the United States, focusing on Arizona, California, and Texas. It provides a comprehensive analysis of work and employment training opportunities for prisoners in these states, contextualised within recent trends in their prison populations and in the legal framework governing prison labour. The briefing explores how different levels of custodial security affect access to work opportunities and examines relevant case law and state-specific approaches. Recent policy developments are linked to penal cultures and prison population trends. The briefing suggests that prison work in these states primarily subsidises state institutions rather than enabling exploitation for private profit, with most work involving prison maintenance or producing goods for public sector use. Despite low labour costs, many prison industries struggle for economic viability. The analysis highlights a lack of reliable, comprehensive data on prison work, hindering thorough analysis and informed policymaking. Areas requiring further research include the specifics of 'prison housework', long-term outcomes of prison work, and implications of penal policy shifts. The briefing aims to contribute to evidence-based policy reforms that can improve outcomes for prisoners while addressing broader societal concerns about justice and rehabilitation.
+  author:
+    - family: Jarman
+      given: Ben
+    - family: Fair
+      given: Helen
+  collection-title: Unlocking potential
+  event-place: London
+  genre: Briefing paper
+  issued: 2024-09-11
+  language: en
+  page: '47'
+  publisher: Institute for Crime & Justice Policy Research
+  publisher-place: London
+  title: 'Working prisoners in the USA: laws, policies, and practical realities'
+  title-short: Working prisoners in the USA
+  type: report
+  URL: https://eprints.bbk.ac.uk/id/eprint/53813
+---
+
+## Availability
+
+Available at <https://eprints.bbk.ac.uk/id/eprint/53813>.
