@@ -27,8 +27,7 @@ author:
       - ref: bbk
       - ref: icpr
     attributes:
-      corresponding: true
-    # email: "b.jarman@bbk.ac.uk"
+    email: "b.jarman@bbk.ac.uk"
     name:
       given: Ben
       family: Jarman
@@ -38,7 +37,7 @@ author:
     affiliation:
       - ref: bbk
       - ref: icpr
-    email: "helen.fair@bbk.ac.uk"
+    email: "h.fair@bbk.ac.uk"
     name:
       given: Helen
       family: Fair

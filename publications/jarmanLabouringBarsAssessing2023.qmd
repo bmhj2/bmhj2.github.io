@@ -1,0 +1,91 @@
+---
+abstract: >
+  This briefing paper explores work in prison through the lens of international human rights law. This is the first of a series of publications in the project ‘Unlocking potential: towards effective, sustainable, and ethical provision of work opportunities for prisoners and prison leavers’. The briefing—along with a detailed Appendix—assesses and critiques the applicable law and highlights the outdated nature of key binding norms governing prison work. It also identifies gaps between claimed benefits and actual prisoner work conditions. It assesses the existing international legal framework, revealing conceptual gaps and inconsistencies across standards. These gaps, we suggest, may result in prisoners being exploited in ways unforeseen by the framers of international laws.
+affiliations:
+  - id: bbk
+    name: "Birkbeck College"
+    department: "Faculty of Humanities and Social Sciences"
+    address: |
+      "Malet Street"
+      "Bloomsbury"
+    city: London
+    postal-code: "WC1E 7HX"
+    country: "United Kingdom"
+    url: "https://www.bbk.ac.uk"
+  - id: icpr
+    name: "Institute for Crime & Justice Policy Research"
+    address: |
+      "Malet Street"
+      "Bloomsbury"
+    city: London
+    postal-code: "WC1E 7HX"
+    country: "United Kingdom"
+    url: "https://www.icpr.org.uk"
+author:
+  - id: bj
+    affiliation:
+      - ref: bbk
+      - ref: icpr
+    attributes:
+    name: Ben Jarman
+    email: "b.jarman@bbk.ac.uk"
+    orcid: "0000-0003-3527-5437"
+  - id: ch
+    affiliation:
+      - ref: bbk
+      - ref: icpr
+    email: "c.heard@bbk.ac.uk"
+    name: Catherine Heard
+    orcid: "0000-0002-1736-5730"
+category: briefing paper
+title: Labouring behind bars
+subtitle: Assessing international law on working prisoners
+date: 2023-11-09
+date-modified: last-modified
+funding: 
+  statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"
+keywords:  
+  - forced labour conventions
+  - human rights
+  - international human rights standards
+  - international prison research
+  - labour rights
+  - prison labour
+  - work in prison
+lang: en-GB
+url: https://eprints.bbk.ac.uk/id/eprint/53263/
+title-block-banner: true
+license: All rights reserved.
+copyright:
+  holder: ICPR
+  year: 2023
+toc: false
+
+draft: false # remove after finishing.
+
+citation:
+  id: jarmanLabouringBarsAssessing2023
+  abstract: >
+    This briefing paper explores work in prison through the lens of international human rights law. This is the first of a series of publications in the project ‘Unlocking potential: towards effective, sustainable, and ethical provision of work opportunities for prisoners and prison leavers’. The briefing—along with a detailed Appendix—assesses and critiques the applicable law and highlights the outdated nature of key binding norms governing prison work. It also identifies gaps between claimed benefits and actual prisoner work conditions. It assesses the existing international legal framework, revealing conceptual gaps and inconsistencies across standards. These gaps, we suggest, may result in prisoners being exploited in ways unforeseen by the framers of international laws.
+  author:
+    - family: Jarman
+      given: Ben
+    - family: Heard
+      given: Catherine 
+  collection-title: Unlocking potential
+  event-place: London
+  genre: Briefing paper
+  issued: 2023-11-09
+  language: en-GB
+  page: '43'
+  publisher: Institute for Crime & Justice Policy Research
+  publisher-place: London
+  title: 'Labouring behind bars: assessing international law on working prisoners'
+  title-short: 'Labouring behind bars'
+  type: report
+  URL: https://eprints.bbk.ac.uk/id/eprint/53811
+---
+
+## Availability
+
+A briefing paper on the international legal framework for regulating prison work and prison labour, available at <https://eprints.bbk.ac.uk/id/eprint/53811>.

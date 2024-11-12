@@ -28,18 +28,17 @@ author:
       - ref: bbk
       - ref: icpr
     attributes:
-      corresponding: true
-    # email: "b.jarman@bbk.ac.uk"
     name:
       given: Ben
       family: Jarman
       literal: Ben Jarman
+    email: "b.jarman@bbk.ac.uk"
     orcid: "0000-0003-3527-5437"
   - id: hf
     affiliation:
       - ref: bbk
       - ref: icpr
-    email: "helen.fair@bbk.ac.uk"
+    email: "h.fair@bbk.ac.uk"
     name:
       given: Helen
       family: Fair
