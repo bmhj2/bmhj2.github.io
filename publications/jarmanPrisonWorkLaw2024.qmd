@@ -1,0 +1,95 @@
+---
+abstract: >
+  International law provides that work by sentenced prisoners ought to prepare them for life after release. Yet reliable data on the nature, extent and impacts of prison work is lacking in much of the world, and what there is suggests that much prison work is far from voluntary, is unpaid or poorly paid, is unskilled or low-skilled, and does little to improve employment prospects on release. This article compares how prison work is defined and governed in law and shaped by policy, and how it is organised in practice. It describes the operationalisation of key legal provisions relating to prison work in three countries, and compares the purposes for prison work defined in law, the protections available to working prisoners, and the incentives or penalties used to secure participation. It also summarises the limited data available showing how many prisoners perform which kinds of work in each country. Finally, it argues that efforts to bring prison work provision into closer compliance with international standards should be sensitive to local variation, and suggests clarifying questions which could be used in such a reform process.
+affiliations:
+  - id: bbk
+    name: "Birkbeck College"
+    department: "Faculty of Humanities and Social Sciences"
+    address: |
+      "Malet Street"
+      "Bloomsbury"
+    city: London
+    postal-code: "WC1E 7HX"
+    country: "United Kingdom"
+    url: "https://www.bbk.ac.uk"
+  - id: icpr
+    name: "Institute for Crime & Justice Policy Research"
+    address: |
+      "Malet Street"
+      "Bloomsbury"
+    city: London
+    postal-code: "WC1E 7HX"
+    country: "United Kingdom"
+    url: "https://www.icpr.org.uk"
+author:
+  - id: bj
+    affiliation:
+      - ref: bbk
+      - ref: icpr
+    attributes:
+    name: Ben Jarman
+    email: "b.jarman@bbk.ac.uk"
+    orcid: "0000-0003-3527-5437"
+  - id: ch
+    affiliation:
+      - ref: bbk
+      - ref: icpr
+    email: "c.heard@bbk.ac.uk"
+    name: Catherine Heard
+    orcid: "0000-0002-1736-5730"
+bibliography: jarmanPrisonWorkLaw2024.bib
+category: briefing paper
+title: Prison work in law and reality
+subtitle: Comparative perspectives from Brazil, the UK, and the US
+date: 2024-09-01
+date-modified: last-modified
+funding: 
+  statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"
+keywords:  
+  - brazil
+  - comparative legal research
+  - human rights
+  - prison labour
+  - prison work
+  - united kingdom
+  - united states of america
+lang: en-GB
+doi: 10.1177/20319525241263179
+url: https://eprints.bbk.ac.uk/id/eprint/53597
+title-block-banner: true
+license: All rights reserved.
+copyright:
+  holder: The authors
+  year: 2024
+toc: false
+
+draft: false # remove after finishing.
+
+citation:
+  id: jarmanPrisonWorkLaw2024
+  abstract: >
+    International law provides that work by sentenced prisoners ought to prepare them for life after release. Yet reliable data on the nature, extent and impacts of prison work is lacking in much of the world, and what there is suggests that much prison work is far from voluntary, is unpaid or poorly paid, is unskilled or low-skilled, and does little to improve employment prospects on release. This article compares how prison work is defined and governed in law and shaped by policy, and how it is organised in practice. It describes the operationalisation of key legal provisions relating to prison work in three countries, and compares the purposes for prison work defined in law, the protections available to working prisoners, and the incentives or penalties used to secure participation. It also summarises the limited data available showing how many prisoners perform which kinds of work in each country. Finally, it argues that efforts to bring prison work provision into closer compliance with international standards should be sensitive to local variation, and suggests clarifying questions which could be used in such a reform process.
+  author:
+    - ref: bj
+    - ref: ch
+  container-title: European Labour Law Journal
+  container-title-short: Eur. Labour Law J.
+  DOI: 10.1177/20319525241263179
+  ISSN: 2031-9525
+  issue: '3'
+  issued: 2024-09-01
+  language: en
+  license: All rights reserved
+  page: 541-562
+  publisher: SAGE Publications
+  source: SAGE Journals
+  title: 'Prison work in law and reality: comparative perspectives from Brazil, the UK, and the US'
+  title-short: Prison work in law and reality
+  type: article-journal
+  URL: https://eprints.bbk.ac.uk/id/eprint/53597
+  volume: '15'
+---
+
+## Availability
+
+A journal article for a special issue on prison labour, available at <https://eprints.bbk.ac.uk/id/eprint/53597>.

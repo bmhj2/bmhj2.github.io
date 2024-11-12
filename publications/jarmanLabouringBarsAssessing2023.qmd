@@ -37,6 +37,7 @@ author:
     email: "c.heard@bbk.ac.uk"
     name: Catherine Heard
     orcid: "0000-0002-1736-5730"
+bibliography: jarmanLabouringBarsAssessing2023.bib
 category: briefing paper
 title: Labouring behind bars
 subtitle: Assessing international law on working prisoners
