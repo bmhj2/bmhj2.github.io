@@ -44,23 +44,30 @@ author:
       family: Fair
       literal: Helen Fair
     orcid: "0000-0002-1736-5730"
-keywords:
+title: "Working prisoners in the USA"
+subtitle: "Laws, policies, and practical realities"
+date: "2024-09-11"
+date-modified: last-modified
+funding: 
+  statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"
+keywords: 
   - prison labour
   - work in prison
   - human rights
   - labour rights
   - united states of america
-title: "Working prisoners in the USA"
-subtitle: "Laws, policies, and practical realities"
-date: '2024-09-11'
-funding: 
-  statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"
+lang: en-GB
 url: https://eprints.bbk.ac.uk/id/eprint/53813
 title-block-banner: true
 license: All rights reserved.
-copyright: © ICPR 2024
+copyright:
+  holder: ICPR
+  year: 2024
 draft: false
+bibliography: jarmanWorkingPrisonersUSA2024.bib
+google-scholar: true
 toc: false
+category: briefing paper
 
 citation:
   id: jarmanWorkingPrisonersUSA2024
@@ -75,7 +82,7 @@ citation:
   event-place: London
   genre: Briefing paper
   issued: 2024-09-11
-  language: en
+  language: en-GB
   page: '47'
   publisher: Institute for Crime & Justice Policy Research
   publisher-place: London

@@ -1,14 +1,20 @@
 ---
 title: "Publications"
+descriptions: "A collection of publications by Ben"
 format:
   html: default
 title-block-style: none
 listing:
-  type: default
+  type: table
   contents:
     - "publications/*.qmd"
+  sort: "date desc"
+  categories: true
+  feed: true
+  sort-ui: [title, date]
+  fields: [image, date, title, keywords, author]
 appendix-style: none
 citation: false
 ---
 
-[Add text here about the main interests driving my research]
+Here you can find a list of my past publications. Where I have the copyright, the full text is available here and can be downloaded in different formats. Where I don't, I've provided links to the full text wherever possible.

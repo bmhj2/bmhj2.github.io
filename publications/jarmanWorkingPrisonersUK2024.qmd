@@ -1,0 +1,98 @@
+---
+abstract: >
+  This briefing describes the governance of prison work and prison labour in the United Kingdom. Recent years have seen a considerable focus on policies aiming to promote prisoner employment and employability and yet, as the briefing shows, this focus has been confined to small parts of the UK prison system. Reliable data describing prison work is difficult to obtain, and many of the long-standing contradictions and difficulties which have plagued efforts to turn prisons into productive, rehabilitative workplaces remain unresolved. Despite some impressive progress in some parts of the system, the nature and usefulness of prison work in the UK remain largely obscure. This briefing reviews the legal and policy landscape and what little published data exists to describe work done by people serving prison sentences, and summarises what can be said about the nature and extent of different kinds of work in practice.
+# Standard metadata in this section
+affiliations:
+  - id: bbk
+    name: "Birkbeck College"
+    department: "Faculty of Humanities and Social Sciences"
+    address: |
+      "Malet Street"
+      "Bloomsbury"
+    city: London
+    postal-code: "WC1E 7HX"
+    country: "United Kingdom"
+    url: "https://www.bbk.ac.uk"
+  - id: icpr
+    name: "Institute for Crime & Justice Policy Research"
+    address: |
+      "Malet Street"
+      "Bloomsbury"
+    city: London
+    postal-code: "WC1E 7HX"
+    country: "United Kingdom"
+    url: "https://www.icpr.org.uk"
+author:
+  - id: bj
+    affiliation:
+      - ref: bbk
+      - ref: icpr
+    attributes:
+      corresponding: true
+    # email: "b.jarman@bbk.ac.uk"
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    orcid: "0000-0003-3527-5437"
+  - id: hf
+    affiliation:
+      - ref: bbk
+      - ref: icpr
+    email: "helen.fair@bbk.ac.uk"
+    name:
+      given: Helen
+      family: Fair
+      literal: Helen Fair
+    orcid: "0000-0002-1736-5730"
+category: briefing paper
+title: Working prisoners in the UK
+subtitle: Laws, policies, and practical realities
+date: 2024-07-10
+date-modified: last-modified
+funding: 
+  statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"
+keywords:  
+  - prison labour
+  - work in prison
+  - forced labour conventions
+  - human rights
+  - labour rights
+  - united kingdom
+lang: en-GB
+url: https://eprints.bbk.ac.uk/id/eprint/53813
+title-block-banner: true
+license: All rights reserved.
+copyright:
+  holder: ICPR
+  year: 2024
+toc: false
+
+draft: false # remove after finishing.
+
+citation:
+  id: jarmanWorkingPrisonersUK2024
+  abstract: >
+    This briefing describes the governance of prison work and prison labour in the United Kingdom. Recent years have seen a considerable focus on policies aiming to promote prisoner employment and employability and yet, as the briefing shows, this focus has been confined to small parts of the UK prison system. Reliable data describing prison work is difficult to obtain, and many of the long-standing contradictions and difficulties which have plagued efforts to turn prisons into productive, rehabilitative workplaces remain unresolved. Despite some impressive progress in some parts of the system, the nature and usefulness of prison work in the UK remain largely obscure. This briefing reviews the legal and policy landscape and what little published data exists to describe work done by people serving prison sentences, and summarises what can be said about the nature and extent of different kinds of work in practice.
+  author:
+    - family: Jarman
+      given: Ben
+    - family: Fair
+      given: Helen
+  collection-title: Unlocking potential
+  event-place: London
+  genre: Briefing paper
+  issued: 2024-07-10
+  language: en-GB
+  page: '43'
+  publisher: Institute for Crime & Justice Policy Research
+  publisher-place: London
+  title: 'Working prisoners in the UK: laws, policies, and practical realities'
+  title-short: Working prisoners in the UK
+  type: report
+  URL: https://eprints.bbk.ac.uk/id/eprint/53811
+---
+
+## Availability
+
+A briefing paper on prison labour in the UK, available at <https://eprints.bbk.ac.uk/id/eprint/53811>.

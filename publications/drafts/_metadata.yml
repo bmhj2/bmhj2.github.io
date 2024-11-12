@@ -1,21 +1,6 @@
 format:
   html: default
-  # docx:
-  #   reference-doc: phd-reference.docx
-  # typst: 
-  #   toc: true
-  #   toc-depth: 2
-  #   toc-title: Contents
-  #   number-sections: true
-  #   papersize: a4
-  #   margin: 
-  #     x: 1in
-  #     y: 1in
-  #   columns: 2
-  #   fontsize: 12pt
   
-date-format: dddd Do MMMM YYYY
-
 author:
   - id: bmhj
     name:
@@ -60,3 +45,4 @@ author:
         url: https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-law-school
 
 draft: true
+freeze: true

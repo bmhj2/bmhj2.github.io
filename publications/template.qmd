@@ -34,23 +34,46 @@
 # title: 
 # subtitle: 
 # funding: # see [schema](https://quarto.org/docs/authoring/front-matter.html#funding)
-# keywords: 
+# keywords:  
 #   - one
 #   - two
 #   - three
 # lang: en-GB
 # date: 
+# date-modified: last-modified
 # doi: 
 # url: 
 # title-block-banner: true
 # license: [Refer to publication] or [something else].
-# copyright: © ICPR 2024
+# copyright:
+  # - holder: 
+  # - year: 
 # toc: [true|false] # Will depend on whether it's a full text or a summary.
+# category: 
+# description: 
 
 # citation:
   # [add CSL YAML here]
 
+citeproc: true
+csl: cambridge-university-press-author-date.csl
+# bibliography: [citekey].json
 draft: true # remove after finishing.
+formats:
+  html: default
+  # docx:
+  #   reference-doc: /_assets/phd-reference.docx
+  # typst: 
+  #   toc: true
+  #   toc-depth: 2
+  #   toc-title: Contents
+  #   number-sections: true
+  #   papersize: a4
+  #   margin: 
+  #     x: 1in
+  #     y: 1in
+  #   columns: 2
+  #   fontsize: 12pt
 ---
 
 <!-- ## Summary -->
