@@ -26,7 +26,6 @@ author:
     affiliation:
       - ref: bbk
       - ref: icpr
-    attributes:
     email: "b.jarman@bbk.ac.uk"
     name:
       given: Ben
@@ -66,7 +65,8 @@ draft: false
 bibliography: jarmanWorkingPrisonersUSA2024.bib
 google-scholar: true
 toc: false
-category: briefing paper
+categories:
+  - briefing paper
 
 citation:
   id: jarmanWorkingPrisonersUSA2024

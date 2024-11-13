@@ -27,7 +27,6 @@ author:
     affiliation:
       - ref: bbk
       - ref: icpr
-    attributes:
     name:
       given: Ben
       family: Jarman
@@ -44,7 +43,8 @@ author:
       family: Fair
       literal: Helen Fair
     orcid: "0000-0002-1736-5730"
-category: briefing paper
+categories:
+  - briefing paper
 title: Working prisoners in the UK
 subtitle: Laws, policies, and practical realities
 date: 2024-07-10
@@ -87,7 +87,7 @@ citation:
   publisher: Institute for Crime & Justice Policy Research
   publisher-place: London
   title: 'Working prisoners in the UK: laws, policies, and practical realities'
-  title-short: Working prisoners in the UK
+  title-short: 'Working prisoners in the UK'
   type: report
   URL: https://eprints.bbk.ac.uk/id/eprint/53811
 ---

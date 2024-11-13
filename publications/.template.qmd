@@ -46,10 +46,10 @@
 # title-block-banner: true
 # license: [Refer to publication] or [something else].
 # copyright:
-  # - holder: 
-  # - year: 
+  # holder: 
+  # year: 
 # toc: [true|false] # Will depend on whether it's a full text or a summary.
-# category: 
+# categories: 
 # description: 
 
 # citation:
@@ -57,7 +57,7 @@
 
 citeproc: true
 csl: cambridge-university-press-author-date.csl
-# bibliography: [citekey].json
+# bibliography: [citekey].bib
 draft: true # remove after finishing.
 formats:
   html: default

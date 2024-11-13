@@ -1,21 +1,21 @@
-format:
-  html: default
+# format:
+#   html: default
 
-author:
-  - id: bmhj
-    name:
-      given: Ben
-      family: Jarman
-      literal: Ben Jarman
+# author:
+#   - id: bmhj
+#     name:
+#       given: Ben
+#       family: Jarman
+#       literal: Ben Jarman
     # degrees:
     #   - MA (Cantab)
     #   - PGCE
     #   - MPhil
     #   - PhD
-    email: ben@benjarman.uk
-    orcid: 0000-0003-3527-5437
-    url: https://benjarman.uk
-    affiliations:
+    # email: ben@benjarman.uk
+    # orcid: 0000-0003-3527-5437
+    # url: https://benjarman.uk
+    # affiliations:
       # - id: cam
       #   name: University of Cambridge
       #   department: Institute of Criminology Prisons Research Centre
@@ -35,20 +35,19 @@ author:
       #   postal-code: WC1E 7HX
       #   country: United Kingdom
       #   url: https://icpr.org.uk
-      - id: soton
-        name: University of Southampton
-        department: Law School
-        address: University Road
-        city: Southampton
-        postal-code: SO17 1BJ
-        country: United Kingdom
-        url: https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-law-school
+      # - id: soton
+      #   name: University of Southampton
+      #   department: Law School
+      #   address: University Road
+      #   city: Southampton
+      #   postal-code: SO17 1BJ
+      #   country: United Kingdom
+      #   url: https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-law-school
 
 google-scholar: true
-category: briefing paper
-bibliography: jarmanWorkingPrisonersUK2024.bib
+# categories:
+# bibliography: 
 citeproc: true
 csl: cambridge-university-press-author-date.csl
 
-draft: false
 freeze: true

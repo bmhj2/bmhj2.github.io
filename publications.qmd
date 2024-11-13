@@ -12,7 +12,7 @@ listing:
   categories: true
   feed: true
   sort-ui: [title, date]
-  fields: [image, date, title, keywords, author]
+  fields: [image, date, title, keywords, categories, author]
 appendix-style: none
 citation: false
 ---

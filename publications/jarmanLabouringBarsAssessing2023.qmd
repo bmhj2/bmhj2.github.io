@@ -26,8 +26,10 @@ author:
     affiliation:
       - ref: bbk
       - ref: icpr
-    attributes:
-    name: Ben Jarman
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
     email: "b.jarman@bbk.ac.uk"
     orcid: "0000-0003-3527-5437"
   - id: ch
@@ -35,10 +37,14 @@ author:
       - ref: bbk
       - ref: icpr
     email: "c.heard@bbk.ac.uk"
-    name: Catherine Heard
+    name:
+      given: Catherine
+      family: Heard
+      literal: Catherine Heard
     orcid: "0000-0002-1736-5730"
 bibliography: jarmanLabouringBarsAssessing2023.bib
-category: briefing paper
+categories:
+  - briefing paper
 title: Labouring behind bars
 subtitle: Assessing international law on working prisoners
 date: 2023-11-09

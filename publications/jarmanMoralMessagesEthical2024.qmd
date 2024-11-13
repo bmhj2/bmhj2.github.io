@@ -1,0 +1,120 @@
+---
+title: "Moral messages, ethical responses"
+subtitle: "Punishment and self-governance among men serving life sentences for murder"
+
+abstract: >
+  This PhD uses theoretical and conceptual resources from the anthropology of morality and ethics to explore moral communication in the contemporary life sentence, as seen through the ethical lives of men serving life sentences for murder.
+  
+  Empirically, it describes three things. First, moral communication *about murder*: what a conviction for this crime and the experience of imprisonment for life ‘said’ to prisoners about who they were and whom they ought to become. Second, moral communication *within a life course*: how people with different pre-prison experiences reacted to the rupture in identity imposed by the sanction. Third, moral communication *through the language of risk*: an unclear (though dominant) medium which imposed demands some lifers found a comfortable ‘fit’, but others did not.
+  
+  These descriptions draw on interview and documentary data relating to forty-eight individuals: thirty in a long-term category-B prison, and eighteen in a category-D or ‘open’ prison focused on resettlement. All serving mandatory life sentences for murder, they were otherwise a heterogeneous group: convicted in diverse circumstances, aged from their teens to their seventies, and sentenced between 1983 and 2017. Their minimum terms ranged in length from less than ten to thirty years, and they had served between 7% and 250% of these minimums. Both in their backgrounds and in their custodial experiences, then, they formed a broad and diverse sample, affording a wide range of perspectives on the theoretical and substantive questions addressed by the research.
+  
+  The PhD adds theoretical depth and empirical detail to a growing literature on experiences of long-term and life imprisonment. It also comments on some implications of this empirical material for how retributive penal theorists have understood the *aims* of punishment—in particular, whether long-term imprisonment succeeds in communicating to prisoners what is *wrong* (as opposed to merely *harmful*) about taking life. It argues, overall, that the mandatory life sentence as currently delivered is a morally incoherent sanction. On the one hand, it is too individualised to convey clear moral norms or to show meaningful solidarity with those harmed and wronged by murders. On the other, it is not individualised enough to communicate effectively with murderers about the ethical responses that their actions might warrant.
+
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    attributes:
+      corresponding: true
+    # degrees:
+    #   - MA (Cantab)
+    #   - PGCE
+    #   - MPhil
+    #   - PhD
+    email: ben@benjarman.uk
+    orcid: 0000-0003-3527-5437
+    role:
+      - analysis
+      - conceptualization
+      - data curation
+      - editing
+      - funding
+      - investigation
+      - methodology
+      - project administration
+      - resources
+      - writing
+    url: https://benjarman.uk
+    affiliations:
+      - id: cam
+        name: University of Cambridge
+        department: Institute of Criminology
+        group: Prison Research Centre
+        address: Sidgwick Avenue
+        city: Cambridge
+        region: Cambridgeshire
+        postal-code: CB3 9DA
+        country: United Kingdom
+        url: https://www.prc.crim.cam.ac.uk/
+date: "2024-06-06"
+date-modified: last-modified
+
+bibliography: jarmanMoralMessagesEthical2024.bib
+categories:
+  - thesis
+funding:
+  statement: "The author received funding for this research via an ESRC Knowledge Exchange PhD Studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
+keywords:
+  - long-term imprisonment
+  - life imprisonment
+  - england & wales
+  - moral anthropology
+  - prisons
+  - penology
+  - sociology of punishment
+  - ethical reflection
+  - prison sociology
+  - tightness
+  - moral communication
+  - murder
+  - punishment
+  - risk
+lang: en-GB
+copyright:
+  holder: Ben Jarman
+  year: 2024
+license: CC-BY, embargoed to 2025-06-06
+
+format:
+  html: default
+
+draft: false
+
+citation:
+  id: jarmanMoralMessagesEthical2024
+  abstract: >
+    This PhD uses theoretical and conceptual resources from the anthropology of morality and ethics to explore moral communication in the contemporary life sentence, as seen through the ethical lives of men serving life sentences for murder.
+    
+    Empirically, it describes three things. First, moral communication *about murder*: what a conviction for this crime and the experience of imprisonment for life ‘said’ to prisoners about who they were and whom they ought to become. Second, moral communication *within a life course*: how people with different pre-prison experiences reacted to the rupture in identity imposed by the sanction. Third, moral communication *through the language of risk*: an unclear (though dominant) medium which imposed demands some lifers found a comfortable ‘fit’, but others did not.
+    
+    These descriptions draw on interview and documentary data relating to forty-eight individuals: thirty in a long-term category-B prison, and eighteen in a category-D or ‘open’ prison focused on resettlement. All serving mandatory life sentences for murder, they were otherwise a heterogeneous group: convicted in diverse circumstances, aged from their teens to their seventies, and sentenced between 1983 and 2017. Their minimum terms ranged in length from less than ten to thirty years, and they had served between 7% and 250% of these minimums. Both in their backgrounds and in their custodial experiences, then, they formed a broad and diverse sample, affording a wide range of perspectives on the theoretical and substantive questions addressed by the research.
+    
+    The PhD adds theoretical depth and empirical detail to a growing literature on experiences of long-term and life imprisonment. It also comments on some implications of this empirical material for how retributive penal theorists have understood the *aims* of punishment—in particular, whether long-term imprisonment succeeds in communicating to prisoners what is *wrong* (as opposed to merely *harmful*) about taking life. It argues, overall, that the mandatory life sentence as currently delivered is a morally incoherent sanction. On the one hand, it is too individualised to convey clear moral norms or to show meaningful solidarity with those harmed and wronged by murders. On the other, it is not individualised enough to communicate effectively with murderers about the ethical responses that their actions might warrant.
+  author:
+    - family: Jarman
+      given: Ben
+  contributor:
+    - family: Crewe
+      given: Benjamin
+  DOI: 10.17863/CAM.109063
+  genre: PhD
+  event-place: Cambridge
+  issued: 2024-06-06
+  language: en-GB
+  license: CC-BY, embargo
+  number-of-pages: '338'
+  publisher: Apollo - University of Cambridge repository
+  publisher-place: Cambridge
+  source: DOI.org (Datacite)
+  title: 'Moral messages, ethical responses: Punishment and self-governance among men serving life sentences for murder'
+  title-short: Moral messages, ethical responses
+  type: thesis
+  URL: https://www.repository.cam.ac.uk/handle/1810/369145
+---
+
+## Availability
+
+PhD thesis, based on research on life-sentenced prisoners in England. Embargoed but can be requested from <https://www.repository.cam.ac.uk/handle/1810/369145>.
