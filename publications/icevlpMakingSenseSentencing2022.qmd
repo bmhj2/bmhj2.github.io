@@ -1,0 +1,50 @@
+---
+author:
+  - id: icevlp
+    name:
+      literal: Independent Commission into the Experience of Victims and Long-Term Prisoners
+
+date: 2022-06-09
+title: Making sense of sentencing
+subtitle: Doing justice to both victim and prisoner
+keywords:  
+  - sentencing
+  - england & wales
+lang: en-GB
+url: https://prisonreformtrust.org.uk/independent-commission-calls-for-national-debate-on-sentencing-for-serious-crime/
+pdf-url: https://prisonreformtrust.org.uk/wp-content/uploads/2024/10/ICEVLP-Making-sense-of-sentencing-v328.pdf
+title-block-banner: true
+license: All rights reserved
+copyright: "© Independent Commission into the Experience of Victims and Long-Term Prisoners, 2024"
+toc: false
+categories:
+  - report
+  - knowledge exchange
+format-links: false
+draft: false
+description: Report by an independent commission to which I contributed draft chapters and editing support.
+
+citation:
+  id: icevlpMakingSenseSentencing2022
+  author:
+    - literal: >
+        Independent Commission into the Experience of Victims and Long-Term Prisoners
+  contributor:
+    - family: Jarman
+      given: Ben
+  genre: Final report
+  issued: 2022-06-15
+  language: en-GB
+  license: All rights reserved
+  page: '92'
+  publisher: >
+    Independent Commission into the Experience of Victims and Long-Term Prisoners
+  title: 'Making sense of sentencing: Doing justice to both victim and prisoner'
+  title-short: Making sense of sentencing
+  type: report
+  URL: https://prisonreformtrust.org.uk/wp-content/uploads/2024/10/ICEVLP-Making-sense-of-sentencing-v328.pdf
+---
+
+# Availability
+
+Commission's original website now offline. As of November 2024 the report was available via <https://prisonreformtrust.org.uk/independent-commission-calls-for-national-debate-on-sentencing-for-serious-crime/>.

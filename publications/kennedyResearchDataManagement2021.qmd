@@ -1,0 +1,72 @@
+---
+abstract: >
+  A training seminar delivered to MPhil Criminology/Criminological Research students at the Institute of Criminology, University of Cambridge on 2nd February 2021. The aim of this seminar was to introduce students to good research data management practices and discuss the application of these practices to criminological research.
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+author:
+  - id: lk
+    name:
+      given: Laura
+      family: Kennedy
+      literal: Laura Kennedy
+    affiliation:
+      - ref: cam
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    orcid: 0000-0003-3527-5437
+    affiliation:
+      - ref: cam
+date: 2021-02-02
+title: 'Research Data Management: An introduction'
+keywords:  
+  - research data management
+lang: en-GB
+doi: 10.17863/CAM.64601
+url: https://www.repository.cam.ac.uk/handle/1810/317485
+license: CC-BY 4.0
+copyright: © The authors, 2021
+toc: false
+categories: presentation
+description: Slides from a training seminar for postgraduate students.
+format-links: false
+draft: false
+
+citation:
+  id: kennedyResearchDataManagement2021
+  abstract: >
+    A training seminar delivered to MPhil Criminology/Criminological Research students at the Institute of Criminology, University of Cambridge on 2nd February 2021. The aim of this seminar was to introduce students to good research data management practices and discuss the application of these practices to criminological research.
+  author:
+    - family: Kennedy
+      given: Laura
+    - family: Jarman
+      given: Ben
+  citation-key: kennedyResearchDataManagement2021
+  DOI: 10.17863/CAM.64601
+  event-place: University of Cambridge Institute of Criminology
+  event-title: MPhil research methods seminar
+  genre: Webinar
+  issued: 2021-02-02
+  language: en_GB
+  license: Attribution 4.0 International
+  publisher-place: University of Cambridge Institute of Criminology
+  title: 'Research Data Management: An introduction'
+  title-short: Research Data Management
+  type: speech
+  URL: https://www.repository.cam.ac.uk/handle/1810/317485
+---
+
+# Availability
+
+Available from <https://www.repository.cam.ac.uk/handle/1810/317485>.

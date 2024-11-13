@@ -1,0 +1,97 @@
+---
+abstract: >
+  There is strong support for the open research agenda among qualitative researchers. This report broadly defines qualitative research as the exploration of communities’ and individuals’ perspectives and lived experiences and how people meaningfully construct and negotiate social worlds in specific contexts. Such research typically involves natural-language descriptions, rather than numerical measurements. However, University advocates of open research and funders’ open research policies tend to frame key tenets and desired outcomes in terms of the priorities, methodological approaches and quality markers of STEMM fields and the quantitative social sciences. Qualitative research is heterogeneous, and STEMM-oriented open-data policies can be at odds with qualitative researchers’ values. Instead of building trust and transparency into the research process, such policies can undermine or inhibit collaboration and engagement that are crucial for ongoing qualitative work. Nevertheless, many qualitative researchers – and we as a working group – feel that open research presents huge opportunities for innovation in our fields and, therefore, hope to make discussions about open research at Cambridge University more inclusive of qualitative researchers’ viewpoints. This report includes a number of concrete recommendations that respond to the dialogic, emergent, abundant and relational aspects of qualitative research by proposing context-specific guidelines, infrastructures and training resources.
+# # Standard metadata in this section
+affiliations:
+  - id: cam
+    name: "University of Cambridge"
+    url: https://www.cam.ac.uk
+author:
+    - name: Margaret Westbury
+      orcid: 0000-0001-7443-7959
+      affiliation:
+        - ref: cam
+    - name: Mathieu Candea
+      orcid: 0000-0001-7260-4194
+      affiliation:
+        - ref: cam
+    - name: Jennifer Gabrys
+      orcid: 0000-0001-5545-2459
+      affiliation:
+        - ref: cam
+    - name: Sara Hennessy
+      orcid: 0000-0002-9050-4995
+      affiliation:
+        - ref: cam
+    - name: Ben Jarman
+      orcid: 0000-0003-3527-5437
+      affiliation:
+        - ref: cam
+    - name: Kiera McNeice
+      orcid: 0000-0003-2839-4067
+      affiliation:
+        - ref: cam
+    - name: Curtis Sharma
+      orcid: 0000-0002-3375-0604
+      affiliation:
+        - ref: cam
+
+date: 2022-12-20
+title: Voice, Representation, Relationships
+subtitle: Report of the Open Qualitative Research Working Group
+keywords:  
+  - open data
+  - open research
+  - qualitative research
+lang: en-GB
+doi: 10.17863/CAM.91979
+url: https://www.repository.cam.ac.uk/handle/1810/344820
+title-block-banner: true
+copyright: "© University of Cambridge, 2022"
+license: CC-BY-ND 2.0
+categories: report
+bibliography: westburyVoiceRepresentationRelationships2022.bib
+draft: false # remove after finishing.
+format-links: false
+
+citation:
+  id: westburyVoiceRepresentationRelationships2022
+  abstract: >
+    There is strong support for the open research agenda among qualitative researchers. This report broadly defines qualitative research as the exploration of communities’ and individuals’ perspectives and lived experiences and how people meaningfully construct and negotiate social worlds in specific contexts. Such research typically involves natural-language descriptions, rather than numerical measurements. However, University advocates of open research and funders’ open research policies tend to frame key tenets and desired outcomes in terms of the priorities, methodological approaches and quality markers of STEMM fields and the quantitative social sciences. Qualitative research is heterogeneous, and STEMM-oriented open-data policies can be at odds with qualitative researchers’ values. Instead of building trust and transparency into the research process, such policies can undermine or inhibit collaboration and engagement that are crucial for ongoing qualitative work. Nevertheless, many qualitative researchers – and we as a working group – feel that open research presents huge opportunities for innovation in our fields and, therefore, hope to make discussions about open research at Cambridge University more inclusive of qualitative researchers’ viewpoints. This report includes a number of concrete recommendations that respond to the dialogic, emergent, abundant and relational aspects of qualitative research by proposing context-specific guidelines, infrastructures and training resources.
+  author:
+    - family: Westbury
+      given: Margaret
+      orcid: 0000-0001-7443-7959
+    - family: Candea
+      given: Mathieu
+      orcid: 0000-0001-7260-4194
+    - family: Gabrys
+      given: Jennifer
+      orcid: 0000-0001-5545-2459
+    - family: Hennessy
+      given: Sara
+      orcid: 0000-0002-9050-4995
+    - family: Jarman
+      given: Ben
+      orcid: 0000-0003-3527-5437
+    - family: McNeice
+      given: Kiera
+      orcid: 0000-0003-2839-4067
+    - family: Sharma
+      given: Curtis
+      orcid: 0000-0002-3375-0604
+  contributor:
+    - literal: Apollo - University Of Cambridge Repository
+  DOI: 10.17863/CAM.91979
+  issued: 2022-12-20
+  publisher: Apollo - University of Cambridge Repository
+  source: DOI.org (Datacite)
+  title: "Voice, representation, relationships: Report of the Open Qualitative Research Working Group"
+  title-short: Voice, Representation, Relationships
+  type: report
+  URL: https://www.repository.cam.ac.uk/handle/1810/344820
+---
+
+# Availability
+
+Report of a working group on Open Research in the qualitative social sciences. Available from <https://www.repository.cam.ac.uk/handle/1810/344820>.

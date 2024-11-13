@@ -1,0 +1,67 @@
+---
+abstract: >
+  Slides and reference list reflecting on the Open Research, Open Data and Open Access agendas; describing ethical and methodological issues raised by these when applied to qualitative data; and identifying how these concerns may be particularly relevant when considering qualitative data gathered through studies of prison(er)s.
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    orcid: 0000-0003-3527-5437
+title: Open Data and sensitive interviews
+subtitle: Reflecting on ethics, consent, and reproducibility
+funding:
+  statement: "The author received funding for this research via an UKRI PhD studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
+keywords:  
+  - data sharing
+  - research ethics
+  - open research
+  - qualitative research
+  - prison research
+  - confidentiality
+lang: en-GB
+date: 2020-12-03
+doi: 10.17863/CAM.62157
+url: https://www.repository.cam.ac.uk/handle/1810/315050
+license: CC-BY-NC-SA 4.0
+strip-comments: true
+copyright: © Ben Jarman, 2020
+toc: false
+categories: presentation
+description: Slides and reference list for a seminar.
+format-links: false
+draft: false
+bibliography: jarmanOpenDataSensitive2020.bib
+
+citation:
+  id: jarmanOpenDataSensitive2020
+  abstract: >
+    This presentation reflects on qualitative research and the Open Research, Open Data and Open Access agendas. It describes ethical and methodological issues raised by these when applied to qualitative data, and identifies how these concerns may be particularly relevant when considering qualitative data gathered through studies of prison(er)s.
+  author:
+    - family: Jarman
+      given: Ben
+      orcid: 0000-0003-3527-5437
+  DOI: 10.17863/CAM.62157
+  event-place: University of Cambridge Institute of Criminology
+  event-title: Brown Bag seminar
+  genre: Seminar
+  issued: 2020-12-03
+  license: CC-BY-NC-SA 4.0
+  publisher: Apollo - University of Cambridge Repository
+  publisher-place: University of Cambridge Institute of Criminology
+  title: 'Open Data and sensitive interviews: Reflecting on ethics, consent, and reproducibility'
+  title-short: Open Data and sensitive interviews
+  type: speech
+  URL: https://www.repository.cam.ac.uk/handle/1810/315050
+---

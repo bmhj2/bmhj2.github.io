@@ -33,7 +33,7 @@ author:
 title: Getting what we deserve?
 subtitle: Imprisonment and the challenge of doing justice
 funding:
-  statement: "The author received funding for this research via an ESRC Knowledge Exchange PhD Studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
+  statement: "The author received funding for this research via an UKRI PhD studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
 keywords:  
   - long-term-imprisonment
   - punishment
@@ -41,12 +41,12 @@ keywords:
   - 2019 london bridge attack
 lang: en-GB
 date: 2024-07-27
-date-modified: last-modified
+description: Keynote lecture delivered at the 2024 annual meeting of British Quakers. 
+
 url: https://www.youtube.com/watch?v=vwqolkC0nnc
 title-block-banner: true
-copyright:
-  holder: Ben Jarman
-  year: 2024
+copyright: "© Ben Jarman, 2024"
+license: CC-BY-NC-SA 4.0
 toc: true # Will depend on whether it's a full text or a summary.
 categories: lecture
 # description: 
@@ -54,21 +54,6 @@ categories: lecture
 bibliography: jarmanGettingWhatWe2024.bib
 csl: cambridge-university-press-author-date.csl
 draft: true # remove after finishing.
-formats:
-  html: default
-  docx:
-    reference-doc: '/_assets/phd-reference.docx'
-  typst: 
-    toc: true
-    toc-depth: 2
-    toc-title: Contents
-    number-sections: true
-    papersize: a4
-    margin: 
-      x: 1in
-      y: 1in
-    columns: 2
-    fontsize: 12pt
 
 citation:
   id: jarmanGettingWhatWe2024
@@ -96,7 +81,7 @@ This was the text of a keynote lecture given in July 2024 to the annual meeting 
 
 ***
 
-## Introduction
+# Introduction
 
 Friends, today I’m going to discuss some big ideas: justice, punishment, rehabilitation, belonging, and what the American prison chaplain and sociologist Reuben Miller calls “the gift of proximity”.
 
@@ -106,7 +91,7 @@ I want to share how the gift of proximity has changed what I know—making it mo
 
 And I want to invite you to think about how you—how we, as Quakers—might also try to get close, to the system which acts on our behalf to respond to crimes. I also need to warn you, at the start, that some of what I will say may feel quite heavy.
 
-## Three friends
+# Three friends
 
 Let me introduce you to three friends of mine. They were all released from prison in the past ten years, after serving long sentences for violent crimes. They received valuable help in prison, to address the harmful behaviours which put them there. None of them has gone back. None of them uses violence any more. “No more victims”, as the saying goes. In one sense, they represent success stories.
 
@@ -136,7 +121,7 @@ In all three cases, perhaps we can say that people ‘got what they deserved’:
 
 But I want to suggest this evening that this isn’t the full story.
 
-## Getting what we deserve?
+# Getting what we deserve?
 
 One reason is that not everyone receives the benefits of therapy while they are in prison.
 
@@ -154,7 +139,7 @@ So this evening, I am going to try to point to a deeper story. It’s a story ab
 
 Whether prisons are punitive or rehabilitative, whether they function well or badly, whether they are English or Norwegian, and however well they protect the public—whatever you think of them, basically—they consistently do one thing: they divide people who belong from people who don’t. They enforce division. ‘We’, who are good, respond to actions by ‘them’, who are bad. The response is to create a separate world, *in there*, where *people like them* belong; *out here* is where *people like us* belong. To get back out here, they have to earn their redemption by conforming with our standards.
 
-## Quakerism and penal reform
+# Quakerism and penal reform
 
 Shortly, I’m going to invite you to zoom in with me, and consider this big picture from close up. But beforehand, let’s ask how Quaker history might inform our approach to these issues of belonging.[^2]
 
@@ -174,7 +159,7 @@ Second: there has never been a ‘natural’, settled Quaker position regarding 
 
 With that said, I’m going to move from the big picture, to describing things I’ve seen very close up. I’m going to consider what serious cases look like, not when you read about them in the news or consider them as a policy question, but when you’re *involved*.
 
-## Fishmongers Hall
+# Fishmongers Hall
 
 When I described George, at the start, I left things hanging. I said:
 
@@ -202,7 +187,7 @@ This is why proximity is a gift, and a privilege. It’s not always a comfortabl
 
 One thing I can say, coming from my proximity to this abhorrent act of violence, is that my attitudes have shifted. I don’t think we can understand ‘serious cases’ without taking seriously—and by this I mean, not dismissing or tidying away—the difficult emotions which underlie the urge to punish.
 
-## Punishment
+# Punishment
 
 ‘Punishment’.
 
@@ -308,7 +293,7 @@ I’m saying that these concepts—risk, and punishment, and rehabilitation—ar
 
 I’d like us to shift our language, to understand that these words are no more than a starting point. I want to highlight a word you might have noticed me using a few times this evening: ‘belonging’.
 
-## Belonging
+# Belonging
 
 I don’t know why Usman Khan did what he did, and I don’t like to speculate.
 
@@ -368,7 +353,7 @@ Later, I chatted with John. He mentioned that he knew Callum from church. “Uh-
 
 Some of my sniffiness about Callum dissolved, right there and then. My theological tastes, my preference for shades of grey over certainties, and my squirming awkwardness at getting embroiled in an embarrassing conversation on a nice day out—all of this suddenly felt less important. I could see that John belonged somewhere, and I knew from the way he talked about it that this would make a difference.
 
-## What can we do to get close?
+# What can we do to get close?
 
 I want to finish with a few more practical thoughts, to bring us back into the real world. I want to say more about how to get close.
 

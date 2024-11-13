@@ -1,0 +1,206 @@
+---
+abstract: >
+  This paper examines ethical thinking and adaptation among men serving life sentences for murder in England and Wales, drawing on in-depth interviews with 66 prisoners across three institutions. Through the lens of anthropological approaches to ethics, it analyses how age at conviction and offense circumstances shape prisoners' moral reasoning and adaptation to imprisonment. The study finds that adaptation patterns vary significantly by life stage: younger prisoners tend to frame their imprisonment as preparation for a different future, while those convicted in middle age focus on maintaining health and simple pleasures, and older prisoners derive meaning primarily from past experiences. The paper also explores how different offence circumstances affect prisoners' moral self-understanding, identifying a distinction between "washable" and "indelible" moral stains. Finally, it critically examines how risk assessment frameworks can undermine the morally communicative functions of punishment, particularly for prisoners who engage honestly with their offending behaviour. The findings suggest that current frameworks for understanding prison adaptation require greater nuance, especially regarding how risk management practices may impede genuine accountability and moral development. This research contributes to debates about the purpose and effectiveness of life sentences while highlighting the complex relationship between punishment, risk, and moral communication in long-term imprisonment.
+
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    attributes:
+      corresponding: true
+    orcid: 0000-0003-3527-5437
+    affiliation:
+      - ref: cam
+
+title: Penal theory, personal ethics and the life sentence in empirical perspective
+funding:
+  statement: "The author received funding for this research via an UKRI PhD studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
+keywords:  
+  - life imprisonment
+  - england and wales
+  - penal theory
+  - moral communication
+  - risk assessment
+  - retributivism
+lang: en-GB
+date: 2021-04-14
+doi: 10.17863/CAM.69984
+url: https://www.repository.cam.ac.uk/handle/1810/322528
+license: All rights reserved.
+copyright: © Ben Jarman, 2021
+strip-comments: true
+toc: true
+categories: lecture
+description: Invited paper given online, in the University of Hull's Criminology Rising Star series.
+format-links: true
+draft: false
+bibliography: jarmanPenalTheoryPersonal2021.bib
+
+citation:
+  id: jarmanPenalTheoryPersonal2021
+  abstract: >
+    This paper examines ethical thinking and adaptation among men serving life sentences for murder in England and Wales, drawing on in-depth interviews with 66 prisoners across three institutions. Through the lens of anthropological approaches to ethics, it analyses how age at conviction and offense circumstances shape prisoners' moral reasoning and adaptation to imprisonment. The study finds that adaptation patterns vary significantly by life stage: younger prisoners tend to frame their imprisonment as preparation for a different future, while those convicted in middle age focus on maintaining health and simple pleasures, and older prisoners derive meaning primarily from past experiences. The paper also explores how different offence circumstances affect prisoners' moral self-understanding, identifying a distinction between "washable" and "indelible" moral stains. Finally, it critically examines how risk assessment frameworks can undermine the morally communicative function of punishment, particularly for prisoners who engage honestly with their offending behaviour. The findings suggest that current frameworks for understanding prison adaptation require greater nuance, especially regarding how risk management practices may impede genuine accountability and moral development. This research contributes to debates about the purpose and effectiveness of life sentences while highlighting the complex relationship between punishment, risk, and moral communication in long-term imprisonment.
+  author:
+    - family: Jarman
+      given: Ben
+      orcid: 0000-0003-3527-5437
+  DOI: 10.17863/CAM.69984
+  event-place: Online
+  event-title: Hull Criminology Rising Star series
+  genre: Webinar
+  issued: 2021-04-14
+  language: en-GB
+  license: All rights reserved
+  publisher-place: Online
+  title: Penal theory, personal ethics and the life sentence in empirical perspective
+  type: speech
+  URL: https://www.repository.cam.ac.uk/handle/1810/322528
+---
+
+::: {.callout-tip}
+This is the text of a lecture. Accompanying slides will add useful context and are available from <https://www.repository.cam.ac.uk/handle/1810/322528>.
+:::
+
+# Introduction
+
+Recent years have seen a lot of academic work on life imprisonment. As the movement to abolish capital punishment has achieved its goal in more and more countries, life sentences have replaced it as the ultimate sanction, growing in scale as a result.
+
+Global comparative research by @vanzylsmitLifeImprisonmentGlobal2019 estimates that around 479,000 people were serving life sentences globally in 2014---though missing data mean this figure is likely to be a significant underestimate.
+
+As life imprisonment has grown, a normative and rights-based critique has grown with it. Definitions are important, because the sanction takes different forms, and does not always involve irreducible or life-without-parole sentences. @vanzylsmitLifeImprisonmentGlobal2019 [p. 8] adopt the definition: "A sentence following a criminal conviction, which gives the state the power to detain a person in prison for life, that is, until they die there." The emphasis here is on the power---even if someone has been released, they can be recalled to prison.
+
+In England and Wales, the lifer population under this definition grew substantially in recent years, driven partly by the now-abolished imprisonment for public protection sentence. Currently, those serving life sentences make up around 16% of the sentenced prison population, as against 7% in 2002 @prisonreformtrustBromleyBriefingsPrison2021 [pp. 29-30]. Although the abolition of the IPP sentence has caused the number of new life sentences to fall away somewhat, recall rates may be growing, especially among people on IPP sentences.
+
+Recall rates and growing minimum terms (also known as 'tariffs') mean that this proportion will continue to grow in years to come, both as an absolute number and as a proportion of the total. All of this makes the UK as a whole an outlier internationally. The jurisdictions of the UK, combined with Turkey, imprison 66% of the total life-sentenced prison population in Europe. In 2018, the UK imprisoned more lifers, as a proportion of the sentenced population, than even the USA [@prisonreformtrustBromleyBriefingsPrison2018, p. 6].
+
+# Causes
+
+What's causing this? It is partly but not wholly about punitiveness, if we take 'tariffs' as an index of punitiveness. Tariffs *have* grown, and often reflect public anger and disgust concerning what are often serious offences. But much of the normative critique of life sentences---both from scholars and in the jurisprudence of the European Court of Human Rights---focuses less on the punitivism of long tariffs, but instead on the notion of a 'right to hope': the idea that lifers must be given some realistic prospect of progressing towards release, along a clear and intelligible pathway. In fact, many lifers are in prison *after* the tariff: in other words, they are imprisoned rests on the legal basis not that they are being punished, but that releasing them is deemed too risky.
+
+This graph shows some of those numbers. It breaks down the over-tariff population by its original tariff length (shown in blue, orange and grey) and the number of years over tariff (each column shows the of people in a given year interval). These people make up around a quarter of the life-sentenced population and therefore around 4% of the sentenced prison population. As you can see, some are a very long way over tariff. Remember that these are people who are in prison because their release is seen as too risky. There are debates on risk assessment which I can't get into here, but it's worth pointing out parole boards assess release decisions not just on the basis of risk but also on the robustness of the release plan. Release plans are more complicated for someone in old age who has care needs, for example. And risk can also seem more present where an individual doesn't have a strong relationship with their supervisor. The point is that these over-tariff figures reflect both the risk an individual poses, *and also* the state's capacity to follow through on the claim to reduce and manage risk---or to uphold the 'right to hope'.
+
+# Recent research
+
+Alongside the normative critiques and jurisdictional comparisons, we have also seen a recent growth of empirical studies of life sentences seen from within the prison. This quote comes from a 2015 review article by @kazemianImperativeInclusionLong2015 [pp. 355-376]. There is still not much longitudinal research (though some colleagues in Cambridge were due to begin work on some when the pandemic hit). But taken together, the research we have suggests three main conclusions.
+
+First, there appears to be a fairly consistent adaptation process to life imprisonment, theorised in most detail by my colleagues Ben Crewe, Susie Hulley and Serena Wright. Their study is based on a very substantial sample but one composed solely of people given life sentences when aged under 25. I'll say more about that later. This study describes its subjects beginning the sentence in a kind of grief for the lives they have lost through their conviction, and finding it practically impossible to seriously confront the realities of their situation. Many engage in distinctive (and sometimes very harmful) behaviour they associate with emotions they can't manage and experiences they can't make sense of. Gradually, however, a new reality is recognised: life can only be lived in prison. They make moral reckonings with themselves, relinquish unresolvable feelings about a life they can't retrieve, turn their focus to reimagining the future, and glean what they can from the sentence, albeit not without pain and difficulty. As I said, this is the most substantial mapping out of adaptation I'm aware of, but its description resonates with other work:
+
+-   the adoption of routines and practices offering 'a modicum of control' and allowing lifers 'to fashion a life at least partly on their own terms' [@johnsonMatureCopingLifeSentenced2005, p. 9]
+
+-   Moral 'self-inventories' adding up to a process of 'awakening' [@irwinLifersSeekingRedemption2009, p. 66]
+
+-   'Epiphanies' experienced during prison [@liemLifeImprisonmentReentry2016, p. 99-103]
+
+-   'Maturation' and the 'recognition of interdependency' [@herbertTooEasyKeep2019, p. 28]
+
+-   'Adversarial growth' [@kazemianPositiveGrowthRedemption2019, p. 92-104]
+
+These changes happen at different times for different people [@irwinLifersSeekingRedemption2009, p. 66]---that's something I will say more about---but the process itself, and the need to adapt, seems near-irresistible: even those who maintain innocence often find that 'sentiments of bitterness and desperation' [@creweSwimmingTideAdapting2017, p. 538] are just not compatible with their psychological wellbeing.
+
+Second, there's general agreement that once they have adapted to the sentence, most lifers and long-termers are compliant and 'easy to keep', as Steve @herbertTooEasyKeep2019 puts it. That is, in prison they're self-controlled, they keep their distance from others, they avoid influences that they think will harm their chances of progression, and they often want quite different lives after they are released to what they had before. Some of this must have to do with the carrot of release dangling in front of them, but these changes have also been noted among many life-without-parole prisoners, so it's probably also maturation and people just wanting a quiet, liveable life, as far as that's possible in prison [@appletonLifeLifeImprisonment2010; @cunninghamNothingLoseComparative2006; @johnsonMatureCopingLifeSentenced2005; @liemLifeImprisonmentReentry2016; @schinkelPunishmentMoralCommunication2014; @sorensenNothingLoseExamination2019].
+
+Third, many recent studies chart the development of quite an introspective subjectivity among lifers and long-termers: when past sources of identity and meaning are removed, this can lead to quite a profound confrontation with the self, because for many a lot of what made life worth living has been removed, and something new and often much simpler needs to be found in their place. It's really striking how many descriptions [@crewePrisonReinventiveInstitution2019; @irwinLifersSeekingRedemption2009; @liemLifeImprisonmentReentry2016; @odonnellPrisonersSolitudeTime2014; @schinkelBeingImprisonedPunishment2014; @williamsFindingFreedomRethinking2018] of life and long-term imprisonment focus on having *a lot* of time to think, something which can be experienced as a threat at first, but with some redefinition can come to feel freeing and comforting. One can only imagine how the challenges prisoners have faced in this regard have changed during the last year of effective solitary confinement because of the pandemic. But in more normal times, the routines of life in long-term prisons feature regular immersion in a complicated, information-rich and sometimes hazardous social environment, followed by regular periods of solitude. But it also seems to have something to do with feelings of responsibility for a serious offence, and with the feeling that, as one member of my sample (Rafiq) put it, 'no one invited me here'. This focus on solitude and interiority and introspection and reflexivity is vaguer and less clearly described in the literature, and in truth it's probably highly individual, but it raises many of the questions I'm going to talk about today: if it's so clear that people think a lot, what do they think *about*, and how do they make sense of *their particular circumstances*?
+
+# The research
+
+So... this led me to the following research questions.
+
+Before I sketch out some answers, let me briefly describe the research itself. First, the sample: 66 men residing in three prisons (a pilot study in 2017 and two further sites in 2019 and early 2020). They were sampled purposively to give a wide spread of sentence stages---sentence stage has been shown to shape the kinds of things prisoners think about. But the sample was also constructed to give a wide spread of *ages* at conviction---the aim here being to enable comparisons between people whose sentences affected their life courses in different ways, potentially changing the kinds of futures they might envisage for themselves. Finally, I wanted a wide range of tariffs and offence circumstances: murder is an extremely broad legal category in English law. The evidential standard for the offence does not require an intent to kill, and the weighty label of 'murder' is attached to actions carried out in a very wide range of circumstances, from premeditated killings to so-called 'one-punch' fights, and even cases of euthanasia. Here again, I wanted qualitative variety in the sample, and sampling people with different tariff lengths served as a proxy for 'moral seriousness' and culpability of the offence, since this how sentencing judges differentiate 'seriousness'. I interviewed these 66 men at length, covering a range of topics, and for 44 who consented to it, I also reviewed and made notes on certain documents in their prison files so that I could compare their view of themselves with the official view of them.
+
+What do I mean when I talk about prisoners' *ethics*? My pilot study tried desistance theory as a way of thinking about lifers and their development. But desistance research is about how people *move away* from crime and criminal identity, and emphasises cognitive transformations about who they are and what life they want. If you have a life sentence then formally, at least, you *don't* move away from a criminal identity, because that is lifelong and communicated to you through state institutions, however you might feel about it. The nature of murder---even though it's a very serious offence generating very severe punishments---is that often the person convicted has no previous convictions, sometimes does not recognise the offence as continuous with their other past behaviour, and struggles to think of themselves as 'criminal'. Yet the reality they have to contend with is that even if they are released, they will have lost years of opportunities and will have to live with significant constraints on their liberty, all backed by the threat of recall to prison. A life sentence is a life-changing event, altering your sense of yourself very profoundly.
+
+So instead I've turned to recent work in the anthropology of ethics, and without getting very technical, I want to mention and highlight its very useful conceptualisations of concepts such as freedom, morality, and ethics itself. I can try and answer questions on this at the end if you've got them, but for now I want to make two things very clear. First, echoing the anthropologist James @laidlawSubjectVirtueAnthropology2013: I am *not* making evaluative claims that people are *good*, but descriptive claims that they are evaluative. They're human beings, they think about themselves and their situation, try to understand the constraints on them, and make use of whatever freedoms they have---which might be no greater than thinking differently. Second, I want to be very clear that the 'ethics' here does not *necessarily* involve people being 'pro-social': at its most basic, ethics involves projects of care for the self (and perhaps also care of others) aiming at some conception of 'the good'. But the 'good' it's aiming for is still based on value judgements, and still contestable. So true to the anthropological roots of this material there's a bit of an implicit cultural relativism here, but it's really helpful in making sense of the interviews, and so I'm willing to make that bargain.
+
+# Findings
+
+In describing my findings, I'm going to cover three things: the sentence and the life course; the offence and the moral messages it communicates; and some concluding reflections.
+
+So I mentioned before the theoretical model we have of adaptation to a long sentence. This slide is intended to schematise that process as a series of questions someone might put to themselves. <!-- [spell out] -->
+
+## The life course
+
+I want now to sketch out a few brief descriptions of individuals who were at different points in the life course. I invite you to think about how the answers to these questions might differ for each person I describe.
+
+1.  Timothy---also sentenced in mid-teens but given an exceptionally long tariff getting on for twice his age at conviction. Currently in the early sentence stages, struggling with a very high risk classification, which significantly constrains his life in prison and his contact with family. Angry about everything.
+
+2.  Simeon---convicted in his mid-teens and given a tariff equivalent to about 80% of his age at the time. Progressed well, now nearly at the parole eligibility date, but has had a big setback after being caught with contraband, and he's back in a higher-security prison.
+
+3.  Leon---convicted in mid-twenties, and given a tariff longer than his age at the time. Now about halfway through. Has passed recommended offending behaviour courses with flying colours. Now wants to use the remaining half of the sentence to explore his educational potential and his creative and spiritual interests.
+
+4.  Emlyn---convicted in mid-forties. Given tariff equivalent to roughly a fifth of his age at the time. But has served more than twice that. Sees his conviction as the result of an elaborate establishment conspiracy. Now in an open prison; frail, elderly and suspicious about staff, and with complex care needs which complicate planning for his release.
+
+5.  Matt---convicted around age 50. Given another exceptionally long tariff taking him into his 80s. Admits the offence, thinks it was justified, and says he's happy to take his punishment. Also says he's enjoying his sentence, which he compares to 'early retirement'. Unsure if he will live to be released.
+
+I think two things should be clear from even these few examples:
+
+-   first, that the stages of the adaptation process may vary depending on the age of the person---for example, for Matt there's no distress even though he's in the very early sentence stages
+
+-   second, by paying attention to what we might call people's custodial careers, and to their changing ethical beliefs, we might see them adapting more than once to different demands: it's not a one-off
+
+For example, Emlyn and Simeon both had major setbacks during their sentence, which would have redrawn their expectations for the future, and their feelings about whether they were who they needed to be.
+
+Taking a step back and making comparisons of whole groups, a number of wider patterns in the sample become clear.
+
+People convicted when they are younger are generally much more inclined to root their ethics in a sense of becoming something else in future: they think there is a worthwhile life out there for them, they want to live it, and their time in prison, if used well, will help them prepare. I'll say more later about what they think about offence-focused and risk-focused work, but the goals they described were pretty conventional: what most say they want is to work hard and have families---as this quote from Davidas suggests.
+
+What they want from the future is evident in the way they talk about prison social life: these men mostly know they lack formal qualifications, and in this quote Regis says he values his work for the fact that it develops his softer social skills, too.
+
+Meanwhile, Ebo (and many others) criticise the emphasis in prison workshops: as he says, what are you learning from that? I've been here six, seven years, and I've learnt nothing.
+
+There were some men who had been convicted younger---particularly those with overwhelmingly long tariffs, or who were over tariff---who were less invested in the idea that the sentence was giving them skills for the future, but by and large this idea held for most of those convicted young.
+
+We get a bit of a different picture from men convicted in mature adulthood. Generally their tariffs meant they might first be considered for parole not long before the state pension age. Nearly all had children already---many admitted to missing them badly---and most saw their likely post-prison destinations as low-income, precarious work (Gary). They were less sold on the idea that prison would prepare them for a better future, and common themes were staying as healthy as possible (as Leon suggests here), strategising how and where they might spend the remainder of the sentence, and---this was a really common theme---anticipating simple pleasures they couldn't enjoy in prison. Many wanted to care for elderly parents and repay their loyalty. Many said they wanted to be outdoors and spend time in nature (I heard more than one detailed description of planned fishing and camping trips). And as Leon says here in this second quote, if your goals are quite simple like this, then there isn't much to prepare for.
+
+But another man, William, shows something very important that applies to everyone, regardless of age: imagining ethical goals, whether relaxed or ambitious, is largely dependent on reflexive space, and that comes from a basic level of ontological security *in prison*. William was indebted to drug dealers on a very rough prison wing. His family was not uniformly sympathetic and he wasn't sure he could trust staff to keep him safe from creditors. When I met him he said he was really struggling to make the sentence meaningful, and that comes through in this quote.
+
+Finally, what of those sentenced when they were older? Here, the idea that adaptation involves reframing a different kind of future really breaks down. It seemed to me instead that these men derived their ethical self-image entirely from the past. They all had adult children, most had significant educational and career achievements, and they didn't anticipate picking these up again after the sentence---if there [was]{.underline} an 'after the sentence'. Their lives before prison were not something irrelevant to leave behind and relinquish, but a well of experience useful for prison life. Matt, who I said described the sentence as being like 'early retirement', makes this point when comparing his attitude to the anger and dismay of younger men. Alf---the oldest man in the sample---says his prison time is helping him prepare for the future only in that it offers free gym membership. These men did not emphasise what they would become, but who they were. This is not to say they were always positive about themselves---John, for example, described how his adult children wanted nothing to do with him, and said this had led to the conclusion that he was a worse man than his father. But they used time in prison to reflect on and understand the lives they had already had, rather than imagining and preparing for new ones that they expected to have in the future.
+
+## The nature of the offence
+
+So that's the life course. I also said I'd talk about how the offence itself features in lifers' ethical lives. Most of what I've got to say here is based on the pilot study @jarmanOnlyOneWay2020 and I'm now only just revisiting this issue based on the PhD data, so what I've got to say here is more tentative than what I've said already about the life course. But I think the sample divides between people convicted of murder in different circumstances, and I think that divide has to do with the way in which particular convictions are experienced as particularly 'staining' [to borrow a concept from my colleague Alice @ievinsAdaptationMoralCommunity2017, p. 114]. 'Stain' describes the extent to which prisoners feel morally and psychologically contaminated, and draws our attention to the ways in which imprisonment communicates a deliberate moral rejection of the prisoner by the wider community. I think if the men I interviewed felt 'stained' by their offences and their imprisonment, it's also the case that some felt more indelibly stained than others.
+
+Those with what we could call 'washable' stain generally characterised the offence as a mistake, or as the result of bad influence or bad judgment. This made it something one could *learn* from. People convicted of such offences generally explained the circumstances of their lives at the time: the conflicts involved, the divided loyalties, impulsive decisions to follow what with hindsight was the wrong path, a sense of fate. The implication was this: "anyone, given those circumstances, could have done what I did". This is basically a sociological explanation, and it implied that efforts at ethical change meant learning to avoid, resist or battle against one's surroundings. That's not *easy* in prison, but it is *feasible,* and can be meaningful.
+
+This first quote from Regis is quite a good example. The ethical significance belongs to Regis's lifestyle and his wrongly-ordered priorities, not on the sequence of events involved in the offence itself. Regis's violence had been planned and part of a longer conflict with someone else, not situational and uncontrollable. His wider lifestyle, not the propensity to violence itself, was what he wanted to account for. Men like him were not always positive about rehabilitative provision but they accepted the general need to demonstrate change, and they took what they could: in this second quote Andy is scathing about some of his offending behaviour courses, but where the course fits patterns he recognises in his own life, he 'won't disrespect' it. Ethically, Regis and Andy worked on their relationship with their surroundings. They saw bad influences in prison as a threat to them acquiring self-control and autonomy. If they were preoccupied by finding deeper psychological narratives to account for their violence, they didn't say so in the interview.
+
+By contrast, these deeper psychological narratives were much more noticeable among men who felt more indelibly 'stained' by their offence. The factors on the right suggested faults deeper within the self. Working up the from the bottom, unprovoked and uncontrolled violence raised the troubling possibility of a recurrence. Knowing the victim made it harder to compartmentalise and isolate the offence and prompted grief that wouldn't elicit much sympathy in others. A vulnerable victim (especially if female) removed the legitimating tropes of violence between men who knew what they were getting into. Sexual motives and offences involving children---as victims or witnesses---were deeply discrediting. What these offences had in common was the absence of wider cultural narratives---as opposed to psychological narratives---within which they make sense. As a result, they were not simply experienced as blameworthy, but instead shameful.
+
+Gary's words in this quote give some impression of the alienation from self that these kinds of offences could lead to, and though he was unusual both in using the term evil about himself, and in describing himself as a 'murderer', it seemed to me he was expressing fear, not pride, when he did this. This group was also more likely to have participated in high-intensity interventions such as long-term therapy, and their accounts of the offence were much more like this one from Nicholas: very preoccupied with early life, psychological development and trauma, and very publicly identified with the wrongs they had done. These men were more likely to identify with the idea that they were lastingly risky and in doing so they disclosed more of themselves, including sometimes disclosing additional offences they had not been convicted of. But these disclosures often carried lasting consequences, reproducing a classification as 'dangerous', as this quote from Derek suggests. He said that what he disclosed on a course had become the subject of gossip among other prisoners, following him around the system and leading to new accusations in new prisons which, his files suggested, had added to concerns about the risks involved in his release. He was in prison more than twenty years over tariff, and had been in prison since I was a toddler.
+
+This is an example of prisoners policing the behaviour of peers they believe to be sex offenders, echoing the findings of Alice @ievinsPerfectlyIndividualizedConstantly2020 [p. 6]. It shows how risk classification can signal an individual's in-prison conduct to be more blameable, altering their experience of punishment and not merely on the basis of the original offence. This chimes strongly with a recent paper by Robert @werthTheorizingPerformativeEffects2019 [p. 327], writing about his ethnographic research in a parole office in California. Werth theorises the effects of penal risk technologies, arguing that they "do not so much describe reality" as they "constitute, structure and alter what they appear to report on".
+
+# Discussion
+
+And so it's by talking about risk, and the moral message of risk, that I want to finish. Werth's argument is that risk assessments have ontological effects: they 'structure penality independent of beliefs'. He's talking about parole agents, and pointing to how working with someone who has been assessed as high risk---whether through actuarial methods or structured professional judgement---forces parole agents to make decisions defensible within the constraints of that classification. Moreover, Werth describes how parole agents do this even when they disagree completely that the individual in question is as risky as the assessment says. They fear the professional consequences of making the wrong decision and are conscious of managerial reviews of their work. Classification opens an individual's behaviour to be seen through the lens of risk: low, medium or high. Risk consequential not merely because staff act on it, but because of the reputation it creates---for example, it's hard to imagine Derek, who I described a short time ago, waking around the prison with a hand down his trousers, as many of the younger men in the prisons where I did the fieldwork did routinely, and having it overlooked by staff, as happened with them.
+
+The moral philosopher Antony @duffPunishmentCommunicationCommunity2003 [p. 27], a leading theorist of retributive punishment, reminds us that whatever else it is, punishment:
+
+> "is a conventional device for the expression of attitudes of resentment and indignation, and of judgments of disapproval and reprobation, on the part either of the punishing authority \[or of\] those 'in whose name' the punishment is inflicted"
+
+Duff argues that it's only morally justifiable to engage in this harmful practice on the basis of what the person being punished has actually done, not of what they might do. There has to be a link between the punishment and what they deserve. He also thinks, as this quote suggests, that the key function of punishment is to be morally communicative, and to in effect say to the offender that they have done something wrong---not merely done harm---and that they now have a corresponding obligation to put it right.
+
+To be fair, Duff doesn't think (any more than I do) that this is what happens in practice. But his account is valuable because it draws attention to what might be going wrong when Derek and others like him disclose things about themselves and then incur extended prison time as a result. Quite independently of any statistical risk they might be associated with, their disclosures make them seem more risky, in some cases leading to new recommendations being made for new interventions before it'll be safe to release them. No problem, surely, if it reduces risk? But Duff's argument is that if someone being punished has undergone a change of heart, then they're doing the morally 'right' thing---and punishing them further may not achieve its intended goals.
+
+Rationing rehabilitative intervention by risk---high risk, high intervention, and vice versa---is sensible from the point of view of efficiently allocating resources. But in some cases it leads to some dysfunctional incentives and some garbled moral messages.
+
+So I think there's enough here to suggest that we really have to complicate that picture of prison adaptation I described earlier. This is a paragraph from a Prison Reform Trust response to a Ministry of Justice consultation on increasing minimum terms ('tariffs') yet further. The MoJ had cited the CHW study I mentioned as evidence that longer sentences may actually be of benefit to prisoners. The @prisonreformtrustReleasePrisonersAlteration2019 [p. 5] described this representation of those findings as 'disingenuous' and 'a wilful misinterpretation', citing the harmfulness of long-term imprisonment.
+
+To that I want to suggest adding a critique of the moral communicativeness of the life sentence, where that is structured on risk. Just because someone is adapted to custody cannot be taken to mean that their punishment has 'worked' or even that the wrongs and harms done to victims or the public have been communicated very well. We need a more nuanced account of prison adaptation, because if we expect imprisonment to hold those convicted of the most serious crimes accountable, we can't be sure---at least on this evidence---that that's happening.
+
+# References
+
+:::{refs}
+:::

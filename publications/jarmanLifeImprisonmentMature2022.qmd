@@ -1,0 +1,270 @@
+---
+abstract: >
+  Recent theorisations of adaptation to life imprisonment emphasise the role of moral and biographical reflection by people in prison. Using an analysis of a subsample from a larger study in England and Wales, composed of men serving life sentences imposed after their fortieth birthdays, this article suggests that they adapted themselves to the prison regime both more quickly and more pragmatically than their younger counterparts. It describes how their accounts of the index offence, which were often justificatory and sometimes victim-blaming, had often gone unchallenged because they were a low a priority for intervention, and because they were less motivated by working towards an imagined better future. These findings add nuance to recent work in prison sociology of adaptation to very long sentences.
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    attributes:
+      corresponding: true
+    email: ben@benjarman.uk
+    orcid: 0000-0003-3527-5437
+    url: https://benjarman.uk
+    affiliation:
+      - ref: cam
+    acknowledgements: >
+      Thanks are due to Alice Ievins and Sophie Ellis, as well as to the editors for their comments on earlier drafts. Research this article was based on was supported by Economic & Social Research Council PhD studentship, grant reference number ESRC-2405252.
+
+bibliography: jarmanLifeImprisonmentMature2022.bib
+date: 2022-08-01
+categories:
+  - journal article
+keywords:
+- life imprisonment
+- moral reflection
+- ageing
+- mature adulthood
+- adaptation to imprisonment
+- life course
+- long-term imprisonment
+lang: en-GB
+strip-comments: true
+title: Life imprisonment in mature adulthood
+subtitle: Adaptation, risk, and reform later in the life course
+citeproc: true
+toc: true
+lot: true
+doi: 10.17863/CAM.87314
+url: https://www.crimeandjustice.org.uk/sites/crimeandjustice.org.uk/files/PSJ%20261%2C%20Mature%20adulthood.pdf
+license: CC-BY-ND-SA 4.0
+copyright: "© Ben Jarman, 2022"
+funding:
+  statement: "The author received funding for this research via an UKRI PhD studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
+draft: false
+description: >  
+  Peer-reviewed article for a special issue of the *Prison Service Journal* on life imprisonment.
+
+citation:
+  id: jarmanLifeImprisonmentMature2022
+  abstract: >
+    Recent theorisations of adaptation to life imprisonment emphasise the role of moral and biographical reflection by people in prison. Using an analysis of a subsample from a larger study in England and Wales, composed of men serving life sentences imposed after their fortieth birthdays, this article suggests that they adapted themselves to the prison regime both more quickly and more pragmatically than their younger counterparts. It describes how their accounts of the index offence, which were often justificatory and sometimes victim-blaming, had often gone unchallenged because they were a low priority for intervention, and less motivated by working towards an (imagined) better future. These findings add nuance to recent work in prison sociology of adaptation to very long sentences.
+  author:
+    - family: Jarman
+      given: Ben
+  container-title: Prison Service Journal
+  DOI: 10.17863/CAM.87314
+  ISSN: 0300-3558
+  issue: '261'
+  issued: 2022-08-01
+  language: en
+  license: All rights reserved
+  page: 33-38
+  publisher: HM Prison & Probation Service
+  title: >
+    Life imprisonment in mature adulthood: adaptation, risk, and reform later in the life course
+  title-short: Life imprisonment in mature adulthood
+  type: article-journal
+  URL: https://www.crimeandjustice.org.uk/sites/crimeandjustice.org.uk/files/PSJ%20261%2C%20Mature%20adulthood.pdf
+---
+
+<!-- 
+
+##### Author
+
+[Ben Jarman][ORCiD] Prisons Research Centre, University of Cambridge Institute of Criminology
+
+##### Word count
+
+4,419
+
+##### This version
+
+Author’s accepted manuscript (2022-02-08)
+
+##### Appearing in
+
+Forthcoming special issue of the Prison Service Journal (to appear by 2022-07-31, available at https://www.crimeandjustice.org.uk/publications/psj)
+
+##### Abstract
+
+Recent theorisations of adaptation to life imprisonment emphasise the role of moral and biographical reflection by people in prison. Using an analysis of a subsample from a larger study in England and Wales, composed of men serving life sentences imposed after their fortieth birthdays, this article suggests that they adapted themselves to the prison regime both more quickly and more pragmatically than their younger counterparts. It describes how their accounts of the index offence, which were often justificatory and sometimes victim-blaming, had often gone unchallenged because they were a low priority for intervention, and less motivated by working towards an (imagined) better future. These findings add nuance to recent work in prison sociology of adaptation to very long sentences.
+
+##### Keywords
+
+life imprisonment, moral reflection, ageing, mature adulthood, adaptation to imprisonment, life course
+
+::: {style=“page-break-after: always”} ::: -->
+
+# Introduction
+
+Recent research on life imprisonment has foregrounded prisoners’ reflections on the serious (usually violent) offences which generate this life-shattering sanction. These reflections, centred on how they understand their moral responsibility and come to terms with punishment, are shown to be central to coping; prisoners’ biographical sense-making shapes their psychological adaptations to imprisonment [@creweSwimmingTideAdapting2017; @irwinLifersSeekingRedemption2009; @kazemianPositiveGrowthRedemption2019; @schinkelAdaptationMeaningImprisonment2015]. There is now a clear theoretical portrayal of how adaptation develops over time, based on a sample of prisoners who were young adults when convicted [@creweLifeImprisonmentYoung2020]. Whether the same picture holds for those convicted when older is unclear, a theoretical gap that this paper seeks to fill.
+
+Existing research on older prisoners has tended not to focus specifically on lifers and has also explored a broad range of topics associated with ageing [@leigeyGrayPainsImprisonment2022], such as physical health problems [@hayesHealthSocialNeeds2012], an elevated risk of victimisation [@hayesPracticePolicyNeeds2011; @kerbsInmateoninmateVictimizationOlder2007], and mental health and emotional difficulties associated with the end of life [@adayOlderPrisonersExperiences2016; @turnerPalliativeCareUK2017]. Some studies have noted distinctive kinds of resilience among older people within this context, in the sense that life experience can help to navigate some aspects of imprisonment [@avieliSensePurposeOlder2021; @mannDoingHarderTime2011]; others have highlighted the unique experience of those convicted when already elderly, for whom the sentence can seem ‘catastrophic’, offering little but the pains of deprivation and the probability of death in prison [@crawleyThereLifeImprisonment2006]. Studies in this literature, however, tend to focus on people already at an advanced age when imprisoned, and shed little light on the experience of life sentences starting in what is known as ‘middle age’. The question of how prison adaptation might be distinctive for people convicted as mature adults, and ageing in prison, has not yet been answered empirically, particularly within the context of serving a life sentence.
+
+Drawing on interviews with men in three English prisons, this paper responds to this by describing the experiences and adaptive thinking of those sentenced to life imprisonment in mature adulthood. It suggests that men convicted at this point in the life course adapt to the prison regime quickly and pragmatically, compared to younger people described in previous research. However, the way in which they assume moral responsibility for their offences differs: their accounts of the index offence are often justificatory, sometimes victim-blaming, and seem to have gone unchallenged. They are also less motivated to imagine and work towards the future, and more inclined to ‘live in the past’.
+
+These findings add nuance to recent findings in prison sociology about adaptation to very long sentences. The paper concludes by identifying some implications for policy and practice relating to this population.
+
+# Details of the research
+
+Fieldwork was conducted in England between 2017 and early 2020. In total, sixty-six men serving mandatory life sentences[^9] participated in semi-structured interviews covering life before prison, events leading to the conviction, and prison experiences. Prison records were also consulted (with interviewees’ consent) to contextualise the interviews. A strong focus throughout the interviews was on participants’ ‘ethical lives’ [That is, their views on how they ought to live and who they ought to become, given the interplay of their own social position and their understanding of how they will be perceived by others. See @keaneEthicalLifeIts2016].[^10]
+
+This paper presents an analysis of fifteen of the sixty-six interviews, comprising a subsample of men who had been aged 40 or over when sentenced. Five were held in an open/resettlement prison, and the other ten were in two long-term category-B prisons. They were serving mandatory minimum sentences averaging 17.7 years (s.d. 6.0, ranging from eight to 30 years).
+
+Table 1 presents selected demographic data on the subsample, showing that each sentence stage band comprised approximately a fifth.[^11] All its members, except one, identified as White (and all but one of those as White British). Eleven were convicted of murder in their forties and fifties; the remaining four at sixty or over. These characteristics distinguish them from the more ethnically heterogeneous and younger samples reported in recent research on life imprisonment [@creweLifeImprisonmentYoung2020].
+
+       Sentence stage            Ethnicity        Age at conviction
+  ------------------------- -------------------- -------------------
+   **Very early** 20% (3)    **White** 93% (14)   **40-44** 13% (2)
+      **Early** 20% (3)       **Mixed** 7% (1)    **45-49** 33% (5)
+       **Mid** 27% (4)                            **50-54** 27% (4)
+      **Late** 20% (3)                              **55-59** ---
+   **Post-tariff** 13% (2)                        **60-64** 20% (3)
+                                                   **65+** 7% (1)
+
+Table 1: Demographics and sentence characteristics of the subsample (n=15)
+
+Around half had committed murder in the context of intimate relationships. None were convicted using the joint enterprise doctrine—this a striking departure from lifers convicted when young, of whom around half had convictions of this kind [@creweLifeImprisonmentYoung2020]. But they were heterogeneous in their educational and work backgrounds, with around half having been convicted following lengthy professional or business careers. All were fathers. Crucially, many struggled to think of themselves as ‘criminals’, despite their murder convictions.
+
+The following section describes their experiences of the early sentence stages, pointing to the rapid adjustment to the sentence most appeared to have undergone, and comments on the nature of their compliance with prison regimes. It then describes two contrasting attitudes evident among this group: first, to risk reduction, and second, more generally, to the idea that they could or should *change* or *reform themselves* in prison. The analysis sheds light on how moral and existential reflection play out for those with substantial experience of adult life before prison.
+
+# Findings
+
+## Rapid adjustment in the early sentence stages
+
+The six men in the ‘very early’ and ‘early’ stages of the sentence (four of whom were in prison for the first time) alluded to experiences of ‘entry shock’. However, they did so in terms suggesting neither the ‘catastrophic’ loss of selfhood evident among people sentenced when much older [@crawleyThereLifeImprisonment2006], nor the expressive, resistant, or dissociative behaviour characteristic of younger people experiencing grief for their extra-carceral lives during the early sentence stages.[^15] None described any involvement in violence in prison, whether it was acted out on the self or on others. Only one disclosed recent drug use.
+
+Their accounts of the legal process and of the conviction itself differed strikingly from the emphatic picture of ‘despair and disbelief’ and ‘temporary moral suspension’ found by @creweLifeImprisonmentYoung2020 among their younger sample. A few in the present subsample had pleaded guilty while most had gone to trial, but only one made a strong claim of innocence.[^17] In some cases, moral guilt ran deep, as Gary explained:[^18]
+
+> I hate myself for it. And [I] still think, ‘Hang me, or needle, or whatever they want to do’. Because I still feel they should have took my life because I took his life.
+
+Other self-evaluations were more qualified than this, but accepted that involvement in killing another person deserved punishment:
+
+> I honestly didn’t mean to do it, but you can’t say that, can you? I didn’t plan it, but he’s dead and I did it. I weren’t gonna waste a jury’s time. It’s taking the piss, isn’t it? Come on, you’ve taken someone’s life and you’re trying to get away with it? It’s not right. (Ron)[^19]
+>
+> It should have been manslaughter, but I’m not going to keep moaning about it. (Robert)
+
+The underlying sentiment in the last two quotes was widespread: the sentence was there to be got on with. If they complained, most did so about aspects of prison life, not the sentence itself. They apparently felt little of the despair and ‘temporal vertigo’ of younger lifers but were able to conceptualise what were still very long sentences by drawing on their own biographies [@creweLifeImprisonmentYoung2020]. They accepted their convictions, or at least were resigned to them. In this, they resembled Crewe’s [@crewePrisonerSocietyPower2009, p. 170] short- to medium-sentenced ‘pragmatists’, in that most appeared ‘not [to] dwell on their moral status or the legitimacy of their predicament’, but instead simply got on with the sentence.
+
+## Strategising progression
+
+Though many in the subsample had some difficult experiences in the early sentence stages (e.g. being robbed or bullied), they tended eventually to recognise that their non-involvement in prison subcultures could facilitate their progression (by minimising the trouble they might get into):
+
+> I never done drugs anyway, but I know people that are [and] they know I’m not interested so they won’t […] try and drag me into it. (Gary)
+
+They saw category-B prisons as tolerable if unpleasant environments, prizing their single cells, self-cook facilities, and relatively varied work opportunities. Dialling back their material desires, they reflected that they could be enduring worse hardships:
+
+> Me and my mate [were] sitting there laughing… How are these dickheads suffering? We’ve been in a couple of years, and we’re sorted! You know? Got everything we want. [These other fellas are] young, short-sighted idiots, you know? Haven’t got the life experience, haven’t got, you know, that attitude… (Matt)
+
+Several in the in long-term category-B prisons said they were consciously trying to delay ‘progressive’ moves:
+
+> A lot of us don’t actually want to do courses to get onto C-cat, we want to get D-cat. We are in no rush. We want to try and bypass the whole C-cat scenario. (Pete)
+
+Pete and others preferred to stay where they were for as long as possible, and one (Alan) who had earned his cat-C very early in the sentence said he was ‘livid’ about it. Confronting the offence and rehearsing a narrative of ‘change’ was not often a priority for those with years of their tariff left to serve. They felt little pressure to be more proactive. Category-B regimes afforded them (relatively) more comfortable accommodation and a more conducive regime than they anticipated in ‘chaotic’ (Pete) category-C prisons. Meanwhile, the same regimes *actively* *supported* their view of themselves as morally worthy agents, by requiring simply that they work (which they did willingly and often in coveted roles) and comply (which they did easily).
+
+## Defending moral status and questioning risk
+
+The men had contrasting attitudes to risk, change, and progression, falling into two broad ideal-type groups. These are summarised in Table 2 (below). Both groups brought their substantial life experience before prison into play when discussing how their conviction had affected their self-identity, but they emphasised different aspects of those experiences. One group, whose public attitude to the offence was broadly to minimise it as a ‘mistake’, highlighted aspects of their lives which were mostly irrelevant to their offending, but which suggested their ‘real’ moral status as good, if flawed, people. Another group, whose public attitude to the offence more openly dwelled on guilt, shame, regret, or remorse, pointed to patterns of behaviour in their past lives which, in their view, had eventually culminated in the offence. Both attitudes situated the speaker as a morally decent person, but they differed in how far they acknowledged the offence as morally relevant.
+
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                        Group 1 -- 'the mistaken'                                    Group 2 -- 'the remorseful'
+  ---------------------------------- --------------------------------------------------------------- ------------------------------------------------------------
+  Explanation of the offence          An aberration, discontinuous with the ‘true self’ at the time   A culmination, continuous with the ‘true self’ at the time
+
+  Origin of violence                       Provocative situations or people, personal mistakes            A self capable of being provoked, personal faults
+
+  Ethical priority in prison                                Self-preservation                                              Self-development
+
+  Attitude to risk                                      Alienation, ‘their label’                                     Recognition, ‘my problem’
+
+  Attitude to offence-focused work                       Resented as vindictive                                         Accepted as legitimate
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Table 2: Attitudes to risk, change and progression
+
+These ideal types resemble those summarised by other researchers, including the ‘good person who made a mistake’ and ‘bad person who became good’ narratives highlighted among young lifers, and the ‘stability’, ‘return’, and ‘elastic’ narratives noted by Lois Presser among violent men [See @creweLifeImprisonmentYoung2020; also, @presserViolentOffendersMoral2004].
+
+In describing their attitudes to rehabilitative intervention, older lifers in Group 1 (who made up around two-thirds of the subsample) took refuge in their lives before conviction, offering past experiences and achievements as counterweights against official assessments of their risk and culpability as murderers. Such assertions of moral status made the murder conviction marginal to their story, and questioned the corresponding implication that they ought to reform themselves, as Gerald indicated:
+
+> I was never wilful, never rebellious. I might have been naïve. I always thought well of people generally. I was following the rules generally. I brought up a very good family. I had a very good job. You know, a respectful [sic] job […] There’s nowhere I can really go [in prison], to be honest with you […] I do a good job. I do my work. Where can I go? (Gerald)
+
+They frequently emphasised their moral superiority to other prisoners, but these comparisons were seldom relevant to their index offence(s), nor to a meaningful understanding of risk. Robert exemplified the narrative balancing act this involved. He declared he had ‘no respect for cons’ but had nonetheless been ‘an arsehole’ before prison. He declared, ‘if I was a judge, I would have been harder on me than he was’. But he emphasised that his ‘wild’ lifestyle had been paid for by lawful earnings and wealth. Paradoxically, he judged himself more harshly for his past conduct in intimate relationships than for murdering the victim (‘a cunt’) whose provocations Robert said had caused the offence. The conviction had not erased his sense of social status in relation to other prisoners (who he derided as ‘scum’). Others were readier to admit to feelings of remorse, but crucially not to profess these publicly: Gerald, for example, insisted they were a matter between him and God.
+
+For Group 1, the conviction and sentence were neither a ‘catastrophe’ [@crawleyOlderMenPrison2005], nor a radical rupture between past, present and future [@creweLifeImprisonmentYoung2020]. Life before prison remained a significant discursive resource, not an overwhelmingly painful absence. Memories of it, and comparisons with other (mostly younger) prisoners, reassured these men that they were not the ‘real’ criminals. It followed that most questioned the idea that they had reformative work to do, by reducing risk or changing their characters. Their scepticism about risk reduction, at least, was not groundless: ten men in the subsample had ‘low’ actuarial risk scores across the board[^25] and none scored ‘high’. In Risk of Serious Harm assessments, only one posed more than a ‘low’ risk to any group in custody, although all fifteen were expected to pose at least a ‘medium’ risk to at least one group in the community.[^26]
+
+Of course, assessments of risk and evaluations of culpability and moral worth are analytically distinct. But just as risk assessors sometimes do [@slovicRiskPerceptionAffect2006], Group 1 often conflated moral/legal culpability with statistical risk, something that the prison encouraged by targeting its offence-focused interventions so rigorously at those posing higher risk.[^28] Much of their ethical work buttressed their self-worth against the stigma implied by the conviction. Questions about risk in their interviews sometimes prompted them to revisit questions of culpability in the index offence:
+
+> They keep referring to risk, you see? I might kill somebody else any minute! Stupid fools! It’s just lack of knowledge, lack of understanding. You see […] all these people making decisions never talk to anybody in my family, who know all about [the circumstances] (Alf)
+
+The emphasis here was on the *singular* nature of the offence, framed as an aberration, irrelevant to future behaviour. While not disputing legal guilt, Alf situated it in his longstanding frustrations with the person he had killed. Implicitly, the resort to lethal violence did not blemish his character, and his age gave him more experiences of conventional social status through work and family life than was available to younger people, who offered similar narratives with less discursive ballast.[^29]
+
+To Group 1, others who displayed ‘appalling’ (Gerald) conduct in prison seemed to be the ‘real’ criminals (and far ‘riskier’). Group 1 framed their index offences as discontinuous with patterns in their longer-term behaviour. They were compliant and ‘low risk’, and therefore also a low priority for intervention, so they were hardly pushed to search for such patterns. Their claim, then, was not that murder had been justified, nor exactly that they were not responsible, but that it *did not* *morally contaminate them*. Thus, it seemed to them, they required no rehabilitation. The offence had been a mistake, they already knew right from wrong, and stoic endurance of the penalty---‘suck[ing] it up’ (Robert)---was the extent of the moral obligation that punishment imposed.
+
+Group 2, by contrast, were far readier to see the offence as part of a pattern. Comprising around a third of the subsample, they usually possessed few or no prior convictions but explicitly located the offence within a longer pattern of behaviour. Their descriptions of themselves strongly diverged from those quoted above:
+
+> I feel that I am evil […] I didn’t want to take his life, but… I stabbed him […] I couldn’t stop. That’s all I remember. I just couldn’t stop. It wouldn’t let me […] Anger sort of takes me away from myself. (Gary)
+
+Gary’s offence *had* caused him experiences of dissociation and self-alienation. His ethical work targeted a long-standing pattern of alcohol-fuelled violence. For Alan, the long-term behavioural pattern involved conflict in intimate relationships:
+
+> Bells were rung in other relationships where [partners] said […] ‘You need to get help’. [I was] very stubborn, and thinking, ‘well, there’s nothing wrong with me, why do [they] keep saying that?’ […] And that’s why I wanted to do [the Kaizen course].
+>
+> BJ: What did it offer you?
+>
+> Making me a better person.
+
+Acknowledging flaws in the self usually meant trying to *correct* them, but not always: Terry said he was too old to change. His beliefs and attitudes about violence were rigid, but he pointed to age and failing health as evidence of reduced risk:
+
+> If I looked in the mirror and thought, “twenty years ago you would have done [i.e. assaulted] that geezer…” You’ve got to do what you’ve got to do […] [But] if I have an argument now […] I go all faint, I can’t get my breath. It’s terrible […] if someone says something, I still can’t help giving it back […] Even though I know I can’t back it up no more. (Terry)
+
+# Concluding comments
+
+This paper has argued that men sentenced to life imprisonment in mature adulthood appear to have a distinctive pattern of adaptation to prison life: rapid and pragmatic adjustment, ready normative compliance, a strategic and unhurried approach to progression, and (in some cases) a sense of themselves as morally superior to younger, more volatile peers. While those who had entered prison with a deep sense of remorse (often after pleading guilty to murder) engaged readily and inquiringly with offence-focused interventions, others tended to minimise and neutralise the offence and were left undisturbed in this stance because they were unenthusiastic to complete (and in any case a low priority for) offending behaviour work.
+
+The men described above generally posed a lower risk of *reconviction* than their younger peers (in terms of actuarial scores). Their assessed risk of *serious harm* to people in the community, meanwhile, was generally similar to that of their younger peers. But crucially, their assessed risk of seriously harming others in custody was generally much lower. Put differently, they appeared (both to themselves and to prison staff) less ‘risky’ than their younger peers in prison, where the situational preconditions of their violence (e.g., familial disputes, troubles in intimate relationships) were largely absent. They were compliant, saw the expectation to work as legitimate, and were trusted by staff. If, as they claimed, they were less involved in the informal economy, then they would be less affected by the relationships of debt and obligation that beset other prisoners and drove prisoner-on-prisoner victimisation, at least at the category-B sites. And their sentence plans demanded little of them beyond continued compliance: maintain Enhanced status, remain employed, avoid adjudications, and so on). This posed them few challenges. Their encounters with alternative official framings of their offences and their selfhood were shallow and infrequent, and thus their opportunities to demonstrate ‘change’ were limited.
+
+By contrast, the category-B research sites offered ample opportunities for instrumental and expressive violence early in the sentence among younger men more implicated in prison subcultures. Refraining from involvement in this social world offered a feasible (if fraught) path to demonstrate behavioural change. The older men, by contrast, *already* felt remote from the provocations and temptations of prison subcultures—they were “just not interested” (Grant). They felt pains of ‘tightness’ less keenly,[^30] since they conformed to prison regimes readily. But they found it painful to have to associate with others they saw as ‘real’ criminals, and they often felt unclear about what reformative ‘change’ the prison expected. They aligned themselves with official priorities insofar as they understood what those were, and their conformity was rewarded with good jobs and constructive staff relationships. It was unclear, however, how any of this related to the risks of reconviction or serious harm. And their narratives about the offence would not all play well in parole hearings, where the difficulty of demonstrating behavioural ‘change’ might also hamper their progress.
+
+This perhaps raises the following questions for reflection: what do prisoners infer about the kinds of index offence that *matter*, based on how rehabilitative resources are currently targeted? Are minimisations and neutralisations challenged too little among the low(er)-risk? And if so, how legitimate would the victims of very serious violent offences, including murder, perceive this to be?
+
+# References
+
+:::{refs}
+:::
+
+[^9]: For clarity, this means that they had all been convicted of murder.
+
+[^10]: To be clear: my aim was not to evaluate interviewees’ status as ‘ethical’ or ‘unethical’ people; but instead, to describe how they evaluated themselves and thought they should live as a result.
+
+[^11]: Bands adapted from @hulleyReexaminingProblemsLongterm2016. ‘Very early’ = up to one-sixth of the tariff served at the point of participation; ‘Early’ = between one-sixth and one-third of the tariff served; ‘Mid’ = between one-third and two-thirds of the tariff served; ‘Late’ = between two-thirds and the entire tariff served.
+
+[^15]: “Entry shock”: the bewilderment, disorientation and stress responses associated with induction into the prison environment, all resulting in difficulty in feeling any sense of agency in one’s situation [@crawleyThereLifeImprisonment2006; @jewkesLossLiminalityLife2005; @wrightSuppressionDenialSublimation2017].
+
+[^17]: That is, he maintained he had not been involved at all in causing another person’s death, as opposed to disputing his culpability in causing that person’s death.
+
+[^18]: All participants quoted pseudonymously.
+
+[^19]: Although Ron was post-tariff, and his words are in retrospect, his guilty plea, and the fact that he handed himself in to the police, both emphasise his willingness to accept responsibility from an early stage.
+
+[^25]: That is, OGRS, OGP, and OVP. Scores were only noted for twelve men, the others having not consented to their prison records being noted.
+
+[^26]: This is likely a result of the gravity of the index offence (murder).
+
+[^28]: Culpable: ‘guilty, criminal; deserving punishment or condemnation’ [@oedCulpableAdj1989].
+
+[^29]: Compare this account with those referenced in @creweLifeImprisonmentYoung2020.
+
+[^30]: ‘Tightness’ refers to the painfulness of knowing one’s actions are under a consequential form of scrutiny, through processes of psychological assessment perceived as distant, misrecognising, and often unaccountable. See @creweDepthWeightTightness2011.

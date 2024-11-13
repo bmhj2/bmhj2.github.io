@@ -1,53 +1,30 @@
-# format:
-#   html: default
-
-# author:
-#   - id: bmhj
-#     name:
-#       given: Ben
-#       family: Jarman
-#       literal: Ben Jarman
-    # degrees:
-    #   - MA (Cantab)
-    #   - PGCE
-    #   - MPhil
-    #   - PhD
-    # email: ben@benjarman.uk
-    # orcid: 0000-0003-3527-5437
-    # url: https://benjarman.uk
-    # affiliations:
-      # - id: cam
-      #   name: University of Cambridge
-      #   department: Institute of Criminology Prisons Research Centre
-      #   address: Sidgwick Avenue
-      #   city: Cambridge
-      #   region: Cambridgeshire
-      #   postal-code: CB3 9DA
-      #   country: United Kingdom
-      #   url: https://www.prc.crim.cam.ac.uk/
-      # - id: bbk
-      #   name: Institute for Crime & Justice Policy Research (ICPR), Birkbeck, University of London
-      #   department: Faculty of Humanities and Social Sciences
-      #   address: |
-      #     Malet Street
-      #     Bloomsbury
-      #   city: London
-      #   postal-code: WC1E 7HX
-      #   country: United Kingdom
-      #   url: https://icpr.org.uk
-      # - id: soton
-      #   name: University of Southampton
-      #   department: Law School
-      #   address: University Road
-      #   city: Southampton
-      #   postal-code: SO17 1BJ
-      #   country: United Kingdom
-      #   url: https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-law-school
-
 google-scholar: true
-# categories:
-# bibliography: 
 citeproc: true
 csl: cambridge-university-press-author-date.csl
-
 freeze: true
+title-block-banner: true
+title-block-style: default
+formats:
+  html: default
+link-citations: true
+# lof: false
+# lot: false
+numbersections: true
+secnumdepth: 3
+strip-comments: true
+
+format:
+  html: default
+  docx:
+    reference-doc: ./phd-reference.docx
+  typst: 
+    toc: true
+    toc-depth: 2
+    toc-title: Contents
+    number-sections: true
+    papersize: a4
+    margin: 
+      x: 1in
+      y: 1in
+    columns: 2
+    fontsize: 12pt

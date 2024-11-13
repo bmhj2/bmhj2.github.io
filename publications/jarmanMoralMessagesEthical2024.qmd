@@ -50,13 +50,13 @@ author:
         country: United Kingdom
         url: https://www.prc.crim.cam.ac.uk/
 date: "2024-06-06"
-date-modified: last-modified
+
 
 bibliography: jarmanMoralMessagesEthical2024.bib
 categories:
   - thesis
 funding:
-  statement: "The author received funding for this research via an ESRC Knowledge Exchange PhD Studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
+  statement: "The author received funding for this research via an UKRI PhD studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
 keywords:
   - long-term imprisonment
   - life imprisonment
@@ -73,15 +73,11 @@ keywords:
   - punishment
   - risk
 lang: en-GB
-copyright:
-  holder: Ben Jarman
-  year: 2024
+copyright: "© Ben Jarman, 2024"
 license: CC-BY, embargoed to 2025-06-06
-
-format:
-  html: default
-
 draft: false
+format-links: false
+description: PhD thesis, based on research on life-sentenced prisoners in England.
 
 citation:
   id: jarmanMoralMessagesEthical2024
@@ -115,6 +111,6 @@ citation:
   URL: https://www.repository.cam.ac.uk/handle/1810/369145
 ---
 
-## Availability
+# Availability
 
-PhD thesis, based on research on life-sentenced prisoners in England. Embargoed but can be requested from <https://www.repository.cam.ac.uk/handle/1810/369145>.
+Embargoed but can be requested from <https://www.repository.cam.ac.uk/handle/1810/369145>.

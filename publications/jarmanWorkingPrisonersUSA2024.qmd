@@ -45,7 +45,8 @@ author:
 title: "Working prisoners in the USA"
 subtitle: "Laws, policies, and practical realities"
 date: "2024-09-11"
-date-modified: last-modified
+description: A briefing paper on the law and policy surrounding prison work and prison labour in the US.
+
 funding: 
   statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"
 keywords: 
@@ -56,17 +57,13 @@ keywords:
   - united states of america
 lang: en-GB
 url: https://eprints.bbk.ac.uk/id/eprint/53813
-title-block-banner: true
-license: All rights reserved.
-copyright:
-  holder: ICPR
-  year: 2024
+license: "All rights reserved."
+copyright: "© ICPR, 2024"
 draft: false
 bibliography: jarmanWorkingPrisonersUSA2024.bib
-google-scholar: true
-toc: false
 categories:
   - briefing paper
+format-links: false
 
 citation:
   id: jarmanWorkingPrisonersUSA2024
@@ -91,6 +88,6 @@ citation:
   URL: https://eprints.bbk.ac.uk/id/eprint/53813
 ---
 
-## Availability
+# Availability
 
 Available at <https://eprints.bbk.ac.uk/id/eprint/53813>.

@@ -48,7 +48,8 @@ categories:
 title: Working prisoners in the UK
 subtitle: Laws, policies, and practical realities
 date: 2024-07-10
-date-modified: last-modified
+description: A briefing paper on prison work and prison labour in the UK.
+
 funding: 
   statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"
 keywords:  
@@ -61,13 +62,10 @@ keywords:
 lang: en-GB
 url: https://eprints.bbk.ac.uk/id/eprint/53813
 title-block-banner: true
-license: All rights reserved.
-copyright:
-  holder: ICPR
-  year: 2024
-toc: false
-
+license: "All rights reserved."
+copyright: "© ICPR, 2024"
 draft: false # remove after finishing.
+format-links: false
 
 citation:
   id: jarmanWorkingPrisonersUK2024
@@ -92,6 +90,6 @@ citation:
   URL: https://eprints.bbk.ac.uk/id/eprint/53811
 ---
 
-## Availability
+# Availability
 
-A briefing paper on prison labour in the UK, available at <https://eprints.bbk.ac.uk/id/eprint/53811>.
+Available at <https://eprints.bbk.ac.uk/id/eprint/53811>.

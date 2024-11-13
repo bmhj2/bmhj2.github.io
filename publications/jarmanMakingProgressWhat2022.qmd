@@ -1,0 +1,115 @@
+---
+abstract: >
+  This report presents the findings of a prisoner consultation carried out by PRT’s Building Futures programme. Around 100 responses were received from people in prison to four questions relating to their progression.
+
+  The report looks at what is meant by risk reduction and assessment, and progression both in terms of offending behaviour courses and the personal progression of prisoners. It also examines the relationship between risk and progression, and the lack of clarity felt by prisoners.
+
+  The report identifies missed opportunities for the progression and development of long-term prisoners but makes recommendations to improve the system.
+
+# Standard metadata in this section
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prisons Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+  - id: bbk
+    name: "Birkbeck College"
+    department: "Faculty of Humanities and Social Sciences"
+    group: "Institute for Crime & Justice Policy Research"
+    address: |
+      "Malet Street"
+      "Bloomsbury"
+    city: London
+    postal-code: "WC1E 7HX"
+    country: "United Kingdom"
+    url: "https://www.bbk.ac.uk"
+  - id: prt
+    name: Prison Reform Trust
+    group: Building Futures
+    address: 15 Northburgh Street
+    city: London
+    postal-code: EC1V 0JR
+    country: United Kingdom
+    url: https://prisonreformtrust.org.uk/
+
+author:
+  - id: bmhj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    email: ben@benjarman.uk
+    orcid: 0000-0003-3527-5437
+    url: https://benjarman.uk
+    affiliation:
+      - ref: cam
+      - ref: bbk
+  - id: cv
+    name:
+      given: Claudia
+      family: Vince
+      literal: Claudia Vince
+    email: claudia@prisonreformtrust.org.uk
+    affiliation:
+      - ref: prt
+    
+bibliography: jarmanMakingProgressWhat2022.bib
+date: 2022-10-03
+title: Making progress?
+subtitle: What progression means for people serving the longest sentences
+funding:
+  statement: >
+    This report was produced through a knowledge exchange partnership between the National Lottery funded Building Futures programme and the University of Cambridge ESRC Doctoral Training Partnership. Ben Jarman would also like to acknowledge the original funders of his PhD research on long-term imprisonment: the Economic & Social Research Council and Quakers in Britain.
+keywords:  
+  - long-term imprisonment
+  - england & wales
+  - sentence progression
+lang: en-GB
+isbn: 978-1-908504-61-6
+doi: 10.17863/CAM.89107
+url: https://prisonreformtrust.org.uk/publication/making-progress/
+pdf-url: https://prisonreformtrust.org.uk/wp-content/uploads/2022/09/Making_progress.pdf
+title-block-banner: true
+license: "All rights reserved."
+copyright: "© Prison Reform Trust, 2022."
+categories:
+  - report
+  - knowledge exchange
+format-links: false
+
+citation:
+  id: jarmanMakingProgressWhat2022
+  author:
+    - family: Jarman
+      given: Ben
+    - family: Vince
+      given: Claudia
+  citation-key: jarmanMakingProgressWhat2022
+  collection-title: Building Futures
+  DOI: 10.17863/CAM.89107
+  event-place: London
+  ISBN: 978-1-908504-61-6
+  issued: 2022-10-03
+  language: en-GB
+  license: "All rights reserved."
+  page: '76'
+  publisher: Prison Reform Trust
+  publisher-place: London
+  title: >
+    Making Progress? What progression means for people serving the longest sentences
+  title-short: Making progress?
+  type: report
+  URL: https://prisonreformtrust.org.uk/publication/making-progress/
+
+draft: false # remove after finishing.
+---
+
+# Availability
+
+A report on sentence progression as understood by people serving long prison sentences. Available at <https://prisonreformtrust.org.uk/publication/making-progress> or via <https://doi.org/10.17863/CAM.89107>.

@@ -48,7 +48,7 @@ categories:
 title: Labouring behind bars
 subtitle: Assessing international law on working prisoners
 date: 2023-11-09
-date-modified: last-modified
+
 funding: 
   statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"
 keywords:  
@@ -62,12 +62,10 @@ keywords:
 lang: en-GB
 url: https://eprints.bbk.ac.uk/id/eprint/53263/
 title-block-banner: true
-license: All rights reserved.
-copyright:
-  holder: ICPR
-  year: 2023
-toc: false
-
+license: "All rights reserved."
+copyright: "© ICPR, 2023"
+format-links: false
+description: A briefing paper on the international legal framework for regulating prison work and prison labour.
 draft: false # remove after finishing.
 
 citation:
@@ -93,6 +91,6 @@ citation:
   URL: https://eprints.bbk.ac.uk/id/eprint/53811
 ---
 
-## Availability
+# Availability
 
-A briefing paper on the international legal framework for regulating prison work and prison labour, available at <https://eprints.bbk.ac.uk/id/eprint/53811>.
+Available at <https://eprints.bbk.ac.uk/id/eprint/53811>.
