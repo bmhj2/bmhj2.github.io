@@ -1,0 +1,80 @@
+---
+abstract: >
+  Recent studies of long-term imprisonment describe a largely invariant pattern of prisoner adaptation. Using data from a qualitative study of men serving life sentences in England, I argue that adaptation may in fact vary more than these studies imply, both because of the prisoner's age when sentenced, and because of the circumstances of particular offences. Participants' engagement with the prison's rehabilitative 'offer' depended on how the sentence affected their life course, and what they understood to be the moral ramifications of the offence. These findings refine understanding of adaptation, and suggest that a renewed focus on moral reflexivity may bear fruit in future prison research.
+
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    attributes:
+      corresponding: true
+    orcid: 0000-0003-3527-5437
+    affiliation:
+        - ref: cam
+
+title: Only one way to swim?
+subtitle: The offence and the life course in accounts of adaptation to life imprisonment
+funding:
+  statement: 'The author received no funding towards the research, preparation or publication of this article.'
+keywords:
+- long-term imprisonment
+- indefinite imprisonment
+- life imprisonment
+- rehabilitation
+- moral reflection
+- murder
+lang: en-GB
+date: 2020-10-21
+doi: 10.17863/CAM.51646
+url: https://www.repository.cam.ac.uk/handle/1810/304564
+copyright: © Ben Jarman, 2020
+license: CC-BY-ND-SA 4.0
+toc: false
+categories: journal article
+description: >
+  Article published in the *British Journal of Criminology*
+format-links: false
+draft: false
+bibliography: jarmanOnlyOneWay2020.bib
+
+citation: 
+  id: jarmanOnlyOneWay2020
+  abstract: >
+    Recent studies of long-term imprisonment describe a largely invariant pattern of prisoner adaptation. Using data from a qualitative study of men serving life sentences in England, I argue that adaptation may in fact vary more than these studies imply both because of the prisoner’s age when sentenced and because of the circumstances of particular offences. Participants’ engagement with the prison’s rehabilitative ‘offer’ depended on how the sentence affected their life course and what they understood to be the moral ramifications of the offence. These findings refine understanding of adaptation and suggest that a renewed focus on moral reflexivity may bear fruit in future prison research.
+  author:
+    - family: Jarman
+      given: Ben
+  citation-key: jarmanOnlyOneWay2020
+  container-title: The British Journal of Criminology
+  container-title-short: Br J Criminol
+  DOI: 10.17863/CAM.51646
+  ISSN: 0007-0955
+  volume: '60'
+  issue: '6'
+  issued: 2020-10-21
+  language: en-GB
+  page: 1460-1479
+  publisher: Oxford Academic
+  title: >
+    Only one way to swim? The offence and the life course in accounts of adaptation to life imprisonment
+  title-short: Only One Way To Swim?
+  type: article-journal
+  URL: https://www.repository.cam.ac.uk/handle/1810/304564
+---
+
+# Availability
+
+Fulltext available from <https://www.repository.cam.ac.uk/handle/1810/304564>. Published version available at <https://doi.org/10.1093/bjc/azaa036>.

@@ -69,8 +69,8 @@
 #       - resources
 #       - writing
 #     url: https://benjarman.uk
-#     affiliation:
-        # - ref: []
+#       affiliation:
+#       - ref: []
 
 # title: 
 # subtitle: 

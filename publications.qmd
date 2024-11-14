@@ -11,10 +11,10 @@ listing:
   sort: "date desc"
   categories: true
   feed: true
-  sort-ui: [title, date, author, categories]
+  sort-ui: [date, title, keywords, categories, author]
   fields: [date, title, keywords, categories, author]
 appendix-style: none
 citation: false
 ---
 
-This page lists past publications. If I have copyright, fulltexts are available to read or download here. Otherwise, external links to an non-paywalled fulltext are provided where possible.
+This page lists my publications. Some fulltexts are available to read or download here. Others are available via external links to an non-paywalled fulltext.

@@ -1,0 +1,106 @@
+---
+abstract: >
+  Child abuse in youth custody in England and Wales is receiving an unprecedented degree of official attention. Historic allegations of abuse by staff in custodial institutions which held children are now being heard by the courts and by the Independent Inquiry into Child Sexual Abuse (IICSA), and some criminal trials have resulted in convictions. A persistent question prompted by these investigations is that of why the victims of custodial child abuse were for so long denied recognition as such, or any form of redress. Drawing on original documentary research, this article aims to explain why and how state authorities in England and Wales failed to recognise the victimisation of children held in penal institutions between 1960 and 1990, and argues that this failure constitutes a disavowal of the state’s responsibility. We show that the victims of custodial child abuse were the victims of state crimes by omission, because the state failed to recognise or to uphold a duty of care. We argue further that this was possible because the occupational cultures and custodial practices of penal institutions failed to recognise the structural and agentic vulnerabilities of children. Adult staff were granted enormous discretionary power which entitled them to act (and to define their actions) without effective constraint. These findings, we suggest, have implications for how custodial institutions for children should think about the kinds of abuse which are manifest today.
+
+affiliations:
+  - id: camprc
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+  - id: camjs
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Centre for Community, Gender, and Social Justice
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.justice.crim.cam.ac.uk/
+
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    attributes:
+      corresponding: true
+    orcid: 0000-0003-3527-5437
+    affiliation:
+      - ref: camprc
+  - id: cl
+    name:
+      given: Caroline
+      family: Lanskey
+      literal: Caroline Lanskey
+    orcid: 0000-0003-4866-4191
+    affiliation:
+      ref: camjs
+
+title: >
+  ‘A Poor Prospect Indeed’
+subtitle: The State’s Disavowal of Child Abuse Victims in Youth Custody, 1960–1990
+funding: The research on which this paper is based was commissioned and funded by HM Prison and Probation Service, reference RG 92270.
+keywords:  
+  - youth justice
+  - prisons
+  - child abuse
+  - child sexual abuse
+  - crime victims
+  - state crimes
+  - prison sociology
+  - historical criminology
+lang: en-GB
+date: 2019-04-18
+doi: 10.3390/soc9020027
+url: https://www.mdpi.com/2075-4698/9/2/27
+license: CC-BY 4.0
+copyright: © The Authors, 2019.
+toc: false
+categories: journal article
+description: Article based on archival research on youth custody, in the journal *Societies*
+format-links: false
+draft: false
+bibliography: jarmanPoorProspectIndeed2019.bib
+
+citation:
+  id: jarmanPoorProspectIndeed2019
+  abstract: >
+    Child abuse in youth custody in England and Wales is receiving an unprecedented degree of official attention. Historic allegations of abuse by staff in custodial institutions which held children are now being heard by the courts and by the Independent Inquiry into Child Sexual Abuse (IICSA), and some criminal trials have resulted in convictions. A persistent question prompted by these investigations is that of why the victims of custodial child abuse were for so long denied recognition as such, or any form of redress. Drawing on original documentary research, this article aims to explain why and how state authorities in England and Wales failed to recognise the victimisation of children held in penal institutions between 1960 and 1990, and argues that this failure constitutes a disavowal of the state’s responsibility. We show that the victims of custodial child abuse were the victims of state crimes by omission, because the state failed to recognise or to uphold a duty of care. We argue further that this was possible because the occupational cultures and custodial practices of penal institutions failed to recognise the structural and agentic vulnerabilities of children. Adult staff were granted enormous discretionary power which entitled them to act (and to define their actions) without effective constraint. These findings, we suggest, have implications for how custodial institutions for children should think about the kinds of abuse which are manifest today.
+  author:
+    - family: Jarman
+      given: Ben
+      orcid: 0000-0003-3527-5437
+    - family: Lanskey
+      given: Caroline
+      orcid: 0000-0003-4866-4191
+  container-title: Societies
+  DOI: 10.3390/soc9020027
+  ISSN: 2075-4698
+  issue: '2'
+  issued: 2019-04-18
+  language: en-GB
+  license: CC-BY 3.0
+  note: 1 citations (Crossref) [2022-06-27]
+  page: '27'
+  source: www.mdpi.com
+  title: >
+    ‘A Poor Prospect Indeed’: The State’s Disavowal of Child Abuse Victims in Youth Custody, 1960–1990
+  title-short: ‘A Poor Prospect Indeed’
+  type: article-journal
+  URL: https://www.mdpi.com/2075-4698/9/2/27
+  volume: '9'
+---
+
+# Availability
+
+Published Open Access - available from the publisher's website via <https://www.mdpi.com/2075-4698/9/2/27>.
+
+Slides from a public presentation based on this article can be found via <https://www.repository.cam.ac.uk/handle/1810/300721>.

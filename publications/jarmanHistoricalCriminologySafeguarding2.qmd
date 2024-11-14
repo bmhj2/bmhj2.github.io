@@ -1,0 +1,90 @@
+---
+abstract: >
+  This paper examines the methodological tensions and synergies between historical criminological research and contemporary policy imperatives, through the lens of a commissioned study on child protection in the secure estate (1960-2016). Drawing on research conducted for Her Majesty's Prison and Probation Service (HMPPS), we analyse how the absence of institutional memory in government departments has shaped approaches to safeguarding policy. The paper critiques present-centred policy research methodologies that risk overlooking historical conceptualisations of abuse and protection. Through the case study of Medomsley Youth Detention Centre, we demonstrate how archival materials must be read 'against the grain' to understand how institutional practices could conceal abuse behind bureaucratic narratives of efficiency and order. We argue that effective safeguarding requires moving beyond policy compliance to recognise it as an iterative, contested process. This analysis holds important implications for how historical criminological approaches can inform contemporary child protection policy while remaining alert to the complexities of institutional memory and archival interpretation.
+
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+  - id: ed
+    name: University of Edinburgh
+    department: School of History, Classics & Archaeology
+    address: |
+      Old Medical School
+      Teviot Place
+    city: Edinburgh
+    postal-code: EH8 9AG
+    country: United Kingdom
+    url: https://www.ed.ac.uk
+
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    orcid: 0000-0003-3527-5437
+    affiliation:
+      - ref: cam
+  - id: lj
+    name: Louise Jackson
+    orcid: 0000-0003-3875-4273
+    affiliation:
+      - ref: ed
+
+title: The historical criminology of ‘safeguarding’
+subtitle: Children in the secure estate, 1960-2016
+funding: The research on which this paper is based was commissioned and funded by HM Prison and Probation Service, reference RG 92270.
+keywords:  
+  - child abuse, 
+  - youth custody, 
+  - youth justice, 
+  - historical criminology, 
+  - safeguarding
+lang: en-GB
+date: 2019-04-09
+doi: 10.17863/CAM.39128
+url: https://www.repository.cam.ac.uk/handle/1810/291976
+license: CC-BY 4.0
+copyright: © The authors, 2019.
+toc: false
+categories: conference paper
+description: Paper presented at the BSC Historical Criminology network's conference in 2019.
+format-links: false
+draft: false
+
+citation:
+  id: jarmanHistoricalCriminologySafeguarding2019
+  abstract: >
+    This paper examines the methodological tensions and synergies between historical criminological research and contemporary policy imperatives, through the lens of a commissioned study on child protection in the secure estate (1960-2016). Drawing on research conducted for Her Majesty's Prison and Probation Service (HMPPS), we analyse how the absence of institutional memory in government departments has shaped approaches to safeguarding policy. The paper critiques present-centred policy research methodologies that risk overlooking historical conceptualisations of abuse and protection. Through the case study of Medomsley Youth Detention Centre, we demonstrate how archival materials must be read 'against the grain' to understand how institutional practices could conceal abuse behind bureaucratic narratives of efficiency and order. We argue that effective safeguarding requires moving beyond policy compliance to recognise it as an iterative, contested process. This analysis holds important implications for how historical criminological approaches can inform contemporary child protection policy while remaining alert to the complexities of institutional memory and archival interpretation.
+  author:
+    - family: Jarman
+      given: Ben
+    - family: Jackson
+      given: Louise A.
+  DOI: 10.17863/CAM.39128
+  event-place: Plymouth University
+  event-title: >
+    Linking Past and Present in Criminological Research (BSC Historical Criminology Network conference)
+  genre: Conference paper
+  issued: 2019-04-09
+  language: en-GB
+  license: Attribution 4.0 International
+  publisher-place: Plymouth University
+  title: >
+    The historical criminology of ‘safeguarding’: children in the secure estate, 1960-2016
+  title-short: The historical criminology of ‘safeguarding’
+  type: speech
+  URL: https://www.repository.cam.ac.uk/handle/1810/291976
+---
+
+# Availablity
+
+Paper text and slides available via <https://www.repository.cam.ac.uk/handle/1810/291976>.

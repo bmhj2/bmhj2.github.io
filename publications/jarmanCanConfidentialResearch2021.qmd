@@ -38,8 +38,8 @@ url: https://www.repository.cam.ac.uk/handle/1810/317486
 license: CC-BY 4.0
 copyright: © Ben Jarman, 2024
 toc: false
-categories: presentation
-description: Presentation given at the 2021 Cambridge ESRC Doctoral Training Partnership conference.
+categories: conference paper
+description: Paper given at the 2021 Cambridge ESRC Doctoral Training Partnership conference
 format-links: false
 draft: false
 bibliography: jarmanCanConfidentialResearch2021.bib
