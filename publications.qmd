@@ -7,7 +7,8 @@ title-block-style: none
 listing:
   type: table
   contents:
-    - "publications/*.qmd"
+    - publications/*.qmd
+    - publications/archived.yml
   sort: "date desc"
   categories: true
   feed: true

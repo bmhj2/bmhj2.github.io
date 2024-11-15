@@ -1,0 +1,126 @@
+---
+abstract: >
+  This study examines the evolution of safeguarding frameworks for children in custody from 1960 to 2016, drawing on archival research commissioned by HM Prison and Probation Service. Through analysis of inspection reports, institutional records and academic literature, we trace how responses to abuse shifted from reactive, poorly-implemented policies to more comprehensive safeguarding frameworks following the 1989 Children Act. However, we find that even reformed policies contained vulnerabilities: organisational cultures could circumvent formal standards, particularly in contexts of resource pressures and institutional turbulence. The research reveals how practices once deemed acceptable later became recognised as abusive, suggesting that current safeguarding must be understood as an iterative process rather than a fixed standard. We argue that institutional size, power disparities, and the ability to challenge practice significantly influence safeguarding effectiveness. The study concludes that while modern frameworks offer greater protection, the inherent tensions in coercive residential institutions mean that potential for abuse persists, highlighting the importance of limiting child custody, protecting whistleblowers, and maintaining genuinely independent oversight.
+
+affiliations:
+  - id: crim
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+  - id: hist
+    name: University of Cambridge
+    department: Faculty of History
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.hist.cam.ac.uk/
+  - id: ed
+    name: University of Edinburgh
+    department: School of History, Classics & Archaeology
+    address: |
+      Old Medical School
+      Teviot Place
+    city: Edinburgh
+    postal-code: EH8 9AG
+    country: United Kingdom
+    url: https://www.ed.ac.uk
+
+author:
+  - id: bj
+    name: Ben Jarman
+    orcid: 0000-0003-3527-5437
+    affiliation:
+      - ref: crim
+  - id: ld
+    name: Lucy Delap
+    affiliation:
+      - ref: hist    
+  - id:
+    name: Louise Jackson
+    affiliation:
+      - ref: ed
+  - id: cl
+    name: Caroline Lanskey
+    affiliation:
+      - ref: crim
+  - id: hm
+    name: Hannah Marshall
+    affiliation:
+      - ref: crim
+  - id: lg
+    name: Loraine Gelsthorpe
+    affiliation:
+      - ref: crim
+
+title: Safeguarding Children in the Secure Estate, 1960-2016
+funding: This report was based on research commissioned and funded by HM Prison and Probation Service, reference RG 92270.
+keywords:
+  - child abuse
+  - child sexual abuse
+  - prisons
+  - england and wales
+  - youth justice
+  - youth custody
+  - secure estate for children
+  - 20th century history
+  - criminology
+  - penology
+  - historical criminology
+lang: en-GB
+date: 2018-10-18
+doi: 10.17863/CAM.34871
+url: https://www.repository.cam.ac.uk/handle/1810/287561
+license: All rights reserved
+copyright: © University of Cambridge, 2018
+toc: true
+categories: report
+description: Report prepared for HM Prison & Probation Service
+format-links: false
+draft: false
+bibliography: jarmanSafeguardingChildrenSecure2018.bib
+
+references:
+- id: jarmanSafeguardingChildrenSecure2018  
+  abstract: >
+    This report examines the evolution of safeguarding frameworks for children in custody from 1960 to 2016, drawing on archival research commissioned by HM Prison and Probation Service. Through analysis of inspection reports, institutional records and academic literature, we trace how responses to abuse shifted from reactive, poorly-implemented policies to more comprehensive safeguarding frameworks following the 1989 Children Act. However, we find that even reformed policies contained vulnerabilities: organisational cultures could circumvent formal standards, particularly in contexts of resource pressures and institutional turbulence. The research reveals how practices once deemed acceptable later became recognised as abusive, suggesting that current safeguarding must be understood as an iterative process rather than a fixed standard. We argue that institutional size, power disparities, and the ability to challenge practice significantly influence safeguarding effectiveness. The study concludes that while modern frameworks offer greater protection, the inherent tensions in coercive residential institutions mean that potential for abuse persists, highlighting the importance of limiting child custody, protecting whistleblowers, and maintaining genuinely independent oversight.
+  author:
+    - family: Jarman
+      given: Ben
+      orcid: 0000-0003-3527-5437
+    - family: Delap
+      given: Lucy
+    - family: Jackson
+      given: Louise
+    - family: Lanskey
+      given: Caroline
+    - family: Marshall
+      given: Hannah
+    - family: Gelsthorpe
+      given: Loraine
+  citation-key: jarmanSafeguardingChildrenSecure2018
+  DOI: 10.17863/CAM.34871
+  issued: 2018-10-18
+  language: en-GB
+  license: All rights reserved
+  page: '104'
+  publisher: University of Cambridge Institute of Criminology
+  title: Safeguarding Children in the Secure Estate, 1960-2016
+  type: report
+  URL: https://www.repository.cam.ac.uk/handle/1810/287561
+---
+
+# Availability
+
+Full report available via <https://www.repository.cam.ac.uk/handle/1810/287561>.
+
+::: {.callout-tip}
+Slides for a public seminar presenting findings from this project are also available via <https://doi.org/10.17863/CAM.38676>
+:::

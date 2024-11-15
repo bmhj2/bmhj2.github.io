@@ -1,0 +1,345 @@
+---
+abstract: >
+  Drawing on the parole hearing transcripts of life-sentenced prisoners in Israel, this paper explores the narrative labor performed to counter the punitiveness and censure they perceived in the parole hearing. Against their sense that the hearing might try to ‘do justice’ by rejecting their parole applications, applicants’ narratives suggested the opposite: that granting parole would render the punishment just. They constructed a “parole deservingness”, emphasizing that they deserved parole, by de-constructing and re-constructing notions of the debt, weight and stain created by their offences and the resulting punishment. The findings shed light on the “parole consciousness” of parole applicants and the complex “toolkit” used to respond at the micro-level to punitiveness and censure in the parole process.
+
+affiliations:
+  - id: bbk
+    name: Birkbeck, University of London
+    department:
+      - Faculty of Humanities and Social Sciences
+    group:
+      - Institute for Crime & Justice Policy Research (ICPR)
+    address: |
+      Malet Street
+      Bloomsbury
+    city: London
+    postal-code: WC1E 7HX
+    country: United Kingdom
+    url: https://icpr.org.uk
+  - id: huj
+    name: The Hebrew University of Jerusalem
+    department: Faculty of Law
+    address: Mt Scopus
+    city: Jerusalem
+    postal-code: "9190501"
+    country: Israel
+    url: https://en.law.huji.ac.il/
+
+author:
+  - id: nd
+    name:
+      given: Netanel
+      family: Dagan
+      literal: Netanel Dagan
+    attributes:
+      corresponding: true
+    email: netanel.dagan@huji.ac.il
+    orcid: 0000-0001-5610-8801
+    role:
+      - analysis
+      - conceptualization
+      - data curation
+      - editing
+      - methodology
+      - funding
+      - project administration
+      - resources
+      - writing
+    url: https://en.law.huji.ac.il/people/netanel-dagan
+  - id: bmhj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    attributes:
+      corresponding: false
+    email: ben@benjarman.uk
+    orcid: 0000-0003-3527-5437
+    role:
+      - analysis
+      - editing
+      - writing
+    url: https://www.bbk.ac.uk/our-staff/profile/9350146/ben-jarman
+
+# bibliography: daganNotOnlyMurderer2024.bib
+csl: cambridge-university-press-author-date.csl
+
+keywords:
+  - back-door censure
+  - desert
+  - life sentences
+  - murder
+  - narrative-making
+  - parole
+  - punitiveness
+
+lang: en-US
+link-citations: true
+number-sections: false
+standalone: true
+strip-comments: true
+toc: false
+citation-location: document
+date: 2024-05-24
+# funding: # see [schema](https://quarto.org/docs/authoring/front-matter.html#funding)
+# license: [Refer to publication] or [something else].
+# copyright:
+  # holder: 
+  # year: 
+categories: journal article
+description: A journal article currently under review with *Law & Social Inquiry*
+format-links: true
+draft: true # remove after finishing.
+---
+
+# Introduction {.unnumbered}
+
+Recent scholarship has dedicated increasing attention to how incarcerated people orient to and make meaning of their punishment. Works exploring the construction of 'penal consciousness' [@sextonPenalSubjectivitiesDeveloping2015; @schinkelBeingImprisonedPunishment2014; @vanginnekenJustPunishmentOffenders2017; @youngHowParoleBoards2022] seek to identify the processes from which punishment emerges, and locate them within a subject's apprehension of wider moral representations circulating in the penal system more broadly. Within this growing body of work, examinations of subjective sense-making around release decisions by parole applicants---or 'parole consciousness'---remain underexplored.
+
+At the same time, studies of release decision-making have noted punitive dimensions to these processes, especially in relation to high-profile releases of those responsible for serious offences [@aviramYesterdayMonstersManson2020; @pogrebinRejectionHumiliationParole2015a; @herbertDegradationRedemptionParole2022; @shammasPerilsParoleHearings2019]. Parole boards in different jurisdictions are constituted differently, but are typically charged with a prospective assessment of risks associated release; in this context, the renewal of censure (rather than a shift to more reintegrative, empowering, or de-stigmatizing messages) is striking. Indeed, the very justice of parole for individuals convicted of serious crimes has been attacked for decades by scholars [@fogelWeAreLiving1981; @vonhirschQuestionParoleRetention1979; @reitzReporterStudyQuestion2011], populist politicians [@freibergParolePoliticsPenal2021; @moffaParolePopulismPoliticisation2019], media outlets [@fitzgeraldParoleProbationParole2022], and, in some countries, parole decision-makers themselves [@aviramYesterdayMonstersManson2020; @griffinKillingTimeLife2018; @ruhlandPhilosophiesDecisionMaking2020; @vilcicaRevisitingParoleDecision2018; @shammasPerilsParoleHearings2019].
+
+How parole applicants respond to renewed censure is likely to reveal much, at the micro-level, about their 'parole consciousness' [see @sextonPenalSubjectivitiesDeveloping2015], and about the continuation of retributive justice beyond the prison sentence itself. It will also add to our understanding of the moral meanings communicated through 'back-door' sentencing mechanisms such as parole, which is recognized as an 'underacknowledged force' in incarceration policy both in the U.S. and elsewhere. Understanding the causes of mass incarceration, and managing imprisonment rates going forward, requires an understanding how release frameworks renew messages of censure and exclusion not merely on admission to prison, but also when release is under consideration [@reitzParoleReleaseSupervision2020, 283]. It is important to recognize the 'moral judgments' [@aviramYesterdayMonstersManson2020, 222] and 'the moralistic practices' of parole decision-makers [@herbertDegradationRedemptionParole2022, 325] but also how parole applicants themselves respond to those punitive moral judgments.
+
+This paper draws on the parole hearing transcripts of 130 individuals serving life sentences with the possibility of parole in Israel (hereinafter: *applicants*). It pays particular attention to the narrative labour [@warrAlwaysGottaBe2020] they perform when subjected to renewed censure in the parole process. They constructed accounts not of *how their risk had changed*, but of *how they deserved release*. In effect, they negotiated with parole decisionmakers over the meaning of their crime and their experiences of punishment. They attempted to construct their 'parole deservingness'.
+
+# Literature review
+
+Globally, many individuals are serving life sentences, including around one in seven people in prison in the US. Most will eventually become eligible for discretionary parole release [@youngPredictingParoleGrants2015; @youngRacialDisparitiesLifer2021; @vanzylsmitLifeImprisonmentGlobal2019; @padfieldIndeterminateSentencesAgain2003]. The release rate, however, is usually small, especially in the U.S. [@youngPredictingParoleGrants2015; @youngRacialDisparitiesLifer2021; @vanzylsmitLifeImprisonmentGlobal2019] as compared to the less punitive European context [@padfieldIndeterminateSentencesAgain2003; @vanzylsmitLifeImprisonmentGlobal2019].
+
+The parole of life-sentenced prisoners (hereinafter: *lifers*) is, increasingly, a key research field, since it touches on numerous issues, including public safety, human rights, and proportionality in sentencing (especially if release occurs long after the minimum term of imprisonment). Because the granting of parole also indicates that resocialization remains possible even after the most serious crimes [@vanzylsmitLifeImprisonmentGlobal2019], it also reveals something about the social contract and the terms of citizenship [@behanNoLongerCollateral2022]. Despite these important public dimensions, parole hearings are typically conducted behind closed doors, and have often been characterized in empirical research as arbitrary, especially punitive, and racially biased [@youngRacialDisparitiesLifer2021]. Several scholars have noted that hearings are 'notoriously difficult to access'; only a handful of studies have examined the qualitative elements of lifers' parole decisions, and even fewer have done so beyond the Anglo-American systems [e.g. @youngHowParoleBoards2022; @shammasPerilsParoleHearings2019; @kokkaleraNowPossibilityParole2023; @youngRacialDisparitiesLifer2021].
+
+Decision-making on lifers' parole, while varied between systems, has been shown to be based on diverse considerations: risk assessment, evaluations of moral reform, and the parole applicant's ability to demonstrate 'insight' about their crime [@shammasPerilsParoleHearings2019; @aviramYesterdayMonstersManson2020; @youngHowParoleBoards2022; @kokkaleraNowPossibilityParole2023]. Though in many systems, release decisions are often framed formally as decisions about risk, they nonetheless often encompass retributive considerations, such as the severity of the index offence and the proportionate leniency or severity of a release decision, or whether the prisoners cross the ‘moral threshold’ to be considered worthy of release [@hawkinsAssessingEvilDecision1983]. Such retrospection by parole panels is especially common with lifers [@youngPredictingParoleGrants2015; @youngRacialDisparitiesLifer2021; @vanzylsmitLifeImprisonmentGlobal2019], with the decision often hinging on the lifer's expressions of remorse, their conformity with offence narratives formulated by the sentencing court, the degree to which they present their offending as the result of deficits within themselves, and their willingness to attribute the state as a key actor in their moral transformation [@youngHowParoleBoards2022].
+
+Neoliberal legal scholars have for many years criticized parole as 'unjust' [@vonhirschQuestionParoleRetention1979, 1], as employing a merely 'numerical symbolism' [@nagelStructuringSentencingDiscretion1989, 884], as 'deceiv[ing] the public' [@vandenhaagCriminalLawThreat1982, 780], or as '*prima facie* [...] anathema to a commensurate deserts model' [@singerJustDesertsSentencing1979, 121]. Others have argued that parole 'coddled' criminals and victimized law-abiding citizens, because an offender would be released after serving only a portion of the sentence [@larkinParoleCorpsePhoenix2013]; critics have also argued that it is 'difficult to explain' why the parole board should be permitted to revisit the proportionality judgment in the original sentence [@reitzReporterStudyQuestion2011, 127].
+
+These characterizations cast parole as a kind of opposite to retributivist censure. Yet while parole and early release are often used as levers by prison authorities, to incentivize rehabilitative compliance and other instrumental goals [e.g. easing prison overcrowding or promoting prison order, see @petersiliaWhenPrisonersCome2003; @barryWalkingIceFuture2021] questions of morality and justice persist, both for parole applicants and parole boards [@hawkinsAssessingEvilDecision1983; @reitzReporterStudyQuestion2011; @ruhlandPhilosophiesDecisionMaking2020]. Empirical research---especially in the U.S. [@aviramYesterdayMonstersManson2020; @herbertDegradationRedemptionParole2022; @shammasPerilsParoleHearings2019], but also in several European countries [@griffinKillingTimeLife2018]---has shown that parole processes deliver punitive censure at the 'back-door', via several mechanisms: 'overestimated criminal history' [@hoodParoleSystemWork2000a], a 'disproportionate emphasis on [the originating] crime' [e.g. directly or via victim impact statements, see @padfieldGivingGettingParole2019; @aviramYesterdayMonstersManson2020]. On this basis, parole decision-making, especially for serious crimes, has been argued to reflect 'punitive public opinion' [@griffinKillingTimeLife2018], and to communicate 're-censuring' [@aviramYesterdayMonstersManson2020] and 'stigmatizing' [@herbertDegradationRedemptionParole2022] aims. Parole boards were found to 're-sentence' lifers for their past crimes [@aviramYesterdayMonstersManson2020], to reiterate their 'evil moral character' generally [@hawkinsAssessingEvilDecision1983; @daganRetributiveWhisperCommunicative2015], and to indict failures to show 'insight' or internalize their wrongdoing [@aviramYesterdayMonstersManson2020; @hawkinsAssessingEvilDecision1983; @dalkeComeYouChanged2024; @youngHowParoleBoards2022; @shammasPerilsParoleHearings2019].
+
+Scholars also suggest that in practice, parole hearings and post-release supervision can stray beyond risk assessment. In the usually high degree of discretion available to parole board members lies the risk that their decisions foist private moral beliefs upon applicants [@herbertDegradationRedemptionParole2022; @werthIndividualizingRiskMoral2017]. Research has shown that parole board members sometimes humiliate applicants and reinforce stigma [@opsalWomenDisruptingMarginalized2011; @herbertDegradationRedemptionParole2022], seek to ensure that they ‘feel the weight’ of their past offending [@herbertDegradationRedemptionParole2022], and question claimed identity changes, in the process delegitimizing parole applicants' efforts to demonstrate reform, display remorse, or show that they can change [@herbertDegradationRedemptionParole2022; @torresHumiliationItsNature2010]. If such reports are accurate, then the offender’s voice in the retributive dialogue [@brownleeOffenderPartDialogue2011] is suppressed. Renewed stigma through the parole decision-making process may make reformative efforts seem fruitless. Parole hearings, in such cases, may send the message that some crimes stigmatize a person indefinitely, rendering them permanently morally suspect, or untrustworthy [@marunaPygmalionReintegrationProcess2004; @pogrebinRejectionHumiliationParole2015a; @herbertDegradationRedemptionParole2022].
+
+While the punitiveness of the parole sphere has now received substantial attention, how prisoners facing parole decisions negotiate with expressions of back-door censure has not. The renewal of censure is an established empirical finding, but begs a further question: how do parole applicants respond? More specifically, how do they construct and negotiate their selfhood, against the opposing view that their release would be unjust, lenient, and disproportionate to the gravity of their crimes?
+
+This question is especially pertinent when parole applicants are lifers imprisoned for murder, generally regarded as both an 'ultimate' and a unique crime. Murder usually carries the most severe sentences possible, often one of life imprisonment with or without the possibility of parole [@mitchellExploringMandatoryLife2012; @vanzylsmitLifeImprisonmentGlobal2019]. Parole hearings for those convicted of murder can provide unique insights into how they adopt a redeemed or desisting self ('redemption scripts') despite profoundly discredited identities [@marunaMakingGoodHow2001; @lebelHelpingOthersResponse2015; @presserNarrativesOffenders2009; @shammasPerilsParoleHearings2019] and into how lifers manage the 'stains' [@ievinsStainsImprisonmentMoral2023] of the conviction long after it was imposed.
+
+Existing criminological research yields some insight into how people convicted of violent crimes respond to censure. It has noted that some show strong tendencies to minimize or deflect blame, and therefore to contest how proportionate was their penalty. With homicide---an extremely harmful but often unevenly wrongful offence, often subdivided by 'degree' or by the severity of punishment [@morrallMurderSociety2006; @simonHowShouldWe2011; @thelawcommissionMurderManslaughterInfanticide2006; @wilsonMurderStructureHomicide2000; @wilsonWhatWrongMurder2007]---the resulting moral contestation is particularly evident. Since the earliest empirical classifications [e.g. @wolfgangPatternsCriminalHomicide2016], it has been oft-noted that some homicide victims play an active role in the conflicts leading to their death. Many common-law jurisdictions have tightened the associated defense of provocation [@ashworthDoctrineProvocation1976; @bakerProvocationDefenceAbused1998; @laceyPartialDefencesHomicide2000; @renkeCalmBombAssessment2009; @williamsonGenderLawProvocation2019], based on the moral intuition that victim-blaming is odious. Yet the *notion* of provocation "serve[s] legitimate functions" [@renkeCalmBombAssessment2009, 778; cf. @dresslerWhyKeepProvocation2001; @sullivanAngerExcuseReassessing1993], in that it is sometimes appropriate to recognize extenuating circumstances. One common case is women who have killed controlling and coercive partners [@bettinsonAligningPartialDefences2019; @williamsonGenderLawProvocation2019]---a socio-legal tendency that reflects underlying cultural shifts concerning which forms of provocation warrant moral recognition.
+
+Put simply, some people convicted of murder may believe that their actions, while regrettable and unwarranted, were morally intelligible given the circumstances; they may also invoke concepts like provocation to support these beliefs [@dobashWhenMenMurder2015; @dobashMaleMaleMurder2020]. Yet 'worse' or more aggravated forms of murder may be difficult to attribute to the circumstances or to a conflict in this way, and may as a consequence appear more predatory or pathological. It may not be equally easy for people convicted of different kinds of murder to 'respond' to censure [@jarmanOnlyOneWay2020], nor to develop an authentic identity performance in line with official expectations.
+
+Although these findings from criminological research are suggestive about the responses to 'back-door' censure which might be observed in the parole process, they are not specifically drawn from research on parole. Studies of parole hearings---which occur after lifers have had many years to reflect, and which communicate messages about the offence, the offender's moral response, and their punishment---offer rich insight into how responses to censure might be structured and patterned.
+
+# Context and method
+
+## Context
+
+The Israeli parole system is based on English law. Its purposes are discretionary and risk-oriented, as is common in European systems [@vanzylsmitAmericanExceptionalismParole2017].[^1] The Israel Special parole board (hereinafter: *the board*) makes parole decisions. Exceptions and legal technicalities aside, the typical sentence for murder was, at the time of this study, a mandatory indeterminate life sentence. Typically, a commutation committee, institutionally separated from the sentencing court, commutes the *indeterminate* sentence to a *determinate* one of at least 30 years. This becomes the maximum sentence to be served, and the lifer becomes eligible to apply for parole after two-thirds of it has passed. This means that, in most cases, the first opportunity for parole occurs after at least 20 years of imprisonment (Parole Law, 2001: ss.29--30).
+
+The board is considered a "quasi-judicial" body governed by public law, and comprises a chairperson (always, in the case of lifers, a district judge) and two clinical experts (e.g., criminologist, social worker). The law directs the board to assess whether the prisoners' release "is appropriate and would pose a risk to public safety" (s.3). For this purpose, the board can consider, with broad discretion, a wide range of factors including criminal history, crime severity, prison discipline and rehabilitation, post-release plans, victim impact statements, and risk assessment (ss.9-12). Only in "exceptional and unusual cases" should parole be denied as an act of retribution or general deterrence, and, if applied, the weight given to such punitive considerations should reduce with the passage of time (s.10(a)). Uniquely in cases where the board considers the release of lifers, they are also directed to consider whether the applicant has 'notably and substantially changed in terms of understanding the severity of [their] actions and [their] willingness to integrate within and contribute to society' (s.10(b)).
+
+Board hearings are usually conducted within prison walls, hidden from the public eye. They include an oral discussion of the case in the presence of key stakeholders: the board members, the applicant and his/her counsel, the Attorney General's Counsel (who represents the State in the process), and the victim's family (s.33). The State usually opens the argument, the lifer's counsel responds, and the lifers make a closing statement, while the board members may ask the parties questions (ss.16-17). The board hands over its written decision at the end of the hearing or shortly after (usually 3-10 pages). The hearing is transcribed verbatim by the board's clerk, but is not published [@sharonEarlyReleasePrison2003].
+
+[^1]: However, in Israel the sentencing court does not determine a minimum term to be served before parole eligibility, as is the case in several other systems [e.g. England and Wales, see @vanzylsmitLifeImprisonmentGlobal2019].
+
+## Data and method
+
+This analysis is part of a larger project on lifers' parole hearings (XXXX, XXXX), with the data taken from the archives of the Prison Rehabilitation Authority---the national body responsible for re-entry. These contain all SBP hearings from 2018 (the year that the PRA started formally archiving its work) to 2020. The data consist of hearing transcripts for 130 lifers, each around 5-10 pages in length, as well as the board's transcribed decision (about 1,500 transcribed pages overall).
+
+All lifers in the dataset were adults serving mandatory life sentences for murder; two, in addition, were convicted of rape. Their determinate sentences (after commutation) averaged around 31 years. Their average age at the time of the hearing was 54.5 years. Most (94%) were men, about two-thirds were Jewish (62%), and about one-third were Arab (38%). A few (6%) had served prison time before their life sentences. They were legally represented in most cases (93.8%). The board rejected their applications in 86% of cases, and granted parole in 14%. Those whose applications were approved had served an average of 22.8 years.
+
+Access to the data was approved by the PRA's research committee and the first author's university's institutional review board. We exercised caution in anonymizing the data and eliminating any identifying details when analyzing and reporting the findings. An inductive-driven thematic analysis was conducted [@clarkeTeachingThematicAnalysis2013].
+
+# Findings
+
+## The punitiveness of the parole regime
+
+The law requires the board to focus on assessing risk and rehabilitation. Its rhetoric, as evident in the written record, does much more than this. The board, sometimes during the hearing but most often in its written decisions, *re-censured* the applicants' crimes. It characterized applicants as 'lifers' and 'prisoners', and described their offences using a range of censuring terminology: 'animalistic', 'cruel', 'evil', 'despicable', 'unconscionable', 'inhumane', and so on.
+
+The board also reaffirmed messages delivered many years previously by sentencing judges at the 'front-door' of the sentence. Hearing transcripts frequently excerpted sentencing remarks (directly or in paraphrased way), or the prosecution's submissions from sentencing hearings. The censure the board reiterated in this context was often *explicitly* retrospective. While it sometimes acknowledged changes in the prisoner's conduct and personality during the intervening years, it often characterized these as an irrelevance, opting instead to reiterate moral condemnation for the original offence:
+
+  > The prisoner has already undergone a significant transformation [...] regarding her criminal mindset... based on the impression we received from her testimony [...] it is clear that she recognizes her responsibility for the heinous act she committed. She feels the weight of the murder she carried out and acknowledges that it [was] unforgivable [...] Nevertheless [...] given this is an unjustified murder of a young, talented individual who accidentally found himself in the wrong place at the wrong time, begged for his life, and had his life taken for no apparent reason, like a scene from the movie, *A Clockwork Orange*, it is not the right time for parole [...] The murder shook the foundations of the State [...] people stood in disbelief and horror, questioning why and how this young man's life was cut short [...] In a case of such seriousness, if the prisoner were to be released [...] it would severely undermine public trust in the judicial system and law enforcement agencies and create an unreasonable imbalance between the crime's severity and the actual punishment the prisoner would receive. (*C. v. State*, 2019)
+
+Such comments do not prospectively assess risk, but reaffirm retrospective censure, often many years after the fact, and after the applicants' first parole possibility had expired. Applicants' serious offences were used to ascribe to them irredeemable and unchanging qualities, regardless of their own attempts at change:
+
+  > Releasing the prisoner six years before the end of his sentence, considering the severe and incomprehensible circumstances of the crimes, has the potential to undermine public trust [...] *no passage of time can rectify the inherent discrediting of the law that would result from his being granted parole*. (*G. v State*, 2020)
+
+By expressing censure in this vein, the board made clear that if the applicants suffered in prison, this was nonetheless immaterial to the parole decision. This was not because their suffering was immaterial to risk, but because their crime, and public confidence in criminal law, justified their suffering.
+
+It is also clear from the written record that the board considers it part of its role to express explicit skepticism about applicants' claims to have changed through a lens of a deterministic 'character essentialism' (Lacey 2016). Often, these reinforced the moral stain of past criminality: 'breach trust in the past' (*H. v State*, 2020), 'has significant criminal history' (*L. v* State, 2016) and 'his criminal past is too heavy from carrying' (*A. v. State*, 2019). The applicants were labelled often as 'manipulative' and 'passive' (*B. v State*, 2019), or 'cynical' and 'cold blooded, 'lack of empathy to the victim' or 'unauthentic' (*L. v State*, 2016) in board decisions or the prosecutorial submissions quoted in them. The board also reported the views of crime victims' families, which labelled applicants in as 'ticking bomb', 'criminal terrorist', 'dangerous murderer' and similar stigmatizing and censuring labels (*S. v. State*, 2020).
+
+## Responding to parole punitiveness
+
+The hearing transcripts demonstrate that life-sentenced parole applicants anticipated such expressions of censure, with their responses and arguments in favor of their release taking retributive argumentation over proportionality and desert as the reference point in addition to stressing their rehabilitative progress and risk reduction. The applicants resist the punishment questioning to some extant their ongoing sentence.
+
+While some applicants described their crime and punishment as *deserved* (e.g., 'I should stay in prison for the rest of my life' (*A. v. State*, 2017)), closer attention to the applicants' self-representation, however, shows that the applicants did not only make these *generally* self-censuring statements, but took three *specific* approaches for resisting their punishment, arguing for their release within an overall retributive logic. That is, they moved beyond the instrumental ethics of rehabilitation and risk (e.g., 'I am not dangerous, I did a therapeutic process' (*S. v. State*, 2020)) and instead sought to show that they *deserved* release on parole.
+
+The three broad approaches for supporting their parole deservingness were: negotiating over the *moral weight* of their crime; reframing the *debt* they owed to society; and emphasizing stigma and *stain* associated with their conviction. These metaphors, as we shall see, facilitated reflection upon the construal of applicants' crimes, and their punishment. They emphasize that people negotiating questions of blame and stigma draw upon a broad moral, psychological and sociological set of resources, not merely those enshrined by law [see @lakoffMetaphorsWeLive2003; @ricoeurSymbolismEvil1967; @lamPatternsSinHebrew2016].
+
+## Response one: Negotiating over the moral 'weight' of the crime
+
+Some lifers used a distancing language (e.g., the victim as 'the lady', 'her', and the murder as an 'incident', 'event', 'thing') few lifers refereed generally to 'their bad choices in life', 'wrong way', 'mistakes of the past' or by constructing their crime more as a violation of a legal norm then a harm to a specific victim (e.g., '*the crime in the book of law*' (*P.* *v, State,* 2020)).
+
+Some lifers suggested that they deserved parole by engaging with the 'moral weight' of their crime [@hulleyMoralWeightMurder2023]: they characterized the offence as 'lighter' than it might otherwise have appeared. In doing so, applicants engaged with retrospective considerations: the culpability and harm associated with their offences. Their narratives went beyond the 'legal magic' that transformed their actions into a single definition of 'murder', and argued towards a more morally and socially nuanced framing [@marunaJudicialRehabilitationClean2011; @jarmanMoralMessagesEthical2024].
+
+### Negotiating culpability
+
+Only a very few applicants took the first approach to negotiating culpability: a wholesale rejection of blame. They did so through various 'techniques of neutralization' [@cohenStatesDenialKnowing2013], such as denial of their involvement in the crime (e.g., lack of 'actus reus'): 'I ran away [from the scene], I saw two men fighting each other' (*C. v. State*, 2018).
+
+Those who took this approach ran the risk of a firm rejection by the board. Regardless of their facticity, such arguments undermined the 'truth-finding function of the criminal law' [@youngHowParoleBoards2022], and were likely to be interpreted by the board as evidence of a lack of 'insight' and 'internalization', or as 'minimization' (e.g., *A. v. State*, 2021). The board, for example, criticized one applicant who claimed that she was not the primary actor in the murder as follows:
+
+  > [She shows] strong distorted thinking about the event [i.e. the crime], her role in it, and how it happened; we wonder whether she is sincerely regretful for her actions, understands their seriousness, and her responsibility for this most horrible act. (*C. v. State*, 2018)
+
+More often, therefore, applicants took a second approach: accepting responsibility for the physical elements of the crime, while suggesting less-than-full culpability ('mens rea'). The reasons offered included self-defense, mistake, insanity, and other criminal defenses. They also sometimes involved invoking excuses, which, in 'ordinary language' [@austinPleaExcusesPresidential1956], soften the implications of responsibility (e.g. when claimed recklessness dilutes intent). This approach walked a thin line, attempting neither to diminish the applicant's wrongdoing, nor to question the integrity of the legal determination made by the sentencing court, but to salvage a less dishonorable motive. As one applicant stated:
+
+  > I was asked [by the board] why I attacked the victim. I did it, but not of evil motivation, God forbid. *I committed a murder, the most severe crime*, I have nothing to say about that, *but the truth that I was defending myself*. (*L. v. State*, 2016)
+
+This approach was common among female applicants imprisoned for killing their abusive partners. In the wider context of domestic violence, such an approach amounts to an attempt to 'de-idealize' the victim [@christieIdealVictim1986] and to emphasize their role in the events leading to the offence. Accounts of this kind often stretched the story out over time, situating the index offence not in a single moment, but within a longer cycle of victimization:
+
+  > [Many] years ago, I met the deceased... and married [him], who was terror for me... my whole body has scars until this day... He brought me pain, and the child was in danger... and after giving birth, he abused me at the hospital itself because I gave birth to a daughter... You cannot imagine the terror I lived in... From that day on, all the rage that was in me turned towards him. I, the victim turned into the aggressor, because I wanted to protect my children... he started to strip me in front of the children. You can't imagine the person I was living with... It was too much pain, I couldn't control it. (*D. v State*, 2018)
+
+A third approach to the negotiating over the weight of their culpability arose when applicants referred to their broader life circumstances prior to the offence: accounts of hard childhoods, dysfunctional upbringings, poverty, neglect, or earlier abuse hinted that their opportunities to become 'good' people had been curtailed: 'I was influenced from my environment, it was cooler then to be a rebel' (*R. v State*, 2021).
+
+In contextualizing the offence, such narratives in effect echoed some versions of criminological theory, not others. To anchor an offence narrative in rational choice theory would render the offence more culpable; gesturing instead towards social learning, strain and attachment-based explanations, again stretched the temporality of the narrative, setting the intense blame of the moment in a wider context [see @sampsonCrimeMakingPathways1993]. Like those who set the offence of murder in the context of a violent relationship, then, applicants following this approach used the life-course, specifically childhood neglect and lack of social bonds, to explain a single criminal act:
+
+  > I lived a criminal life from a very young age, I lived in a violent house, the path that I choose was violent, I grew up with it, the violence to deal with things and this what I knew. (A. v State, 2020)
+
+Some applicants described how they had internalized the 'code of the street' [@andersonCodeStreetDecency2000] in childhood, learning that displays of violence communicated identity. They characterized violence as something *learned*, not precisely something *chosen*:
+
+  > I didn't have boundaries [as a youth], I had no mum or dad, I grew up with criminals, and fell into drugs... I was born as a street boy, what do you expect from such boy to do? Only crime. (*D. v. State*, 2019)
+
+Applicants making these explanations often expressed regrets not only in relation to the murder, but to their wider personhood: at having gone the 'wrong way', at 'the mistakes of the past', or for 'who they were in the past'. Comments of this kind contrasted past and present, suggesting that now they were mature adults: responsible, resilient, and able to resolve their tensions lawfully and without resort to violence---and hence, deserving of parole: 'today I am different, not the same person, I am doing my work, everything that is needed I do [...] I got beaten in prison and I didn't fight back' (*L. v. State*, 2019).
+
+### Reframing harm (through holistic repair)
+
+Some applicants reframed not the question of their culpability, but instead the question of the harms caused by their offence. Of course, repairing the harms involved in murder was impossible, something that several applicants lament: 'I can't turn back the wheels of history ... if I could return back the child [I murdered] in the cost of my own life I would do so now, but I can't' (*G. v. State*, 2020).
+
+Since repairing the harms involved was impossible, doing so involved paradoxical attempts to show how they had channeled their efforts to 'make good' elsewhere. Many hinted at a sophisticated moral 'ledger' emphasizing their determination to make amends [@marunaWhatHaveWe2005].
+
+These efforts took several forms. Some applicants suggested that by having *prevented others* from coming to harm since the offence, they had rectified and repaired equivalent harms to those they had inflicted on their *victims*. Several applicants used a language of 'compensation' to describe such activities:
+
+  > I worked for six years in prison hospital unpaid work of my own free will, I worked with ill people, I helped them, treated their needs, cleaned their rooms, *there were also suicidal cases, I supported them with my experience how to undergone this hard period, I gave purely to my soul, to compensate for what I have done, it was a great compensation, to see that I save people*. (*A. v. State*, 2016)
+
+For others, showing their determination to prevent *future* harms fulfilled a similar function. A common thread here was the wish to help those whose lives were deteriorating into addiction and crime, with these 'saved' individuals presented as an indirect remedy for the lives they had taken: 'I took life, can't escape that, this will stay with me all time, but I build life' (*J. v. State*, 2018) or 'my amends is to help drug addicts; beyond that, I can't bring [the victim] back to life' (*S. v. State*, 2022). One applicant referred to his work teaching others in similar terms, implying that it would have similar, though more indirect, benefits:
+
+  > I attempt to prevent violent people from being violent in my free time, I will tell them about the consequences [of crime] and help them... I wanted to help and amend at least, little of it. (*A. v. State*, 2021)
+
+Regardless of the approach, all of these accounts recognized that directly healing the harms involved in a murder was impossible, but hinted that the applicants deserved parole because by adopting 'generative' [@marunaMakingGoodHow2001] practices they either had performed, or would perform, acts of holistic moral repair.
+
+## Response two: Negotiating the moral 'debt' of punishment
+
+Whereas some applicants negotiated over blame, others did so over the punishment, by implying that the penal 'debt' they had incurred was excessive, unpayable, or discharged.[^2] This approach was especially common among especially serious instances of murder (e.g., those involving child victims or multiple victims); understanding, perhaps, that their culpability would be seen as beyond doubt, they instead highlighted the intensely difficult and stigmatizing experiences they had undergone in custody. They referenced the harmfulness of the sentence itself, reminding the board, in case it was not already aware, of the full meaning of receiving and serving a life sentence and its unique ongoing pains [@creweLifeImprisonmentYoung2020].
+
+Taking such an approach suggested that the retributive 'debt to society' was now paid, in the crude sense that penal harm had been traded for their criminal harm.
+
+[^2]: For a discussion of the shortcomings of the penal 'debt' metaphor, see @ievinsFalseAccountingWhy2021.
+
+### Debt already paid: Subjectivizing penal suffering
+
+In one kind of narrative in this category, applicants implicitly challenged the idea that their punishment followed the narrow, formal definition of retributive theorists: something *intentionally administered* and *measurable* by the deprivations it imposed [see @kolberSubjectiveExperiencePunishment2009]. They presented prison experience not in the form of abstractions [such as 'the deprivation of liberty' or 'suspension of rights', see @garlandConceptsCultureSociology2011] but as concrete, unrelenting, suffering, resulting in time which was 'harder' than they deserved, expected, or believed other prisoners to be serving.
+
+Drawing attention to their personal or relational circumstances, and to their subjective experiences in prison, applicants made the case that although it might be justifiable *in the abstract* to prolong imprisonment, it was not justifiable *in their case*. Self-presentations of this kind moved the frame, bringing into view aspects of penal suffering the board might not otherwise consider if it took an objective-quantitative perspective [@kolberSubjectiveExperiencePunishment2009], they invited the board step inside the applicant's 'penal consciousness' [@sextonPenalSubjectivitiesDeveloping2015; @vannierTimeRelentlessMelt2023] and make a subjective-qualitative evaluation.
+
+Some who subjectivized their 'debt to society' in this way expanded the frame 'vertically': they invited the board to consider, directly, the impact of the sentence on them as individuals. A range of prison experiences were offered to support these arguments: physical/sexual victimization by other prisoners or staff and lengthy periods of solitary confinement, were common reference points. Some also described a sense of alienation from family and friends, and feelings of unremitting loneliness: 'In this sentence I have undergone seven phases of hell. I lost my parents through this imprisonment, I lost so much' (*G. v. State*, 2021).
+
+Others referred to 'pains of indeterminacy' regarding their release date [@creweDepthWeightTightness2011], which combined with their increasing age, added to the 'pain quotient' [@odonnellPrisonersSolitudeTime2014, 201] associated with prison time: 'the more I become older I understand the feeling of cruel punishment, indeterminate punishment [I am serving]' (*H. v. State*, 2016).
+
+For the many applicants who were elderly or ill at the time of the hearing, references to mortality and failing health implied that punishment was reducing them to 'bare life' [@agambenHomoSacerSovereign1998]. They were, they suggested, becoming abject, broken bodies rather than powerful 'monsters' [@agambenHomoSacerSovereign1998]. Such narratives questioned whether their continued imprisonment was humane, or deserved, as one applicant suffers from severe medical condition argued '*I deserve many years* but *I am no longer a prisoner, I am a broken tool*, I can't do elementary things with my hands' (*Z. v. State*, 2020). Some applicants went further, comparing the continuing sentence with death. One, suffering from severe diabetes and with one leg amputated, argued, for example:
+
+  > If you want to continue my imprisonment, execute me, why make me suffer more? [...] I suffer, every week I fail. Enough! (*A. v. State*, 2019)
+
+Others expressed blame towards the state for overstepping the bounds of proportionality, embodying how their liberty deprivation become a physical punishment in the carceral context. As one applicant suffering from severe nerve problems and arthritis argued: 'I did a crime and deserve punishment, but the state of Israel hurt me and caused me this [severe] medical condition' (*D. v. State*, 2021).
+
+A second expansion of the frame on proportionality occurred 'horizontally', inviting the parole panel to consider the 'symbiotic harms' [@condryConceptualizingEffectsImprisonment2021] inflicted on applicants' family members, who the sentence forced to live for decades without a parent or a spouse, often in financial hardship. As one applicant put it: 'my wife is without a husband, my child is without a father, this is wrong, they can barely survive economically (*K. v. State*, 2017). These applicants presented their release as a moral obligation and owed to innocent parties undeservingly impacted by the punishment. As one stated:
+
+  > My children, they have no mother now, and lived without a father [for years] [I ask parole] not only for me, *this is for my wife that deserve it*. (*F. v. State*, 2020)
+  
+Another applicant stated, simply: 
+
+  > My family has *suffered enough*. (*A. v. State*, 2019)
+
+Such arguments positioned the applicants not as atomized individuals but as persons embedded in relationships of care; they implied that an accurate accounting of harm and penal debt could only be made by bringing these undeserving parties into the calculation.
+
+A third expansion of the frame pointed inwards: neither to changing circumstances such as age or illness, nor to family members harmed without being at fault, but to a more specifically moral subjectivity. Here, the emphasis was on troubled consciences, which produced relentless feelings of 'penance', 'guilt', 'shame', and an 'inability to forgive myself'. Often, such sentiments hinted at the 'moral injury' [@litzMoralInjuryMoral2009] applicants had suffered, through having violated their own values by committing the offence As one stated:
+
+  > There is no day without pangs of conscience and regret for what I did; I can't forgive myself and [I] blame myself [...] regrettably I would have to leave with that. (*R. v. State*, 2020)
+
+Again, the argument here was about accurate accounting of penal harm, and these applicants amalgamated two forms of pain---one inflicted by formal punishment, one by the self---to suggest a new accounting for penal debt:
+
+  > In my dreams, I spoke to [crime victim's family] and asked for forgiveness, and to understand the deep place they are in, not just for me but also for themselves. I know it's not realistic... *the weight of guilt is so heavy upon me... it's my punishment, and I am guilty and responsible for it*. If it can be repaired somehow, I will continue to bear it. It is with me everywhere, demanding me to make repentance for my actions. (*G. v. State*, 2020)
+
+Such accounts insisted that the pains of conscience were sharper and more durable than the pains of imprisonment, making further legal retributive 'hard treatment' [@duffPunishmentCommunicationCommunity2003] excessive. As one applicant put it:
+
+  > This will agonize me forever. There is no one night that passed without pain. (*J. v. State*, 2020)
+
+To sum up, among applicants who sought to negotiate over the size and the repayment terms of their penal debt, their narratives pronounced the 'debt' of punishment discharged, by appealing to the board to recognize that the applicants' *subjective* experiences of punishment (and those of their relatives) exceeded what the law required.
+
+### Paying debt through the law
+
+A further subgroup of applicants who negotiated over questions of 'debt' and how to pay it through the law. They argued not that parole should be granted because as their crime severity should be contextualized less, nor because of their excessive suffering, but for the more technical-legal reason that they met what they understood to be the formal eligibility and behavioral criteria. Here release was presented as something 'earned', not through conformity with moral obligations arising from the offence, but by conducting themselves as the prison or parole law required.
+
+They typically emphasized that they had completed prescribed rehabilitative requirements, worked as required, and avoided disciplinary charges in prison. On this basis, they suggested, to deny them parole would deprive them of a legal entitlement they earned after they performed their 'duty':
+
+  > Remaining in prison harms me. *There is a law, and the law said that [I] should have parole for good behavior*... I have undergone very extensive treatment... being in prison rehabilitation for five years and eight months, this goes above and beyond. I exhausted the things [I was asked to do], I think I have done my duty. (*S. v. State*, 2021)
+
+Others characterized the parole as a constitutional bulwark against unlimited retributive punishment, rather than as a stricter and more individualized assessment of risk or reform. This, again, redefined the nature and purpose of parole from the applicants' perspectives: since there was, in cases of murder, no possible restitution of the harm involved (and hence no way of repaying the 'debt'), to grant parole expressed a more *civic* set of values, guarding against gratuitous and excessive penal suffering. Applicants encouraged the board to uphold a civic liberal virtue, rather than appealing to it to uphold their personal virtue:
+
+  > There is *no forgiveness for a someone that took a man's soul*, but *the law in advanced states gives chances* for a man to return and enter [again] to society [and so I should be released]. (*A. v. State*, 2017)
+
+In such cases, applicants presented themselves as deserving of parole through appealing to the law as a source for recognizing their human rights, humanity and their possibility of reform and reintegration despite their crimes.
+
+## Response three: Negotiating the 'stains' of stigma
+
+A third approach was centered on stigma, shame and otherness that emerged from their crime. Applicants used various 'stigma resistance' techniques [@goffmanStigmaNotesManagement2022; @ievinsStainsImprisonmentMoral2023] in arguing that they deserved parole as the already 'clean' despite of their crime.
+
+Several applicants acknowledged the difficulty of removing the moral 'stain' [@ievinsStainsImprisonmentMoral2023, 43] which they associated with public 'othering' of those convicted of the crime. They expected the conviction to mark them as the ultimate outcasts; as one put it: 'I am carrying a very heavy mark of Cain on my face' (*R. v. State*, 2021).[^3] Only very few expected this stigma to fade after release, referring to the vanishing of the 'orange stain' [the color of prison uniforms] when released into community (*S. v. State,* 2019). For most of the others, cleaning the 'stain' of 'spoiled identity' [@goffmanStigmaNotesManagement2022] was a matter of signaling their exceptional moral virtue, and assimilation in society despite being prisoners: 'there is a stain one me' (*A. v State*, 2022) and 'this is a stain for all my life' (*S. v State*, 2022).
+
+[^3]: The biblical story of Cain, who murdered his brother Abel and was marked by God (Gen. 4:15), presents guilt as a lifelong stigma that is neither forgiven nor forgotten.
+
+### Signaling virtuous agency
+
+Almost all applicants referred during their hearings to positive prison records (e.g. good prison discipline), education (e.g., education credentials) or rehabilitative efforts. They were signaling their employability and commitment to desistance. Further, though, many sought to show not only that they were not *criminals*, nor only that they were now *law-abiding* and risk-free, but instead that they were *virtuous agents*. Such moral virtue, as they suggested, was intimately woven into their character, defining the 'true' self and negating the stigma and moral 'stain' implicit in being 'lifers' [see @spiveyThatDoesnDefine2023]. They sought to communicate distance between their core character and the label [@marunaMakingGoodHow2001].
+
+Such identity work again involved stretching the timeframe of their narratives and detaching their selfhood from a 'crime-related' identity. It differed from the similar narrative-stretching engaged in by applicants who negotiated the moral 'weight' of their crimes (see above), who emphasized how they came to be criminals and hence explained their criminality through describing their criminal life-course.
+
+Here, instead, parole applicants were *diluting*, not *explaining*, criminal identity, by referring to exceptional ethical standards they had attained prior to the offence: acts of self-sacrifice, battlefield heroism, exceptional civil service, or care to friends in trouble. Often integral to such accounts were expressions of disbelief that they could have committed a crime so opposed to these high standards:
+
+  > Along the years it was very hard to me to believe that I committed this murder, I did not come from a house of crime. To the contrary, I was always helpful to others, especially I was a nurse in a hospital and in the military service... In the army I did the maximum, I was in a ship that sank, I [jumped] into the water and helped people, whoever was near to me. I didn't leave. I saw myself all the time helping and giving... *I found it hard to believe that I committed this murder, a hard and serious crime, I did not want to believe that because it's so far from me*. (*F. v. State*, 2020)
+
+Others connected their reformed character to a range of activities they described: acting as role models for other prisoners in their hour of need (e.g., addiction, disease), or teaching others skills, or proving them social or mental support. Such narratives implied that their moral characters were essentially good, and moreover unblemished by the crime (and hence able to be reintegrated into society again). As their core self is moral and well-functioned both before and after the crime, the 'density' of their 'stain' of crime should be viewed as could be removed when returning to community.
+
+### Signaling stains removed by community
+
+For some applicants, removing the stain of the crime involved signaling an ability to 'assimilate' with other moral identities despite the offence and their stigma practically removed in the eyes of community [@lavinNormalizingDeviantsNotes2020, 830]. These applicants stressed their integration with social networks situated beyond prison walls---for instance friends, partners, future employers, etc.---who awaited their release and stood ready with resources and assistance. Such networks subtly hinted that the applicant's core moral identity---the foundation and precondition for such relationships---had survived imprisonment, and the public dimension of stigma, inherent to their crime, could be overcome (or already overcome), as others treat them as equal with respect and love: 'I have two grandchildren, come to visit me, also my wife, [they] all respect me, [they] all love me' (*V. v. State*, 2016).
+
+Applicants making these arguments sometimes referenced temporary release or prison work done beyond the prison walls, using these to suggest not only that they were not dangerous, but that they were already well-integrated in communities in which their status as prisoners was effectively 'waived', because it was barely noticed by others:
+
+  > I work outside [prison], I work with civilians, take public transport, I live outside... Who knows that I am a prisoner?... I got huge support from my family, when I came home on furlough there was a joy in the house. (*S. v. State*, 2022)
+
+Such statements emphasized that assimilation into society had already occurred, that the applicant was trustworthy, and that their moral status was 'above' that of a life-sentenced prisoner. Significantly, assimilation narratives also sometimes rested on an explicit claim of moral parity with more 'ordinary' citizens: 'today I have [the] strengths and [the] will to function like any other citizen in community' (*J. v. State*, 2018). Evidence cited in support of these claims stressed the trust placed in them by prison officers: 'I work in the prison gates, I sanitized the guards' hands, only prisoners who have trust can work [there]' (*B. v State*, 2020). A sense of earned citizenship and stigma resistance---of 'moral rehabilitation' [see @burkeReimaginingRehabilitationIndividual2019]---allowed applicants to assert that they deserved parole, because the stain of their crimes had been washed away.
+
+# Discussion
+
+There is, by now, a rich empirical and theoretical literature documenting how the 'culture of control' and 'penal populism' [@garlandCultureControlCrime2002; @prattPenalPopulism2006] have been resisted at the macro level. This paper has sought to show that, at the micro-scale, those labelled and censured by these penal cultures *also* resist the moral classifications they enforce.
+
+The lifers whose parole hearings were analysed above *resisted back-door censure*. They did so by presenting narratives which negotiated over some of the fundamental metaphors relating to crime and punishment: the moral ‘heft’ of murder, the ‘debt to society’ it incurs, and the ‘stain’ of associated stigma. Such attempts to negotiate represent not merely linguistic ornaments, but moral schemas by which applicants were conceptualizing themselves and their crimes. The distinctions and relationships they invoked went beyond those relating to formal guilt and legal obligation, which were reiterated time and again by legal and penal actors to entrench applicants’ ‘master status’ as murderers and lifers [@ricoeurSymbolismEvil1967; @lamPatternsSinHebrew2016; see  @lakoffMetaphorsWeLive2003]. By negotiating over the weightiness of their offences, over their indebtedness to society, and by fending off the implication that the conviction would ‘stain’ them even after release from prison, the applicants seemed to anticipate several things: first, that the board would reject their applications; second, that it would find them undeserving of release on parole; and third, that it would recapitulate the censure already delivered by the sentencing court.
+
+It is noteworthy that, in anticipating and resisting censure, they were not simply engaging with the board over *prospective* considerations of risk. Rather, they were responding to more *retributive* considerations, and referencing communal and civic values which (they implied) would be neglected by their continued confinement. Put differently, they understood punishment as a *social,* and not merely a *legal,* phenomenon. And they perceived, in the parole process, an invitation to account for themselves before the social and legal order. In doing so, they accounted not merely for their changing risk, but also invited the board to consider them as developing moral agents---as retributive penal theorists might predict [see @duffPunishmentCommunicationCommunity2003].
+
+Of course, it can be objected that these self-presentations are explained by self-interest alone. Given the stakes involved in prison release, it would be surprising for applicants to make uncomplicated denials of responsibility regardless of their private evaluations of guilt. And such denials were, in fact, rare: only in two of 130 cases did the applicant maintain innocence). Clearly, it is in lifers' self-interest to present a 'flagellant self' [@warrAlwaysGottaBe2020] and thereby to demonstrate 'insight' [a frequent expectation of parole boards, see @dalkeComeYouChanged2024].
+
+Notwithstanding this, even the strategic use of such narratives remains of great importance: it indicates what applicants considered the most appropriate aspects of their experience to convey in the formal circumstances of a parole hearing. In any case, applicants’ narratives can shape their experiences and actions regardless of their accuracy and utility [@presserResearchStrategiesNarrative2017a]. The narratives analyzed here also display a clear awareness of an obvious fact: that regardless of their private feelings, every applicant had been found formally guilty of a murder, and hence were under formal and official pressure to present themselves as responsible. In this context, the *way* in which they express responsibility is of theoretical interest. It remains important to understand how those forced to reckon with censure understand the challenges involved in doing so.
+
+Lifers responding to the censure of a murder conviction face a radical, even impossible challenge: to argue that proportionality has been achieved, even though one party to the original offence is dead, and the other is still alive. Evaluations of risk, rehabilitative progress, or prison conduct may be based on objective facts, though they are still subject to interpretation. But the burden of justifying the relief from lifelong confinement following a homicide rests largely with the person convicted. It is not straightforward to argue that to grant parole would be deserved *per se*; instead, it is more likely to resemble mercy, or gift, or privilege. This is because lifers applying for parole face an especially complicated task: to justify parole on retributive grounds is largely impossible, considering the obvious severity and irreversibility of murder and the impossibility of repairing the *status quo ante*. To question guilt without also questioning the sentencing court's fact-finding is also risky in parole hearings, because parole boards may understand this approach as a failure to internalize the moral authority of the law [@dalkeComeYouChanged2024; @youngHowParoleBoards2022; @medwedInnocentPrisonerDilemma2007]. Lifers who take such an approach risk negative outcomes.
+
+In this context, it is striking how many of the applicants questioned, in one way or another, the state's moral claim to be punishing them proportionately through life imprisonment. Such critiques of proportionality took three principal forms. First, some focused on the offence itself. These were not, exactly, 'rationalizations', 'neutralizations' [@marunaWhatHaveWe2005] or 'accounts of denial' [@cohenStatesDenialKnowing2013], and they did not offer justifications---accounts in which the offence was presented as *not truly wrong*. Instead, they were closer to *excuses*: "socially approved vocabularies for mitigating or relieving responsibility", which draw from sociological and psychological (rather than legal) framings of action [@scottAccounts1968, 47]. Moral philosophy [@austinPleaExcusesPresidential1956, 1-7] has long recognized that (unlike justifications) excuses do not *evade* responsibility. Instead, they modify its ramifications, by claiming (for example) that wrongful behavior was somehow constrained, so that a wrongdoer should be considered as responsible, but less culpable.[^4] Some parole applicants discussed here offered accounts of their offending which, effectively, critiqued the inflexibility and moral bluntness of a murder conviction. Though it delivers an extraordinary weight of censure, the term 'murder' mislabels some crimes and offenders, and incurs 'a loss of justice' [@mitchellExploringMandatoryLife2012, 2]: a single, highly resonant offence with a mandatory penalty cannot capture the moral and social complexities underlying the act. Applicants whose critiques of penal proportionality centered on the offence sought to establish that although they accepted responsibility for their legal conviction, they still faced disproportionate punishment considering the social and moral reality underpinning their crime. They did so by contextualizing their crime through the lenses of social strain, social control, subcultural and differential association theories, narrating responsibility as a social *and* an individual issue. Their claim, effectively, was that not all murders are created equal. It was also that their offences were unjustifiable, but also excusable, and hence less morally culpable than a ‘real’ murder.
+
+[^4]: To clarify this distinction: a claim of self-defense may constitute a justification for homicide; a claim that the victim provoked the defendant, or that the defendant acted under some deranging influence such as intoxication, is closer to an excuse.
+
+A second critique of penal proportionality described here centered on inequalities not relating to the offence, but to the punishment. Such accounts pointed to the divergent consequences of the life sentence for different individuals, for example by highlighting its destructiveness to the body, to relationships, or in terms of the lost time and opportunity costs it imposed [see @creweLifeImprisonmentYoung2020]. Applicants who followed this path reclaimed penal suffering, by describing its individual and subjective dimensions, not its legal and objective ones [@sextonPenalSubjectivitiesDeveloping2015; @kolberSubjectiveExperiencePunishment2009].
+
+A third critique invoked the notion of a core or ‘real’ moral character, distinct from that implied by the index offence [@goffmanStigmaNotesManagement2022; @ievinsStainsImprisonmentMoral2023]. Applicants who sought to resist or control stigma were asking to wipe the slate clean, and to be judged not just on the offence, but on whether they now deserved to be restored to the moral community, despite their crime [@ievinsStainsImprisonmentMoral2023]. In this way, assertions of reformed character also asserted a kind of dignity, and hence underlined the narrator's character.
+
+Regardless of if they centered on the offence or the sentence, these responses to back-door censure contribute significantly to our understanding of parole hearings, and merit further study. They show lifers asserting moral worth in registers other than risk reduction; in effect, insisting that questions of dignity, responsibility, and citizenship mattered in the parole process. These questions are broader, more incommensurable, less calculable, and more managerially intractable than questions of recidivism risk, but they matter, not least because parole applicants consider their own rehabilitation in these terms. Viewed in this way, risk-oriented parole hearings omit to consider a critical aspect of re-entry, since they ignore or underplay questions of the applicants' moral worth, dignity, agency and citizenship [see @herbertDegradationRedemptionParole2022], and also fail to recognize the 'moral injury' incurred by those forced to reckon with the impact of their worst actions [@litzMoralInjuryMoral2009].
+
+Neoliberal legal scholars and policymakers have often argued that modern states have no business insisting on specific moral responses to offences. They have suggested that expressions of remorse, contrition, atonement, or moral transformation are irrelevant in sentencing. Instead, the sentence, in a liberal system of criminal law, should be calibrated only by reference to the offence, rather than the offender's character [see @laceyPartialDefencesHomicide2000]. Such scholars resist assessments of the offender's character, suggesting that *only the offence* must be censured; to do otherwise is oppressive, unfair, and harms equality [@vonhirschProportionalityPhilosophyPunishment1992; @vonhirschDeservedCriminalSentences2017; @duffPunishmentCommunicationCommunity2003]. This is unrealistic: to censure an offence and to impose a punishment---especially one that is lifelong---unavoidably proclaims the offender's reduced moral status, while inviting their character to be assessed (only) in light of the crime. Prisons are nothing, if not institutions with the express purpose of separating classes of citizen from the wider whole. They do so on the basis that those they hold have been identified as 'bad'. They then constructing elaborate systems of incentivization to promote specific ethical responses, often without much consideration for the fact that modern prisons are highly exclusionary, stigmatizing, humiliating, and punitive [@ievinsStainsImprisonmentMoral2023; @creweSwimmingTideAdapting2017; @creweLifeImprisonmentYoung2020].
+
+When people convicted of murder receive a sentence of life imprisonment, the moral message of their censure is that more holistic assessments of their entire moral character do not matter. Parole processes which refuse to make such assessments, which simply reiterate censure, or which consider human development only in terms of risk, ignore the plain human fact evident in these applicants' accounts: that assessments of character *do* matter, and are occluded when risk assessment excludes broader considerations of ethical change. To deny the possibility of change is to deny the humanity of the changing, suffering person.
+
+# References {.unnumbered}

@@ -1,0 +1,71 @@
+---
+abstract: >
+  Using empirical examples from pilot research on how men experience and think about life sentence, this paper reflects on whether and how insights from desistance theory can be brought to bear on the study of long-term imprisnment.
+
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+
+author:
+  - id: bj
+    name:
+    given: Ben
+    family: Jarman
+    literal: Ben Jarman
+    orcid: 0000-0003-3527-5437
+    affiliation:
+    - ref: cam
+
+title: Can people 'desist' in prison?
+subtitle: Reflections on the implications of desistance theory for long-term imprisonment
+keywords:  
+  - long-term imprisonment
+  - life imprisonment
+  - england & wales
+  - desistance theory
+lang: en-GB
+date: 2019-03-08
+doi: 10.17863/CAM.38676
+url: https://www.repository.cam.ac.uk/handle/1810/291516
+license: CC-BY-ND 4.0
+copyright: © Ben Jarman, 2019
+toc: false
+categories: presentation
+description: Seminar paper given at the Institute of Criminology in Cambridge
+format-links: false
+draft: false
+bibliography: jarmanCanPeopleDesist2019.bib
+
+citation:
+  id: jarmanCanPeopleDesist2019
+  abstract: >
+    Using empirical examples from pilot research on how men experience and think about life sentence, this paper reflects on whether and how insights from desistance theory can be brought to bear on the study of long-term imprisnment.
+  author:
+    - family: Jarman
+      given: Ben
+  DOI: 10.17863/CAM.38676
+  event-place: Cambridge Institute of Criminology
+  event-title: Brown Bag seminar
+  genre: Seminar
+  issued: 2019-03-08
+  language: en-GB
+  license: Attribution-NoDerivatives 4.0 International
+  publisher-place: Cambridge Institute of Criminology
+  title: >
+    Can people 'desist' in prison? Reflections on the implications of desistance theory for long-term imprisonment
+  title-short: Can people 'desist' in prison?
+  type: speech
+  URL: https://www.repository.cam.ac.uk/handle/1810/291516
+---
+
+# Availability
+
+Slides available from <https://www.repository.cam.ac.uk/handle/1810/291516>.

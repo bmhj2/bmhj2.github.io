@@ -1,0 +1,72 @@
+---
+abstract: >
+  Desistance research has pushed criminologists to develop a nuanced conceptual account of criminal identity and human agency. However, these tools have mostly not been used to consider identity changes among long-sentenced prisoners, despite the growing preponderance of long-term imprisonment in England and Wales. As a result of this, desistance theory has not been used to evaluate the administration of indeterminate sentences, meaning that practitioners may be missing out on some of the insights that it can generate. This qualitative study begins to fill that gap, using a phenomenological analysis of eighteen in-depth semi-structured interviews with life- sentenced prisoners at a single prison in England, all of whom had been convicted of murder. It argues that most eventually attempt conscious projects of personal change during imprisonment; second, that many frame change in terms which are not consistent with the official discourses of risk reduction (which govern their progression through the sentence); and third, that how they themselves conceive and pursue personal change is affected by their position in the sentence and the life course, and also by the specific nature and circumstances of their index offences. The analysis classifies four different styles of agency found in the sample: ‘defensive’ and ‘fractured’ agents were unwilling or unable to accept responsibility for the offence, and were consequently in penal ‘dead ends’; while ‘corrective’ and ‘redemptive’ agents had encountered ‘turning points’, in that they accepted responsibility, albeit in different ways. The analysis describes each group’s characteristic ways of describing the offence and their part in it. It also describes their attitudes to prison social life in general, and to rehabilitative intervention in particular. The study as a whole suggests that much of the personal change which lifers themselves frame as significant happens outside rehabilitative interventions, and may be invisible to key prison staff. This raises important questions about whether prisons and prisoners think about rehabilitation in the same way, with consequences for the legitimacy of penal power.
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    email: ben@benjarman.uk
+    orcid: 0000-0003-3527-5437
+    url: https://benjarman.uk
+    affiliation:
+    - ref: cam
+
+title: Turning points or dead ends?
+subtitle: Identity, desistance and the experience of imprisonment
+funding: No funding was received for the research described in this thesis.
+keywords: [life imprisonment, criminology, prisons, desistance, long-term imprisonment, risk needs responsivity, indeterminate imprisonment, england and wales, risk reduction, human agency]
+lang: en-GB
+doi: 10.17863/CAM.33383
+url: https://www.repository.cam.ac.uk/handle/1810/286064
+license: CC-BY-NC-SA 4.0
+copyright:
+  holder: Ben Jarman
+  year: 2018
+categories: thesis
+description: MPhil thesis, completed in 2017
+format-links: false
+draft: false # remove after finishing.
+date: 2018-04-21
+bibliography: jarmanTurningPointsDead2018a.bib
+
+citation:
+  id: jarmanTurningPointsDead2018a
+  abstract: >
+    Desistance research has pushed criminologists to develop a nuanced conceptual account of criminal identity and human agency. However, these tools have mostly not been used to consider identity changes among long-sentenced prisoners, despite the growing preponderance of long-term imprisonment in England and Wales. As a result of this, desistance theory has not been used to evaluate the administration of indeterminate sentences, meaning that practitioners may be missing out on some of the insights that it can generate. This qualitative study begins to fill that gap, using a phenomenological analysis of eighteen in-depth semi-structured interviews with life- sentenced prisoners at a single prison in England, all of whom had been convicted of murder. It argues that most eventually attempt conscious projects of personal change during imprisonment; second, that many frame change in terms which are not consistent with the official discourses of risk reduction (which govern their progression through the sentence); and third, that how they themselves conceive and pursue personal change is affected by their position in the sentence and the life course, and also by the specific nature and circumstances of their index offences. The analysis classifies four different styles of agency found in the sample: ‘defensive’ and ‘fractured’ agents were unwilling or unable to accept responsibility for the offence, and were consequently in penal ‘dead ends’; while ‘corrective’ and ‘redemptive’ agents had encountered ‘turning points’, in that they accepted responsibility, albeit in different ways. The analysis describes each group’s characteristic ways of describing the offence and their part in it. It also describes their attitudes to prison social life in general, and to rehabilitative intervention in particular. The study as a whole suggests that much of the personal change which lifers themselves frame as significant happens outside rehabilitative interventions, and may be invisible to key prison staff. This raises important questions about whether prisons and prisoners think about rehabilitation in the same way, with consequences for the legitimacy of penal power.
+  author:
+    - family: Jarman
+      given: Ben
+  DOI: 10.17863/CAM.33383
+  genre: MPhil
+  issued: 2018-04-21
+  language: en-GB
+  license: All rights reserved
+  publisher: Apollo - University of Cambridge repository
+  title: >
+    Turning points or dead ends? Identity, desistance and the experience of imprisonment
+  title-short: Turning points or dead ends?
+  type: thesis
+  URL: https://www.repository.cam.ac.uk/handle/1810/286064
+---
+
+# Availability
+
+Available via <https://www.repository.cam.ac.uk/handle/1810/286064>.
+
+::: {.callout-tip}
+The link above is for the text of the thesis. Separate slides presenting selected findings from this thesis are also available via <https://www.repository.cam.ac.uk/handle/1810/291515>.
+:::

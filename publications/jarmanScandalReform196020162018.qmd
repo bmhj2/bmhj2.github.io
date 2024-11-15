@@ -1,0 +1,71 @@
+---
+abstract: >
+    Recent scandals at Medway Secure Training Centre have exposed weaknesses in the legal protections available to children in custody in the youth justice system. This is despite the fact that since the late 1990s, safeguarding and child protection in places of child custody have been significantly reformed and expanded in scope. Under new regimes of safeguarding, policy compliance has sometimes become the priority, with the effectiveness of properly-applied policy not being questioned. In this context, new and developing risks of abuse have gone unrecognised. Historical research helps us to see how past safeguards, which had previously been assumed to be effective, had in fact broken down. This usually happened not only as the result of misconduct by ‘bad apples’. Instead, the actions of ‘bad apples’ usually occurred within unhealthy institutional cultures in which staff used abusive methods such as bullying and violence to secure legitimate outcomes such as the maintenance of order. Such methods were often resorted to at times of institutional pressure, for example during periods of overcrowding or budgetary constraint. Those charged with managing and monitoring conditions in youth custody often gave such methods their tacit endorsement, evaluating them not in terms of individual children’s welfare, but in terms of institutional priorities. In such morally compromised climates, ‘bad apples’ were able to pursue wholly illegitimate and indefensible ends – such as the sexual abuse and exploitation of children and young people – with impunity. Understanding the cultural contexts of past abuse highlights the dangers of complacency regarding today’s safeguarding policies. Despite the more proactive safeguards implemented since 2000, unhealthy occupational cultures – featuring confusion over institutional goals, low staff morale, hierarchical management structures, and institutional isolation – have not been eliminated from the secure estate. The implication is that custodial institutions for children are inherently risky environments, particularly where they are not explicitly organised around an ethos of care, or where wider organisational priorities (such as the need for cost efficiencies) clash with that ethos. Youth custody therefore must remain a minimal last resort, used where there is no non-custodial alternative.
+
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    orcid: 0000-0003-3527-5437
+    affiliation:
+    - ref: cam
+
+title: Scandal and reform, 1960-2016
+subtitle: Can better policies guarantee child welfare in secure custody?
+funding: This work was based on research commissioned and funded by HM Prison and Probation Service, reference RG 92270.
+keywords:
+  - child abuse
+  - child sexual abuse
+  - prisons
+  - england and wales
+  - youth justice
+  - youth custody
+  - secure estate for children
+  - 20th century history
+  - criminology
+  - penology
+  - historical criminology
+lang: en-GB
+date: 2018-10-18
+url: https://www.historyandpolicy.org/policy-papers/papers/scandal-and-reform-1960-2016-better-policies-child-welfare-secure-custody
+license: All rights reserved
+strip-comments: true
+copyright: © Ben Jarman, 2018
+toc: false
+categories:
+  - briefing paper
+  - blog post
+description: Briefing paper for the *History & Policy* blog
+format-links: false
+draft: false
+
+citation:
+  id: jarmanScandalReform196020162018
+  abstract: >-
+    Recent scandals at Medway Secure Training Centre have exposed weaknesses in the legal protections available to children in custody in the youth justice system. This is despite the fact that since the late 1990s, safeguarding and child protection in places of child custody have been significantly reformed and expanded in scope. Under new regimes of safeguarding, policy compliance has sometimes become the priority, with the effectiveness of properly-applied policy not being questioned. In this context, new and developing risks of abuse have gone unrecognised. Historical research helps us to see how past safeguards, which had previously been assumed to be effective, had in fact broken down. This usually happened not only as the result of misconduct by ‘bad apples’. Instead, the actions of ‘bad apples’ usually occurred within unhealthy institutional cultures in which staff used abusive methods such as bullying and violence to secure legitimate outcomes such as the maintenance of order. Such methods were often resorted to at times of institutional pressure, for example during periods of overcrowding or budgetary constraint. Those charged with managing and monitoring conditions in youth custody often gave such methods their tacit endorsement, evaluating them not in terms of individual children’s welfare, but in terms of institutional priorities. In such morally compromised climates, ‘bad apples’ were able to pursue wholly illegitimate and indefensible ends – such as the sexual abuse and exploitation of children and young people – with impunity. Understanding the cultural contexts of past abuse highlights the dangers of complacency regarding today’s safeguarding policies. Despite the more proactive safeguards implemented since 2000, unhealthy occupational cultures – featuring confusion over institutional goals, low staff morale, hierarchical management structures, and institutional isolation – have not been eliminated from the secure estate. The implication is that custodial institutions for children are inherently risky environments, particularly where they are not explicitly organised around an ethos of care, or where wider organisational priorities (such as the need for cost efficiencies) clash with that ethos. Youth custody therefore must remain a minimal last resort, used where there is no non-custodial alternative.
+  author:
+    - family: Jarman
+      given: Ben
+  container-title: History & Policy
+  issued: 2018-10-18
+  license: All rights reserved
+  title: >
+    Scandal and reform, 1960-2016: can better policies guarantee child welfare in secure custody?
+  title-short: Scandal and reform, 1960-2016
+  type: post-weblog
+  URL:  https://www.historyandpolicy.org/index.php/policy-papers/papers/scandal-and-reform-1960-2016-better-policies-child-welfare-secure-custody
+---

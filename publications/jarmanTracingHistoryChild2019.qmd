@@ -1,0 +1,236 @@
+---
+abstract: >
+  This paper examines how archival silences shape our understanding of historical child abuse in youth custody settings from the 1960s onwards. Drawing on research commissioned by HM Prison and Probation Service, I identify three distinct types of archival silence: terminological gaps arising from shifting definitions of abuse and safeguarding; material absences of records; and institutional barriers to accessing sensitive files. Through detailed analysis of inspection reports from Medomsley Detention Centre and ethnographic research at Whatton, I demonstrate how these silences can be productively interrogated. I argue that contemporary policy approaches often presume that proper implementation of safeguarding measures can prevent abuse, yet historical evidence reveals how institutional power structures and staff cultures could normalise harmful practices even when formal protections existed. The paper concludes that effective safeguarding requires moving beyond policy compliance to engage with fundamental questions about power, voice and the limits of governance. The findings have important implications for current youth custody practices, as illustrated by recent cases of abuse at Medway Secure Training Centre.
+
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    orcid: 0000-0003-3527-5437
+    affiliation:
+    - ref: cam
+
+title: Tracing the history of child abuse in youth custody
+subtitle: Does the archive offer current practitioners anything, beyond useless knowledge after the fact?
+funding: >
+  The research on which this paper is based was commissioned and funded by HM Prison and Probation Service, reference RG 92270.
+keywords:  
+  - prisons
+  - england and wales
+  - child sexual abuse
+  - history of imprisonment
+  - archival research
+  - independent inquiry into child sexual abuse
+  - secure institutions for young people
+  - youth custody
+lang: en-GB
+date: 2019-05-22
+doi: 10.17863/CAM.40463
+url: https://www.repository.cam.ac.uk/handle/1810/322528
+license: CC-BY-NC 4.0
+strip-comments: true
+copyright: © Ben Jarman, 2019
+toc: false
+categories: conference paper
+description: Presentation at a day workshop at Oxford Brookes University.
+format-links: true
+draft: false
+bibliography: jarmanTracingHistoryChild2019.bib
+
+citation:
+  id: jarmanTracingHistoryChild2019
+  abstract: >
+    This paper examines how archival silences shape our understanding of historical child abuse in youth custody settings from the 1960s onwards. Drawing on research commissioned by HM Prison and Probation Service, I identify three distinct types of archival silence: terminological gaps arising from shifting definitions of abuse and safeguarding; material absences of records; and institutional barriers to accessing sensitive files. Through detailed analysis of inspection reports from Medomsley Detention Centre and ethnographic research at Whatton, I demonstrate how these silences can be productively interrogated. I argue that contemporary policy approaches often presume that proper implementation of safeguarding measures can prevent abuse, yet historical evidence reveals how institutional power structures and staff cultures could normalise harmful practices even when formal protections existed. The paper concludes that effective safeguarding requires moving beyond policy compliance to engage with fundamental questions about power, voice and the limits of governance. The findings have important implications for current youth custody practices, as illustrated by recent cases of abuse at Medway Secure Training Centre.
+  author:
+    - family: Jarman
+      given: Ben
+      orcid: 0000-0003-3527-5437
+  DOI: 10.17863/CAM.40463
+  event-place: Oxford Brookes University
+  event-title: Confronting the Violence of the Archive
+  genre: Conference paper
+  issued: 2019-05-22
+  language: en-GB
+  license: >
+    Creative Commons Attribution-NonCommercial 4.0 International Licence (CC-BY-NC)
+  publisher-place: Oxford Brookes University
+  title: >
+    Tracing the history of child abuse in youth custody: does the archive offer current practitioners anything beyond useless knowledge after the fact?
+  title-short: Tracing the history of child abuse in youth custody
+  type: speech
+  URL: https://www.repository.cam.ac.uk/handle/1810/322528
+---
+
+::: {.callout-tip}
+This is the text of a conference paper. Accompanying slides with useful context are available via <https://www.repository.cam.ac.uk/handle/1810/322528>.
+:::
+
+# Introduction
+
+This is about a project I worked on with colleagues from Cambridge and Edinburgh. It was commissioned by HM Prison & Probation Service, and it draws on research done at The National Archives, as well as in the Radzinowicz Library in Cambridge.
+
+# The project
+
+For time reasons, I won’t say much on how it came about, though I’m happy to answer questions at the end.
+
+But I want to highlight a few features of the context. In the last few years, several thousand adult men have alleged to police that when they were held in youth custody they were subject to physical and sexual abuse by prison staff. The allegations relate to multiple sites; some are recent, but most relate to the 1960s, 70s and 80s. A handful have led to prosecutions and convictions; more might be in the offing, but the passage of time and the difficulties of prosecuting these offences makes this very difficult.
+
+The Independent Inquiry on Child Sexual Abuse has also taken an interest, and the Prison Service is a core participant in one of its sub-investigations.
+
+# Types of archival silence
+
+There were two kinds of silences in the archival record in relation to our research: silences associated with changes in terminology, and silences associated with records we couldn’t view.
+
+The terminological silences relate to the changing meaning of the terms ‘child abuse’, ‘safeguarding’ and ‘child protection’, which have all acquired something like their current meanings only quite recently. 
+
+## Terminology relating to ‘child abuse’
+
+The concept of ‘child abuse’ has shifted significantly since the 1960s. As this quote from Ian Hacking makes clear, this is partly a question of how the problem has been defined.
+
+## Terminology about responses to child abuse
+
+As Carol Smart suggests, it’s also a question of how the response to that problem has been framed.
+# ‘Child abuse’ terminology in the Prison Service
+
+These questions of definition matter very much, because in a closed institution like a prison they determine what gets categorised as ‘abuse’ or a ‘child protection issue’, as opposed to being chalked up as something else.
+
+Prison staff have lawful powers – e.g. the use of force, searches of the person – which violate behavioural standards affecting nearly any other adult-child interaction. There is a lot of room for things to be construed as abuse.
+
+But the very idea that youth custody can even give rise to things called ‘child protection issues’ is a recent one. The statutory duty on residential institutions in general to have child protection policies only began with the 1989 Children Act. It didn’t apply to Prison Service establishments until 2002.
+
+This is very recent. It means that before 2002, youth prisons combined a very risky environment with limited formal safeguards and no distinctive official discourse of child rights.
+
+All the same, there were policies which aimed to respond to the risk that power could be misused. In general, though, these measures were weaker and less independent than today, and they regulate youth and adult prisons identically.
+
+# Documents we reviewed
+
+So we tried to counter terminological silences by searching the catalogues creatively.
+
+We began by reading secondary literature including child abuse inquiries relating to other residential settings, and histories of youth justice. This helped us read archival records critically.
+
+We searched for records on our ‘establishments of interest’. All the historic allegations made so far relate to male institutions, so to avoid reproducing what might be accidents of disclosure, we added the small number of female establishments to the list.
+
+And we searched for records describing governance arrangements, such as Boards of Visitors, which I mentioned a moment ago.
+
+While we read all of these, we kept in mind the NSPCC’s (present-day) definition of ‘abuse’. With respect to a prison environment, this is quite a broad definition.
+
+# Types of archival silence
+
+Even if we get around the terminological silences, which result in problems not defined and records that were never created in the first place, there are still very significant gaps. 
+
+Some were never deposited in the archive in the first place, or have since been culled. Paul @rockDreadfulFloodDocuments2017 [p. 20] has written about this, and he estimates that 98% of all Home Office records for the period we cover fall into this category.
+
+Others are missing, presumed lost. And a third category are closed for data protection reasons.
+
+# Some inaccessible files
+
+I want to highlight that third category, because the reason they are unavailable is precisely because they cover possible abuse. 
+
+This is from the list of records we wanted to see but couldn’t. Most of them are lost, but the last one on the list contains the papers of a 1971 inquiry into allegations of staff brutality at a Detention Centre in West Yorkshire. Disclosures of abuse appear to have been rare, and external investigations of this kind were extremely rare: we know from other records that there was about one every three years during the period we covered, in adult and youth prisons together.
+
+Most such inquiries didn’t publish reports, and this is the only one whose papers survive, and we know that New Hall held some children. So it’s a unique source in terms of its ability to pierce the silence about how children’s complaints would have been understood at the time.
+
+But because the officers were cleared, the file is closed under the Data Protection Act, and our FOI request to open it was turned down.
+
+I did find a document in another file, written in the same year by the very same person who chaired this inquiry, which suggests he was strongly predisposed in favour of the accused officers.
+
+# Inaccessible files…
+
+We need to be cautious here. Some silences may not be what they seem.
+
+But at the very least, we can reflect that the understandings of the past are now locked into place. It is hard to critically evaluate them.
+
+# Countering archival silences
+
+I’ve described two kinds of archival silence and outlined some things that the archive might have forgotten. I’m now going to describe three ways in which we can try and recover these lost memories: asking what a silence might mean; using hindsight to expose risk-blindness; and using non-archival sources against archival records.
+
+# Asking what silences mean
+
+I’ll start by talking about strip-searching. Current policy forbids the routine strip-searching of children, on the basis that it is traumatising and potentially abusive. This slide quotes from a Howard League report which did a lot to bring that understanding about.
+
+The archive is almost silent about routine strip-searches. They are almost never mentioned, until they begin to show up in campaign groups’ literature and in inspection reports, starting in the 1990s. It was ‘child protection’ discourse that problematised what had previously, presumably, been completely unquestioned and taken for granted.
+
+I said ‘almost silent’. The silence is sometimes broken by chance. Here’s a newspaper cutting added to a Home Office file in 1968. The reporter describes the strip-search of a boy which took place in front of him. The language I’ve highlighted here speaks quite powerfully about how degrading the reporter found it, and perhaps also the boy.
+
+What’s more, whoever put this cutting in the file understood how odd the public might find this glimpse of another moral universe.
+
+So here, the chance survival of this newspaper report suggests what the silence about strip-searches might mean: that the power granted to prison staff might have been taken for granted, and that it was used without self-consciousness and as though by entitlement.
+
+# Using hindsight to expose risk-blindness
+
+Next I’m going to show you some extracts from an inspection report.
+
+I’ve highlighted the words ‘in confidence’. Before 1982, reports like this were not published: the Inspectorate reported only to the Home Office, meaning that unlike now, its reports didn’t lift the veil of secrecy.
+
+We found just two full reports like this in archival records for the establishments we were interested in.
+
+But by sheer luck, one of the two comes from Medomsley in County Durham, and it’s from 1977, just when sexual and physical abuse are now known to have been rife there.
+
+The report (TNA, HO 383/329) says Medomsley is a place ‘where nothing of any import ever occurs’ and which is ‘unlikely to cause any problems’. It’s not that the inspectors had no criticisms to make. But they were critical from a particular perspective, and it’s not that of the detainees.
+
+In a section of the report describing the kitchen. The criticisms all relate to cleanliness: there are greasy residues behind a stove; a waste disposal unit has a broken blade guard; the Insect-o-cutors are not working; water is leaking from a sink and damaging the tiles behind. Overall, though, the catering operation is efficient, it provides 13 trainees with a busy week, and it produces a good standard of food. Here as elsewhere, there is very little to suggest a questioning attitude towards the use of power.
+
+The quotes I’ve highlighted are about working hours and practices. The officer in charge of the kitchen, as we now know, was Neville Husband. He was convicted in 2003 and again in 2005 of a string of rapes and sexual assaults at Medomsley, committed systematically over what was probably a 15 to 20 year period. Though the inspectors record that he was hand-picking workers and supervising them alone for close to an 80-hour week, the concept of ‘grooming’ has not yet entered their lexicon, so they are unable to see this for what it is.
+
+So my argument here is one about how we can use hindsight. This isn’t about combing the archive for ‘gotchas’; it’s about proving the point that archival silences may well indicate risks that were overlooked.
+
+# Using unofficial records
+
+A third response to archival silences is to bring other perspectives to bear. For prisons, these other perspectives are rare, and contemporaneous ones are rarer still.
+
+But we found one very important source in the library in Cambridge. It’s an ethnography of life at Whatton in 1973, done for Richard Ericson’s PhD. It is a unique document: an in-depth description of life in a Detention Centre, written ‘from below’. It’s as close as we found to a direct record of detainees’ lived experience.
+
+Ericson records that officers at Whatton sometimes used violence themselves, but mostly allowed high-status inmates (nicknamed ‘daddies’) to keep order using violence and kangaroo courts. ‘Daddies’ in turn were rewarded with favoured jobs and material goods. These arrangements were concealed from a well-meaning liberal Warden, with the tacit approval of a harsh, punitive deputy Warden. (We haven’t been able to tell whether this was Keith Innes, who was accused in 2015 of sexual and physical abuses at Whatton committed during the 1970s.)
+
+Ericson shows how these uses of power led to a moral order very different from the one envisaged by policy. He says that most detainees actually preferred this to official forms of discipline, because there was no chance that trouble dealt with in this way could lead to a loss of sentence remission.
+
+But crucially he also describes the bottom end of this status hierarchy. Low-status inmates (nicknamed ‘divs’) were subjected to violence, and sexualised forms of bullying, led by the ‘daddies’ if they complained or showed signs of distress. Today, this might be called ‘peer abuse’. In 1973, it was done with staff approval. Ericson quotes a discharge report, written by a Senior Officer about one ‘div’.
+
+# ‘This blubbering giant…’
+
+What this shows is that an uncaring and abusive staff culture wasn’t challenged by management. Gendered norms about how ‘proper men’ handled custody got so entrenched that they could be stated in writing, even though they formed no part of the official aims of custody. And these norms were reproduced at all levels of the hierarchy. We can speculate, fairly confidently, that this wouldn’t have been a culture that favoured disclosure, which in turn helps us explain why safeguards like complaints procedures and the Board of Visitors were so seldom used.
+
+So if we are lucky, we can use a counter-perspective to challenge archival silences. With relatively closed institutions like prisons, this is really important – something that the other prison researchers here will be pleased to hear!
+
+# Conclusions
+
+How helpful is all this now, to practitioners or anyone else? Is it all just useless hindsight? It depends on what kind of question we ask.
+
+Here’s one of the original research questions we agreed with HMPPS at the outset.
+
+This picture is from secret filming by BBC Panorama at Medway Secure Training Centre. The footage, taken in 2015, shows staff physically abusing children resident there.
+
+The new regulations invented from the 1990s onwards were all in place. The most recent Ofsted had rated safety at Medway as ‘good’. Multiple child protection investigations had been triggered and had failed to find evidence of abuse. Safeguarding arrangements had appeared to be working but still failed to respond to manifestations of abuse not foreseen by those who designed the safeguards. This is precisely what happened in the 1960s, 70s and 80s, at Medomsley and elsewhere.
+
+Let’s look again at those research questions. With the benefit of hindsight, they’re actually not very good questions, because of what they presuppose.
+
+The first question presumes that the right policy, if it’s implemented properly, can prevent abuse. The second question presumes that if policy is implemented properly, then it’s individuals, rather than those who framed the policy, can be held accountable. I’d suggest that these are the kinds of presumption by people who write and implement policy.
+
+But what I hope to have shown is that prison staff can do abusive things that policy didn’t anticipate. Moreover, even lawful power can be experienced as harmful by those subject to it. If this was noticed at all, it was probably explained away or handled by deflecting blame downwards.
+
+The point here is that power is corruptible, that policy has limits, and that voice matters. In a prison, policy doesn’t prevent harm; it regulates who can legitimately inflict it, how much harm, and to what ends.
+
+To move beyond a smug, condescending attitude towards the past - ‘bad things happened, but that was then, this is now, and lessons have been learned’ – the questions we need to ask are second-order ones, about power and the limits of governance.
+
+# Reflection on archival silences…
+
+I’m going to finish with a quote from the historian Antoinette Burton, writing about the role of the archive in shaping the history of empire. She says that reflecting on what the archive has forgotten often…
+
+> ‘pits conventional forms of knowledge about the past […] against the claims of groups who have typically been disenfranchised by dominant regimes of truth’ @burtonIntroductionArchiveFever2006 [p. 2]
+
+Children in custody were certainly disenfranchised in the past. How they could think about themselves and their treatment was shaped by the corrupt use of penal power. We can speculate that if they challenged these regimes of truth, their voices were suppressed or ignored. Medway suggests that the same may be true today.
+
+The archive reproduces these exclusionary dynamics. But if it’s used imaginatively, they can be challenged.
