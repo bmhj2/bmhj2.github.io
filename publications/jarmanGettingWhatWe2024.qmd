@@ -44,7 +44,6 @@ date: 2024-07-27
 description: Keynote lecture delivered at the 2024 annual meeting of British Quakers. 
 
 url: https://www.youtube.com/watch?v=vwqolkC0nnc
-title-block-banner: true
 copyright: "© Ben Jarman, 2024"
 license: CC-BY-NC-SA 4.0
 toc: true # Will depend on whether it's a full text or a summary.
@@ -374,8 +373,6 @@ A second, related, advantage, is our practice of listening as a form of spiritua
 Finally, there’s the idea that we ought to ‘answer that of God in everyone’. In George Fox’s writings, this phrase isn’t used to communicate the belief that everyone, deep down, is really just a nice person, trying to be good. Fox lived in what to us would seem an unimaginably rough, violent world, and he often used this phrase with a kind of prophetic urgency. In one entry in his Journal, he warned that “the mighty day of the Lord is coming upon all wickedness, ungodliness and unrighteousness”, but added that “the truth, the crown of glory, and the sceptre of righteousness over all shall be exalted; which shall answer that of God in every one upon the earth” [@amossAnsweringThatGod2011; @amossThisKnewExperimentally2023]. This is more like Callum’s language than some of us might like to think. George Fox didn’t seem to be saying that deep down, people are all just nice, and trying to be good. He was suggesting that we all have seeds of good and evil within us, but that there was a truth waiting for those who took these dual capacities seriously, and who tried to turn away from their capacity for harm. So if we try to build belonging and true community, if we advocate for these things, then we also need to practise caution. If we encounter mistrust, anger, disgust, or fear, then these emotions will sometimes be warranted. But if we are close, then we might recognise an echo of what makes us feel mistrustful, angry, disgusted, or afraid. We can use the echo to forge connections. Proximity allows us to recognise shared human experiences, and to reach out imaginatively. It reinforces belonging, by challenging us to make it.
 
 This is creative work. It has to be done up close. It can be painful, disorientating, and difficult. But it matters.
-
-# References
 
 :::{refs}
 :::

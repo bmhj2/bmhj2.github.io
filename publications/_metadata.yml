@@ -12,6 +12,8 @@ link-citations: true
 numbersections: true
 secnumdepth: 3
 strip-comments: true
+citation-location: document
+reference-location: margin
 
 format:
   html: default

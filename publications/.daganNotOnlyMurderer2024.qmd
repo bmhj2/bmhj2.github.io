@@ -79,7 +79,6 @@ number-sections: false
 standalone: true
 strip-comments: true
 toc: false
-citation-location: document
 date: 2024-05-24
 # funding: # see [schema](https://quarto.org/docs/authoring/front-matter.html#funding)
 # license: [Refer to publication] or [something else].

@@ -61,7 +61,6 @@ keywords:
   - united kingdom
 lang: en-GB
 url: https://eprints.bbk.ac.uk/id/eprint/53813
-title-block-banner: true
 license: "All rights reserved."
 copyright: "© ICPR, 2024"
 draft: false # remove after finishing.

@@ -13,7 +13,6 @@ keywords:
 lang: en-GB
 url: https://prisonreformtrust.org.uk/independent-commission-calls-for-national-debate-on-sentencing-for-serious-crime/
 pdf-url: https://prisonreformtrust.org.uk/wp-content/uploads/2024/10/ICEVLP-Making-sense-of-sentencing-v328.pdf
-title-block-banner: true
 license: All rights reserved
 copyright: "© Independent Commission into the Experience of Victims and Long-Term Prisoners, 2024"
 toc: false

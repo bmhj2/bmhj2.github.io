@@ -1,0 +1,26 @@
+---
+title: "Blog"
+appendix-style: none
+descriptions: "Occasional posts from various projects"
+format:
+  html: default
+format-links: false
+title-block-style: none
+listing:
+  type: default
+  contents:
+    - posts
+    # - blog/changinginside.yml
+  sort:
+    - "date desc"
+    - "title asc"
+  categories: true
+  feed:
+    items: 15
+    type: partial
+    description: Latest posts from Ben Jarman
+    language: en-gb    
+  sort-ui: [date, title, keywords]
+  fields: [date, title, subtitle, keywords, reading-time]
+citation: false
+---

@@ -61,7 +61,6 @@ keywords:
   - work in prison
 lang: en-GB
 url: https://eprints.bbk.ac.uk/id/eprint/53263/
-title-block-banner: true
 license: "All rights reserved."
 copyright: "© ICPR, 2023"
 format-links: false

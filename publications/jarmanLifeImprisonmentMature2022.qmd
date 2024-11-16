@@ -1,6 +1,6 @@
 ---
 abstract: >
-  Recent theorisations of adaptation to life imprisonment emphasise the role of moral and biographical reflection by people in prison. Using an analysis of a subsample from a larger study in England and Wales, composed of men serving life sentences imposed after their fortieth birthdays, this article suggests that they adapted themselves to the prison regime both more quickly and more pragmatically than their younger counterparts. It describes how their accounts of the index offence, which were often justificatory and sometimes victim-blaming, had often gone unchallenged because they were a low a priority for intervention, and because they were less motivated by working towards an imagined better future. These findings add nuance to recent work in prison sociology of adaptation to very long sentences.
+  Recent theorisations of adaptation to life imprisonment emphasise the role of moral and biographical reflection by people in prison. Using an analysis of a subsample from a larger study in England and Wales, composed of men serving life sentences imposed after their fortieth birthdays, this article suggests that they adapted themselves to the prison regime both more quickly and more pragmatically than their younger counterparts. It describes how their accounts of the index offence, which were often justificatory and sometimes victim-blaming, had often gone unchallenged because they were a low priority for intervention, and because they were less motivated by working towards an imagined better future. These findings add nuance to recent work in prison sociology of adaptation to very long sentences.
 affiliations:
   - id: cam
     name: University of Cambridge
@@ -36,7 +36,7 @@ categories:
 keywords:
 - life imprisonment
 - moral reflection
-- ageing
+- aging
 - mature adulthood
 - adaptation to imprisonment
 - life course
@@ -50,13 +50,13 @@ toc: true
 lot: true
 doi: 10.17863/CAM.87314
 url: https://www.crimeandjustice.org.uk/sites/crimeandjustice.org.uk/files/PSJ%20261%2C%20Mature%20adulthood.pdf
-license: CC-BY-ND-SA 4.0
+license: CC-BY-NC-ND 4.0
 copyright: "© Ben Jarman, 2022"
 funding:
   statement: "The author received funding for this research via an UKRI PhD studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
 draft: false
 description: >  
-  Peer-reviewed article for a special issue of the *Prison Service Journal* on life imprisonment.
+  Peer-reviewed article accepted for publication in the *Prison Service Journal*.
 
 citation:
   id: jarmanLifeImprisonmentMature2022
@@ -81,33 +81,9 @@ citation:
   URL: https://www.crimeandjustice.org.uk/sites/crimeandjustice.org.uk/files/PSJ%20261%2C%20Mature%20adulthood.pdf
 ---
 
-<!-- 
-
-##### Author
-
-[Ben Jarman][ORCiD] Prisons Research Centre, University of Cambridge Institute of Criminology
-
-##### Word count
-
-4,419
-
-##### This version
-
-Author’s accepted manuscript (2022-02-08)
-
-##### Appearing in
-
-Forthcoming special issue of the Prison Service Journal (to appear by 2022-07-31, available at https://www.crimeandjustice.org.uk/publications/psj)
-
-##### Abstract
-
-Recent theorisations of adaptation to life imprisonment emphasise the role of moral and biographical reflection by people in prison. Using an analysis of a subsample from a larger study in England and Wales, composed of men serving life sentences imposed after their fortieth birthdays, this article suggests that they adapted themselves to the prison regime both more quickly and more pragmatically than their younger counterparts. It describes how their accounts of the index offence, which were often justificatory and sometimes victim-blaming, had often gone unchallenged because they were a low priority for intervention, and less motivated by working towards an (imagined) better future. These findings add nuance to recent work in prison sociology of adaptation to very long sentences.
-
-##### Keywords
-
-life imprisonment, moral reflection, ageing, mature adulthood, adaptation to imprisonment, life course
-
-::: {style=“page-break-after: always”} ::: -->
+::: {.callout-tip}
+Below is the text of the accepted manuscript for this article. The published version is also available via [the journal website](https://www.crimeandjustice.org.uk/sites/crimeandjustice.org.uk/files/PSJ%20261%2C%20Mature%20adulthood.pdf).
+:::
 
 # Introduction
 
@@ -239,8 +215,6 @@ The men described above generally posed a lower risk of *reconviction* than thei
 By contrast, the category-B research sites offered ample opportunities for instrumental and expressive violence early in the sentence among younger men more implicated in prison subcultures. Refraining from involvement in this social world offered a feasible (if fraught) path to demonstrate behavioural change. The older men, by contrast, *already* felt remote from the provocations and temptations of prison subcultures—they were “just not interested” (Grant). They felt pains of ‘tightness’ less keenly,[^30] since they conformed to prison regimes readily. But they found it painful to have to associate with others they saw as ‘real’ criminals, and they often felt unclear about what reformative ‘change’ the prison expected. They aligned themselves with official priorities insofar as they understood what those were, and their conformity was rewarded with good jobs and constructive staff relationships. It was unclear, however, how any of this related to the risks of reconviction or serious harm. And their narratives about the offence would not all play well in parole hearings, where the difficulty of demonstrating behavioural ‘change’ might also hamper their progress.
 
 This perhaps raises the following questions for reflection: what do prisoners infer about the kinds of index offence that *matter*, based on how rehabilitative resources are currently targeted? Are minimisations and neutralisations challenged too little among the low(er)-risk? And if so, how legitimate would the victims of very serious violent offences, including murder, perceive this to be?
-
-# References
 
 :::{refs}
 :::

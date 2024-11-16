@@ -49,7 +49,7 @@ toc: false
 categories:
   - briefing paper
   - blog post
-description: Briefing paper for the *History & Policy* blog
+description: Briefing paper for the *History & Policy* website
 format-links: false
 draft: false
 
@@ -69,3 +69,7 @@ citation:
   type: post-weblog
   URL:  https://www.historyandpolicy.org/index.php/policy-papers/papers/scandal-and-reform-1960-2016-better-policies-child-welfare-secure-custody
 ---
+
+# Availability
+
+Available via the publisher's website at <https://changinginside.co.uk/links/right-to-hope/>.

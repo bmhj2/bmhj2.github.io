@@ -101,6 +101,4 @@ citation:
 
 # Availability
 
-Published Open Access - available from the publisher's website via <https://www.mdpi.com/2075-4698/9/2/27>.
-
-Slides from a public presentation based on this article can be found via <https://www.repository.cam.ac.uk/handle/1810/300721>.
+Published Open Access. Version of record available via <https://www.mdpi.com/2075-4698/9/2/27>. Slides from a public presentation based on this article can be found via <https://www.repository.cam.ac.uk/handle/1810/300721>.

@@ -46,7 +46,6 @@ keywords:
 lang: en-GB
 doi: 10.17863/CAM.91979
 url: https://www.repository.cam.ac.uk/handle/1810/344820
-title-block-banner: true
 copyright: "© University of Cambridge, 2022"
 license: CC-BY-ND 2.0
 categories: report

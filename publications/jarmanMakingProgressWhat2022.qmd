@@ -75,7 +75,6 @@ isbn: 978-1-908504-61-6
 doi: 10.17863/CAM.89107
 url: https://prisonreformtrust.org.uk/publication/making-progress/
 pdf-url: https://prisonreformtrust.org.uk/wp-content/uploads/2022/09/Making_progress.pdf
-title-block-banner: true
 license: "All rights reserved."
 copyright: "© Prison Reform Trust, 2022."
 categories:

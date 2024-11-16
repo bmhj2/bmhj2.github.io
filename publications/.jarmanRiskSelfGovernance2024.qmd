@@ -1,0 +1,103 @@
+---
+abstract: >
+  The 'ruling concept' through which English prisons communicate with prisoners about the moral obligations associated with their punishment is risk. Risk thinking and risk talk pervade the management of lifers and prisoners generally, and the management of risk is a primary conduit for the operation of power. This has been said to produce distinctively 'tight' prison pain, for those governed through risk. This paper, based on PhD research interviews with 48 life-sentenced prisoners in two English prisons, reviews how risk factored in the sample's ethical lives: how they made sense of the concept, or in some cases, dismissed it as a bad-faith imposition. It summarises official documents to describe risk assessments for the sample, which broadly suggested that the participants were ordinary and 'easy-keeping' lifers: compliant, mostly self-governing, adapted to imprisonment, and posing few risks to others in custody. This, the paper argues, means they were subject to discontinuous, and varying, kinds of 'grip', with 'tight' conditions prevailing for some, but 'loose' and 'lax' conditions for others. It produces a typology of ethical responses to moral communication about risk, and suggests what an ethical approach adds to our understanding of risk governance and of the moral communication delivered by punishment.
+
+author:
+  - id: bmhj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    attributes:
+      corresponding: true
+    email: ben@benjaman.uk
+    orcid: 0000-0003-3527-5437
+    url: https://changinginside.co.uk
+    affiliations:
+      - id: bbk
+        name: Birkbeck, University of London
+        department: Institute for Crime & Justice Policy Research (ICPR)
+        address: |
+          Malet Street
+          Bloomsbury
+        city: London
+        postal-code: WC1E 7HX
+        country: United Kingdom
+        url: https://icpr.org.uk
+date: 2024-09-12
+
+bibliography: jarmanRiskSelfGovernance2024.bib
+csl: cambridge-university-press-author-date.csl
+funding:
+  statement: "The author received funding for this research via an ESRC Knowledge Exchange PhD Studentship, reference 2405252, co-funded by a Quakers in Britain Adult Education Grant, reference AE-016 2018/19."
+keywords:
+  - long-term imprisonment
+  - life imprisonment
+  - england & wales
+  - anthropology of ethics
+  - ethical reflection
+  - prison sociology
+  - tightness
+  - moral communication
+  - murder
+  - punishment
+  - risk
+lang: en-GB
+license: CC-BY 4.0
+copyright: © Ben Jarman, 2024
+strip-comments: true
+title: 'Risk and self-governance'
+subtitle: 'Moral communication with English life-sentenced prisoners through the medium of risk management'
+categories: [conference paper, presentation]
+format-links: false
+description: A paper given at the European Society of Criminology conference in Bucharest
+draft: true
+
+format:
+  revealjs:
+    incremental: true
+    theme: dark
+    menu: 
+      numbers: true
+    number-sections: false
+    auto-animate: true
+    auto-animate-unmatched: true
+    auto-animate-duration: 0.8
+    watch-inputs: true
+    show-slide-number: speaker
+    email-obfuscation: javascript
+
+citation:
+  type: paper-conference
+  event-title: 24th Annual Conference of the European Society of Criminology
+  event-place: Faculty of Law, University of Bucharest, Romania
+  event-date: 11-14 September, 2024
+  genre: Conference
+  title: 'Risk and self-governance: Moral communication with English life-sentenced prisoners through the medium of risk management'
+  title-short: "Risk and self-governance"
+  author:
+    given: Ben
+    family: Jarman
+    literal: Ben Jarman
+  issued: "2024-09-12"
+  # url: 
+  # doi: 
+---
+
+::: {.callout-tip}
+Slides from a conference paper at the 2024 ESC conference. Click the menu at bottom-left of the slide view below for options including speaker notes with the text of the paper.
+:::
+
+<style>
+.slide-deck {
+    border: 3px solid #dee2e6;
+    width: 100%;
+    height: 475px;
+}
+</style>
+
+<div>
+```{=html}
+<iframe class="slide-deck" src="PRES_esc-2024_long.html"></iframe>
+```
+</div>

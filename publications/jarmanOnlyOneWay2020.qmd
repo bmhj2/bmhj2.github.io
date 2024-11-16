@@ -77,4 +77,4 @@ citation:
 
 # Availability
 
-Fulltext available from <https://www.repository.cam.ac.uk/handle/1810/304564>. Published version available at <https://doi.org/10.1093/bjc/azaa036>.
+The document archived [here](https://www.repository.cam.ac.uk/handle/1810/304564) is a pre-copyedited, author-produced version of an article accepted for publication in the British Journal of Criminology following peer review. The version of record (full citation below) is available online via <https://academic.oup.com/bjc/article/60/6/1460/5828494>.
