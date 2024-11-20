@@ -5,6 +5,7 @@ affiliations:
   - id: bbk
     name: "Birkbeck College"
     department: "Faculty of Humanities and Social Sciences"
+    group: Institute for Crime & Justice Policy Research (ICPR)
     address: |
       "Malet Street"
       "Bloomsbury"
@@ -12,20 +13,10 @@ affiliations:
     postal-code: "WC1E 7HX"
     country: "United Kingdom"
     url: "https://www.bbk.ac.uk"
-  - id: icpr
-    name: "Institute for Crime & Justice Policy Research"
-    address: |
-      "Malet Street"
-      "Bloomsbury"
-    city: London
-    postal-code: "WC1E 7HX"
-    country: "United Kingdom"
-    url: "https://www.icpr.org.uk"
 author:
   - id: bj
     affiliation:
       - ref: bbk
-      - ref: icpr
     name: Ben Jarman
     email: "ben@benjarman.uk"
     orcid: "0000-0003-3527-5437"
@@ -72,9 +63,9 @@ citation:
   URL: https://www.youtube.com/watch?v=vwqolkC0nnc
 ---
 
-# Background
-
-This was the text of a keynote lecture given in July 2024 to the annual meeting of British Quakers, in London. The text below is the lecture as delivered. A publication expanding on it further will appear in 2025. The lecture can also be viewed online.
+::: {.callout-tip}
+This was the text of a keynote lecture given in July 2024 to the annual meeting of British Quakers, in London. The text below is the lecture as delivered. A publication expanding it will appear in 2025. The lecture can also be viewed on YouTube.
+:::
 
 {{< video https://www.youtube.com/watch?v=vwqolkC0nnc >}}
 
@@ -378,13 +369,23 @@ This is creative work. It has to be done up close. It can be painful, disorienta
 :::
 
 [^1]: People who have gone through Grendon often stand out when you meet them. While drafting the lecture my research fieldwork took me to an open prison, where a colleague and I interviewed a focus group composed of four men. Within a minute or two of the interview starting, the way one man was talking made me think, “Grendon”. And sure enough, later in the interview he mentioned that he had done part of his sentence there.
-[^2]: Time is short, so if you’re interested, the pre-recorded interview with me released by Woodbrooke says more than I can say tonight, and the written version of the lecture will too.
+
+[^2]: Time is short, so if you’re interested, the [pre-recorded interview](https://youtu.be/F0irsd7UWFg?feature=shared) with me released by Woodbrooke says more than I can say tonight, and the written version of the lecture will too.
+
 [^3]: Unusually for someone in his position, he had a sentence in which the release date was fixed. He had originally been given an indeterminate sentence of Imprisonment for Public Protection (IPP), but this was overturned on appeal and substituted instead for a determinate sentence. As a result, Khan’s release was not decided via risk-assessment, but was automatic. He was also released directly from a maximum-security prison. This is extremely unusual, and meant that he had not made the usual series of stepped progressive moves into medium and then lower-security prisons. Were he to have undergone a more ‘normal’ release process, measures which aim to restore some freedoms in structured and monitored ways, and monitor compliance, would have kicked in. Policymakers and practitioners who gave evidence to the inquests, or who offered media punditry on the issues raised, seized on his automatic release as a major problem, since it was not decided via risk assessment. Parliament soon legislated to ensure that anyone with a terrorist conviction (and several other groups) will serve more of the sentence in prison and be subject to far more stringent release and supervision arrangements, regardless of the sentence originally imposed. Thus, one effect of Khan’s actions was to directly disadvantage many people in similar situations to himself. This example underlines how public protection arrangements can become dysfunctional if they do not offer meaningful progression or pathways to release.
+
 [^4]: QF&P 23.103.  
+
 [^5]: This is a fiction, of course, but a useful one. None of us has ever actually said: “I voluntarily surrender my right of retaliation to the state”. But consider what can sometimes happen when people punish *extrajudicially*: when they act on perceived wrongs privately and informally, without states playing this limiting role. We might see cliquishness, passive-aggression, or social ostracisation; we might see the rolling, chaotic cruelties of social media pile-ons; we might see the actions of a violent spouse or an abusive parent; we might see lynchings; or we might see much of the tit-for-tat violence which puts people in prison. Many of these situations can be handled far more productively through techniques such as restorative justice, but these are not always suitable where those involved do not consent to participate. Lampen is reminding us that even if we don’t necessarily want to retaliate, it’s normal to feel powerful emotions if we are wronged—anger, hatred, or disgust, for instance. It is also normal to want something to be done in response. But if everyone acts on these feelings, punishment has no end. “An eye for an eye makes the whole world blind”, Mahatma Gandhi is supposed to have said. Lampen is also reminding us, in theory, that if the state retaliates for us, then one of the useful things it’s doing is *limiting* retaliation, interrupting the relentless logic of revenge. This is a persuasive argument. But it’s also a reason we should be alarmed if it appears that the state has forgotten how to *end* punishments.
+
 [^6]: Typically, younger, riskier men are prioritised for access to these courses, because the cost-benefit calculations are more favourable when there is more risk to be addressed in the first place.
+
 [^7]: See *Payback* by Margaret @atwoodPayback2014 for a discussion of this. Thanks to Fergus McNeill for the recommendation.
+
 [^8]: If you are convicted of murder, the law permits judges to impose only one punishment: a mandatory life sentence. This means you spend a minimum period of time in prison, which the law says is for punishment. A judge decides how long it will be, depending on how serious he or she finds the offence. For around 70 people, this means a ‘whole life order’, in which there is no legal possibility of release. The penalty is lifelong—almost akin to death by imprisonment. The other 8,000 or so lifers, on reaching the end of the penalty, can apply to the Parole Board for a risk-assessed release, with their decision based on a risk assessment: whether they believe it is necessary for the protection of the public to keep you in prison. If release is granted, the lifer will be supervised by probation for the rest of his or her life, and can be returned to prison if the probation staff decide public protection requires this.
+
 [^9]: V was formerly known as Eve Ensler. Thanks to Alice Ievins for recommending the book.
+
 [^10]: This excerpt can also be found at QF&P 10.18.
+
 [^11]: We—British Quakers—piloted that work: we funded it, showed that it worked, and set it on its way [@qpswHTVCirclesSix2008].
