@@ -1,8 +1,4 @@
 ---
-# abstract: >
-#   [add]
-
-# Standard metadata in this section
 # affiliations:
 #   - id: cam
 #     name: University of Cambridge
@@ -69,8 +65,8 @@
 #       - resources
 #       - writing
 #     url: https://benjarman.uk
-#     affiliation:
-#     - ref: []
+#       affiliation:
+#       - ref: []
 
 # title: 
 # subtitle: 
@@ -90,7 +86,7 @@
   # holder: 
   # year: 
 # toc: [true|false] # Will depend on whether it's a full text or a summary.
-# categories: 
+# categories: blog
 # description: 
 # format-links: 
 # draft: true # remove after finishing.
@@ -100,10 +96,3 @@
   # [add CSL YAML here]
 ---
 
-<!-- ## Availability -->
-
-<!-- Brief description here [e.g. A briefing paper on prison labour in the US, available at <https://eprints.bbk.ac.uk/id/eprint/53813>.]-->
-
-<!-- OR -->
-
-<!-- ## Title here and text to follow -->

@@ -1,0 +1,45 @@
+# New publication: Only one way to swim
+
+I've had an article published in the *British Journal of Criminology*. The [published version](https://dx.doi.org/10.1093/bjc/azaa036) is behind a paywall, but those without access can download the accepted manuscript [here](https://changinginside.co.uk/200416-only-one-way-to-swim-accepted-manuscript/), or a pre-print (i.e. the version I originally submitted to the journal, before peer review) [here](https://doi.org/10.31235/osf.io/z4cwa) or [here](https://ssrn.com/abstract=3585421).
+
+It is pitched at an academic readership, and it's long. So this post lays out, in shorter form, what it's about, before going on to something the article doesn't directly address: why this matters.
+
+## What it's about
+
+The article sets out a broad line of argument I'm developing further with the PhD. Broadly, this is that recent research into long-term imprisonment may have oversimplified the process of 'adaptation': how people adjust to the shock and dislocation of a very long prison sentence.
+
+Past research has tended to find that [most long-term prisoners find ways of coping with the sentence, albeit that it is often painful and difficult](https://changinginside.co.uk/reading/notes-how-lifers-adapt-to-imprisonment-1/). Despite struggling to begin with, they find ways to move forwards, often coming to re-evaluate the lives they were leading before their conviction. By the later stages of the sentence, most become self-controlled, strategic, and reflective, and many embrace very different aims for the future after prison (though they still face formidable barriers after release). This is a clear finding, especially associated with those serving [indeterminate sentences](https://changinginside.co.uk/what-is-a-life-sentence/), for whom the choice is stark: comply with the expectation to demonstrate change, or face the probability of growing old and dying in prison.
+
+However, the article argues that recent studies of life and long-term imprisonment have tended to miss some factors which might complicate the picture.
+
+## The effects of age and the life course
+
+Recent studies have either i) sampled people who were convicted young; or ii) not compared people who were convicted at different ages.
+
+This matters if we're thinking about how people adapt. Not all lifers *were* young when given their sentences: in fact, in all my research, the average age at conviction of the men I've interviewed was just under 32, with the youngest still a child at the time of his offence and the eldest in his mid-seventies. A long prison sentence will look substantially different if you think you might be released in your forties, compared to your eighties (or older); in one case it's possible to foresee a life afterwards, while in the other the sentence might literally feel like the end of your life.
+
+The result is that we have a picture of adaptation that's not as nuanced as it could be. It's hard to see how people starting out from different places in life think differently about their situation. What kinds of future do they foresee after prison? Do they prepare for these, and how? Are the issues they face after release the same in all cases? How do the answers to all these questions vary for those convicted at different ages, or coming from different socio-economic backgrounds?
+
+## The effects of the offence itself
+
+Similarly, recent research has often examined people serving long and indeterminate sentences as though the sentence itself makes them comparable. But there's no reason to assume that everyone serving a long sentence for a serious offence --- murder, say --- *is* similar. In fact, they are a diverse group; and different crimes committed in different kinds of circumstances are seen by the law (and often by wider society) as embodying different kinds of risk and culpability. All murders lead to a life sentence; but because English law defines 'murder' broadly, anything from so-called 'one punch' or 'mercy' killings to sadistic serial killings count as the same crime.
+
+Here, again, I think we need to ask how this affects the way people see their sentences. Do some people think what they did was (relatively) more or less serious? How far do they feel guilt and shame? Do some feel their sentences, and their punishment, to be deserved and if so, does this affect the way they engage with the prison's attempts to 'rehabilitate' them and induce them to 'change'? Are some people more likely to see a 'way back' after punishment? And if they can't, what does this mean how they prepare for their future lives?
+
+## Why does this matter?
+
+Though it's quite clear, in the aggregate, that an adaptation process holds for most lifers most of the time, existing research doesn't make it easy to discern its complexities: *how* it happens, *for whom*, and *with what implications* for whether the sentence has 'worked'. This leaves us with quite an untextured view.
+
+Such an untextured view can also be conflated with another fact that's very clear in the aggregate: reconviction rates among long-sentenced prisoners are very low. A clear adaptation process, and low reconviction rates, both taken together as aggregate phenomena, can be conflated to give the impression that long sentences somehow 'succeed' or 'work'. The current government appears to have done precisely this, misunderstanding or misrepresenting the findings of one study to suggest that longer sentences actually *benefit* prisoners. The Prison Reform Trust recently described this move as 'disingenuous at best' (PRT 2020: 5).
+
+## What does it mean for the sentence to 'work'?
+
+We are told that longer sentences assure the public that serious crimes are punished. Here, the aim is retribution, achieved by setting [a minimum length of time in prison](https://changinginside.co.uk/what-is-a-life-sentence/) for someone given a life sentence. These 'tariffs' are now as long as they have ever been, but there is no obvious way to set an upper limit: how many years in prison is enough, when a life has been taken? Unless life imprisonment is to mean life in all cases (and I'd suggest that it's a serious wrong to punish a mercy killing and a multiple murder the same), then it's probable that we will continue to impose minimum terms of some kind, after which release can be considered based on risk.
+
+This is why sentences also aim at public protection. One way they try to achieve this is by attempting to [rehabilitate](https://changinginside.co.uk/offender-management-rehabilitation/) people, so that they can 'reduce risk'. But risk does not *start* the same, or *change* in the same ways, in all cases. Risk assessment is also, at least to some degree, a question of subjective interpretation, meaning that people serving life sentences sometimes disagree with (or don't understand) official judgements about the ways in which they are 'risky'. This has the potential to lead to people who pose a genuine risk of harm being released having successfully put on a performance for risk assessors; it also has the potential to cause some people who pose no real risk of harm to become 'lost' in the system, stuck in prison long after the point where anyone is benefiting by their continued imprisonment.
+
+## Summing up
+
+My argument in the article is that all of this underlines the need for clear thinking about adaptation: about what it means in different cases to 'adapt' to one's sentence, but also about why some people's adaptation looks like getting 'stuck in the system', to their own detriment and at everyone's cost.
+
+These are bigger questions, but they can't be properly thought about unless we have a more nuanced understanding of what 'adaptation' means. This is what the article (and the PhD) tries to do.

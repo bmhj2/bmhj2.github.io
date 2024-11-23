@@ -1,0 +1,34 @@
+# Lifers and the 'right to hope' --- a new campaign
+
+This post comes in the context of a meeting I attended in London earlier this week, convened by [Penal Reform International](http://www.penalreform.org). Attendees from a range of countries in both the global North and South all had some interest in the issue of life imprisonment. The aim was to [explore how a global coalition might be formed](https://www.penalreform.org/news/pri-co-hosts-international-civil-society-strategy-forum/) by different organisations to campaign, at the international level, for reform of this penalty. I attended the meeting, and though it's too early to give details about the positions they will be taking up, it's safe to say efforts will be directed towards regional and global institutions which set guidance and standards for criminal justice in their member states, such as the [UN Office for Drugs and Crime](https://www.unodc.org/). The idea of a 'right to hope' was selected as a slogan for the campaign, influencing my [choice of image](https://changinginside.co.uk/?p=355) for this post.
+
+The scale and long-term nature of the campaign, means my small-scale PhD research won't have much direct influence, because it focuses on how prisons manage life-sentenced prisoners, and not on sentencing law in itself. But it is something that readers might want to follow. If you have a connection with campaigning organisations which take an international perspective, then you could consider asking them whether they might want to get involved with the coalition, once it is under way.
+
+## A global perspective
+
+The rest of this post discusses some issues arising from the presentations I heard and the discussions I had at the meeting. My [last post](https://changinginside.co.uk/links/life-sentences-long-view/) linked to the [PRT's](http://www.prisonreformtrust.org.uk) [most recent Bromley Briefing](http://www.prisonreformtrust.org.uk/PressPolicy/News/vw/1/ItemID/601), the latest instalment of their indispensable guide to the facts and figures relating to imprisonment in this country. One key focus in it was a section on life sentences, marking the publication next month of [a major study](http://www.hup.harvard.edu/catalog.php?isbn=9780674980662) by Dirk van Zyl Smit and Catherine Appleton of the University of Nottingham, analysing the use of such sentences worldwide. Their book has prompted the PRI work, and a summary of the main findings [can be found here](https://www.penalreform.org/resource/life-imprisonment-a-policy-briefing/).
+
+Last week I highlighted one striking finding from that book, namely that the UK has the largest number of life-sentenced prisoners in Europe, making up up a higher proportion of the prison population in 2014 (10.5%) than in the United States (9.5%). Most concerningly, from a global perspective, is the growth in lifer numbers worldwide. The best available estimates suggest that while there were 261,000 lifers worldwide in 2000, there were 479,000 in 2014, getting on for a doubling within a 15-year period.
+
+## Drivers of growth
+
+One driver of growth appears to be the gradual abolition of the death penalty, something that has been subject to [widespread campaigning](https://en.wikipedia.org/wiki/World_Coalition_Against_the_Death_Penalty). Life imprisonment has often been adopted by different countries as the default alternative to capital punishment, meaning that in some sense the growth in lifer numbers has been an unintended consequence of reform efforts elsewhere.
+
+Another driver of growth in lifer numbers has been the tendency of states to adopt mandatory life sentencing for a wide range of offences, not always the most serious. A particular factor here is the use of life sentences for people convicted of repeat offences. The ['three-strikes' laws](https://en.wikipedia.org/wiki/Three-strikes_law) passed by many US states are one [widely-criticised example](https://www.rollingstone.com/politics/politics-news/cruel-and-unusual-punishment-the-shame-of-three-strikes-laws-92042/), and in some cases have led to life sentences for people convicted of comparatively trivial crimes.
+
+Another relevant factor, in countries where life sentences feature some possibility of release, is the increasing length of the minimum terms which lifers must serve before there is any possibility of release. These do not apply everywhere, however: in some countries, life imprisonment only exists in law as a sentence without any possibility of parole, meaning that people sentenced to it will die in prison.
+
+Finally, because the number of lifers in prison is affected not only by the number of new sentences but also by the rate at which they are released into the community, and [whether they are recalled to prison](https://changinginside.co.uk/what-is-a-life-sentence/), lifer numbers overall are also affected by [official thinking](https://changinginside.co.uk/offender-management-rehabilitation/) about whether and how lifers become 'rehabilitated'.
+
+Why should anyone care about this? There are a number of reasons for concern, among them the cost of imprisoning people past the end of their minimum terms if they are not genuinely dangerous. Comparing the UK's heavy use of indeterminate imprisonment with that in other countries is an interesting way to think about this. One interpretation could be that a larger proportion of UK prisoners are extremely dangerous people. Another could be that there is something unusually punitive about UK sentencing, or unusually restrictive in our official thinking about how and when lifers can safely be released.
+
+## A right to hope?
+
+Quite apart from considerations of cost are more fundamental questions about whether life sentences are consistent with human rights, most particularly when they are imposed without any possibility of parole (known in England and Wales as a ['whole life tariff'](https://changinginside.co.uk/what-is-a-life-sentence/) or in the US as Life Without Parole or LWOP). Some see this denial of any right to hope as cruel and excessive, and from a practical point of view it also means that prisons have to cope with prisoners who have little reason to comply, both factors which featured in a 2013 European Court of Human Rights judgment on a [case brought by three whole-lifers in England and Wales](https://www.bbc.co.uk/news/uk-23230419).
+
+Since, globally speaking, not all prisoners in this position have committed serious or even violent offences, it is legitimate to ask whether such penalties are merited, and where the line ought to lie. Some questions that this all left me with were as follows (and I'd welcome your thoughts):
+
+-   What's the right thing to do with someone who committed terrible offences many years ago?
+-   Are there ever good reasons for keeping people imprisoned for ever?
+-   Is there a right to hope?
+

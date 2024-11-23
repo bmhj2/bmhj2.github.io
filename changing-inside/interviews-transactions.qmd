@@ -1,0 +1,32 @@
+# Interviews as transactions
+
+In my last post I wrote briefly about the rules governing research interactions in prisons, and said that what followed would reflect on some dilemmas and questions thrown up by trying to follow these rules in practice. This post reflects on how one interview became rather more of a transaction than some others.
+
+## Negotiating the interview
+
+The interview took a long time to set up. I could tell on the first conversation that the person was interested in doing it, but also that he had had multiple worries about interview topics, the possibility that the interview might be recorded, and so on. One of his questions was whether the interview resulted in entries on his prison file. I told him that I had to write down *something* about the interview (['rule of the game' no. 7](https://changinginside.co.uk/?p=701)) but also that I would keep my comments to a minimum. Here I was conscious of what others have said about the 'power of the pen' and the potential for ambiguously-recorded information in prison files to come back and haunt the subject of those comments years later. I could tell immediately that my answer disappointed (or possibly annoyed) him.
+
+He said that he was only interested in participating if the interview would result in a *positive* entry. He had a parole hearing coming up, and wanted positive comments on his record. I said I saw no harm in writing a slightly fuller note than usual, and making sure that it recorded his participation had been voluntary and positive. Immediately this felt something of a departure from the 'rules of the game'.
+
+He also wanted to pre-vet the questions. I wasn't willing to agree to this, but reiterated one of the more minor 'rules of the game', spelled out in the participant information sheet: that he would be able to decline to answer any of my questions without giving a reason.
+
+## Carrying out the interview
+
+On this basis, we went ahead a couple of weeks later. I do two interviews with each person: a relatively unstructured narrative interview about life before prison where I set the general direction but participants are largely in control of what they say. In this first interview, I limit myself to clarifying or probing things that they have said, but I never challenge or imply disbelief. The second interview is a more structured, more thematic one, beginning with a briefer narrative, but then diving into some more abstract topics drawing from the material in the first interview and experiences in prison.
+
+The man I've described here spent much of the first interview describing his frustration at how difficult it had been for him to get downgraded to his current security category. He expressed this complaint using a common metaphor: that in the 'fishbowl' of prison, you are swimming around in a restricted space, unsure who is observing you, what they will see, how they will understand it, and what they will record about it. This metaphor is spot-on, and affects researchers too: I have a half-written blog post in the pipeline about how this same feeling of being under scrutiny affects the choices I make in fieldwork.
+
+## Life in the fishbowl
+
+This interviewee spoke passionately about the difficulties of life in the 'fishbowl', but specifically with the notion that prison staff were on the outside of it. He related how chance comments, days when he was tired or in a bad mood, horseplay with friends, anything really, could be recorded in a file and then brought up again later. Such details, he said, would sometimes be invoked at meetings concerning his progression. "You say that you have become calmer since your last review, Mr X; but on the 14th of May Officer So-and-So wrote that you became angry in a conversation about an application you put in". He said that information like this would be 'twisted' into evidence that he was *still* the risky person he once was, that he must *still* 'jump through some more hoops' before he was 'ready' to move on: do another course, spend another year under observation, keep a clean nose for a bit longer.
+
+He was particularly frustrated by the relationship between the objectives and targets that he had been set in [sentence plans](https://changinginside.co.uk/planning-serving-time/) and the like, which were clear and above board, and the feeling that these kinds of factoids in files were mobilised 'against the rules' implied by these objectives, and used to label him as 'manipulative', 'powerful', a 'gangster' and so on. He spent some time describing how that he had completed all the courses that were required of him and had had a clean prison disciplinary record for many years.
+
+I haven't yet seen his file, and so I can't yet verify what he told me against other records; but he has given permission for me to read it, so it would feel surprising if he was completely misleading me, since he knows that I will check it eventually. But whatever I find there, the sentiments in his description of this situation were strong ones, and the figures of speech he used to describe it were telling: 'catch-22'; 'moving the goalposts'; 'guinea pigs'; 'lab rats'; the 'hamster wheel'.
+
+## Hidden agendas?
+
+It was inexplicable to him, unless by shadowy conspiracy and hidden agendas, that he had spent nearly his whole adult life toeing the line and yet was still in prison, some years after the end of [his tariff](https://changinginside.co.uk/what-is-a-life-sentence/). The overall effect, he said, was to render him mistrustful of everyone, including me, and their motives. As a result he only did things like this interview if there was something definite in it for him. That made this feel more like a transactional interaction than most I have done so far. It was tit-for-tat: an interview for a positive note on his record. 
+
+The next post will discuss the second part of this interview, and how it made me deeply uncomfortable as well as provoking questions about what you can learn from interviews besides what is said in them.
+

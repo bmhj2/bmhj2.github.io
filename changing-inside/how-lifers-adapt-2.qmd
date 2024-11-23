@@ -1,0 +1,33 @@
+# How lifers adapt to imprisonment: part 2
+
+This is the second of two posts noting my thoughts about a recent study on life imprisonment. The first post can be found [here](https://changinginside.co.uk/?p=414).
+
+## Questions raised by this research
+
+### Institutionalisation?
+
+In my experience, one of the common-sense ideas people refer to when talking about imprisonment is that prisoners come out 'institutionalised'. The term goes back to a [classic 1940 text](https://books.google.co.uk/books/about/The_Prison_Community.html?id=x7MRCV0-zcYC) by Donald Clemmer, who coined the term 'prisonization' to describe 'the taking on, in greater or lesser degree, of the folkways, mores, customs, and general culture of the penitentiary' (1940: 299). The implication is that prisoners come out of prison worse off than at the start.
+
+When I say that the idea is 'common-sense', I mean that it's used as though its implications are obvious, but like many common-sense ideas, I think it's also worth examining whether it's the case or not. It's clear from this study that being imprisoned for a long time shapes your subjectivity. This makes intuitive sense in the terms of life outside: going to a certain university or working in a certain company will present you with a set of cultural norms, which will shape your cultural mindset. You can react in different ways: by adapting; or seeking alliances and struggling to change the institution; or leaving to find a more amenable environment.
+
+In prisons, however, these options are fewer. Lifers cannot easily leave for pastures new. They have very limited control over the prison regime, the way in which they can spend their time, and so on. So if they wish to be released at the end of [the tariff](https://changinginside.co.uk/what-is-a-life-sentence/), only the first of these three options -- adaptation -- appears a safe and productive choice, and that in turn requires a turn inwards and a focus on the self. Therefore the adaptive pressures for long-term prisoners are particularly intense, to the extent that they seem eventually to 'flatten' (Crewe et al. 2017: 538) all imported distinctions among lifers, who as a result are shaped into a particular kind of person: inward-looking, reserved, self-controlled.
+
+We can see this as a form of 'institutionalisation', but I don't think it automatically follows that this is a change for the worst. It's not clear how well these adaptations serve lifers after their release from prison, nor whether other factors affect their ability to make something positive of their time outside prison. It also appears that many of those who were interviewed in the study see these adaptations as (at worst) a mixed blessing and (at best) a necessary evil.
+
+### Adaptation... to what?
+
+It is also clear from the study that the forms taken by such introspection and reflectiveness are influenced by the cultural materials on hand in the prison. Faith-related activities are mentioned in the article, and are relatively easy to access in prison (compared with education, for example). They appear to be influential for those who participate in them partly because they offer access to techniques of self-management such as meditation and prayer; and partly because they offer terms in which to reimagine and reinterpret one's history, and seek to resolve the problem of self-forgiveness. Similarly, physical self-cultivation (through sport and prison gyms) was mentioned by many participants as an important practice, adding rhythm to the monotony of prison life and a set of yardsticks by which to measure the self:
+
+Gymnasium has been the most constructive thing for me because I started to train seasonally, so in winter I would bulk up, in summer I would cut up. And I started to think in seasons and just throw everything into gym, so I'd surround meself with guys that go to the gym. We'd converse. We'd cook high-protein meals, we'd go to the gym together. \[...\] So you become very focused on a period of time, and everything around your prison sentence is all shaped around that \[...\] and it's surprising just how one day merges into the next. *'Bernard' (not his real name)*
+
+The study suggests that creating a 'better self' for the future is something that people serving life sentences for murder come to see as a kind of personal project or 'ultimate concern'. It represents the best means of making meaning and purpose from the sentence when the original harm of the offence can't be put right. But it also suggests that *how* they do this is strongly influenced by what's on offer. For example, higher education is difficult to access, and seems to play a smaller role than the gym or faith activities. We might ask, therefore: what cultural and social resources are on offer in the prison, and how do these affect the kinds of people that life imprisonment produces?
+
+### Adaptation... from what?
+
+If (at least for people convicted of murder) the offence itself is a significant factor in how they adapt, then this raises many further questions. The definition of murder in English law is particularly broad, and the same conviction can encompass a variety of very different acts, which can reasonably be supposed to have different moral implications and to generate differing degrees of stigma. The authors note that prisoners with Joint Enterprise convictions had particular difficulty adapting to imprisonment, because they harboured lingering doubts about the legitimacy of their sentences. I wonder whether it might also be more difficult for people who have committed particularly stigmatised or notorious offences to 'accept responsibility'; whether, in short, some things appear to be more forgivable than others? The intuitive answer is 'yes', but I'm not sure that is a very good basis on which
+
+Therefore I think these papers also generate a number of questions which need further thought, but can't easily be answered using the data from this study. For example:
+
+-   Everyone in this study was aged under 25 when they received their life sentence. Do these findings apply equally to people who were older when they were sentenced, or are their views of the past, present and future somewhat different?
+-   Is the reflective process of coming to terms with the sentence and the offence equally easy for all lifers? Are some offences perceived to be more shameful than others, and is it harder to accept responsibility in these cases?
+-   What part is played by rehabilitative interventions? Do lifers feel they help or hinder the process of coming to terms with the offence, or are they irrelevant to it? What does this mean for sentence planning and prison management?

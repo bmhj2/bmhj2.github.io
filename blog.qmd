@@ -10,7 +10,7 @@ listing:
   type: default
   contents:
     - posts
-    # - blog/changinginside.yml
+    - posts/changinginside.yml
   sort:
     - "date desc"
     - "title asc"
@@ -19,7 +19,8 @@ listing:
     items: 15
     type: partial
     description: Latest posts from Ben Jarman
-    language: en-gb    
+    language: en-gb   
+    categories: [news, posts] 
   sort-ui: [date, title, keywords]
   fields: [date, title, subtitle, keywords, reading-time]
 citation: false

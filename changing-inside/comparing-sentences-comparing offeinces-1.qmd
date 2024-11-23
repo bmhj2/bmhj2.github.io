@@ -1,0 +1,42 @@
+# Comparing sentences, comparing offences: part 1
+
+This is the first of two posts thinking about how lifers (and others) might compare what it means to have different lengths of sentence.
+
+## Selecting participants on tariff length
+
+One thing that has been on my mind lately is how to select a sample of people to interview. I'll be working in two different prisons, holding lifers early and late in the sentence. Analytical comparisons between people at different sentence stages are built into the research design.
+
+However, *within* each prison, I also want to compare people who have been given [bigger and smaller tariffs](https://changinginside.co.uk/what-is-a-life-sentence/), for murders the law sees as more and less blameworthy. Tariff length is at best only a very crude way of making moral distinctions between different offences, but I'm working on the basis that comparisons on this variable will be meaningful in shaping people's experience of the sentence.
+
+Crude or not, one reason to do so is that lifers themselves use the tariff as the basis for moral comparisons. As the quotation below from my pilot research in 2017 suggests, the fact that these comparisons can end up feeling quite futile doesn't mean it's easy to refrain from making them:
+
+*Interviewee: It's like, down at work, there's four of us, all doing \[X\] year *\[tariffs\]. One geezer \[...\] stabbed an old man to death. Another one killed his girlfriend. And another one \[killed someone\] in a wheelchair \[...\] \[X\] years, \[X\] years, \[X\] years. And it's like, "right, you took a knife to this bloke's house, killed him. You killed your missus, with a knife. You \[killed someone\] in a wheelchair. I \[killed someone in self-defence\]. How the fuck have I ended up with \[X\] years?" You start relating \[your sentence\] to people's... you end up... It's pointless... it's like... "mine's bigger than yours."
+
+*Me: Are you saying it's best not to go there?*
+
+Interviewee: Sometimes. Or you use humour. You laugh it off. I know that's sad, but that's life.
+
+*Extract from an interview with 'Richard'*
+
+A brief digression: first, to say that 'X' marks the actual tariff length, edited out to preserve Richard's anonymity and confidentiality (his name has also been changed); and second, to say that he was appealing his conviction, and maintained that self-defence rendered his conviction undeserved. Since I had no way to evaluate his very strong feelings of injustice, I won't try to do so here.
+
+## Spurious comparions?
+
+Richard's comparisons remind us that 'murder' is a broad legal category, despite its weighty connotations of seriousness, violence, and irreversible harm. In the law of England and Wales, there is only a single offence of murder (there are no 'degrees' of murder, as there are in many other countries). A murder can take place in a very wide range of circumstances: a carer administering euthanasia, an intimate partner retaliating after years of abuse, a contracted assassination, a dispute with a criminal rival, a sadistic serial killing, a fight with unenvisaged (and perhaps unintended) consequences. Some of these scenarios are rare, and there are certainly more and less 'typical' murders, but few would agree that all are morally equivalent. Richard certainly didn't.
+
+Indeed, the law also distinguishes between murders it holds to represent different levels of seriousness and culpability. Since the life sentence is mandatory, these distinctions in blameworthiness can only be reflected by altering the minimum term of imprisonment to be served during a life sentence (the 'tariff'). The tariff is, in theory, the 'punishment' part of a life sentence: a retributive penalty reflecting the lifer's culpability as seen by the courts.
+
+## Censure and incapacitation
+
+Punishment used to express moral disapproval in this way is sometimes described as 'censure'. *During* the tariff, the offender pays a penalty in years of imprisonment, by which society sends the moral message that what they did was wrong. *After* the tariff, if they remain in prison, it is (in theory) not for punishment, but to incapacitate them: to protect the public from the risk of harm that they are believed to pose, risk which cannot be managed in the community.
+
+At this stage (still in theory) they are being punished not for what they have done in the past (because the punishment part of the sentence ended with the expiry of the tariff), but for what they might do in the future (because their continued imprisonment is based on the assessment of risk).
+
+In a very small number of cases, the offence is deemed to be so serious that at the outset, the person is told that they must be imprisoned for the rest of their natural life (a 'whole life tariff'). But for most, a tariff in years is set. Parole becomes possible (though not certain) after that number of years. Obtaining it depends on satisfactory performance against rehabilitative targets and sentence plans which are set by prison staff. In theory, tariffs of the same number of years convey an equivalent degree of censure.
+
+This theoretical picture can be represented by the diagram below.
+
+-   A diagram showing the structure (in theory) of a life sentence
+
+Though it looks neat and tidy in theory, in reality the picture is messier. There are many reasons why, with consequences for how people think about their sentences. I'll say more about them in the second part of this post.
+

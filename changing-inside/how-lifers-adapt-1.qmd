@@ -1,0 +1,56 @@
+# How lifers adapt to imprisonment: part 1
+
+Another post on my reading, this time on a set of articles I've re-read recently while revisiting the [Masters research I carried out in 2017](https://www.repository.cam.ac.uk/handle/1810/286064). I'm writing up the latter for 'proper' publication in a peer-reviewed journal, as a means of revisiting my findings and thinking through exactly what it is that I am trying to look at through the PhD.
+
+## The study
+
+The articles set out the findings of a recent study on life-sentenced prisoners in the UK, by Ben Crewe (my PhD supervisor), Susie Hulley and Serena Wright. My PhD work will build on their findings, while adding some different ideas into the research design and the analysis of the data.
+
+The study focused on people who had been young --- under 25 --- when sentenced, and who had been given life sentences with [tariffs](https://changinginside.co.uk/what-is-a-life-sentence/) of more than 15 years. It used mixed methods -- a survey and in-depth interviews -- and is therefore both a qualitative and a quantitative analysis. It was of significant size: 818 people in England and Wales --- 789 men and 29 women --- matched the research criteria, and a total of 310 men and 23 women participated in the study by survey and/or interview.
+
+There was one significant gap: 191 people from that total of 818 (24%) could not participate because they had been transferred from prisons into secure psychiatric hospitals. The size of this group really took me aback: it represents people who for one reason or another failed to cope in prison. The researchers point out that this means their findings on how people adapt to imprisonment are limited to those who did cope.
+
+## How to measure the effects of imprisonment?
+
+Research attempting to assess the effects of long-term imprisonment has a long history. The most credible quantitative research has generally failed 'to demonstrate a debilitating impact on such matters as cognitive functioning or self-esteem' (Crewe et al 2017:520); meanwhile, qualitative research has given rich accounts of how prisoners struggle and experience subjective 'pains of imprisonment', but not in ways that are easy to generalise to long-term imprisonment in general.
+
+This study has a mixed-methods approach and therefore a different perspective. Rather than using measures of such variables as reaction times, and then failing to demonstrate that long-term prisoners decline at a rate faster than anyone else, it uses both quantitative and qualitative methods to inquire into the problems that prisoners experience, and how severe they experience those problems to be. The starting assumption here is that the harms and pains of imprisonment, if they exist, lie in the realm of subjective experience. Designing the research in this way is a way of saying that if someone experiences subjective suffering (as opposed to measurable physical or neurological decline) then we should take that into account.
+
+## The main findings
+
+### It's worst at the beginning\*\*
+
+First, the problems of long-term imprisonment are [distinctly worse in the early stages](https://doi.org/10.1177%2F1362480616643581) of sentences. They are also gendered, in the sense that they are qualitatively [different and more severe](https://doi.org/10.1093%2Fbjc%2Fazw088) for women as opposed to men. For those in the early stages of life sentences, there are a number of challenges:
+
+-   'entry shock' -- being plunged into very unfamiliar circumstances and torn away from one's regular social world
+-   'temporal vertigo' -- intense disorientation and distress arising from thinking about a prison sentence that is often nearly equal in length to one's age at sentencing
+-   'intrusive recollections' -- symptoms similar to post-traumatic stress disorder relating to one's own involvement in the offence
+
+It's noted that most lifers didn't feel they received a great deal of support with these three problems, or know where they could turn for help. Many were concerned about burdening loved ones outside prison who in any case were hard to contact; others found it hard to trust anyone in what was an unfamiliar and often frightening environment; and some found it hard to seek help or sympathy for difficulties they believed they had inflicted upon themselves. It was especially hard for those who had maintained their innocence throughout the trial process, or were appealing their conviction.
+
+As a consequence, there is a distinctive pattern of adaptation and coping among lifers in the early years of their sentences, characterised by a 'backward-looking' outlook which emphasises (even grieves for) the past, This mindset suppresses thoughts of the future, denies the reality of the new situation, or redirects such difficult feelings into such endeavours as art and education. A particular characteristic at this stage is the refusal to think too far ahead, and a tendency to live in the immediate present, because one's perceptions of time are so distorted by the boredom and unfamiliarity of prison.
+
+### Coming to terms with the offence
+
+Second, the authors argue that for most of the lifers they interviewed, adaptation to imprisonment and moving forward in life involved coming to terms with (and accepting some measure of responsibility for) the offence. Here, the finality of homicide (the offence committed by all those in this study) is particularly significant, and difficult to deal with. Lifers coming to terms with their sentence need to find ways to acknowledge responsibility without becoming swamped by guilt, because they cannot simply put right the harm that has been done.
+
+As the authors put it, this involves 'taking moral responsibility, while also recognising the futility of being hobbled by what was in the past' (Crewe et al. 2017: 530):
+
+He shouldn't have died, his family shouldn't have felt the grief \[...\] But, at the same time, there's nothing I can do, so I can't carry this burden with me for the rest of my life because there's nothing that I can do. I can't feel sorry that I'm not in my daughter's life, I can't feel sorry that I wasn't there for my mum or my gran \[...\] when they were grieving. \[...\] There's nothing that I can do for \[his family\]. And with acceptance is when I come to terms with it. *'Julius' (not his real name)*
+
+It was also clear that this process of acceptance was very much more difficult for those who continued to feel their conviction was mistaken or illegitimate, with the [complexities and injustices of the law around Joint Enterprise](https://youtu.be/UjBwCmwpvMI) highlighted by the research as a significant problem.
+
+Another interesting element here is that many of the prisoners quoted linked the consequences of their offence for their victim(s) with the consequences of their sentences for their own loved ones. This makes clear that feelings of guilt are not merely associated with the offence itself, but with the impact of the sanction as well, so that a lifer can feel very guilty about not being there for loved ones even if they harbour doubts about some aspects of their conviction. This rings very true for some of the interviews I did in my own pilot research for this PhD, which I'll write about another time.
+
+### Time and the sentence
+
+Second, adapting to a very long prison sentence involves reframing one's attitude to time, and also rethinking the relevance of one's life before prison. The authors argue that most lifers eventually come to recognise the realities of their predicament, namely that prison is the only place where, for the time being, life can be lived. This means the relevance of one's markers of identity and status before prison recedes. For example, it is more difficult to fulfil the expectations that go with one's social ties before prison. Children grow, friends lose contact, and the life-sentenced prisoner's focus turns more and more inward, to gleaning what can be got from the sentence itself.
+
+This shifting attitude to time was observed in a marked tendency for lifers in the study who were further into their sentences to think and talk about the future (rather than to deliberately fix their attention on the present and the past). It was also evident in their tendency to describe what they had control over, despite the obvious constraints of the prison environment, rather than to focus on how little control they possessed over their own lives:
+
+Q: Do you feel that you've got control of your life in here, or control of certain aspects of your life? A: I've got control of certain aspects. \[...\] I've got control in \[...\] how I react to people, and how I interact with people \[and\] my plans for the future and getting myself prepared and ready for that. I've got certain control over my education and I've got certain control over staying healthy, and staying ﬁt, staying positive. *'Daniel' (not his real name)*
+
+The authors argue that this process of adaptation was remarkably consistent across their whole sample of lifers (though as I noted above, it may not apply to the significant minority who fail to cope and end up in psychiatric care). For most, it arises from the recognition that there is literally no alternative to living life in the constrained circumstances of prison, and that the conditions and circumstances of one's life beforehand recede in importance.
+
+In the next post I'll note what I think are the questions raised by these studies.
+

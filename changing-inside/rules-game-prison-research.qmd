@@ -1,0 +1,30 @@
+# The 'rules of the game' in prison research
+
+In setting up this project, and obtaining permission to carry out the research, one thing that took some time to get right was the Participant Information Sheets (PIS). These contain information about the project and what it's doing, and set out certain information relevant to the interviewee's informed consent, such as: steps taken to protect their identity and their data; how they can withdraw themselves from the study if they change their minds; how they can complain about me if they wish to; and what the legal rules governing their personal data are. I had to send drafts to HM Prison and Probation Service's *National Research Committee*, to my department's Ethics Committee, and I also got some specific advice from my university about *GDPR requirements*. These documents are standard in prison and indeed in social research more generally. [National Research Committee](https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service/about/research)[GDPR requirements](https://www.research-integrity.admin.cam.ac.uk/academic-research-involving-personal-data)
+
+Despite reservations from some of those sources about the readability and length, the original draft as amended by them ended up at seven A4 pages long, including GDPR compliance text and the reply slip. The mere existence of the PIS sets in motion an assumed research choreography, with steps 1 to 5 determind in advance, and steps 6 and 7 added by the prison where I am doing fieldwork at present. Here's how that choreography goes:
+
+1.  I identify a sample randomly from a list;
+2.  I send the people in it an information sheet;
+3.  They read and consider the contents;
+4.  They send back the response slip, saying 'yes', 'no', or 'can I ask you some questions before I decide?';
+5.  As appropriate, I set up interviews, have further conversations, or replace those who decline;
+6.  I run the names of randomly-selected participants past particular prison staff, who veto interviews if they see the person concerned as particularly vulnerable, and
+7.  After an interview, I write some notes to be entered on the prison database, describing the interviewee's emotional state during the interview and notifying prison staff if I thought they might require support.
+
+This choreography presupposes a number of things about the normal nature of the research relationship:
+
+1.  that it is the researcher and the prison, not the participants, who hold power;
+2.  that it is the researcher who initiates contact;
+3.  that participants are vulnerable, or (by default) at risk of being harmed by their participation;
+4.  that it is for the researcher and the authorities to act to protect them from harm, and
+5.  that interviews will usually take place and be arranged by working sequentially through these steps.
+
+In prisons research, where access can be tricky (and conditional), these are effectively the 'rules of the game', negotiated in advance with the authorities, to which you're accountable.
+
+While there are very good reasons for having these default assumptions, in practice the task of actually getting the research done can call some of these rules---and particularly some of what they take for granted---into question.
+
+Since I've been conducting my fieldwork for a couple of months now, and have been finding it quite difficult to write coherently about what I am seeing, hearing and finding in the prison, the next few posts on this blog will concentrate on some dilemmas and strange situations that have come up in the research, which I have found interesting because they have provoked reflection on some of the 'rules of the game', the situations in which they do and don't apply, and the questions, dilemmas and difficulties they create.
+
+So this is the first of what I hope will become a series of posts reflecting on these methodological and ethical issues in the research process. The next two will reflect on one interview in particular, with a man seen by the prison as 'a powerful prisoner', who wasn't particularly willing to play the game exactly as these rules suggested he should.
+

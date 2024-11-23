@@ -1,0 +1,63 @@
+# Interviews as power games
+
+This is the second post on a particular interview. Readers who haven't seen the first part might want to [read it first](https://changinginside.co.uk/?p=706). In it, I described someone whose approach to the interview was much more transactional than most. Before agreeing to it, he asked for a kind of tit-for-tat recognition, in the form of a positive entry about the interview in the prison's database.
+
+## Manipulation or ordinary human interaction?
+
+Before agreeing to the second interview, he said he was interested in finding ways to do some mentoring of young people after his eventual release, and asked whether I knew of any services that might enable him to do this. I said I'd ask around, and come back to him with anything I found out, provided the prison agreed to it.
+
+Researchers in prisons are not allowed to offer incentives to their participants, and seen from one perspective what I'd agreed to was something like one. The interaction I described in the first post of this pair strayed beyond the boundaries set for it, and the 'rules of the game' were somewhat undermined.
+
+Yet I could see nothing obviously wrong with providing (if I could find one) a recommendation for good services to engage with in future. Quite the opposite. But where it involves a default, taken-for-granted power relationship---in which he is the subordinate recipient of services, rather than the active seeker of them---being challenged or subverted, things get uncomfortable.
+
+Was I being 'manipulated' by a 'powerful criminal figure', or was I responding as I would to any minor request for help from someone with whom I'd had a long conversation, gaining some sympathy for his point of view? Almost imperceptibly, and in a way that only became clear later, different rules had been negotiated than those which applied by default. This ability---to make evaluations and reach agreements about the right way of doing things---is intrinsic to a great deal of social interaction. But it's also antipathetic to the standardising, flattening power of policy and rules.
+
+## Power and the interview situation
+
+The second interview was very different, but significantly added to the insights of the first. Unlike in the first interview, the more structured interview schedule meant my interviewee was less in control of the narrative. This didn't go down well: often he answered monosyllabically, and occasionally fired even straight factual questions back at me: "what does that even mean?"
+
+I found it a very uncomfortable interaction, because it made me feel profoundly self-conscious: about my self-presentation; about the wording of my questions; about whether I was just very tired and not doing my job properly; about whether my interview questions (which have worked well with other people) might just be objectively stupid, a kind of over-intellectualised rubbish. It felt at times as though we were speaking different languages.
+
+## Interactional rules and ethical inferences
+
+As an interaction, the interview basically stopped 'working' whenever he was not in charge of it. He wouldn't accept a position in the conversation which was not dominant. It undermined the unspoken rules (such as turn-taking or relevance) that allow conversations to flow smoothly.
+
+Anthropologist Webb Keane's brilliant 2016 book, [Ethical Life](https://press.princeton.edu/books/hardcover/9780691167732/ethical-life), points out that it's from these unspoken rules of interaction that we often unconsciously and habitually draw ethical inferences about other people. This is why we often feel a quite specifically moralised anger---why, on some level, it hurts and feels like we have been wronged---when someone we are speaking with seems not to be paying attention to us, or refuses to observe small rules of conduct that convey respect, or otherwise communicates what we take to be disdain, haughtiness or condescension. When, in other words, they don't treat us as equals.
+
+Keane's point is that body language, non-verbal cues and other tiny symbols of this sort often do a lot of ethical work, as well as simply facilitating interaction. Most of the time, we hardly think about them, but sometimes we do ponder what they mean. That pondering sometimes leads unspoken rules to be questioned, and leads people to make conscious steps to resist norms that seem self-evidently good to others, because they have arrived at a different understanding of what they mean.
+
+The early Quakers famously did exactly this when they refused to take off their hats to greet people, or to use the honorific 'you' (rather than the familiar 'thou') when addressing their elders and social 'superiors'. For them, these actions were a way of testifying to the equality before God of all people, regardless of social rank; but their actions seemed strange and rude to those in 17th-century England who were more invested in such manners. These were not trivial matters: there are recorded examples of Quakers' refusal to toe the interactional line leading to their being beaten and imprisoned, so powerfully did they offend their contemporaries.
+
+Similarly, today, people who want to highlight (and end) the exclusion and marginalisation of transgender people will include their favoured pronouns in email signatures and Twitter profiles.
+
+We make a huge amount, in everyday life, of tiny cues such as these, using them as what Keane calls 'ethical affordances'---signs we see as ethically relevant in evaluating someone, and which we put to use for this reason. Prison researchers, for example, have sometimes noted that in some prisons, prison officers are uncomfortable using prisoners' first names or with being addressed by prisoners using their own first names. Perhaps this upsets their sense of their own authority, which is simultaneously formal and based in law, and yet also always fragile, contested, and contingent.
+
+## Interview words vs. interview content
+
+Returning to this second interview, most of what my participant said in his testy, terse replies felt quite mundane: brief, often fairly general answers expressing obvious truths about prison life which didn't seem to get very deep into his experience, except where he warmed to a particular question, digressed, and found himself back in control again.
+
+But much of the content of the interview was non-verbal. Though I found it very uncomfortable in the moment, the discomfort I felt yielded a number of insights once I had had the chance to reflect on it.
+
+My interactions with this man came to appear a negotiation over power. Specifically, they temporarily and paradoxically inverted the power relationship assumed by the 'rules of the game'. Paradoxically, because of course, the wider power dynamic remains in place. I will still leave the prison armed with my consent form, along with certain personal data relating to him and his sentence, my notes on the interview, and notes on certain aspects of his prison file. Unless he writes to the address on the participant information sheet by the prescribed date to say that he wishes to withdraw his consent, I will anonymise these records, hold them on file, and retain them as records showing I have acted ethically towards him. On that basis, I can justifiably proceed to treat his words as 'research data', analyse them, and write them up as part of my PhD. To that extent, the relationship is still vertical, with me in a position of power over him. The wider context of the relationship can still be criticised as extractive.
+
+Move the frame, though, and my experience of these interviews reversed some of this dynamic. I'm not sure whether he was in a position of power over me. The wider structural context makes it a ridiculous idea: he is black, I am white; he in prison, me at an elite university; and so on. But turning to the interaction itself, it definitely did not feel that I held power over him. He wouldn't accept the subordinate role of being guided through my questions, and the interaction felt more horizontal than vertical. This both pushed me into bending the ordinary boundaries of the interaction by negotiating with him (by agreeing to write up more extensive notes on the interview than usual, and by deciding to ask around about mentoring services). Furthermore, at least in the tighter confines of the second interview, the interaction shaded into verticality, and left me feeling unequal and disadvantaged, because at times I felt stupid and disdained for asking such silly questions. This feeling, of something more like powerlessness, persisted, even when the questions themselves were utterly straightforward and factual.
+
+## Making sense of slow progress?
+
+And this feeling of being on the wrong end of verticality---though it was fleeting and paradoxical---made tantalising sense of what he had said in the first interview about his struggles to make progress through his sentence.
+
+He said that for years he had followed the expectations set out for him: completing courses, acting as a mentor, keeping out of trouble, and so on. Yet he had been knocked back in official evaluations, again and again. He could see no plausible explanation for this beyond (at best) official cynicism and (at worst) racist conspiracy, which labelled him 'manipulative', 'powerful', a 'kingpin', a 'gangster', and so on. He felt he was playing by the rules of the game. And his lack of progression discredited not him, but the rules themselves, and those he took as their representatives.
+
+I wondered whether the answer might lie in the nature of his interactions with other people. Many prison personnel would certainly have interviewed him in similar contexts to this over the years.
+
+What if his refusal to accept a subordinate role in an interview---to behave with the "proper" respect to those who are "in power"---is also how he has interacted with prison staff? What if, like me, they found their power challenged, felt inclined to make accommodations for him, but then reflected on the relevant rules and policies, concluding that they were accountable for upholding them? If so, then the explanation for his slow progress might have been less deliberately malign, yet simultaneously more insidious.
+
+If so, then his requests might not seem reasonable or self-interested ones. Instead, he might seem manipulative, powerful, subversive, capable of getting 'under the skin' of staff. What he sought from me (favourable recognition, useful information) are ordinary things that people seek in their interactions with one another. They also, I think, represent exactly the kind of reformative agency that prisoners are supposed to display. But they don't pay lip service to the power disparity of the prison context, nor respect 'the rules' for the interaction, nor leave those who are "supposed" to hold power easy and comfortable in their position.
+
+## Manners = progress?
+
+In short: in the second interview, my discomfort seemed to me, initially, to have been caused by what felt like his bad manners. Keane helped me see that I might be extending this into an ethical (and barely conscious) evaluation of him as a person.
+
+Yet on further reflection, I could find no reason to connect rudeness (as I experienced it) with dangerousness or risk. Are manners a legitimate thing for a democratic state---which is not a nanny, or a finishing school---to try and reform? Are they a legitimate target for rehabilitative effort, or just a matter of class preference?
+
+Could it be that despite his longstanding clean record, and his fulfilment of every target set for his progression, this man had been held back because others with power found him rude, because they sensed he wouldn't tip the hat to their rank? If so, what would that mean for the legitimacy of their power, and his ongoing punishment?

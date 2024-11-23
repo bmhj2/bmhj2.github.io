@@ -1,0 +1,13 @@
+google-scholar: true
+csl: cambridge-university-press-author-date.csl
+freeze: true
+title-block-banner: false
+title-block-style: none
+link-citations: true
+numbersections: false
+strip-comments: true
+citation-location: document
+reference-location: margin
+
+format:
+  html: default

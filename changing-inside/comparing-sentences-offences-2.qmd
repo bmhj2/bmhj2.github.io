@@ -1,0 +1,60 @@
+# Comparing sentences, comparing offences: part 2
+
+This is the second of two posts thinking about how lifers (and others) might compare what it means to have different lengths of sentence.
+
+In the last post I published, a lifer I called Richard mused about what it meant to him to have the same tariff as other men in his prison workplace, whose offences he saw as being worse than his. He was making a comparison on tariff lengths, with the tariff the period of retributive punishment imposed for a given murder, based on its supposed blameworthiness.
+
+## Theory vs. practice
+
+However, there are a number of reasons why the simple picture of the sentence in theory is in fact a lot more complicated in practice.
+
+## Dealing with the past vs. dealing with the future
+
+First, even during the tariff, sentence planning and target setting (e.g. a requirement to complete an offending behaviour course) aim to reduce risk in future, rather than punish for what was done in the past. Retribution and rehabilitation might be separate and sequential aims in theory, but in practice they are braided and parallel, and perhaps even inseparable.
+
+## Confused messages
+
+Second, some empirical research (Schinkel 2014) shows that the moral messages supposedly sent by imprisonment get lost in transmission. For one thing, long-term prisoners often can't remember what judges said at sentencing hearings that happened long ago, and where in any case they were emotionally overwhelmed by the verdict and the severity of the sentence. For another, even if they do remember the sentencer's remarks, there is no guarantee that they see them as legitimate or agree with the version of events on which they comment, as Richard's example makes clear.
+
+More fundamentally, however, sentencers are not the only ones who send a moral message. The way prisoners are treated often carries its own messages about worth and standing, as one oft-quoted passage argues:
+
+\*'every instance of brutality in prisons, every casual racist joke and demeaning remark, every ignored petition, every unwarranted bureaucratic delay, every inedible meal, every arbitrary decision to segregate or transfer without giving clear and well-founded reasons, every petty miscarriage of justice, every futile and inactive period of time---is delegitimating.'
+
+(Sparks and Bottoms 1995:60) \*
+
+Similar messages can be implicit in the way that rehabilitation is organised and delivered: if you were knocked back repeatedly in numerous parole hearings without understanding why, or could not access interventions which were a precondition of release in your sentence plan, you might find official claims to be interested in your rehabilitation somewhat hollow. Similarly, if part of the 'message' of a conviction is that your past actions were wrongful and that you have to 'take responsibility' for ensuring that they don't occur again in future, what this might mean *in practice* is open to interpretation, and shaped by who has the power to define the terms of the argument. Because some lifers get very confused and frustrated by the power imbalances involved here, it has been argued (by Crewe 2011, for example) that the life sentence involves particular pains---of indeterminacy, of psychological assessment, of being minutely observed and impelled to govern oneself.
+
+## The 'feel' of the sentence
+
+Third, it's not clear that it *feels* any different to be imprisoned if you are told that the reasons are retributive, rehabilitative, or preventative. What you get from the experience---misery or motivation, depression or development---will depend on how you think about the punishment that society has imposed on you, and the society itself. If you feel it was *deserved*, and you have been been treated *fairly*, your prison experience might still be unpleasant. But it would still be different compared to how it would if you felt humiliated, traduced or mistreated. Such wider views of punishment draw on a complex blend of feelings about the offence, feelings about the conviction and the sentence, and feelings about one's prison experiences.
+
+## The wrong tool for fine distinctions?
+
+As Richard's words (quoted in the first post) suggested, a given number of years is a very blunt and forceful measure of moral censure. Here is a short extract again:
+
+\*One geezer \[...\] he stabbed an old man to death. Another one killed his girlfriend. And another one \[killed someone\] in a wheelchair \[...\] \[X\] years, \[X\] years, \[X\] years. And it's like, "right, you took a knife to this bloke's house, killed him. You killed your missus, with a knife. You \[killed someone\] in a wheelchair. I \[killed someone in self-defence\]." How the fuck have I ended up with \[X\] years?
+
+'Richard'\*
+
+As far as Richard is concerned, identical sentences had been passed on offences that were not morally equivalent. He saw that as unfair. It is significant that he made his point by referring to the identity (and presumably by extension the vulnerability) of the victims in each case. Far from *simply* being a self-serving comparison or a minimisation of blame (though some might read it thus), this moral distinction between different victims is *built into the law*, as one of many reference points for where to set the penalty. I'll write more about these aspects of the law soon.
+
+Also as Richard suggested, the *aims* of the sentence have to be seen in the context of its *sheer length*. He was a few years into his sentence, having been in his thirties at the time of the offence. By the time of release he would be nearly sixty. Sentences of this kind are life-changing, in the way that physical injuries are sometimes described as life-changing. If your life is irrevocably altered by punishment---if, for example, as some female lifers are, your imprisonment lasts until after you are biologically able to have children---there is no way that 'rehabilitation' can have its dictionary meaning of being 'restored to former privileges', *even if you think that the punishment was deserved*.
+
+## Aiming for rehabilitation... or something bigger?
+
+I think that this might lie behind the finding that lifers in general tend to become interested in finding a 'cause, vocation or ideal' which makes life meaningful. Without one, decades of imprisonment might represent a meaning*less* and futile waste of life, something painful to consider and difficult to live through.
+
+In this context, claims that the sentence will be in some way rehabilitative might seem hard to believe. Likewise, meeting rehabilitative targets might feel less attractive, if you can't find a way to square their aims with your own priorities. Some lifers express sentiments ranging from weariness to outright cynicism about the 'box-ticking' of the sentence plan and its targets. Richard declined to engage with it or to participate in any offending behaviour courses, because (in his own eyes) he was not as culpable as the sentence declared him to be. Not only could he see no way to relate sentence targets to his own concerns; worse, rehabilitation itself seemed futile in view of the sheer gravity of his murder conviction. As he put it:
+
+\*'How can you become a better person once you've been sentenced for murder? \[...\] There's a lad down at work, he's been on all the courses going, and he's still the biggest racist, sexist idiot I know. \[He'll go\] "yeah, I just bloody blagged that course, yeah, I just bloody blagged that course, yeah, just tell them what they want to hear". I could be doing that now with you! So... what's the point?'
+
+'Richard'\*
+
+## When does punishment overwhelm other aims?
+
+These words convey some of the confusion about moral messages that I mentioned above. For Richard, a murder conviction and a sentence measured in decades conferred such massive stigma that it was difficult to imagine 'becom\[ing\] a better person once you've been sentenced for murder'. He evaluated rehabilitative courses not on their narrow promise (reducing specified risks of harm), but on the basis that they had failed to enact a wider moral transformation ('he's still \[...\] racist \[and\] sexist') of the kind that might presumably legitimate such a severe sanction.
+
+It appeared that contemplating the sheer number of prison years ahead overwhelmed any desire Richard might have had to compromise with the rehabilitative goals the prison set for him. Moreover, the fact that any chance of parole was still very distant meant that he saw little reason to change his stance---yet.
+
+In writing up the pilot research I called this position 'rehabilitative procrastination', and I wonder now whether it's likely to be a consequence of the ever-increasing length of tariffs that have been handed down since 2003. Those increases, and the reasons they have happened, will be the subject of a future post.
+
