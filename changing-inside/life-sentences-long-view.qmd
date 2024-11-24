@@ -3,8 +3,15 @@ title: 'Life sentences: the long view'
 author: Ben Jarman
 date: 2018-12-10
 lang: en-GB
-categories: [news item, changing inside]
+categories:
+  - changing inside
+  - news
+keywords:
+  - life sentences
+  - prison reform trust
+  - links
 description: Link to a new publication by the Prison Reform Trust
+image: '/_assets/greg-rosenke-wlu3SeMLLSQ-unsplash.jpg'
 ---
 
 The Prison Reform Trust has published its Bromley Briefing today -- an indispensable twice-yearly compilation of facts and figures on the criminal justice system in the UK.

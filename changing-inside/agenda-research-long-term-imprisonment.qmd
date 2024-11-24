@@ -1,10 +1,18 @@
 ---
 title: 'Notes: an agenda for research on long-term imprisonment'
-author: Ben Jarman Ben Jarman
+author: Ben Jarman
 date: 2019-01-28
 lang: en-GB
-categories: [blog post, changing inside]
+categories:
+  - changing inside
+  - reading note
+keywords:
+  - long-term imprisonment
+  - life sentences
+  - recidivism
+  - criminology
 description: Reading notes on an article proposing a research agenda on long-term imprisonment
+image: 'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40'
 ---
 
 After a quiet period on the blog while I've been working on other things, this will be the first in a series of posts which are essentially notes on the reading I've been doing. Other posts will specifically be written for the blog, but these notes posts are a way of trying to force myself into some writing, and also to share some of what I'm doing.
@@ -52,21 +60,21 @@ The authors point out that these are both valid positions but each answers a rat
 
 Second, Kazemian and Travis argue that both of the views above are really questions about how the wider community does or does not benefit from imprisonment, and say nothing of the prisoner's experience. For example, in focusing too narrowly on reoffending rates and other outcomes after release, we risk endorsing the view that these are the only outcomes that matter. They measure only whether imprisonment benefits the wider community, not whether it might benefit (or harm) long-term prisoners themselves, in ways that are slow, incremental and less straightforward to observe, nor whether these individual-level changes benefit or harm others:
 
-\*"A recidivism-focused approach disregards changes and progress exhibited in other behavioral, cognitive, and social outcomes. Studies have found that criminal careers are characterized by a great deal of intermittency, and several researchers have acknowledged the relevance of perceiving desistance \[from crime\] as a gradual process" (p.377) \*
+> "A recidivism-focused approach disregards changes and progress exhibited in other behavioral, cognitive, and social outcomes. Studies have found that criminal careers are characterized by a great deal of intermittency, and several researchers have acknowledged the relevance of perceiving desistance \[from crime\] as a gradual process" (p. 377)
 
 Another to think about this is to ask whether the ends always justify the means. If lifers seldom reoffend, but they were kept in prison longer than was necessary to achieve that outcome, and meanwhile their families and communities suffered by their absence, does that matter?
 
 Kazemian and Travis point out that this question gains particular purchase in the context of the US imprisonment binge of the last 40 years: the impacts on ethnic and racial minority communities of mass imprisonment have been disastrous, and most of those harmed committed no offence. They quote research by Johnson and McGunigall-Smith, who conclude that lifers are:
 
--   'manageable prisoners, \[even\] model prisoners, but their decent adjustment does not change the fact that their lives are marked by suffering and privation.'
-
-(quoted p.383) \*
+> 'manageable prisoners, \[even\] model prisoners, but their decent adjustment does not change the fact that their lives are marked by suffering and privation.' (quoted p.383)
 
 ## Thankful for one's imprisonment?
 
 The idea that the debate on prisons has become narrow and polarised rings true to me. The dualistic view doesn't tally with the complexity of what I have heard from lots (though not all) of the long-term prisoners I've met over the years: that for all that being in prison has been bad, it's somehow enabled positive change. Here is one of the men I interviewed for my MPhil research:
 
-\*'I have to thank \[prison\], in a way \[...\] This place has changed a lot since I came here seven years ago, not all for the best, mostly it's just down, but... \[long pause\] This place changed me, you know? I have emotional ties here. I will always be thankful. It is like a dysfunctional home to me.' 'David' (not his real name)\*
+> 'I have to thank \[prison\], in a way \[...\] This place has changed a lot since I came here seven years ago, not all for the best, mostly it's just down, but... \[long pause\] This place changed me, you know? I have emotional ties here. I will always be thankful. It is like a dysfunctional home to me.'
+> 
+> 'David' (not his real name)
 
 This definitely does not represent everyone's experience of long-term imprisonment, but it is some people's, and that matters. I think the 'I will always be thankful' has to be taken seriously. I also think that this is not the same as saying imprisonment is *a good thing* (or that it *works*, or that we should have more of it). It recognises that, at least in the case of serious offences, imprisonment has been an unavoidable response to serious harm, and that in these circumstances it might make sense to try and ensure that it does no more harm in return than is necessary. 'David' certainly seemed to me to mean what he said, and from what he said it also seemed that he had coped and adapted well. It should also be noted, however, that he was relatively near to the end of his sentence. Whether, in a few years' time and with the benefit of future hindsight, he would have said the same after release is another question.
 
@@ -76,9 +84,7 @@ Kazemian and Travis go on to make the case that long-termers should be seen as p
 
 They go on to say that it's possible that this may already be happening, that in other words:
 
-'long termers and lifers are already contributing to the enhancement of the prison community, but to our knowledge, virtually no data (other than anecdotal) exist to verify this claim'
-
-*p.372*
+> 'long termers and lifers are already contributing to the enhancement of the prison community, but to our knowledge, virtually no data (other than anecdotal) exist to verify this claim' *(p.372)*
 
 My hunch, based my experience working in prisons, and also on [some recent research I've read](https://dx.doi.org/10.1177/1748895818800743), is that a lot of the social interactions in which long-termers could be exercising leadership in this way occur in the everyday social life of the prison: on the wings, in the workshops, in education classrooms, and so on, and not just in formal, officially-organised rehabilitative interventions such as offending behaviour courses. This means that significant amounts of personal change could be taking place in the same locations, but that how this happens is not well understood. This is the kind of ground-level research question that ethnographic research is good at illuminating.
 
@@ -88,3 +94,6 @@ Kazemian and Travis call for more attention by criminologists and policymakers t
 
 I find their case persuasive, and it's similar to a case that a group of charities I worked with some years ago tried to put to the Prison Service. It goes without saying that it's a reformist rather than an abolitionist position regarding imprisonment itself, and I think it needs to be coupled with due interest and regard to what lifers themselves want from prison regimes.
 
+::: {.callout-note}
+Image credit: [Scott Graham via Unsplash](https://unsplash.com/photos/person-holding-pencil-near-laptop-computer-5fNmWej4tAA)
+:::

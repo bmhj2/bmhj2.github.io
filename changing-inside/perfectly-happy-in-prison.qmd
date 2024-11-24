@@ -4,9 +4,16 @@ title: >
 author: Ben Jarman
 date: 2020-11-27
 lang: en-GB
-categories: [blog post, changing inside]
+categories:
+  - changing inside
+  - research log
 description: >
   Reflections on an interview with an elderly lifer who said he had enjoyed his prison sentence, and didn't feel as though he had been punished at all
+keywords:
+  - prison fieldwork
+  - interviews
+  - elderly life-sentenced prisoners
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/0f235-scott-webb-9u8mko3pgww-unsplash-scaled-1.jpg'
 ---
 
 ::: callout-note

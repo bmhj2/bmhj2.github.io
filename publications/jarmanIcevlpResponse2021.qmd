@@ -62,11 +62,11 @@ citation:
   type: document
 ---
 
-::: {.callout-tip}
+::: {.callout-note}
 This document was prepared in response to a call for submissions, available [here](../_assets/Call-for-Evidence-Final.pdf).
 :::
 
-# Introduction
+# Introduction {.unnumbered}
 
 1. I welcome the opportunity to submit a response to the Independent Commission on the Experiences of Victims and Long-Term Prisoners.
 

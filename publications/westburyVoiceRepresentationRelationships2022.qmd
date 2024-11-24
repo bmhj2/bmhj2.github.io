@@ -52,6 +52,7 @@ categories: report
 bibliography: westburyVoiceRepresentationRelationships2022.bib
 draft: false # remove after finishing.
 format-links: false
+description: Report of a working party convened by the University of Cambridge to comment on the Open Research agenda's applicability to qualitative methodologies
 
 citation:
   id: westburyVoiceRepresentationRelationships2022

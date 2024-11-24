@@ -1,6 +1,5 @@
 google-scholar: true
 csl: cambridge-university-press-author-date.csl
-freeze: true
 title-block-banner: false
 title-block-style: none
 link-citations: true

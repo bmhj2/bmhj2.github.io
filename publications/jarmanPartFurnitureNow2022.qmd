@@ -75,7 +75,7 @@ citation:
   type: paper-conference
 ---
 
-# Introduction
+# Introduction {.unnumbered}
 
   > I haven’t made any progress… whether I go from B to C to D… to me, that’s not progress.[^fn4] I’m still in prison. When I go out, I will still be on licence[^fn5] and I’ll still be a prisoner. That’s the way I look at things […] Going from B to C to D, no-- I don’t think that’s progress. I just think that’s just the natural course of events.
   >
@@ -230,6 +230,10 @@ In either case, the commensurate ethical response from the recipient of punishme
 <!--AI: Overall, I think this is excellent. I love love love the idea of thwarting, and I think it's important both to prison scholars and anthropologists of ethics. My main thought on the paper as it is is that it's a little dense. That's partly because of the compressed length, and I think making it 8000 words would help it breathe a bit, but it's also because it draws on a lot of knotty theory (different versions of virtue ethics, different versions of moral communication, different version of autonomy…). I think the main contribution you can make with this paper is to outline exactly what you mean by thwarting, and how does it come about? What is it about the experience of being a life-sentenced prisoner in England & Wales that thwarts people? I think you do answer that question in the article but you say so many other things that I don't think it comes through as clearly as it could. I think the reason will be partly to do with the system of power/governance operating on them, and it will partly be to do with the particular temporal burdens/limits of being an LTP (someone who carries a heavy heavy past, a delimited future (delimited by the licence but not just the licence), and lives a present shaped by a confused form of governance.) And it's also something to do with the two forms of autonomy (or the two forms of personhood?) that the institution can draw on in governing them, and the difficulty of situatiing themselves in relation to that--> 
 
 <!--JW: This is ethics: choosing a retributive worldview to make sense of their situation. It traps them in the past, yes. But I wonder: What does it allow? What does this worldview free them from? Can it be only explained through the constraints?-->
+
+{{< pagebreak >}}
+
+# References {.unnumbered}
 
 :::{refs}
 :::

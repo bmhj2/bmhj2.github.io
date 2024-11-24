@@ -3,8 +3,15 @@ title: 'Interviews as transactions'
 author: Ben Jarman
 date: 2019-10-31
 lang: en-GB
-categories: [blog post, changing inside]
-description: How agreeing to do an interview became a negotiation, and what this says about the ‘rules of the game’ for prison research.
+categories:
+  - changing inside
+  - research log
+description: How agreeing to do an interview became a negotiation, and what this says about the ‘rules of the game’ for prison research
+keywords:
+  - prison fieldwork
+  - interviews
+  - research ethics
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/9615d-fishbowl.jpg'
 ---
 
 In my last post I wrote briefly about the rules governing research interactions in prisons, and said that what followed would reflect on some dilemmas and questions thrown up by trying to follow these rules in practice. This post reflects on how one interview became rather more of a transaction than some others.

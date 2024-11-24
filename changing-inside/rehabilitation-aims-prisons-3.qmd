@@ -1,10 +1,17 @@
 ---
 title: 'Rehabilitation and the aims of prisons (part 3)'
-author: Ben Jarman Ben Jarman
+author: Ben Jarman
 date: 2019-02-09
 lang: en-GB
-categories: [blog post, changing inside]
+categories:
+  - changing inside
+  - reading note
 description: Last in a series of posts on how English prisons realise the aim of rehabilitation
+keywords:
+  - aims of punishment
+  - penal reform
+  - quakerism
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/bfc09-pentonville-isometric-dark.jpg'
 ---
 
 This is the last of three posts in a series looking at rehabilitation as an aim of punishment. Click the links to access the [first](https://changinginside.co.uk/?p=369) and [second](https://changinginside.co.uk/?p=436) posts in the series.
@@ -33,9 +40,9 @@ Second, we should be wary of justifying the use of coercive power to rehabilitat
 
 More subtly, there are many ways in which prisoners might not just be 'being rehabilitated' --- i.e. acted on by state power --- but instead are 'rehabilitating themselves'. Generally, limited resources are rationed, and '[neo-paternalist](https://doi.org/10.1177%2F1477370811413805)' forms of rehabilitation offered as a priority to prisoners who are classified as posing the highest risk. Such interventions (typically lasting months) typically form a tiny part of a life sentence (typically lasting decades). They can be resented by prisoners who experience them as condescending and manipulative, and engage guardedly or cynically, if at all. This was evident when one man I interviewed in 2017 suggested that the 'voluntary' language of rehabilitation programming failed to mask the coercion that underlay all aspects of his indeterminate sentence:
 
-They say, "oh, we think you might benefit from doing PIPE." Really, what they're saying is, "we want you to do PIPE. You've got to do PIPE \[...\] because you won't be going to C-cat \[i.e. a lower-security prison\] otherwise" \[...\] It's just Catch-22. Basically, I've got to do it.
-
-*'Luke' (not his real name)*
+> They say, "oh, we think you might benefit from doing PIPE." Really, what they're saying is, "we want you to do PIPE. You've got to do PIPE \[...\] because you won't be going to C-cat \[i.e. a lower-security prison\] otherwise" \[...\] It's just Catch-22. Basically, I've got to do it.
+>
+> *'Luke' (not his real name)*
 
 What really motivated him, he said, was getting out of prison so that he could provide for his family and be a 'proper' dad to his daughter. Currently it is hard to imagine the state intervening to prescribe parenthood or employment for prisoners, even if these are proven to be the most effective 'treatments' for their offending. Would fatherhood have given him the motivation to make a better life? If so, are rehabilitative interventions an honest attempt to seek his 'benefit', or are they (as he suggests) simply a sweetener for medicine he has to take anyway?
 

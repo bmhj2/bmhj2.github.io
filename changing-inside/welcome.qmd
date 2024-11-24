@@ -3,8 +3,13 @@ title: 'Welcome'
 author: Ben Jarman
 date: 2018-12-04
 lang: en-GB
-categories: [blog post, changing inside]
+categories:
+  - changing inside
+  - news
+keywords:
+  - about
 description: Welcome page and description of content on the site
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/d83fc-parkhurst-gatehouse.jpg'
 ---
 
 Welcome to the Changing Inside blog. This site exists to share information about my PhD research. You can read more about me (Ben Jarman), the research, and its funders in the sidebar menu.
@@ -42,9 +47,9 @@ I want the site to make the closed world of long-term imprisonment more visible.
 
 In general, posts on the site will be open for comments, though they will be moderated before they are published: please don't be offended if it takes a day or two for yours to appear (or for me to reply).
 
-## Subscribe!
+<!-- ## Subscribe!
 
 Sign up for email updates using the form below, or use the sidebar menu to find Twitter and Linked in links, as well as the RSS feed for the site.
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------ -->
 

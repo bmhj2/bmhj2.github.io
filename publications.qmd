@@ -11,11 +11,16 @@ listing:
     - publications/archived.yml
   sort: "date desc"
   categories: true
-  feed: true
-  sort-ui: [date, title, keywords, categories, author]
-  fields: [date, title, subtitle, keywords, categories, author]
+  feed:
+    type: partial
+    description: 'Ben Jarman | Latest publications'
+    language: en-gb
+  fields: [date, title, subtitle, keywords, author]
+  sort-ui: [date, title]
 appendix-style: none
 citation: false
 ---
 
-This page lists my publications. Some fulltexts are available to read or download here. Others are available via external links to an non-paywalled fulltext.
+::: {.callout-note}
+This page lists academic publications. Some fulltexts are available to read or download here. Others are available via external links to an non-paywalled fulltext.
+:::

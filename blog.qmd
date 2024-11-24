@@ -6,26 +6,22 @@ format:
   html: default
 format-links: false
 title-block-style: none
+citation: false
+index-style: none
 listing:
   type: default
   contents:
-    - blog
-    - changing-inside
-  sort:
-    - "date desc"
-    - "title asc"
+    - blog/*.qmd
+    - changing-inside/*.qmd
+  sort: [date desc]
   categories: true
   feed:
-    items: 15
     type: partial
-    description: Latest posts from Ben Jarman
-    language: en-gb   
-    categories: [blog post, news item]
+    description: 'Ben Jarman | Latest posts'
+    language: en-gb
   sort-ui: [date, title, keywords]
-  fields: [date, title, subtitle, keywords, reading-time]
-citation: false
 ---
 
 ::: {.callout-note}
-This page contains news items and blog posts from various past and current projects. Items tagged 'changing inside' were originally published on the [Changing Inside](https://changinginside.co.uk) blog, written during my PhD.
+This page shows news items and blog posts from past and current projects. The 'changing inside' category shows content originally from the [Changing Inside](https://changinginside.co.uk) blog.
 :::

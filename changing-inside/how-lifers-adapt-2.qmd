@@ -1,10 +1,17 @@
 ---
 title: 'Notes: how lifers adapt to imprisonment (part 2)'
-author: Ben Jarman Ben Jarman
+author: Ben Jarman
 date: 2019-02-07
 lang: en-GB
-categories: [blog post, changing inside]
+categories:
+  - changing inside
+  - reading note
 description: Second of a series of posts prompted by reading on prison adaptation
+keywords:
+  - long-term imprisonment
+  - life imprisonment
+  - prison sociology
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/a56b2-new-growth.jpg'
 ---
 
 This is the second of two posts noting my thoughts about a recent study on life imprisonment. The first post can be found [here](https://changinginside.co.uk/?p=414).
@@ -25,7 +32,9 @@ We can see this as a form of 'institutionalisation', but I don't think it automa
 
 It is also clear from the study that the forms taken by such introspection and reflectiveness are influenced by the cultural materials on hand in the prison. Faith-related activities are mentioned in the article, and are relatively easy to access in prison (compared with education, for example). They appear to be influential for those who participate in them partly because they offer access to techniques of self-management such as meditation and prayer; and partly because they offer terms in which to reimagine and reinterpret one's history, and seek to resolve the problem of self-forgiveness. Similarly, physical self-cultivation (through sport and prison gyms) was mentioned by many participants as an important practice, adding rhythm to the monotony of prison life and a set of yardsticks by which to measure the self:
 
-Gymnasium has been the most constructive thing for me because I started to train seasonally, so in winter I would bulk up, in summer I would cut up. And I started to think in seasons and just throw everything into gym, so I'd surround meself with guys that go to the gym. We'd converse. We'd cook high-protein meals, we'd go to the gym together. \[...\] So you become very focused on a period of time, and everything around your prison sentence is all shaped around that \[...\] and it's surprising just how one day merges into the next. *'Bernard' (not his real name)*
+> Gymnasium has been the most constructive thing for me because I started to train seasonally, so in winter I would bulk up, in summer I would cut up. And I started to think in seasons and just throw everything into gym, so I'd surround meself with guys that go to the gym. We'd converse. We'd cook high-protein meals, we'd go to the gym together. \[...\] So you become very focused on a period of time, and everything around your prison sentence is all shaped around that \[...\] and it's surprising just how one day merges into the next. 
+> 
+> *'Bernard' (not his real name)*
 
 The study suggests that creating a 'better self' for the future is something that people serving life sentences for murder come to see as a kind of personal project or 'ultimate concern'. It represents the best means of making meaning and purpose from the sentence when the original harm of the offence can't be put right. But it also suggests that *how* they do this is strongly influenced by what's on offer. For example, higher education is difficult to access, and seems to play a smaller role than the gym or faith activities. We might ask, therefore: what cultural and social resources are on offer in the prison, and how do these affect the kinds of people that life imprisonment produces?
 

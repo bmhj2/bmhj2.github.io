@@ -1,7 +1,6 @@
 google-scholar: true
 citeproc: true
 csl: cambridge-university-press-author-date.csl
-freeze: true
 title-block-banner: true
 title-block-style: default
 formats:
@@ -17,16 +16,14 @@ reference-location: margin
 
 format:
   html: default
-  docx:
-    reference-doc: ./phd-reference.docx
-  typst: 
+  # docx:
+  #   reference-doc: ./phd-reference.docx
+  academic-typst: 
+    number-sections: true
+    number-depth: 3
+    section-numbering: "1.1.a"
     toc: true
+    toc-indent: 1.5em
     toc-depth: 2
     toc-title: Contents
-    number-sections: true
     papersize: a4
-    margin: 
-      x: 1in
-      y: 1in
-    columns: 2
-    fontsize: 12pt

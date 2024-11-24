@@ -3,8 +3,19 @@ title: 'Comparing sentences, comparing offences: part 1'
 author: Ben Jarman
 date: 2019-09-04
 lang: en-GB
-categories: [blog post, changing inside]
-description: First of two posts on how lifers (and others) might compare what it means to be sent to prison for different lengths of time 
+categories:
+  - changing inside
+  - research log
+description: First of two posts on how lifers (and others) might compare what it means to be sent to prison for different lengths of time
+keywords:
+  - censure
+  - england and wales
+  - sentencing
+  - life sentences
+  - murder
+  - rehabilitation
+  - retribution
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/09668-apple-and-orange-e1567544536786.jpg'
 ---
 
 This is the first of two posts thinking about how lifers (and others) might compare what it means to have different lengths of sentence.
@@ -17,13 +28,13 @@ However, *within* each prison, I also want to compare people who have been given
 
 Crude or not, one reason to do so is that lifers themselves use the tariff as the basis for moral comparisons. As the quotation below from my pilot research in 2017 suggests, the fact that these comparisons can end up feeling quite futile doesn't mean it's easy to refrain from making them:
 
-*Interviewee: It's like, down at work, there's four of us, all doing \[X\] year *\[tariffs\]. One geezer \[...\] stabbed an old man to death. Another one killed his girlfriend. And another one \[killed someone\] in a wheelchair \[...\] \[X\] years, \[X\] years, \[X\] years. And it's like, "right, you took a knife to this bloke's house, killed him. You killed your missus, with a knife. You \[killed someone\] in a wheelchair. I \[killed someone in self-defence\]. How the fuck have I ended up with \[X\] years?" You start relating \[your sentence\] to people's... you end up... It's pointless... it's like... "mine's bigger than yours."
-
-*Me: Are you saying it's best not to go there?*
-
-Interviewee: Sometimes. Or you use humour. You laugh it off. I know that's sad, but that's life.
-
-*Extract from an interview with 'Richard'*
+> Interviewee: It's like, down at work, there's four of us, all doing \[X\] year \[tariffs\]. One geezer \[...\] stabbed an old man to death. Another one killed his girlfriend. And another one \[killed someone\] in a wheelchair \[...\] \[X\] years, \[X\] years, \[X\] years. And it's like, "right, you took a knife to this bloke's house, killed him. You killed your missus, with a knife. You \[killed someone\] in a wheelchair. I \[killed someone in self-defence\]. How the fuck have I ended up with \[X\] years?" You start relating \[your sentence\] to people's... you end up... It's pointless... it's like... "mine's bigger than yours."
+> 
+> *Me: Are you saying it's best not to go there?*
+>
+> Interviewee: Sometimes. Or you use humour. You laugh it off. I know that's sad, but that's life.
+>
+> *Extract from an interview with 'Richard'*
 
 A brief digression: first, to say that 'X' marks the actual tariff length, edited out to preserve Richard's anonymity and confidentiality (his name has also been changed); and second, to say that he was appealing his conviction, and maintained that self-defence rendered his conviction undeserved. Since I had no way to evaluate his very strong feelings of injustice, I won't try to do so here.
 
@@ -41,9 +52,9 @@ At this stage (still in theory) they are being punished not for what they have d
 
 In a very small number of cases, the offence is deemed to be so serious that at the outset, the person is told that they must be imprisoned for the rest of their natural life (a 'whole life tariff'). But for most, a tariff in years is set. Parole becomes possible (though not certain) after that number of years. Obtaining it depends on satisfactory performance against rehabilitative targets and sentence plans which are set by prison staff. In theory, tariffs of the same number of years convey an equivalent degree of censure.
 
-This theoretical picture can be represented by the diagram below.
+It can be summed up, and somewhat simplified, using the following diagram:
 
--   A diagram showing the structure (in theory) of a life sentence
+![diagram showing the structure of a life sentence](https://changinginside.co.uk/wp-content/uploads/2023/03/0d8e3-190826-sentence-structure-diagram.jpg "Life sentence structure diagram")
 
 Though it looks neat and tidy in theory, in reality the picture is messier. There are many reasons why, with consequences for how people think about their sentences. I'll say more about them in the second part of this post.
 

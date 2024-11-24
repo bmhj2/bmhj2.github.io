@@ -67,6 +67,6 @@ citation:
 
 Available via <https://www.repository.cam.ac.uk/handle/1810/286064>.
 
-::: {.callout-tip}
+::: {.callout-note}
 The link above is for the text of the thesis. Separate slides presenting selected findings from this thesis are also available via <https://www.repository.cam.ac.uk/handle/1810/291515>.
 :::

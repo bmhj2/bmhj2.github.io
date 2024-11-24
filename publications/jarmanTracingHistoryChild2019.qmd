@@ -74,11 +74,11 @@ citation:
   URL: https://www.repository.cam.ac.uk/handle/1810/322528
 ---
 
-::: {.callout-tip}
+::: {.callout-note}
 This is the text of a conference paper. Accompanying slides with useful context are available via <https://www.repository.cam.ac.uk/handle/1810/322528>.
 :::
 
-# Introduction
+# Introduction {.unnumbered}
 
 This is about a project I worked on with colleagues from Cambridge and Edinburgh. It was commissioned by HM Prison & Probation Service, and it draws on research done at The National Archives, as well as in the Radzinowicz Library in Cambridge.
 

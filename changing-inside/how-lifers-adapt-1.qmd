@@ -1,10 +1,17 @@
 ---
 title: 'Notes: how lifers adapt to imprisonment (part 1)'
-author: Ben Jarman Ben Jarman
+author: Ben Jarman
 date: 2019-02-05
 lang: en-GB
-categories: [blog post, changing inside]
+categories:
+  - changing inside
+  - reading note
+keywords:
+  - long-term imprisonment
+  - life imprisonment
+  - prison sociology
 description: First of a series of posts prompted by reading on prison adaptation
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/a56b2-new-growth.jpg'
 ---
 
 Another post on my reading, this time on a set of articles I've re-read recently while revisiting the [Masters research I carried out in 2017](https://www.repository.cam.ac.uk/handle/1810/286064). I'm writing up the latter for 'proper' publication in a peer-reviewed journal, as a means of revisiting my findings and thinking through exactly what it is that I am trying to look at through the PhD.
@@ -43,7 +50,9 @@ Second, the authors argue that for most of the lifers they interviewed, adaptati
 
 As the authors put it, this involves 'taking moral responsibility, while also recognising the futility of being hobbled by what was in the past' (Crewe et al. 2017: 530):
 
-He shouldn't have died, his family shouldn't have felt the grief \[...\] But, at the same time, there's nothing I can do, so I can't carry this burden with me for the rest of my life because there's nothing that I can do. I can't feel sorry that I'm not in my daughter's life, I can't feel sorry that I wasn't there for my mum or my gran \[...\] when they were grieving. \[...\] There's nothing that I can do for \[his family\]. And with acceptance is when I come to terms with it. *'Julius' (not his real name)*
+> He shouldn't have died, his family shouldn't have felt the grief \[...\] But, at the same time, there's nothing I can do, so I can't carry this burden with me for the rest of my life because there's nothing that I can do. I can't feel sorry that I'm not in my daughter's life, I can't feel sorry that I wasn't there for my mum or my gran \[...\] when they were grieving. \[...\] There's nothing that I can do for \[his family\]. And with acceptance is when I come to terms with it.
+> 
+> *'Julius' (not his real name)*
 
 It was also clear that this process of acceptance was very much more difficult for those who continued to feel their conviction was mistaken or illegitimate, with the [complexities and injustices of the law around Joint Enterprise](https://youtu.be/UjBwCmwpvMI) highlighted by the research as a significant problem.
 
@@ -55,7 +64,11 @@ Second, adapting to a very long prison sentence involves reframing one's attitud
 
 This shifting attitude to time was observed in a marked tendency for lifers in the study who were further into their sentences to think and talk about the future (rather than to deliberately fix their attention on the present and the past). It was also evident in their tendency to describe what they had control over, despite the obvious constraints of the prison environment, rather than to focus on how little control they possessed over their own lives:
 
-Q: Do you feel that you've got control of your life in here, or control of certain aspects of your life? A: I've got control of certain aspects. \[...\] I've got control in \[...\] how I react to people, and how I interact with people \[and\] my plans for the future and getting myself prepared and ready for that. I've got certain control over my education and I've got certain control over staying healthy, and staying ﬁt, staying positive. *'Daniel' (not his real name)*
+> Q: Do you feel that you've got control of your life in here, or control of certain aspects of your life?
+> 
+> A: I've got control of certain aspects. \[...\] I've got control in \[...\] how I react to people, and how I interact with people \[and\] my plans for the future and getting myself prepared and ready for that. I've got certain control over my education and I've got certain control over staying healthy, and staying ﬁt, staying positive. 
+> 
+> *'Daniel' (not his real name)*
 
 The authors argue that this process of adaptation was remarkably consistent across their whole sample of lifers (though as I noted above, it may not apply to the significant minority who fail to cope and end up in psychiatric care). For most, it arises from the recognition that there is literally no alternative to living life in the constrained circumstances of prison, and that the conditions and circumstances of one's life beforehand recede in importance.
 

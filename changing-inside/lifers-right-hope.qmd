@@ -3,8 +3,16 @@ title: 'Lifers and the right to hope: a new campaign'
 author: Ben Jarman
 date: 2018-12-14
 lang: en-GB
-categories: [news item, changing inside]
+categories:
+  - changing inside
+  - news
+keywords: 
+  - campaigns
+  - global comparison
+  - life sentences
+  - links
 description: Link to a new campaign by Penal Reform International
+image: '/_assets/greg-rosenke-wlu3SeMLLSQ-unsplash.jpg'
 ---
 
 This post comes in the context of a meeting I attended in London earlier this week, convened by [Penal Reform International](http://www.penalreform.org). Attendees from a range of countries in both the global North and South all had some interest in the issue of life imprisonment. The aim was to [explore how a global coalition might be formed](https://www.penalreform.org/news/pri-co-hosts-international-civil-society-strategy-forum/) by different organisations to campaign, at the international level, for reform of this penalty. I attended the meeting, and though it's too early to give details about the positions they will be taking up, it's safe to say efforts will be directed towards regional and global institutions which set guidance and standards for criminal justice in their member states, such as the [UN Office for Drugs and Crime](https://www.unodc.org/). The idea of a 'right to hope' was selected as a slogan for the campaign, influencing my [choice of image](https://changinginside.co.uk/?p=355) for this post.

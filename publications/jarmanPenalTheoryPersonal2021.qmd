@@ -70,11 +70,11 @@ citation:
   URL: https://www.repository.cam.ac.uk/handle/1810/322528
 ---
 
-::: {.callout-tip}
+::: {.callout-note}
 This is the text of a lecture. Accompanying slides will add useful context and are available from <https://www.repository.cam.ac.uk/handle/1810/322528>.
 :::
 
-# Introduction
+# Introduction {.unnumbered}
 
 Recent years have seen a lot of academic work on life imprisonment. As the movement to abolish capital punishment has achieved its goal in more and more countries, life sentences have replaced it as the ultimate sanction, growing in scale as a result.
 
@@ -199,6 +199,10 @@ Rationing rehabilitative intervention by risk---high risk, high intervention, an
 So I think there's enough here to suggest that we really have to complicate that picture of prison adaptation I described earlier. This is a paragraph from a Prison Reform Trust response to a Ministry of Justice consultation on increasing minimum terms ('tariffs') yet further. The MoJ had cited the CHW study I mentioned as evidence that longer sentences may actually be of benefit to prisoners. The @prisonreformtrustReleasePrisonersAlteration2019 [p. 5] described this representation of those findings as 'disingenuous' and 'a wilful misinterpretation', citing the harmfulness of long-term imprisonment.
 
 To that I want to suggest adding a critique of the moral communicativeness of the life sentence, where that is structured on risk. Just because someone is adapted to custody cannot be taken to mean that their punishment has 'worked' or even that the wrongs and harms done to victims or the public have been communicated very well. We need a more nuanced account of prison adaptation, because if we expect imprisonment to hold those convicted of the most serious crimes accountable, we can't be sure---at least on this evidence---that that's happening.
+
+{{< pagebreak >}}
+
+# References {.unnumbered}
 
 :::{refs}
 :::

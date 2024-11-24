@@ -3,8 +3,16 @@ title: 'New publication: ‘A poor prospect indeed’'
 author: Ben Jarman
 date: 2019-04-18
 lang: en-GB
-categories: [news item, changing inside]
+categories:
+  - changing inside
+  - news
+keywords:
+  - child abuse
+  - detention centres
+  - youth custody
+  - medomsley
 description: News item listing a new peer-reviewed publication
+image: '/_assets/greg-rosenke-wlu3SeMLLSQ-unsplash.jpg'
 ---
 
 Things have been quiet on here for the last month or two while I've been working on admin to do with the PhD -- ethics forms, risk assessments, and so on -- and while I've been preparing some past work for publication in an academic journal.

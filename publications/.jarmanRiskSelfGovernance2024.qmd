@@ -84,7 +84,7 @@ citation:
   # doi: 
 ---
 
-::: {.callout-tip}
+::: {.callout-note}
 Slides from a conference paper at the 2024 ESC conference. Click the menu at bottom-left of the slide view below for options including speaker notes with the text of the paper.
 :::
 

@@ -63,6 +63,7 @@ bibliography: jarmanMakingProgressWhat2022.bib
 date: 2022-10-03
 title: Making progress?
 subtitle: What progression means for people serving the longest sentences
+description: Report published by the Prison Reform Trust, on the findings of a consultation on how prisoners understand the idea of progression during a long prison sentence
 funding:
   statement: >
     This report was produced through a knowledge exchange partnership between the National Lottery funded Building Futures programme and the University of Cambridge ESRC Doctoral Training Partnership. Ben Jarman would also like to acknowledge the original funders of his PhD research on long-term imprisonment: the Economic & Social Research Council and Quakers in Britain.

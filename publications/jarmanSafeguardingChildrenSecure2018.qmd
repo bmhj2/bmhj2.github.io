@@ -121,6 +121,6 @@ references:
 
 Full report available via <https://www.repository.cam.ac.uk/handle/1810/287561>.
 
-::: {.callout-tip}
+::: {.callout-note}
 Slides for a public seminar presenting findings from this project are also available via <https://doi.org/10.17863/CAM.38676>
 :::

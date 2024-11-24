@@ -1,10 +1,18 @@
 ---
 title: 'Rehabilitation and the aims of prisons (part 2)'
-author: Ben Jarman Ben Jarman
+author: Ben Jarman
 date: 2019-02-04
 lang: en-GB
-categories: [blog post, changing inside]
+categories:
+  - changing inside
+  - reading note
 description: Second in a series of posts on how English prisons realise the aim of rehabilitation
+keywords:
+  - aims of punishment
+  - penal reform
+  - quakerism
+  - risk
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/bfc09-pentonville-isometric-dark.jpg'
 ---
 
 This is the second of three posts in a series looking at rehabilitation as an aim of punishment. You can find the first post in the series [here](https://changinginside.co.uk/?p=369).
@@ -33,13 +41,17 @@ We have no way of determining the real rate of recidivism because most criminals
 
 In the face of such difficulties, it appeared to the authors of *Struggle for Justice* that punishment should be very strictly limited in scope and in ambition, giving up its claim over the prisoner's subjectivity, and instead opting for a more limited (but controllable) conception of the aims of punishment:
 
-\[T\]he whole person is not the concern of the law. Whenever the law considers the whole person it is more likely that it considers \[irrelevant\] factors \[which relate instead to\] influence, power, wealth and class \[and not\] the needs \[...\] of the defendant \[...\] Focusing on the criminal rather than the crime tends to \[neglect\] the more tenable view that criminal acts are committed by a very large number of persons \[...\] spread throughout all sectors of society. *Struggle for Justice, pp.147-8*
+> \[T\]he whole person is not the concern of the law. Whenever the law considers the whole person it is more likely that it considers \[irrelevant\] factors \[which relate instead to\] influence, power, wealth and class \[and not\] the needs \[...\] of the defendant \[...\] Focusing on the criminal rather than the crime tends to \[neglect\] the more tenable view that criminal acts are committed by a very large number of persons \[...\] spread throughout all sectors of society. >
+> 
+> *Struggle for Justice, pp.147-8*
 
 ## Abolition or reform?
 
 *Struggle for Justice* also considered the perennial question of penal abolition. While convinced that it would be better to 'tear down' all jails than to 'perpetuate the inhumanity and horror being carried on in society's name behind prison walls' (p.23), the authors were not convinced by the argument for prison abolition, a scepticism which may have followed from their belief that rehabilitative aims had only served to disguise the true nature of punishment. Prison abolition, they said, would simply result in the need to replace prisons with some other form of coercive institution, and thus constitute 'label switching':
 
-\[C\]all them "community treatment centers" or what you will, if human beings are involuntarily confined in them they are prisons. *Struggle for Justice (p.23)*
+> \[C\]all them "community treatment centers" or what you will, if human beings are involuntarily confined in them they are prisons. 
+> 
+> *Struggle for Justice (p.23)*
 
 Their answer was to limit the aims and scope of punishment. Inducing people to change through the use of coercive power had no legitimate place in punishment, though every effort should be made to offer help on a voluntary basis to those who wanted it.
 
@@ -58,7 +70,9 @@ The law should specify a set of clearly-stated punishments, specified for all cr
 
 Meanwhile, the aim of making people 'better' should be organised on different lines, and freed of coercion:
 
-We recommend that a full range of therapy, counseling, and psychiatric and educational services be made avaialable, free, on a voluntary basis, to the entire population, inside prisons and on the street. *Struggle for Justice, p.171*
+> We recommend that a full range of therapy, counseling, and psychiatric and educational services be made avaialable, free, on a voluntary basis, to the entire population, inside prisons and on the street.
+> 
+> *Struggle for Justice, p.171*
 
 The AFSC's was not the only call for the reform of rehabilitative punishment in the 1970s. Like many reforms, these calls melded with other agendas, combining with unforeseen consequences which reformers would not have wished for. This is a fascinating and tragic cautionary tale, [but it has been well told elsewhere](https://www.ribbonfarm.com/2016/12/15/robert-martinson-and-the-tragedy-of-the-american-prison/).
 

@@ -1,10 +1,18 @@
 ---
 title: 'New publication: Only one way to swim?'
-author: Ben Jarman Ben Jarman
+author: Ben Jarman
 date: 2020-05-05
 lang: en-GB
-categories: [news item, changing inside]
+categories:
+  - changing inside
+  - news
+keywords:
+  - life sentences
+  - long-term imprisonment
+  - murder
+  - moral reflexivity
 description: News item listing a new peer-reviewed publication
+image: '/_assets/greg-rosenke-wlu3SeMLLSQ-unsplash.jpg'
 ---
 
 I've had an article published in the *British Journal of Criminology*. The [published version](https://dx.doi.org/10.1093/bjc/azaa036) is behind a paywall, but those without access can download the accepted manuscript [here](https://changinginside.co.uk/200416-only-one-way-to-swim-accepted-manuscript/), or a pre-print (i.e. the version I originally submitted to the journal, before peer review) [here](https://doi.org/10.31235/osf.io/z4cwa) or [here](https://ssrn.com/abstract=3585421).

@@ -3,8 +3,15 @@ title: 'Interviews as power games'
 author: Ben Jarman
 date: 2019-11-11
 lang: en-GB
-categories: [blog post, changing inside]
-description: How an interview left me feeling deeply uncomfortable, and what this told me that the interviewee might not have.
+categories:
+  - changing inside
+  - research log
+description: How an interview left me feeling deeply uncomfortable, and what this told me that the interviewee might not have
+keywords:
+  - prison fieldwork
+  - interviews
+  - research ethics
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/d58df-interview.jpg'
 ---
 
 This is the second post on a particular interview. Readers who haven't seen the first part might want to [read it first](https://changinginside.co.uk/?p=706). In it, I described someone whose approach to the interview was much more transactional than most. Before agreeing to it, he asked for a kind of tit-for-tat recognition, in the form of a positive entry about the interview in the prison's database.

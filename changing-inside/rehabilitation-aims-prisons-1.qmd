@@ -1,10 +1,18 @@
 ---
 title: 'Rehabilitation and the aims of prisons (part 1)'
-author: Ben Jarman Ben Jarman
+author: Ben Jarman
 date: 2019-02-02
 lang: en-GB
-categories: [blog post, changing inside]
+categories:
+  - changing inside
+  - reading note
 description: First in a series of posts on how English prisons realise the aim of rehabilitation
+keywords:
+  - aims of punishment
+  - penal reform
+  - quakerism
+  - risk
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/bfc09-pentonville-isometric-dark.jpg'
 ---
 
 This is the first of a series of three posts. It's been prompted by reading *Struggle for Justice*, a report published by the American Friends Service Committee (AFSC -- a Quaker body) in the 1970s. Published at time when the accepted wisdom of the post-war period --- which favoured rehabilitation as the proper aim for punishment --- was coming under sustained challenge, the report makes a powerful case *against* rehabilitative theories of punishment.
@@ -25,17 +33,23 @@ For example, Quakers in the US [played their part](https://en.wikipedia.org/wiki
 
 The AFSC report opens with a chapter setting out how the aims of punishment had changed since the early 19th century:
 
-During the last century the professed aims of criminal justice have changed from retribution to rehabilitation and preventive imprisonment. The proper objectives, we have been told repeatedly, are the protection of society from crime and the treatment of the offender, not the exaction of revenge and the criminal's punishment. \[The\] words "retribution," "revenge," and "punishment" are often used interchangeably, as if there were no significant differences of meaning among them. The resulting confusion is the source of many problems. Retribution and revenge necessarily imply punishment, but it does not follow that punishment is eliminated under rehabilitative regimes. *Struggle for Justice, p.20*
+> During the last century the professed aims of criminal justice have changed from retribution to rehabilitation and preventive imprisonment. The proper objectives, we have been told repeatedly, are the protection of society from crime and the treatment of the offender, not the exaction of revenge and the criminal's punishment. \[The\] words "retribution," "revenge," and "punishment" are often used interchangeably, as if there were no significant differences of meaning among them. The resulting confusion is the source of many problems. Retribution and revenge necessarily imply punishment, but it does not follow that punishment is eliminated under rehabilitative regimes.
+> 
+> *Struggle for Justice, p.20*
 
 For some decades before this, US prisons had officially embraced explicitly rehabilitative aims (although without always realising them). Imprisonment was often described as a form of 'treatment', which (in theory) would return the criminal to a 'normal', compliant relationship with the law. Punishment, in this account, was the exercise of coercive state power in the interests of the punished.
 
 The authors argued that this simply masked a far uglier reality:
 
-If \[...\] in some circumstances we might employ coercion against an individual to achieve some compelling social goal, it \[...\] obscures the moral nature of our act to pretend that we are not employing punishment \[...\] There is an easy test that can be applied to any purported abolition of punishment or imprisonment. Is the proposed alternative program voluntary? Can the subject take it or leave it? If he takes it, can he leave it any time he wants? If the answer to any of these questions is "no", then the wolf is still under the sheepskin. *Struggle for Justice, p.23*
+> If \[...\] in some circumstances we might employ coercion against an individual to achieve some compelling social goal, it \[...\] obscures the moral nature of our act to pretend that we are not employing punishment \[...\] There is an easy test that can be applied to any purported abolition of punishment or imprisonment. Is the proposed alternative program voluntary? Can the subject take it or leave it? If he takes it, can he leave it any time he wants? If the answer to any of these questions is "no", then the wolf is still under the sheepskin.
+> 
+> *Struggle for Justice, p.23*
 
 They took this argument further: even if punishment was *guaranteed* to benefit the subject, this should play *no part* in deciding whether to impose it. They offered three reasons for this view:
 
-\[T\]he paternalism implicit in A's assumption that he knows better than B what is for B's benefit is treacherous under any circumstances and becomes an intolerable form of colonialism when invoked by middle-class whites to run the lives of blacks, Chicanos, Indians, and the poor. \[T\]he natural progress of any program of coercion is one of escalation \[so that\] the more it is relied upon, the easier it will be to employ it as an evasion of difficult problems and the larger the dosage that will have to be applied \[...\] \[And\] the availability of coercive solutions to a problem reduces the likelihood of trying more creative but more difficult \[...\] voluntary alternatives \[...\] we think it imperative to regard punishment not as a potential benefit to the subject but invariably as a detriment imposed out of social necessity. *Struggle for Justice, p.25*
+> \[T\]he paternalism implicit in A's assumption that he knows better than B what is for B's benefit is treacherous under any circumstances and becomes an intolerable form of colonialism when invoked by middle-class whites to run the lives of blacks, Chicanos, Indians, and the poor. \[T\]he natural progress of any program of coercion is one of escalation \[so that\] the more it is relied upon, the easier it will be to employ it as an evasion of difficult problems and the larger the dosage that will have to be applied \[...\] \[And\] the availability of coercive solutions to a problem reduces the likelihood of trying more creative but more difficult \[...\] voluntary alternatives \[...\] we think it imperative to regard punishment not as a potential benefit to the subject but invariably as a detriment imposed out of social necessity.
+> 
+> *Struggle for Justice, p.25*
 
 ## When is rehabilitation illegitimate?
 
@@ -45,7 +59,9 @@ Taken together, these are not far distant from the idea, highly influential in t
 
 This insight runs through the report itself. For the authors of *Struggle for Justice*, punishment used coercively to impose 'help' on people that they would not otherwise have chosen immediately runs into moral difficulties, and efforts at penal 'reform' do not excuse the coercive nature of the institution:
 
-As experienced by the prisoner, imprisonment with treatment is identical with traditional imprisonment in most significant aspects \[...\] The reformist's range of vision *excludes the reality of the view point of the offender* \[...\] to the reformist, the only relevant criterion is the purity of the motives of society and its judges and jailers \[...\] We submit that the basic evils of imprisonment are that it denies autonomy, degrades dignity, impairs or destroys self-reliance, inculcates authoritarian values, minimizes the likelihood of beneficial interaction with one's peers, fractures family ties, destroys the family's economic stability, and prejudices the prisoner's future prospects for any improvement in his economic and social status. It does all these things whether or not the buildings are antiseptic or dirty, the aroma that of fresh bread or stale urine, the sleeping accommodation a plank or an innerspring mattress, or the interaction of inmates takes place in cells and corridors \[...\] or in the structured setting of \[group therapy\]. *Struggle for Justice, pp.25 and 33, italics added*
+> As experienced by the prisoner, imprisonment with treatment is identical with traditional imprisonment in most significant aspects \[...\] The reformist's range of vision *excludes the reality of the view point of the offender* \[...\] to the reformist, the only relevant criterion is the purity of the motives of society and its judges and jailers \[...\] We submit that the basic evils of imprisonment are that it denies autonomy, degrades dignity, impairs or destroys self-reliance, inculcates authoritarian values, minimizes the likelihood of beneficial interaction with one's peers, fractures family ties, destroys the family's economic stability, and prejudices the prisoner's future prospects for any improvement in his economic and social status. It does all these things whether or not the buildings are antiseptic or dirty, the aroma that of fresh bread or stale urine, the sleeping accommodation a plank or an innerspring mattress, or the interaction of inmates takes place in cells and corridors \[...\] or in the structured setting of \[group therapy\]. 
+> 
+> *Struggle for Justice, pp.25 and 33, italics added*
 
 For this reason, they argued, punishment should *only* be thought of as a harmful last resort, and never as of potential benefit to the convicted person.
 

@@ -1,12 +1,22 @@
 ---
 title: >
-    "…even roses grow out of sh*t, don't they?"
+  "…even roses grow out of sh*t, don't they?"
 author: Ben Jarman
 date: 2020-12-20
 lang: en-GB
-categories: [blog post, changing inside]
+categories:
+  - changing inside
+  - research log
 description: >
-    Reflections on an interview with 'P', who described what it was like to try and do good when you're also labelled as bad
+  Reflections on an interview with 'P', who described what it was like to try and do good when you're also labelled as bad
+keywords:
+  - prison fieldwork
+  - interviews
+  - long-term imprisonment
+  - moral reflexivity
+  - risk
+  - stigma
+image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/f0e1f-white-rose-scaled-1.jpg'
 ---
 
 Another reflection based on interview coding. This time it's someone I'll call P. He'd been in prison since I was at primary school (I'm pushing 40 now), and was serving a sentence for a very highly stigmatised offence.

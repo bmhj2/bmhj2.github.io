@@ -81,11 +81,11 @@ citation:
   URL: https://www.crimeandjustice.org.uk/sites/crimeandjustice.org.uk/files/PSJ%20261%2C%20Mature%20adulthood.pdf
 ---
 
-::: {.callout-tip}
+::: {.callout-note}
 Below is the text of the accepted manuscript for this article. The published version is also available via [the journal website](https://www.crimeandjustice.org.uk/sites/crimeandjustice.org.uk/files/PSJ%20261%2C%20Mature%20adulthood.pdf).
 :::
 
-# Introduction
+# Introduction {.unnumbered}
 
 Recent research on life imprisonment has foregrounded prisoners’ reflections on the serious (usually violent) offences which generate this life-shattering sanction. These reflections, centred on how they understand their moral responsibility and come to terms with punishment, are shown to be central to coping; prisoners’ biographical sense-making shapes their psychological adaptations to imprisonment [@creweSwimmingTideAdapting2017; @irwinLifersSeekingRedemption2009; @kazemianPositiveGrowthRedemption2019; @schinkelAdaptationMeaningImprisonment2015]. There is now a clear theoretical portrayal of how adaptation develops over time, based on a sample of prisoners who were young adults when convicted [@creweLifeImprisonmentYoung2020]. Whether the same picture holds for those convicted when older is unclear, a theoretical gap that this paper seeks to fill.
 
@@ -215,6 +215,10 @@ The men described above generally posed a lower risk of *reconviction* than thei
 By contrast, the category-B research sites offered ample opportunities for instrumental and expressive violence early in the sentence among younger men more implicated in prison subcultures. Refraining from involvement in this social world offered a feasible (if fraught) path to demonstrate behavioural change. The older men, by contrast, *already* felt remote from the provocations and temptations of prison subcultures—they were “just not interested” (Grant). They felt pains of ‘tightness’ less keenly,[^30] since they conformed to prison regimes readily. But they found it painful to have to associate with others they saw as ‘real’ criminals, and they often felt unclear about what reformative ‘change’ the prison expected. They aligned themselves with official priorities insofar as they understood what those were, and their conformity was rewarded with good jobs and constructive staff relationships. It was unclear, however, how any of this related to the risks of reconviction or serious harm. And their narratives about the offence would not all play well in parole hearings, where the difficulty of demonstrating behavioural ‘change’ might also hamper their progress.
 
 This perhaps raises the following questions for reflection: what do prisoners infer about the kinds of index offence that *matter*, based on how rehabilitative resources are currently targeted? Are minimisations and neutralisations challenged too little among the low(er)-risk? And if so, how legitimate would the victims of very serious violent offences, including murder, perceive this to be?
+
+{{< pagebreak >}}
+
+# References {.unnumbered}
 
 :::{refs}
 :::
