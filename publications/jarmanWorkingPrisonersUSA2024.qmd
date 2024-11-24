@@ -5,6 +5,7 @@ affiliations:
   - id: bbk
     name: "Birkbeck College"
     department: "Faculty of Humanities and Social Sciences"
+    group: "Institute for Crime & Justice Policy Research"
     address: |
       "Malet Street"
       "Bloomsbury"
@@ -12,20 +13,10 @@ affiliations:
     postal-code: "WC1E 7HX"
     country: "United Kingdom"
     url: "https://www.bbk.ac.uk"
-  - id: icpr
-    name: "Institute for Crime & Justice Policy Research"
-    address: |
-      "Malet Street"
-      "Bloomsbury"
-    city: London
-    postal-code: "WC1E 7HX"
-    country: "United Kingdom"
-    url: "https://www.icpr.org.uk"
 author:
   - id: bj
     affiliation:
       - ref: bbk
-      - ref: icpr
     email: "b.jarman@bbk.ac.uk"
     name:
       given: Ben
@@ -35,7 +26,6 @@ author:
   - id: hf
     affiliation:
       - ref: bbk
-      - ref: icpr
     email: "h.fair@bbk.ac.uk"
     name:
       given: Helen

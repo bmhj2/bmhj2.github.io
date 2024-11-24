@@ -1,0 +1,50 @@
+---
+title: >
+  "I've been perfectly happy in prison"
+author: Ben Jarman
+date: 2020-11-27
+lang: en-GB
+categories: [blog post, changing inside]
+description: >
+  Reflections on an interview with an elderly lifer who said he had enjoyed his prison sentence, and didn't feel as though he had been punished at all
+---
+
+::: callout-note
+This was originally posted as a Twitter thread and was reposted on the blog.
+:::
+
+I'm coding interviews. Today it's someone I'll call S. I've been thinking about something he said ever since I met him.
+
+I asked him to draw a timeline, representing the ups and downs of his time in prison. Usually, interviewees drew a zig-zagging line and described the highs and lows prompted by events inside and outside prison, how those events had made them feel, and so on. Most described the sentence as if it had some kind of meaning, whether positive, negative, or both. S, by contrast, drew a completely flat line across the top of the page, and then said:
+
+> S: Well, it's just a level line.
+>
+> BJ: Okay.
+>
+> S: I've been perfectly happy everywhere I've been in prison. I suppose I'm lucky in that I had massive support, family support. You know, I've enjoyed it. It must be... sound silly to say that.
+>
+> BJ: Unusual, maybe. I wouldn't say silly.
+>
+> S: You see, I've met people in prison that I've never met in my life. And after I met people in prison... and [name] was one example, I may have mentioned him yesterday... A big, strong man from the north of England. Super chap, really, and clever. When he entered himself into quizzes on the wing, he used to win. Always knew the answers. I admired him enormously [...] I used to sit at his table for lunch. There were four of us. We all sat together and I got to know them. And [name], he said, "[S]", he said, "if you have any trouble, [S], in this prison, you come and tell me." Well, I've never heard anybody say that to me anywhere before. But he realised I wasn't as big as some of the others, I suppose. And he'd seen a bit of the world, one way and another. I've tried to write to him [since they moved me here]."
+
+S was in his eighties, and nearing the end of the sentence. He was slight, lively, self-deprecating, and engaging. He was in good health---he had taken up yoga in prison---and looked forward to going home. As he says here, his family and many others in his community had remained supportive, and he brought letters to show me that members of his home community had sent to express sympathy and support. He's the most striking example of a small subgroup of maybe five people in my sample: people who haven't much minded being in prison, even in one case describing the sentence as 'like early retirement, really.'
+
+### Not experiencing punishment as punishment
+
+Generally, these men had been sentenced in late middle age or mature adulthood, and generally the murder conviction was their first and only. They didn't describe feeling particular guilt or shame about the offence, and in the absence of previous convictions this usually meant they were seen by the prison as being a low risk of harm to others. Perhaps because the offence seemed such an aberration, they were also a low priority for rehabilitative intervention, and it appeared that the perception that they were not risky meant most had encountered little pushback to their justifications and minimisations regarding the offence itself (including from me, I have to admit: my job, as I saw it, was to listen, not challenge).
+
+None denied that their actions had caused another's death, but the question of blame seemed to have little bite for them. Most were financially secure (because they had had successful careers and owned property) and they expected to be able to meet their basic needs after release. And though some were sceptical about whether they would still be alive at the end of the sentence, they were mindful that if their health declined, the Prison Service would be responsible for their care.
+
+The quote from S above gives some flavour of how prison had broadened his social horizons. Elsewhere in the interview, S recounted his time in a dispersal prison, when another prisoner---an organised crime figure -- had described some of the elaborate creativity that went into drug importation. S's face was alive with something like wonder when he was describing this. And it was also clear---both from his accounts, and from seeing his interactions with officers in the prison where I met him -- that prison officers bent over backwards to accommodate his needs. For example, he liked to dress as men of his generation like to dress, including by wearing "proper" shoes, with a heel. He said that staff in one prison had made exceptions to ordinary dress rules, to enable him to do this. He had worked in highly trusted jobs and had clearly enjoyed the glimpse these had given him into the inner workings of the prisons where he'd done his time.
+
+It didn't surprise me that the staff liked him---I did too, since as well as being a convicted murderer he was also good company. But after the interview ended I was jolted out of this feeling of warmth, when he made some comments about black prisoners which were relatively mild, but unmistakably prejudiced and denigratory.
+
+### What can we learn from S about punishment?
+
+Why am I preoccupied by this one case? I think it shows how much the concepts we have for punishment work less well when the person being punished is not young.
+
+1.  When I met him, S expected to be released soon and to go back home to "tend his garden" and live a quiet life---just what he said he'd have been doing anyway. His material security made this feasible, so concepts of 'rehabilitation' and 'reform' don't work: what he saw as the meaningful changes in himself did not relate to his crime, and if anything related to the fact that prison had added a horizon-broadening coda to his life. He wasn't trying to use the sentence to prepare for the future, and he didn't particularly miss the things it was taking away.
+2.  It's far from clear to me that he had experienced his time in prison as a punishment. He had a range of resources from his earlier life: personal charm; earlier experience (he compared the material privations of the sentence to childhood memories of post-war austerity and rationing, and evaluated the former as no real burden); familial support; and a broad racial, cultural and ethnic fit with many prison staff. He brought all of these to bear on the adaptive challenges of serving the sentence. They were not resources that all his younger counterparts shared.
+3.  The seeming absence of an obvious risk of reoffending, or of serious harm (I find it hard to imagine anyone less menacing). This seemed to mean that very little official effort had been made to communicate with him, morally speaking, about the harmfulness or wrongfulness of his offence. Of the documents I read, only the trial judge's sentencing remarks did so, whereas S's family and others support his view that he had been harshly dealt with. His rejection of moral judgement relating to the offence of murder was not uncommon in my sample. But with others, the perception of risk seemed to make it more likely that they would encounter official pushback on their attitudes about the offence they were in prison for. This seems a blind spot, if we think that punishment, by itself, communicates censure.
+
+PS. It's important to note: these interviews were done before the pandemic, and S might or might not by now have been released. If not, COVID lockdowns will have drastically altered his experience, underlining how far his strengths were relational ones.

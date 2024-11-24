@@ -1,0 +1,65 @@
+google-scholar: true
+csl: cambridge-university-press-author-date.csl
+freeze: true
+title-block-banner: false
+title-block-style: none
+link-citations: true
+numbersections: false
+strip-comments: true
+citation-location: document
+reference-location: margin
+format-links: false
+
+format:
+  html: default
+
+affiliations:
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prison Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    region: Cambridgeshire
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.prc.crim.cam.ac.uk/
+  - id: bbk
+    name: "Birkbeck College"
+    department: "Faculty of Humanities and Social Sciences"
+    group: "Institute for Crime & Justice Policy Research"
+    address: |
+      "Malet Street"
+      "Bloomsbury"
+    city: London
+    postal-code: "WC1E 7HX"
+    country: "United Kingdom"
+    url: "https://www.bbk.ac.uk"
+  - id: soton
+    name: University of Southampton
+    department: Law School
+    address: University Road
+    city: Southampton
+    postal-code: SO17 1BJ
+    country: United Kingdom
+    url: https://www.southampton.ac.uk
+
+author:
+  - id: bj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    email: ben@benjarman.uk
+    orcid: 0000-0003-3527-5437
+    url: https://benjarman.uk
+    affiliation:
+    - ref: soton
+
+lang: en-GB
+date-modified: last-modified
+license: CC-BY-NC-SA 4.0
+copyright:
+  holder: Ben Jarman
+toc: false
+categories: [posts, changing inside]

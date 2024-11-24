@@ -1,4 +1,11 @@
-# Not just a piece of cake
+---
+title: 'Not just a piece of cake'
+author: Ben Jarman
+date: 2019-08-19
+lang: en-GB
+categories: [blog post, changing inside]
+description: On why hospitality in prison can mean rather more than it does elsewhere, and why a piece of cake isn’t just a piece of cake.
+---
 
 Earlier this year I was involved in a project at a high-security prison. Each week a group of students from my university went into the prison to hear a course of lectures alongside a group of students resident in the prison. You can read more about the project [here](https://www.learningtogethernetwork.co.uk/about-us/). I think it was around the fourth week of the course that something surprising happened: the students who lived in the prison began to turn up to the classes with cakes, which they had baked to share in the tea break after each lecture, before our small group discussions began. The sharing of cake continued for the remainder of the course, with the cakes getting more and more elaborate over time. A little bit of competition crept in, with some of the men from different wings trying to outdo one another: cakes topped with tinned mango and pineapple, profiteroles, lemon drizzle---you name it. It was a welcome and unexpected addition to the course experience, and it restored a certain normality to our days in the prison, each of which began with queueing to be frisked, searched, and led through gates and heavy doors on the way in.
 

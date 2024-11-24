@@ -1,4 +1,11 @@
-# Three stories
+---
+title: 'Three stories'
+author: Ben Jarman Ben Jarman
+date: 2020-02-06
+lang: en-GB
+categories: [blog post, changing inside]
+description: Three stories one interviewee told about briefly visiting the outside world during a very long sentence
+---
 
 Today an interviewee told me three stories about different times he had briefly been outside prison, during a sentence that had lasted well over twenty years. Each of these was a little hiatus in his sentence, and he had clearly spent a considerable time reflecting on each one. He described them all as significant moments in how he had come to understand his life and his sentence; so here I just reproduce the stories, and what he said they meant.
 

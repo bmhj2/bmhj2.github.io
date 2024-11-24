@@ -1,0 +1,79 @@
+---
+title: >
+    "…even roses grow out of sh*t, don't they?"
+author: Ben Jarman
+date: 2020-12-20
+lang: en-GB
+categories: [blog post, changing inside]
+description: >
+    Reflections on an interview with 'P', who described what it was like to try and do good when you're also labelled as bad
+---
+
+Another reflection based on interview coding. This time it's someone I'll call P. He'd been in prison since I was at primary school (I'm pushing 40 now), and was serving a sentence for a very highly stigmatised offence.
+
+#### Living with labels {#living-with-labels .wp-block-heading}
+
+P spoke at length about labels deriving from his offence, and their consequences. I asked whether it had been possible during his sentence for him to have honest conversations with others about such matters. Usually, the answer to this question from participants was 'no', or sometimes a very qualified 'yes'.
+
+P said:
+
+> P: Those are the only people that I want around me.
+>
+> BJ: Do you mean you deliberately spend your time with people with whom you can have [those kinds of] conversations?
+>
+> P: Who are open and honest and hide nothing and have no agenda, yes.
+>
+> BJ: Right.
+>
+> P: Yes.
+>
+> BJ: Yes. Are you open with people you associate with about what you're in for?
+>
+> P: Yes. A lot of people don't like that, either.
+>
+> BJ: Don't like it?
+>
+> P: Yes. They resent your inner strength, for some reason.
+
+He went on to describe how his efforts to care for a seriously ill friend had been misinterpreted by his peers:
+
+> P: I was cleaning his pad out because he was a mate from way back [in HMP X]. A lifer. [...] He was bedridden. I got him back on his feet, I got him eating properly, sorting out his meals for him, disinfecting everything, changing his food bag, changing his shit bag, collecting his canteen. Then [when he was better], getting him on his feet, into the ambulance to [hospital] where they were helping him [with his recovery], until he was up and about. When I [began], he was a fucking skeleton in bed waiting to die. Got accused of taxing his canteen when I had to go and collect his... [pause] So, I'd fill his thing in for him. "Yes, what do you want?" Because he was a smoker. "Yes, yes, yes, da-da-da." So, I'd go and collect his canteen because he couldn't get it, couldn't do anything strenuous. I'd collect his meals, take his washing. Because he was a mate. Eventually, they moved me into his pad [...] [He] loved it. He had something to fight for, someone that believed in him, and it got him back on his feet. He said, "I'm never going to forget you," he said, "because I was ready for the off." Then when I got shipped out, it all came to light that people had been putting notes in the box that I was bullying him and taking his canteen off him and taking his food off him. [...]
+>
+> BJ: Forgive me if I've misunderstood you, but do you mean that people were [putting those notes in] because they don't like your offence? Or was there something else going on?
+>
+> P: I don't know what their agenda is.
+
+This story was his answer to my question about whether others expressed moral judgements about him. Though he didn't know their agenda, it was clear to me P thought these allegations followed from suspicion and labels based on his offence. (He didn't say if the prison had acted on or upheld these accusations. I didn't ask, but I saw nothing in his files about them.)
+
+#### Making sense of labels {#making-sense-of-labels .wp-block-heading}
+
+I want to be clear: P wasn't exactly saying it was unfair to be labelled. He didn't imply he wasn't to blame for the offence, and in describing it he didn't sugarcoat or hide the details. What he said and what his files said about his offence was consistent. It was difficult to hear, and is upsetting to think about.
+
+Rather, I think his account draws attention to how, in encouraging people to address their offending behaviour, prisons push a strong (and justifiable) moral message, relating to openness, honesty and self-disclosure. Not everyone I interviewed had internalised this to the same degree as P, and many others were much more guarded. But in his case, P's openness clashed with the moral norms of the world around him. His determination to follow this moral code as far as he did had had consequences.
+
+His account suggests a few things:
+
+1.  that it's not normal or pleasant to hear about such things; on some level, other people just *don't want to* *know*;
+2.  that once someone consents to be labelled based on actions they take responsibility for, but *can't take back*, everything else they ever do may be seen through this lens;
+3.  that the risk of that happening increases the more shocking, unaccountable or stigmatising the offence might be;
+4.  that this creates all kinds of risks for the person carrying these labels, including that their efforts to do or be good will be viewed with suspicion.
+
+#### Labels and punishment {#labels-and-punishment .wp-block-heading}
+
+[Not all lifers consent to being labelled in this way, and not all are under equal pressure to do so](https://changinginsidecouk.wordpress.com/uncategorised/perfectly-happy-in-prison/){rel="noreferrer noopener" target="_blank"}. Those who do practise openness and honesty expose themselves to what those practices can provoke, including powerful moral sentiments such as outrage, indignation and disgust. P's anecdote suggests this may have caused other prisoners to label him. If complaints about bullying and exploitation by P *had* been upheld by the prison, they could have had consequences for him. He also said, elsewhere in the interview, that he felt his honesty with prison staff had caused risk factors to be added to his formulation, resulting in new [sentence plan requirements](https://changinginsidecouk.wordpress.com/planning-serving-time/){rel="noreferrer noopener" target="_blank"}, greater scope for non-compliance with expanded and more complex requirements, and (potentially) more time in prison.
+
+One way to understand this is as risk assessment and management, working exactly as they should. Another way to understand it, especially if it's happening after the tariff date when the ['penalty phase' of the life sentence](https://changinginsidecouk.wordpress.com/what-is-a-life-sentence/){rel="noreferrer noopener" target="_blank"} is complete, is as the penalisation of honesty. The more so if powerful emotions like disgust are involved. (Incidentally, here I want to acknowledge unrelated comments by [Rob Canton](https://youtu.be/D9C-PEs6-2M?t=4635){rel="noreferrer noopener" target="_blank"} and [Fergus McNeill](https://youtu.be/AcL1CGmD5zc?t=2881){rel="noreferrer noopener" target="_blank"} in two webinars on parole earlier this week; they helped clarify the points in this paragraph, which I've been thinking about for a while).
+
+This isn't easy territory. I don't think (and P certainly didn't think) that P didn't deserve punishment for the crime he was in prison for. Nevertheless, what people's past actions deserve and what they might do in the future are different questions. Related, but not identical. There's a risk that for those working towards something better, experiences of labelling and distrust simply make the effort feel hopeless. Why bother?
+
+#### Being 'good' {#being-good .wp-block-heading}
+
+P's response to this problem was to maintain a strong sense of himself as a good person (in criminological jargon, a *desistance narrative*), and to associate with those he thought would help him uphold it, in spite of everything.
+
+But having spent most of my lifetime in prison, it was clear that he had had enough and was eager to move on. He summed this up nicely, so I'll give him the last word:
+
+> P: People say, "Oh, do you regret what you did?" And you're always going to regret what you did, but you can't undo it. You have to live with it and learn from it and move on.
+>
+> BJ: Is there a difference between regret and remorse for you?
+>
+> P: No. It's all regrettable and it's all remorseful. Without it, who would I be? Where would I be? Would I have ever had a wake-up call? Would I have experienced the things I've experienced? It's a hard one, that one. I know it's heinous, horrendous, horrible, all the fucking expletives you want to throw at it. All the nasty, horrible... But even roses grow out of shit, don't they? And that's, you know, prison. Prison has had its uses [for me]. But I don't want to be a caretaker for every fucker else. I need to move on and take care of myself.

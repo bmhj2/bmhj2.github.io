@@ -1,4 +1,11 @@
-# Rehabilitation and the aims of prisons: part 1
+---
+title: 'Rehabilitation and the aims of prisons (part 1)'
+author: Ben Jarman Ben Jarman
+date: 2019-02-02
+lang: en-GB
+categories: [blog post, changing inside]
+description: First in a series of posts on how English prisons realise the aim of rehabilitation
+---
 
 This is the first of a series of three posts. It's been prompted by reading *Struggle for Justice*, a report published by the American Friends Service Committee (AFSC -- a Quaker body) in the 1970s. Published at time when the accepted wisdom of the post-war period --- which favoured rehabilitation as the proper aim for punishment --- was coming under sustained challenge, the report makes a powerful case *against* rehabilitative theories of punishment.
 

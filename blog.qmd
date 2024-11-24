@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 appendix-style: none
-descriptions: "Occasional posts from various projects"
+description: Latest posts from Ben Jarman
 format:
   html: default
 format-links: false
@@ -9,8 +9,8 @@ title-block-style: none
 listing:
   type: default
   contents:
-    - posts
-    - posts/changinginside.yml
+    - blog
+    - changing-inside
   sort:
     - "date desc"
     - "title asc"
@@ -20,8 +20,12 @@ listing:
     type: partial
     description: Latest posts from Ben Jarman
     language: en-gb   
-    categories: [news, posts] 
+    categories: [blog post, news item]
   sort-ui: [date, title, keywords]
   fields: [date, title, subtitle, keywords, reading-time]
 citation: false
 ---
+
+::: {.callout-note}
+This page contains news items and blog posts from various past and current projects. Items tagged 'changing inside' were originally published on the [Changing Inside](https://changinginside.co.uk) blog, written during my PhD.
+:::

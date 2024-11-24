@@ -1,4 +1,11 @@
-# Comparing sentences, comparing offences: part 2
+---
+title: 'Comparing sentences, comparing offences: part 2'
+author: Ben Jarman
+date: 2019-09-11
+lang: en-GB
+categories: [blog post, changing inside]
+description: First of two posts on how lifers (and others) might compare what it means to be sent to prison for different lengths of time 
+---
 
 This is the second of two posts thinking about how lifers (and others) might compare what it means to have different lengths of sentence.
 

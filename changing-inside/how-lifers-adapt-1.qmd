@@ -1,4 +1,11 @@
-# How lifers adapt to imprisonment: part 1
+---
+title: 'Notes: how lifers adapt to imprisonment (part 1)'
+author: Ben Jarman Ben Jarman
+date: 2019-02-05
+lang: en-GB
+categories: [blog post, changing inside]
+description: First of a series of posts prompted by reading on prison adaptation
+---
 
 Another post on my reading, this time on a set of articles I've re-read recently while revisiting the [Masters research I carried out in 2017](https://www.repository.cam.ac.uk/handle/1810/286064). I'm writing up the latter for 'proper' publication in a peer-reviewed journal, as a means of revisiting my findings and thinking through exactly what it is that I am trying to look at through the PhD.
 

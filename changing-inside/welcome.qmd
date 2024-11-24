@@ -1,4 +1,11 @@
-# Welcome
+---
+title: 'Welcome'
+author: Ben Jarman
+date: 2018-12-04
+lang: en-GB
+categories: [blog post, changing inside]
+description: Welcome page and description of content on the site
+---
 
 Welcome to the Changing Inside blog. This site exists to share information about my PhD research. You can read more about me (Ben Jarman), the research, and its funders in the sidebar menu.
 
