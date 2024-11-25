@@ -18,3 +18,5 @@ _site/
 Gemfile.lock
 .quarto/*
 /.quarto/
+.cv.qmd
+about (draft).qmd
