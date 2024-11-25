@@ -1,0 +1,71 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: ""
+  #   type: primary
+  #   position: below-navbar
+  image: profile.jpg
+  title: "Ben Jarman"
+  site-url: https://benjarman.uk
+  favicon: logo.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: blog.qmd
+        text: Blog
+      - href: publications.qmd
+        text: Publications
+      # - href: teaching.qmd
+      #   text: Teaching
+      - href: _assets/cv.pdf
+        text: CV
+    right:
+      - icon: rss
+        href: blog.xml
+  google-analytics: "G-M798KNBF6D"
+  cookie-consent:
+    type: implied
+    style: simple
+  open-graph:
+    locale: en_GB
+    site-name: Ben Jarman
+  reader-mode: false
+  repo-url: https://github.com/bmhj2/bmhj2.github.io/
+  repo-actions: [source, issue]
+  issue-url: https://github.com/bmhj2/bmhj2.github.io/issues
+  page-footer:
+    left: >
+      Site content © 2003-2024 by Ben Jarman. All rights reserved unless otherwise noted.
+    right: >
+      Powered by [Quarto](https://quarto.org/)
+  search:
+    keyboard-shortcut: ["f"]
+    copy-button: true
+
+execute: 
+  freeze: auto
+
+date-format: iso
+
+format:
+  html:
+    theme:
+      light: [flatly, _light.scss]
+      dark: [darkly, _dark.scss]
+    css: styles.css
+    toc: true
+    email-obfuscation: javascript
+
+editor:
+  render-on-save: false
+
+copyright: >
+  Site content © 2003-2024 by Ben Jarman. All rights reserved unless otherwise noted.
