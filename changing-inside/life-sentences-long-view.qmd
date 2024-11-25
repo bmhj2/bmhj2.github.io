@@ -11,7 +11,7 @@ keywords:
   - prison reform trust
   - links
 description: Link to a new publication by the Prison Reform Trust
-image: '/_assets/greg-rosenke-wlu3SeMLLSQ-unsplash.jpg'
+image: '/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg'
 ---
 
 The Prison Reform Trust has published its Bromley Briefing today -- an indispensable twice-yearly compilation of facts and figures on the criminal justice system in the UK.
@@ -21,3 +21,7 @@ Of particular interest to me and to anyone interested in life imprisonment is th
 However, I just want this post to draw attention to the Briefing, and especially pages 6-9 which are an excellent introduction to the shape of indeterminate imprisonment in this country, and how it is that the UK, along with Turkey, holds two thirds of *all* the lifers in Europe.
 
 You can read the press release [here](http://www.prisonreformtrust.org.uk/PressPolicy/News/vw/1/ItemID/601) and the Briefing itself [here](http://www.prisonreformtrust.org.uk/Portals/0/Documents/Bromley%20Briefings/Autumn%202018%20Factfile.pdf).
+
+::: {.callout-note}
+Photo by <a href="https://unsplash.com/@mariasolponce?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Maria Sol Ponce</a> on <a href="https://unsplash.com/photos/an-open-book-with-glasses-on-top-of-it-qHz5jg_8f04?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+:::

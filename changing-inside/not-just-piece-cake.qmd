@@ -10,7 +10,7 @@ description: On why hospitality in prison can mean rather more than it does else
 keywords:
   - anthropology of ethics
   - long-term imprisonment
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/3e8c8-cake.jpg'
+image: '/_assets/3e8c8-cake.jpg'
 ---
 
 Earlier this year I was involved in a project at a high-security prison. Each week a group of students from my university went into the prison to hear a course of lectures alongside a group of students resident in the prison. You can read more about the project [here](https://www.learningtogethernetwork.co.uk/about-us/). I think it was around the fourth week of the course that something surprising happened: the students who lived in the prison began to turn up to the classes with cakes, which they had baked to share in the tea break after each lecture, before our small group discussions began. The sharing of cake continued for the remainder of the course, with the cakes getting more and more elaborate over time. A little bit of competition crept in, with some of the men from different wings trying to outdo one another: cakes topped with tinned mango and pineapple, profiteroles, lemon drizzle---you name it. It was a welcome and unexpected addition to the course experience, and it restored a certain normality to our days in the prison, each of which began with queueing to be frisked, searched, and led through gates and heavy doors on the way in.
@@ -45,3 +45,6 @@ By now the relevance for prisons of this way of thinking should be clear. About 
 
 What I'll be doing with this fieldwork is trying to zoom into how this all plays out at the micro-level of individual thought. I'll be interviewing men serving life sentences in depth about what 'being good' means to them: whether it's feasible; how they try to do it; how being convicted of different kinds of offence or serving time in different kinds of prison environments affects things; and whether and how 'being good' is recognised. It's not just going to be a PhD about cake; but the example shows that cake (like many other things) can signify a lot more than just hospitality.
 
+::: {.callout-note}
+I have been unable to locate the copyright information for this image. If you believe it has been used without permission, please contact me and I will remove it.
+:::

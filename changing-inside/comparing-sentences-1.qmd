@@ -15,7 +15,7 @@ keywords:
   - murder
   - rehabilitation
   - retribution
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/09668-apple-and-orange-e1567544536786.jpg'
+image: '/_assets/09668-apple-and-orange-e1567544536786.jpg'
 ---
 
 This is the first of two posts thinking about how lifers (and others) might compare what it means to have different lengths of sentence.
@@ -58,3 +58,6 @@ It can be summed up, and somewhat simplified, using the following diagram:
 
 Though it looks neat and tidy in theory, in reality the picture is messier. There are many reasons why, with consequences for how people think about their sentences. I'll say more about them in the second part of this post.
 
+::: {.callout-note}
+I have been unable to locate the copyright information for this image. If you believe it has been used without permission, please contact me and I will remove it.
+:::

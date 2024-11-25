@@ -11,7 +11,7 @@ keywords:
   - prison fieldwork
   - interviews
   - research ethics
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/5d479-tit-for-tat-1.jpg'
+image: '/_assets/78c21-tit-for-tat.jpg'
 ---
 
 In setting up this project, and obtaining permission to carry out the research, one thing that took some time to get right was the Participant Information Sheets (PIS). These contain information about the project and what it's doing, and set out certain information relevant to the interviewee's informed consent, such as: steps taken to protect their identity and their data; how they can withdraw themselves from the study if they change their minds; how they can complain about me if they wish to; and what the legal rules governing their personal data are. I had to send drafts to HM Prison and Probation Service's *National Research Committee*, to my department's Ethics Committee, and I also got some specific advice from my university about *GDPR requirements*. These documents are standard in prison and indeed in social research more generally. [National Research Committee](https://www.gov.uk/government/organisations/her-majestys-prison-and-probation-service/about/research)[GDPR requirements](https://www.research-integrity.admin.cam.ac.uk/academic-research-involving-personal-data)
@@ -42,3 +42,6 @@ Since I've been conducting my fieldwork for a couple of months now, and have bee
 
 So this is the first of what I hope will become a series of posts reflecting on these methodological and ethical issues in the research process. The next two will reflect on one interview in particular, with a man seen by the prison as 'a powerful prisoner', who wasn't particularly willing to play the game exactly as these rules suggested he should.
 
+::: {.callout-note}
+I have been unable to locate the copyright information for this image. If you believe it has been used without permission, please contact me and I will remove it.
+:::

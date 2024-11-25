@@ -11,7 +11,7 @@ keywords:
   - prison fieldwork
   - interviews
   - research ethics
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/d58df-interview.jpg'
+image: '/_assets/d58df-interview.jpg'
 ---
 
 This is the second post on a particular interview. Readers who haven't seen the first part might want to [read it first](https://changinginside.co.uk/?p=706). In it, I described someone whose approach to the interview was much more transactional than most. Before agreeing to it, he asked for a kind of tit-for-tat recognition, in the form of a positive entry about the interview in the prison's database.
@@ -75,3 +75,7 @@ In short: in the second interview, my discomfort seemed to me, initially, to hav
 Yet on further reflection, I could find no reason to connect rudeness (as I experienced it) with dangerousness or risk. Are manners a legitimate thing for a democratic state---which is not a nanny, or a finishing school---to try and reform? Are they a legitimate target for rehabilitative effort, or just a matter of class preference?
 
 Could it be that despite his longstanding clean record, and his fulfilment of every target set for his progression, this man had been held back because others with power found him rude, because they sensed he wouldn't tip the hat to their rank? If so, what would that mean for the legitimacy of their power, and his ongoing punishment?
+
+::: {.callout-note}
+I have been unable to locate the copyright information for this image. If you believe it has been used without permission, please contact me and I will remove it.
+:::

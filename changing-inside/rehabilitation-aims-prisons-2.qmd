@@ -12,7 +12,7 @@ keywords:
   - penal reform
   - quakerism
   - risk
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/bfc09-pentonville-isometric-dark.jpg'
+image: '/_assets/Pentonvilleiso19.jpg'
 ---
 
 This is the second of three posts in a series looking at rehabilitation as an aim of punishment. You can find the first post in the series [here](https://changinginside.co.uk/?p=369).
@@ -77,3 +77,7 @@ Meanwhile, the aim of making people 'better' should be organised on different li
 The AFSC's was not the only call for the reform of rehabilitative punishment in the 1970s. Like many reforms, these calls melded with other agendas, combining with unforeseen consequences which reformers would not have wished for. This is a fascinating and tragic cautionary tale, [but it has been well told elsewhere](https://www.ribbonfarm.com/2016/12/15/robert-martinson-and-the-tragedy-of-the-american-prison/).
 
 In a final post in this series, I will think about how relevant the findings of *Struggle for Justice* are in the UK today.
+
+::: {.callout-note}
+Image in the public domain, via [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Pentonvilleiso19.jpg).
+:::

@@ -12,7 +12,7 @@ keywords:
   - youth custody
   - medomsley
 description: News item listing a new peer-reviewed publication
-image: '/_assets/greg-rosenke-wlu3SeMLLSQ-unsplash.jpg'
+image: '/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg'
 ---
 
 Things have been quiet on here for the last month or two while I've been working on admin to do with the PhD -- ethics forms, risk assessments, and so on -- and while I've been preparing some past work for publication in an academic journal.
@@ -24,3 +24,7 @@ Youth custody in the past was often marked by extensive staff and inmate violenc
 Our report to the Prison Service (which commissioned the research) [was published last year](https://www.repository.cam.ac.uk/handle/1810/287561). This newer journal article covers only the earlier period, and asks why the safeguards which were in place from 1960 to 1990 so comprehensively failed to prevent abuse.
 
 The recent convictions, coming at a time where violence in youth prisons is [in the headlines](https://www.independent.co.uk/news/uk/home-news/feltham-yoi-jail-prison-officer-attack-fight-hospital-london-a8861061.html), and [inspectorates](https://www.justiceinspectorates.gov.uk/hmiprisons/inspections/children-in-custody-2017-18/) and [others](https://howardleague.org/our-campaigns/transform-prisons/children-and-young-people/) are expressing serious concerns about their safety, have reinforced contemporary calls for an [end to child imprisonment](https://article39.org.uk/endchildimprisonment/). We argue in the article that while the failures of the past (like those of today) have complex causes, now is a good time to be reflecting on them.
+
+::: {.callout-note}
+Photo by <a href="https://unsplash.com/@mariasolponce?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Maria Sol Ponce</a> on <a href="https://unsplash.com/photos/an-open-book-with-glasses-on-top-of-it-qHz5jg_8f04?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+:::

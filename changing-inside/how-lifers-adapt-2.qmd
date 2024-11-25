@@ -11,7 +11,7 @@ keywords:
   - long-term imprisonment
   - life imprisonment
   - prison sociology
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/a56b2-new-growth.jpg'
+image: '/_assets/a56b2-new-growth.jpg'
 ---
 
 This is the second of two posts noting my thoughts about a recent study on life imprisonment. The first post can be found [here](https://changinginside.co.uk/?p=414).
@@ -47,3 +47,7 @@ Therefore I think these papers also generate a number of questions which need fu
 -   Everyone in this study was aged under 25 when they received their life sentence. Do these findings apply equally to people who were older when they were sentenced, or are their views of the past, present and future somewhat different?
 -   Is the reflective process of coming to terms with the sentence and the offence equally easy for all lifers? Are some offences perceived to be more shameful than others, and is it harder to accept responsibility in these cases?
 -   What part is played by rehabilitative interventions? Do lifers feel they help or hinder the process of coming to terms with the offence, or are they irrelevant to it? What does this mean for sentence planning and prison management?
+
+::: {.callout-note}
+I have been unable to locate the copyright information for this image. If you believe it has been used without permission, please contact me and I will remove it.
+:::

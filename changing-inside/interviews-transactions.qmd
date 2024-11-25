@@ -11,7 +11,7 @@ keywords:
   - prison fieldwork
   - interviews
   - research ethics
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/9615d-fishbowl.jpg'
+image: '/_assets/Fish_bowl2.jpeg'
 ---
 
 In my last post I wrote briefly about the rules governing research interactions in prisons, and said that what followed would reflect on some dilemmas and questions thrown up by trying to follow these rules in practice. This post reflects on how one interview became rather more of a transaction than some others.
@@ -44,3 +44,6 @@ It was inexplicable to him, unless by shadowy conspiracy and hidden agendas, tha
 
 The next post will discuss the second part of this interview, and how it made me deeply uncomfortable as well as provoking questions about what you can learn from interviews besides what is said in them.
 
+::: {.callout-note}
+Image via Maruki Kobayashi, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fish_bowl2.jpg)
+:::

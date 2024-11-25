@@ -14,7 +14,7 @@ keywords:
   - risk
   - stigma
   - therapy
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/b7f80-43042655-happy-people-in-large-group-wallpaper-black-and-white-vector-illustration1.jpg'
+image: '/_assets/large-group-wallpaper-black-and-white-vector-illustration1.jpg'
 ---
 
 Today an interviewee told me three stories about different times he had briefly been outside prison, during a sentence that had lasted well over twenty years. Each of these was a little hiatus in his sentence, and he had clearly spent a considerable time reflecting on each one. He described them all as significant moments in how he had come to understand his life and his sentence; so here I just reproduce the stories, and what he said they meant.
@@ -43,3 +43,6 @@ He remembers realising that she was right. He compared this realisation to the o
 
 I wondered if the experience in the car park might have signalled something to him: a glimpse of a life beyond punishment, of a time when he no longer has to constantly practice self-vigilance. Of course, he knows that his life licence means that he will always have to make those disclosures and have those conversations sometimes, with some people. But he said this third out-of-prison experience had disclosed that in some moments, he would be invisible and unremarkable. He said that on subsequent day releases, he has savoured these moments: he could use them to begin to experience what he said he had wanted to be for a very long time: normal.
 
+::: {.callout-note}
+I have been unable to locate the copyright information for this image. If you believe it has been used without permission, please contact me and I will remove it.
+:::

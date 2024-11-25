@@ -13,7 +13,7 @@ keywords:
   - prison fieldwork
   - interviews
   - elderly life-sentenced prisoners
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/0f235-scott-webb-9u8mko3pgww-unsplash-scaled-1.jpg'
+image: '/_assets/scott-webb-9u8mko3pgww-unsplash.jpg'
 ---
 
 ::: callout-note
@@ -55,3 +55,9 @@ Why am I preoccupied by this one case? I think it shows how much the concepts we
 3.  The seeming absence of an obvious risk of reoffending, or of serious harm (I find it hard to imagine anyone less menacing). This seemed to mean that very little official effort had been made to communicate with him, morally speaking, about the harmfulness or wrongfulness of his offence. Of the documents I read, only the trial judge's sentencing remarks did so, whereas S's family and others support his view that he had been harshly dealt with. His rejection of moral judgement relating to the offence of murder was not uncommon in my sample. But with others, the perception of risk seemed to make it more likely that they would encounter official pushback on their attitudes about the offence they were in prison for. This seems a blind spot, if we think that punishment, by itself, communicates censure.
 
 PS. It's important to note: these interviews were done before the pandemic, and S might or might not by now have been released. If not, COVID lockdowns will have drastically altered his experience, underlining how far his strengths were relational ones.
+
+https://unsplash.com/@scottwebb
+
+::: {.callout-note}
+Image from Scott Webb via [Unsplash](https://unsplash.com/@scottwebb)
+:::

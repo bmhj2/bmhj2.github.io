@@ -11,7 +11,7 @@ keywords:
   - aims of punishment
   - penal reform
   - quakerism
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/bfc09-pentonville-isometric-dark.jpg'
+image: '/_assets/Pentonvilleiso19.jpg'
 ---
 
 This is the last of three posts in a series looking at rehabilitation as an aim of punishment. Click the links to access the [first](https://changinginside.co.uk/?p=369) and [second](https://changinginside.co.uk/?p=436) posts in the series.
@@ -64,3 +64,6 @@ These questions matter, because what is done in our prisons is done in the name 
 
 I'd love to know readers' thoughts on the report, and the account I've given of its arguments.
 
+::: {.callout-note}
+Image in the public domain, via [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Pentonvilleiso19.jpg).
+:::

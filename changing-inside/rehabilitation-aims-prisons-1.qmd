@@ -12,7 +12,7 @@ keywords:
   - penal reform
   - quakerism
   - risk
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/bfc09-pentonville-isometric-dark.jpg'
+image: '/_assets/Pentonvilleiso19.jpg'
 ---
 
 This is the first of a series of three posts. It's been prompted by reading *Struggle for Justice*, a report published by the American Friends Service Committee (AFSC -- a Quaker body) in the 1970s. Published at time when the accepted wisdom of the post-war period --- which favoured rehabilitation as the proper aim for punishment --- was coming under sustained challenge, the report makes a powerful case *against* rehabilitative theories of punishment.
@@ -69,3 +69,6 @@ On first glance, this is quite a challenging conclusion to reformers: ruling out
 
 In the next post, I'll develop that point.
 
+::: {.callout-note}
+Image in the public domain, via [Wikimedia Commons](https://en.wikipedia.org/wiki/File:Pentonvilleiso19.jpg).
+:::

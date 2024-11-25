@@ -15,7 +15,7 @@ keywords:
   - murder
   - rehabilitation
   - retribution
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/09668-apple-and-orange-e1567544536786.jpg'
+image: '/_assets/09668-apple-and-orange-e1567544536786.jpg'
 ---
 
 This is the second of two posts thinking about how lifers (and others) might compare what it means to have different lengths of sentence.
@@ -76,3 +76,6 @@ It appeared that contemplating the sheer number of prison years ahead overwhelme
 
 In writing up the pilot research I called this position 'rehabilitative procrastination', and I wonder now whether it's likely to be a consequence of the ever-increasing length of tariffs that have been handed down since 2003. Those increases, and the reasons they have happened, will be the subject of a future post.
 
+::: {.callout-note}
+I have been unable to locate the copyright information for this image. If you believe it has been used without permission, please contact me and I will remove it.
+:::

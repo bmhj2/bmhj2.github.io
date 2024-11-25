@@ -16,7 +16,7 @@ keywords:
   - moral reflexivity
   - risk
   - stigma
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/f0e1f-white-rose-scaled-1.jpg'
+image: '/_assets/john-tecuceanu-w_EXlvIk2Vk-unsplash.jpg'
 ---
 
 Another reflection based on interview coding. This time it's someone I'll call P. He'd been in prison since I was at primary school (I'm pushing 40 now), and was serving a sentence for a very highly stigmatised offence.
@@ -87,3 +87,7 @@ But having spent most of my lifetime in prison, it was clear that he had had eno
 > BJ: Is there a difference between regret and remorse for you?
 >
 > P: No. It's all regrettable and it's all remorseful. Without it, who would I be? Where would I be? Would I have ever had a wake-up call? Would I have experienced the things I've experienced? It's a hard one, that one. I know it's heinous, horrendous, horrible, all the fucking expletives you want to throw at it. All the nasty, horrible... But even roses grow out of shit, don't they? And that's, you know, prison. Prison has had its uses [for me]. But I don't want to be a caretaker for every fucker else. I need to move on and take care of myself.
+
+::: {.callout-note}
+Photo by <a href="https://unsplash.com/@pixeldustie?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">John Tecuceanu</a> on <a href="https://unsplash.com/photos/white-petaled-flower-w_EXlvIk2Vk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+:::

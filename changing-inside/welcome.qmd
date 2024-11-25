@@ -9,7 +9,7 @@ categories:
 keywords:
   - about
 description: Welcome page and description of content on the site
-image: 'https://changinginside.co.uk/wp-content/uploads/2023/03/d83fc-parkhurst-gatehouse.jpg'
+image: '/_assets/20131115_112633_DDF84CD5.jpg'
 ---
 
 Welcome to the Changing Inside blog. This site exists to share information about my PhD research. You can read more about me (Ben Jarman), the research, and its funders in the sidebar menu.
@@ -46,6 +46,10 @@ I am writing this blog to engage not only other academics, but also interested n
 I want the site to make the closed world of long-term imprisonment more visible. There are certain constraints I have to follow --- for example, protecting the anonymity and safety of my research participants. I would prefer feedback on the contents of this blog to be courteous and constructive where possible. But I don't expect everyone reading this site to like or agree with what they find here, and I am genuinely interested to hear what people make of what's being posted here.
 
 In general, posts on the site will be open for comments, though they will be moderated before they are published: please don't be offended if it takes a day or two for yours to appear (or for me to reply).
+
+::: {.callout-note}
+Image taken by me, outside the gatehouse of HMP Parkhurst, 2013-11-15
+:::
 
 <!-- ## Subscribe!
 
