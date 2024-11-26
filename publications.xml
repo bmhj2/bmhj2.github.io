@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Ben Jarman</title>
+<link>https://benjarman.uk/publications.html</link>
+<atom:link href="https://benjarman.uk/publications.xml" rel="self" type="application/rss+xml"/>
+<description>Ben Jarman | Latest publications</description>
+<language>en-gb</language>
+<image>
+<url>https://benjarman.uk/profile.jpg</url>
+<title>Ben Jarman</title>
+<link>https://benjarman.uk/publications.html</link>
+</image>
+<generator>quarto-1.6.37</generator>
+<lastBuildDate>Tue, 10 Sep 2024 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>Working prisoners in the USA</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <dc:creator>Helen Fair</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanWorkingPrisonersUSA2024.html</link>
+  <description><![CDATA[ A briefing paper on the law and policy surrounding prison work and prison labour in the US. ]]></description>
+  <category>briefing paper</category>
+  <guid>https://benjarman.uk/publications/jarmanWorkingPrisonersUSA2024.html</guid>
+  <pubDate>Tue, 10 Sep 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Prison work in law and reality</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <dc:creator>Catherine Heard</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanPrisonWorkLaw2024.html</link>
+  <description><![CDATA[ A journal article accepted for publication in the European Journal of Labour Law. ]]></description>
+  <category>journal article</category>
+  <guid>https://benjarman.uk/publications/jarmanPrisonWorkLaw2024.html</guid>
+  <pubDate>Sat, 31 Aug 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Working prisoners in the UK</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <dc:creator>Helen Fair</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanWorkingPrisonersUK2024.html</link>
+  <description><![CDATA[ A briefing paper on prison work and prison labour in the UK. ]]></description>
+  <category>briefing paper</category>
+  <guid>https://benjarman.uk/publications/jarmanWorkingPrisonersUK2024.html</guid>
+  <pubDate>Tue, 09 Jul 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Moral messages, ethical responses</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanMoralMessagesEthical2024.html</link>
+  <description><![CDATA[ PhD thesis, based on research on life-sentenced prisoners in England. ]]></description>
+  <category>thesis</category>
+  <guid>https://benjarman.uk/publications/jarmanMoralMessagesEthical2024.html</guid>
+  <pubDate>Wed, 05 Jun 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Labouring behind bars</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <dc:creator>Catherine Heard</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanLabouringBarsAssessing2023.html</link>
+  <description><![CDATA[ A briefing paper on the international legal framework for regulating prison work and prison labour. ]]></description>
+  <category>briefing paper</category>
+  <guid>https://benjarman.uk/publications/jarmanLabouringBarsAssessing2023.html</guid>
+  <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Voice, Representation, Relationships</title>
+  <dc:creator>Margaret Westbury</dc:creator>
+  <dc:creator>Mathieu Candea</dc:creator>
+  <dc:creator>Jennifer Gabrys</dc:creator>
+  <dc:creator>Sara Hennessy</dc:creator>
+  <dc:creator>Ben Jarman</dc:creator>
+  <dc:creator>Kiera McNeice</dc:creator>
+  <dc:creator>Curtis Sharma</dc:creator>
+  <link>https://benjarman.uk/publications/westburyVoiceRepresentationRelationships2022.html</link>
+  <description><![CDATA[ Report of a working party convened by the University of Cambridge to comment on the Open Research agenda’s applicability to qualitative methodologies ]]></description>
+  <category>report</category>
+  <guid>https://benjarman.uk/publications/westburyVoiceRepresentationRelationships2022.html</guid>
+  <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Making progress?</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <dc:creator>Claudia Vince</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanMakingProgressWhat2022.html</link>
+  <description><![CDATA[ Report published by the Prison Reform Trust, on the findings of a consultation on how prisoners understand the idea of progression during a long prison sentence ]]></description>
+  <category>report</category>
+  <category>knowledge exchange</category>
+  <guid>https://benjarman.uk/publications/jarmanMakingProgressWhat2022.html</guid>
+  <pubDate>Sun, 02 Oct 2022 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Life imprisonment in mature adulthood</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanLifeImprisonmentMature2022.html</link>
+  <description><![CDATA[ Peer-reviewed article accepted for publication in the Prison Service Journal. ]]></description>
+  <category>journal article</category>
+  <guid>https://benjarman.uk/publications/jarmanLifeImprisonmentMature2022.html</guid>
+  <pubDate>Sun, 31 Jul 2022 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Making sense of sentencing</title>
+  <dc:creator>Independent Commission into the Experience of Victims and Long-Term Prisoners</dc:creator>
+  <link>https://benjarman.uk/publications/icevlpMakingSenseSentencing2022.html</link>
+  <description><![CDATA[ Report by an independent commission to which I contributed draft chapters and editing support. ]]></description>
+  <category>report</category>
+  <category>knowledge exchange</category>
+  <guid>https://benjarman.uk/publications/icevlpMakingSenseSentencing2022.html</guid>
+  <pubDate>Wed, 08 Jun 2022 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>False accounting</title>
+  <dc:creator>Alice Ievins</dc:creator>
+  <dc:creator>Ben Jarman</dc:creator>
+  <dc:creator>Thea Thomasin Reimer</dc:creator>
+  <link>https://benjarman.uk/publications/ievinsFalseAccountingWhy2021.html</link>
+  <description><![CDATA[ A journal article for Working Notes. ]]></description>
+  <category>journal article</category>
+  <guid>https://benjarman.uk/publications/ievinsFalseAccountingWhy2021.html</guid>
+  <pubDate>Sun, 13 Jun 2021 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Penal theory, personal ethics and the life sentence in empirical perspective</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanPenalTheoryPersonal2021.html</link>
+  <description><![CDATA[ Invited paper given online, in the University of Hull’s Criminology Rising Star series. ]]></description>
+  <category>lecture</category>
+  <guid>https://benjarman.uk/publications/jarmanPenalTheoryPersonal2021.html</guid>
+  <pubDate>Tue, 13 Apr 2021 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Research Data Management: An introduction</title>
+  <dc:creator>Laura Kennedy</dc:creator>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/kennedyResearchDataManagement2021.html</link>
+  <description><![CDATA[ Slides from a training seminar for postgraduate students. ]]></description>
+  <category>presentation</category>
+  <guid>https://benjarman.uk/publications/kennedyResearchDataManagement2021.html</guid>
+  <pubDate>Tue, 02 Feb 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Can confidential research be reproducible?</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanCanConfidentialResearch2021.html</link>
+  <description><![CDATA[ Paper given at the 2021 Cambridge ESRC Doctoral Training Partnership conference ]]></description>
+  <category>conference paper</category>
+  <guid>https://benjarman.uk/publications/jarmanCanConfidentialResearch2021.html</guid>
+  <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Response to call for evidence</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanIcevlpResponse2021.html</link>
+  <description><![CDATA[ Response prepared following a call for evidence by an independent commission on sentencing, and originally published on their website ]]></description>
+  <category>consultation</category>
+  <guid>https://benjarman.uk/publications/jarmanIcevlpResponse2021.html</guid>
+  <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Open Data and sensitive interviews</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanOpenDataSensitive2020.html</link>
+  <description><![CDATA[ Slides and reference list for a seminar. ]]></description>
+  <category>presentation</category>
+  <guid>https://benjarman.uk/publications/jarmanOpenDataSensitive2020.html</guid>
+  <pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Only one way to swim?</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanOnlyOneWay2020.html</link>
+  <description><![CDATA[ Article published in the British Journal of Criminology ]]></description>
+  <category>journal article</category>
+  <guid>https://benjarman.uk/publications/jarmanOnlyOneWay2020.html</guid>
+  <pubDate>Tue, 20 Oct 2020 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Tracing the history of child abuse in youth custody</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanTracingHistoryChild2019.html</link>
+  <description><![CDATA[ Presentation at a day workshop at Oxford Brookes University. ]]></description>
+  <category>conference paper</category>
+  <guid>https://benjarman.uk/publications/jarmanTracingHistoryChild2019.html</guid>
+  <pubDate>Tue, 21 May 2019 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>‘A Poor Prospect Indeed’</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <dc:creator>Caroline Lanskey</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanPoorProspectIndeed2019.html</link>
+  <description><![CDATA[ Article based on archival research on youth custody, in the journal Societies ]]></description>
+  <category>journal article</category>
+  <guid>https://benjarman.uk/publications/jarmanPoorProspectIndeed2019.html</guid>
+  <pubDate>Wed, 17 Apr 2019 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The historical criminology of ‘safeguarding’</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <dc:creator>Louise Jackson</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanHistoricalCriminologySafeguarding2.html</link>
+  <description><![CDATA[ Paper presented at the BSC Historical Criminology network’s conference in 2019. ]]></description>
+  <category>conference paper</category>
+  <guid>https://benjarman.uk/publications/jarmanHistoricalCriminologySafeguarding2.html</guid>
+  <pubDate>Mon, 08 Apr 2019 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Can people ‘desist’ in prison?</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanCanPeopleDesist2019.html</link>
+  <description><![CDATA[ Seminar paper given at the Institute of Criminology in Cambridge ]]></description>
+  <category>presentation</category>
+  <guid>https://benjarman.uk/publications/jarmanCanPeopleDesist2019.html</guid>
+  <pubDate>Fri, 08 Mar 2019 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

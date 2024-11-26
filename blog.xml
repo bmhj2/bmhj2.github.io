@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Ben Jarman</title>
+<link>https://benjarman.uk/blog.html</link>
+<atom:link href="https://benjarman.uk/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Ben Jarman | Latest posts</description>
+<language>en-gb</language>
+<image>
+<url>https://benjarman.uk/profile.jpg</url>
+<title>Ben Jarman</title>
+<link>https://benjarman.uk/blog.html</link>
+</image>
+<generator>quarto-1.6.37</generator>
+<lastBuildDate>Sun, 20 Dec 2020 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>“…even roses grow out of sh*t, don’t they?”</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/even-roses-grow.html</link>
+  <description><![CDATA[ Reflections on an interview with ‘P’, who described what it was like to try and do good when you’re also labelled as bad ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>research log</category>
+  <guid>https://benjarman.uk/changing-inside/even-roses-grow.html</guid>
+  <pubDate>Sun, 20 Dec 2020 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/john-tecuceanu-w_EXlvIk2Vk-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>“I’ve been perfectly happy in prison”</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/perfectly-happy-in-prison.html</link>
+  <description><![CDATA[ Reflections on an interview with an elderly lifer who said he had enjoyed his prison sentence, and didn’t feel as though he had been punished at all ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>research log</category>
+  <guid>https://benjarman.uk/changing-inside/perfectly-happy-in-prison.html</guid>
+  <pubDate>Fri, 27 Nov 2020 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/scott-webb-9u8mko3pgww-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>New publication: Only one way to swim?</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/only-one-way-swim.html</link>
+  <description><![CDATA[ News item listing a new peer-reviewed publication ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>news</category>
+  <guid>https://benjarman.uk/changing-inside/only-one-way-swim.html</guid>
+  <pubDate>Mon, 04 May 2020 23:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Three stories</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/three-stories.html</link>
+  <description><![CDATA[ Three stories one interviewee told about briefly visiting the outside world during a very long sentence ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>research log</category>
+  <guid>https://benjarman.uk/changing-inside/three-stories.html</guid>
+  <pubDate>Thu, 06 Feb 2020 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/large-group-wallpaper-black-and-white-vector-illustration1.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Interviews as power games</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/interviews-power-games.html</link>
+  <description><![CDATA[ How an interview left me feeling deeply uncomfortable, and what this told me that the interviewee might not have ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>research log</category>
+  <guid>https://benjarman.uk/changing-inside/interviews-power-games.html</guid>
+  <pubDate>Mon, 11 Nov 2019 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/d58df-interview.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Interviews as transactions</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/interviews-transactions.html</link>
+  <description><![CDATA[ How agreeing to do an interview became a negotiation, and what this says about the ‘rules of the game’ for prison research ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>research log</category>
+  <guid>https://benjarman.uk/changing-inside/interviews-transactions.html</guid>
+  <pubDate>Thu, 31 Oct 2019 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/Fish_bowl2.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>The ‘rules of the game’ in prison research</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/rules-game-prison-research.html</link>
+  <description><![CDATA[ Reflections on ethical and other dilemmas associated with prison fieldwork ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>research log</category>
+  <guid>https://benjarman.uk/changing-inside/rules-game-prison-research.html</guid>
+  <pubDate>Mon, 28 Oct 2019 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/78c21-tit-for-tat.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Comparing sentences, comparing offences: part 2</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/comparing-sentences-2.html</link>
+  <description><![CDATA[ First of two posts on how lifers (and others) might compare what it means to be sent to prison for different lengths of time ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>research log</category>
+  <guid>https://benjarman.uk/changing-inside/comparing-sentences-2.html</guid>
+  <pubDate>Tue, 10 Sep 2019 23:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/09668-apple-and-orange-e1567544536786.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Comparing sentences, comparing offences: part 1</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/comparing-sentences-1.html</link>
+  <description><![CDATA[ First of two posts on how lifers (and others) might compare what it means to be sent to prison for different lengths of time ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>research log</category>
+  <guid>https://benjarman.uk/changing-inside/comparing-sentences-1.html</guid>
+  <pubDate>Tue, 03 Sep 2019 23:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/09668-apple-and-orange-e1567544536786.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Not just a piece of cake</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/not-just-piece-cake.html</link>
+  <description><![CDATA[ On why hospitality in prison can mean rather more than it does elsewhere, and why a piece of cake isn’t just a piece of cake ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>research log</category>
+  <guid>https://benjarman.uk/changing-inside/not-just-piece-cake.html</guid>
+  <pubDate>Sun, 18 Aug 2019 23:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/3e8c8-cake.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>New publication: ‘A poor prospect indeed’</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/poor-prospect-indeed.html</link>
+  <description><![CDATA[ News item listing a new peer-reviewed publication ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>news</category>
+  <guid>https://benjarman.uk/changing-inside/poor-prospect-indeed.html</guid>
+  <pubDate>Wed, 17 Apr 2019 23:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Rehabilitation and the aims of prisons (part 3)</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-3.html</link>
+  <description><![CDATA[ Last in a series of posts on how English prisons realise the aim of rehabilitation ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>reading note</category>
+  <guid>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-3.html</guid>
+  <pubDate>Sat, 09 Feb 2019 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/Pentonvilleiso19.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Notes: how lifers adapt to imprisonment (part 2)</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/how-lifers-adapt-2.html</link>
+  <description><![CDATA[ Second of a series of posts prompted by reading on prison adaptation ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>reading note</category>
+  <guid>https://benjarman.uk/changing-inside/how-lifers-adapt-2.html</guid>
+  <pubDate>Thu, 07 Feb 2019 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/a56b2-new-growth.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Notes: how lifers adapt to imprisonment (part 1)</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/how-lifers-adapt-1.html</link>
+  <description><![CDATA[ First of a series of posts prompted by reading on prison adaptation ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>reading note</category>
+  <guid>https://benjarman.uk/changing-inside/how-lifers-adapt-1.html</guid>
+  <pubDate>Tue, 05 Feb 2019 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/a56b2-new-growth.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Rehabilitation and the aims of prisons (part 2)</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-2.html</link>
+  <description><![CDATA[ Second in a series of posts on how English prisons realise the aim of rehabilitation ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>reading note</category>
+  <guid>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-2.html</guid>
+  <pubDate>Mon, 04 Feb 2019 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/Pentonvilleiso19.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Rehabilitation and the aims of prisons (part 1)</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-1.html</link>
+  <description><![CDATA[ First in a series of posts on how English prisons realise the aim of rehabilitation ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>reading note</category>
+  <guid>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-1.html</guid>
+  <pubDate>Sat, 02 Feb 2019 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/Pentonvilleiso19.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Notes: an agenda for research on long-term imprisonment</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/agenda-research-long-term-imprisonment.html</link>
+  <description><![CDATA[ Reading notes on an article proposing a research agenda on long-term imprisonment ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>reading note</category>
+  <guid>https://benjarman.uk/changing-inside/agenda-research-long-term-imprisonment.html</guid>
+  <pubDate>Mon, 28 Jan 2019 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/scott-graham-5fNmWej4tAA-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Lifers and the right to hope: a new campaign</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/lifers-right-hope.html</link>
+  <description><![CDATA[ Link to a new campaign by Penal Reform International ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>news</category>
+  <guid>https://benjarman.uk/changing-inside/lifers-right-hope.html</guid>
+  <pubDate>Fri, 14 Dec 2018 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/greg-rosenke-wlu3SeMLLSQ-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Life sentences: the long view</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/life-sentences-long-view.html</link>
+  <description><![CDATA[ Link to a new publication by the Prison Reform Trust ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>news</category>
+  <guid>https://benjarman.uk/changing-inside/life-sentences-long-view.html</guid>
+  <pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/welcome.html</link>
+  <description><![CDATA[ Welcome page and description of content on the site ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>news</category>
+  <guid>https://benjarman.uk/changing-inside/welcome.html</guid>
+  <pubDate>Tue, 04 Dec 2018 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/20131115_112633_DDF84CD5.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
