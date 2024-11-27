@@ -16,7 +16,17 @@
 <link>https://benjarman.uk/blog.html</link>
 </image>
 <generator>quarto-1.6.38</generator>
-<lastBuildDate>Sun, 20 Dec 2020 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 27 Nov 2024 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome to my new academic homepage</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/news/welcome-new-homepage.html</link>
+  <description><![CDATA[ Announcing the launch of benjarman.uk ]]></description>
+  <category>news</category>
+  <guid>https://benjarman.uk/news/welcome-new-homepage.html</guid>
+  <pubDate>Wed, 27 Nov 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/profile.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>“…even roses grow out of sh*t, don’t they?”</title>
   <dc:creator>Ben Jarman</dc:creator>
@@ -244,18 +254,6 @@
   <guid>https://benjarman.uk/changing-inside/life-sentences-long-view.html</guid>
   <pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate>
   <media:content url="https://benjarman.uk/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Welcome</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <link>https://benjarman.uk/changing-inside/welcome.html</link>
-  <description><![CDATA[ Welcome page and description of content on the site ]]></description>
-  <category>posts</category>
-  <category>changing inside</category>
-  <category>news</category>
-  <guid>https://benjarman.uk/changing-inside/welcome.html</guid>
-  <pubDate>Tue, 04 Dec 2018 00:00:00 GMT</pubDate>
-  <media:content url="https://benjarman.uk/_assets/20131115_112633_DDF84CD5.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>
