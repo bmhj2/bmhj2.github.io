@@ -1,29 +1,22 @@
 ---
-author: Ben Jarman
 title: "Welcome to my new academic homepage"
 description: "Announcing the launch of benjarman.uk"
 date: "2024-11-27"
-date-modified: last-modified
-categories: # select from
-  - news
-image: "/profile.jpg"
+image: ../profile.jpg
 lang: en-GB
-strip-comments: true
 copyright:
   holder: Ben Jarman
   year: 2024
-toc: false # Will depend on whether it's a full text or a summary.
-format-links: false # select 
-draft: false # select
+draft: false
 citation: true
 ---
 
-I am excited to launch my new academic homepage. The timing coincides with a career move: from next Monday, I will be joining the [Law School](https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-law-school) at the University of Southampton as a Research Fellow, where I'll be working on parole decision-making in England and Wales.
+This post launches this new website. The timing coincides with a career move: from next Monday, I will be joining the [University of Southampton Law School](https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-law-school) as a Research Fellow, where I'll be working to prepare to publish [my PhD](/publications/jarmanMoralMessagesEthical2024.qmd) as a book, and to undertake new research on parole decision-making in England and Wales.
 
-The site brings together various aspects of my work. Visitors can find information about my current interests and background, access my publications, and read blog posts about my research. I've migrated content from my previous blog, 'Changing Inside', which documented my PhD research on life imprisonment between 2018 and 2024, but which will disappear when my current hosting deal expires in March.
+The site brings together various aspects of my work. Visitors can find information about my current interests and background, access my publications, and read blog posts about my research. I've migrated content from my previous blog, [Changing Inside](https://changinginside.co.uk), which documented my PhD research on life imprisonment between 2018 and 2024, but which will disappear when its current hosting deal expires in March.
 
-A key feature of the site is my commitment to open access. Wherever possible, I've included links to OA versions of my past publications, with fulltexts either directly available here or via links to institutional repositories and other platforms from the Publications section of this site. This approach will continue with future publications---I want my work to be as accessible as possible.
+A key feature of the site is my commitment to open access. Wherever possible, I've included links to OA versions of my past publications, with the text available either directly here,^[Courtesy of three tools: the excellent [Quarto](https://quarto.org) publication system, [GitHub Pages](https://pages.github.com/), and Mat DeHaven's [academic website template](https://github.com/matdehaven/quarto-academic-website).] or via links to copies deposited in repositories elsewhere on the web. This approach will continue with future publications. I want my work to be as accessible as possible.
 
-Looking ahead, I plan to resume blogging about my work. My work at Southampton will focus on parole decision-making, a topic that builds on my previous research while opening up new questions about how the prison system makes decisions about risk and release. I look forward to sharing insights and reflections as the project develops.
+Looking ahead, I plan to resume blogging about my research. My work at Southampton will focus on parole decision-making, a topic which builds on my previous research on life imprisonment, while also hopefully opening up new questions about how decisions about risk and prison release are made. I look forward to sharing insights and reflections as the project develops.
 
 Please feel free to explore the site and get in touch if you'd like to discuss any aspect of my work.
