@@ -20,6 +20,9 @@ about:
     - icon: '/_assets/orcid.svg'
       text: ORCiD
       href: https://orcid.org/0000-0003-3527-5437 
+    - icon: bookmarks
+      text: Zotero
+      href: https://www.zotero.org/bmhj
     - icon: google
       text: Google Scholar
       href: https://scholar.google.co.uk/citations?user=tArQ5lcAAAAJ&hl=en
@@ -27,6 +30,9 @@ about:
       text: GitHub
       href: https://github.com/bmhj2
 appendix-style: none
+include-in-header: 
+  - text: >
+      <a rel="me" href="https://mastodonapp.uk/@bmhj"></a>
 ---
 
 I am a criminologist and prison researcher, currently working on parole and prison release mechanisms.
