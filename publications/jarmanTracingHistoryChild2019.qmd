@@ -46,7 +46,6 @@ copyright: © Ben Jarman, 2019
 toc: false
 categories: conference paper
 description: Presentation at a day workshop at Oxford Brookes University.
-format-links: true
 draft: false
 bibliography: jarmanTracingHistoryChild2019.bib
 

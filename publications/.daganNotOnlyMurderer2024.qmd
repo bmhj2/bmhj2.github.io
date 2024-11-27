@@ -87,7 +87,6 @@ date: 2024-05-24
   # year: 
 categories: journal article
 description: A journal article currently under review with *Law & Social Inquiry*
-format-links: true
 draft: true # remove after finishing.
 ---
 
