@@ -56,7 +56,7 @@ license: CC-BY 4.0
 copyright: © The authors, 2019.
 toc: false
 categories: conference paper
-description: Paper presented at the BSC Historical Criminology network's conference in 2019.
+description: Paper presented at the BSC Historical Criminology network's conference in 2019
 format-links: false
 draft: false
 

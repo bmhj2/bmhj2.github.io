@@ -54,7 +54,7 @@ url: https://eprints.bbk.ac.uk/id/eprint/53263/
 license: "All rights reserved."
 copyright: "© ICPR, 2023"
 format-links: false
-description: A briefing paper on the international legal framework for regulating prison work and prison labour.
+description: A briefing paper on the international legal framework for regulating prison work and prison labour
 draft: false # remove after finishing.
 
 citation:

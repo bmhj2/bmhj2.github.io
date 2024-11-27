@@ -32,7 +32,7 @@ keywords:
   - 2019 london bridge attack
 lang: en-GB
 date: 2024-07-27
-description: Keynote lecture delivered at the 2024 annual meeting of British Quakers. 
+description: Keynote lecture delivered at the 2024 annual meeting of British Quakers
 
 url: https://www.youtube.com/watch?v=vwqolkC0nnc
 copyright: "© Ben Jarman, 2024"

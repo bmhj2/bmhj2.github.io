@@ -39,7 +39,7 @@ categories:
 title: Working prisoners in the UK
 subtitle: Laws, policies, and practical realities
 date: 2024-07-10
-description: A briefing paper on prison work and prison labour in the UK.
+description: A briefing paper on prison work and prison labour in the UK
 
 funding: 
   statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"

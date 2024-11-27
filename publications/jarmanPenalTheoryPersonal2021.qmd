@@ -44,7 +44,7 @@ copyright: © Ben Jarman, 2021
 strip-comments: true
 toc: true
 categories: lecture
-description: Invited paper given online, in the University of Hull's Criminology Rising Star series.
+description: Invited paper given online, in the University of Hull's Criminology Rising Star series
 draft: false
 bibliography: jarmanPenalTheoryPersonal2021.bib
 

@@ -35,7 +35,7 @@ author:
 title: "Working prisoners in the USA"
 subtitle: "Laws, policies, and practical realities"
 date: "2024-09-11"
-description: A briefing paper on the law and policy surrounding prison work and prison labour in the US.
+description: A briefing paper on the law and policy surrounding prison work and prison labour in the US
 
 funding: 
   statement: "Project funded by Porticus Foundation (http://dx.doi.org/10.13039/100020243)"

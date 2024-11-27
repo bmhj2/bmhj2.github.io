@@ -77,7 +77,7 @@ copyright: "© Ben Jarman, 2024"
 license: CC-BY, embargoed to 2025-06-06
 draft: false
 format-links: false
-description: PhD thesis, based on research on life-sentenced prisoners in England.
+description: PhD thesis, based on research on life-sentenced prisoners in England
 
 citation:
   id: jarmanMoralMessagesEthical2024

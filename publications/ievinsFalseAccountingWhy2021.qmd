@@ -23,7 +23,7 @@ author:
       - ref: cam
   - family: Reimer
     given: Thea Thomasin
-description: A journal article for *Working Notes*.
+description: A journal article on the metaphor of 'punishment as debt', for the journal *Working Notes*
 keywords: 
   - penal theory
   - penal debt

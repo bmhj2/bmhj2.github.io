@@ -39,7 +39,7 @@ license: CC-BY 4.0
 copyright: © The authors, 2021
 toc: false
 categories: presentation
-description: Slides from a training seminar for postgraduate students.
+description: Slides from a training seminar for postgraduate students
 format-links: false
 draft: false
 

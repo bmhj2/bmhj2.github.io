@@ -39,7 +39,7 @@ strip-comments: true
 copyright: © Ben Jarman, 2020
 toc: false
 categories: presentation
-description: Slides and reference list for a seminar.
+description: Slides and reference list for a seminar
 format-links: false
 draft: false
 bibliography: jarmanOpenDataSensitive2020.bib

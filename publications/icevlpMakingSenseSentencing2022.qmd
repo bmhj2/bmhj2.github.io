@@ -21,7 +21,7 @@ categories:
   - knowledge exchange
 format-links: false
 draft: false
-description: Report by an independent commission to which I contributed draft chapters and editing support.
+description: Report by an independent commission to which I contributed draft chapters and editing support
 
 citation:
   id: icevlpMakingSenseSentencing2022

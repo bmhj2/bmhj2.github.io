@@ -55,7 +55,7 @@ funding:
   statement: "The author received funding for this research via an UKRI PhD studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
 copyright: "© Ben Jarman, 2024"
 license: All rights reserved.
-description: Conference paper, delivered at a workshop in Cambridge in 2022.
+description: Conference paper, delivered at a workshop in Cambridge in 2022
 
 citation:
   id: jarmanPartFurnitureNow2022
