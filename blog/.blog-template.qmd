@@ -1,36 +1,29 @@
 ---
-# abstract: >
-#   [add]
-
-# author:
-# title: 
-# description: 
-# subtitle: # [add if needed]
-# date: "YYYY-MM-DD"
-# date-modified: last-modified
-# categories: # select from
+author:
+  - ref: bj
+title: "[add]" # add
+subtitle: "[add]" # [add if needed]
+date: "YYYY-MM-DD"
+categories: # select from
+  - posts
   # - news
   # - reading note
   # - research log
   # - [add new]
-# keywords:  
+description: "[add]" # add
+# keywords: # add as needed
 #   - one
 #   - two
 #   - three
-# image: "xxx.jpg" # add as appropriate
-# lang: en-GB
-# license: [add]
-# strip-comments: true
-# copyright:
-  # holder: 
-  # year: 
-# toc: [true|false] # Will depend on whether it's a full text or a summary.
-# format-links: [true|false] # select 
-# draft: [true|false] # select
-# bibliography: [citekey].bib
-
-# citation:
-  # [add CSL YAML from Zotero here]
+image: "xxx.jpg" # add as appropriate
+lang: en-GB
+license: [add] # select, CC-BY-NC-SA 4.0 by _metadata.yml default
+copyright:
+  holder: [add]
+  year: [add]
+# toc: [true|false] # select, false by _metadata.yml default
+draft: [true|false] # select
+# bibliography: [citekey].bib # add if required
 ---
 
 Brief opening paragraph introducing the topic.

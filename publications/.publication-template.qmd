@@ -1,103 +1,44 @@
 ---
-# abstract: >
-#   [add]
-
-# Standard metadata in this section
-# affiliations:
-#   - id: cam
-#     name: University of Cambridge
-#     department: Institute of Criminology
-#     group: Prison Research Centre
-#     address: Sidgwick Avenue
-#     city: Cambridge
-#     region: Cambridgeshire
-#     postal-code: CB3 9DA
-#     country: United Kingdom
-#     url: https://www.prc.crim.cam.ac.uk/
-# - id: bbk
-#   name: "Birkbeck College"
-#   department: "Faculty of Humanities and Social Sciences"
-#   address: |
-#     "Malet Street"
-#     "Bloomsbury"
-#   city: London
-#   postal-code: "WC1E 7HX"
-#   country: "United Kingdom"
-#   url: "https://www.bbk.ac.uk"
-# - id: icpr
-#   name: "Institute for Crime & Justice Policy Research"
-#   address: |
-#     "Malet Street"
-#     "Bloomsbury"
-#   city: London
-#   postal-code: "WC1E 7HX"
-#   country: "United Kingdom"
-#   url: "https://www.icpr.org.uk"
-# - id: soton
-#   name: University of Southampton
-#   department: Law School
-#   address: University Road
-#   city: Southampton
-#   postal-code: SO17 1BJ
-#   country: United Kingdom
-#   url: https://www.southampton.ac.uk
-
-# author:
-#   - id: bj
-#     name:
-#       given: Ben
-#       family: Jarman
-#       literal: Ben Jarman
-#     attributes:
-#       corresponding: true
-#     # degrees:
-#     #   - MA (Cantab)
-#     #   - PGCE
-#     #   - MPhil
-#     #   - PhD
-#     email: ben@benjarman.uk
-#     orcid: 0000-0003-3527-5437
-#     role:
-#       - analysis
-#       - conceptualization
-#       - data curation
-#       - editing
-#       - funding
-#       - investigation
-#       - methodology
-#       - project administration
-#       - resources
-#       - writing
-#     url: https://benjarman.uk
-#     affiliation:
-#     - ref: []
-
-# title: 
-# subtitle: 
-# funding: # see [schema](https://quarto.org/docs/authoring/front-matter.html#funding)
+abstract: >
+  [add]
+  
+author:
+  - ref: bj # also consider roles additions as per https://quarto.org/docs/journals/authors.html
+title: "[add]" # add
+subtitle: "[add]" # add if needed
+date: "YYYY-MM-DD"
+categories: # select from the following
+  # - archived
+  # - briefing paper
+  # - case study
+  # - conference paper
+  # - consultation response
+  # - journal article
+  # - knowledge exchange
+  # - lecture
+  # - presentation
+  # - report
+  # - thesis
+  # - toolkit
+  # - [add new]
+description:
+funding: # see [schema](https://quarto.org/docs/authoring/front-matter.html#funding)
 # keywords:  
 #   - one
 #   - two
 #   - three
-# lang: en-GB
-# date: 
-# date-modified: last-modified
-# doi: 
-# url: 
-# license: [Refer to publication] or [something else].
-# strip-comments: true
-# copyright:
-  # holder: 
-  # year: 
-# toc: [true|false] # Will depend on whether it's a full text or a summary.
-# categories: 
-# description: 
-# format-links: 
-# draft: true # remove after finishing.
-# bibliography: [citekey].bib
-
-# citation:
-  # [add CSL YAML here]
+# lang: [add] # en-GB per _metadata.yml default
+doi: 
+url: 
+license: [add] # CC-BY-NC-SA 4.0 per _metadata.yml default
+copyright:
+  holder: 
+  year: 
+toc: [true|false] # select - false per _metadata.yml default
+format-links: # select - "typst" per _metadata.yml default
+draft: [true|false] # select
+bibliography: [citekey].bib # add once prepared, change to CSL json where possible
+citation: true
 ---
 
 <!-- ## Availability -->

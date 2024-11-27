@@ -3,9 +3,9 @@ abstract: >
   This briefing paper explores work in prison through the lens of international human rights law. This is the first of a series of publications in the project ‘Unlocking potential: towards effective, sustainable, and ethical provision of work opportunities for prisoners and prison leavers’. The briefing—along with a detailed Appendix—assesses and critiques the applicable law and highlights the outdated nature of key binding norms governing prison work. It also identifies gaps between claimed benefits and actual prisoner work conditions. It assesses the existing international legal framework, revealing conceptual gaps and inconsistencies across standards. These gaps, we suggest, may result in prisoners being exploited in ways unforeseen by the framers of international laws.
 affiliations:
   - id: bbk
-    name: "Birkbeck College"
+    name: "Birkbeck, University of London"
     department: "Faculty of Humanities and Social Sciences"
-    group: "Institute for Crime & Justice Policy Research"
+    group: "Institute for Crime & Justice Policy Research (ICPR)"
     address: |
       "Malet Street"
       "Bloomsbury"

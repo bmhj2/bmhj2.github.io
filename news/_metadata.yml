@@ -1,16 +1,13 @@
 google-scholar: true
 csl: cambridge-university-press-author-date.csl
-title-block-banner: false
-title-block-style: none
+title-block-banner: true
+title-block-style: default
 link-citations: true
 numbersections: false
+# secnumdepth: 3
 strip-comments: true
 citation-location: document
 reference-location: margin
-format-links: false
-
-format:
-  html: default
 
 affiliations:
   - id: cam
@@ -24,9 +21,9 @@ affiliations:
     country: United Kingdom
     url: https://www.prc.crim.cam.ac.uk/
   - id: bbk
-    name: "Birkbeck College"
+    name: "Birkbeck, University of London"
     department: "Faculty of Humanities and Social Sciences"
-    group: "Institute for Crime & Justice Policy Research"
+    group: "Institute for Crime & Justice Policy Research (ICPR)"
     address: |
       "Malet Street"
       "Bloomsbury"
@@ -58,6 +55,9 @@ author:
 lang: en-GB
 date-modified: last-modified
 license: CC-BY-NC-SA 4.0
-copyright: © Ben Jarman
 toc: false
 categories: news
+
+format:
+  html: default
+format-links: false

@@ -3,9 +3,9 @@ abstract: >
   International law provides that work by sentenced prisoners ought to prepare them for life after release. Yet reliable data on the nature, extent and impacts of prison work is lacking in much of the world, and what there is suggests that much prison work is far from voluntary, is unpaid or poorly paid, is unskilled or low-skilled, and does little to improve employment prospects on release. This article compares how prison work is defined and governed in law and shaped by policy, and how it is organised in practice. It describes the operationalisation of key legal provisions relating to prison work in three countries, and compares the purposes for prison work defined in law, the protections available to working prisoners, and the incentives or penalties used to secure participation. It also summarises the limited data available showing how many prisoners perform which kinds of work in each country. Finally, it argues that efforts to bring prison work provision into closer compliance with international standards should be sensitive to local variation, and suggests clarifying questions which could be used in such a reform process.
 affiliations:
   - id: bbk
-    name: "Birkbeck College"
+    name: "Birkbeck, University of London"
     department: "Faculty of Humanities and Social Sciences"
-    group: "Institute for Crime & Justice Policy Research"
+    group: "Institute for Crime & Justice Policy Research (ICPR)"
     address: |
       "Malet Street"
       "Bloomsbury"

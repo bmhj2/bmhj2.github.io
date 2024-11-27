@@ -42,7 +42,7 @@ license: All rights reserved
 strip-comments: true
 copyright: © Ben Jarman 2021
 toc: true
-categories: consultation
+categories: consultation response
 description: Response prepared following a call for evidence by an independent commission on sentencing, and originally published on their website
 format-links: true 
 draft: false

@@ -3,7 +3,7 @@ abstract: >
   In this lecture, Ben explores the myth and reality in how society responds to serious crimes, charting the uses and abuses of retributive punishment, rehabilitative intervention, public protection, and calls for incremental or radical reform. Drawing on personal and professional experiences, Ben will invite Friends to reflect on where current prison conditions belong in the longer flow of Quaker witness on penal reform, and to ask: who (if anyone) gets what they deserve from the institutions we have?
 affiliations:
   - id: bbk
-    name: "Birkbeck College"
+    name: "Birkbeck, University of London"
     department: "Faculty of Humanities and Social Sciences"
     group: Institute for Crime & Justice Policy Research (ICPR)
     address: |

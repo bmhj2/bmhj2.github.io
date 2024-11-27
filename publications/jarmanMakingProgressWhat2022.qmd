@@ -19,9 +19,9 @@ affiliations:
     country: United Kingdom
     url: https://www.prc.crim.cam.ac.uk/
   - id: bbk
-    name: "Birkbeck College"
+    name: "Birkbeck, University of London"
     department: "Faculty of Humanities and Social Sciences"
-    group: "Institute for Crime & Justice Policy Research"
+    group: "Institute for Crime & Justice Policy Research (ICPR)"
     address: |
       "Malet Street"
       "Bloomsbury"

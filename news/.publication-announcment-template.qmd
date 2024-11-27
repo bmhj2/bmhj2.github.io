@@ -5,7 +5,8 @@ title: "[add]" # add
 subtitle: "[add]" # [add if needed]
 date: "YYYY-MM-DD"
 categories: # select from
-  - news
+  - publication
+	- news
   # - [add new]
 description: "[add]" # add
 # keywords: # add as needed
@@ -23,16 +24,12 @@ draft: [true|false] # select
 # bibliography: [citekey].bib # add if required
 ---
 
-Brief opening paragraph introducing the topic.
+Opening announcing publication and its significance.
 
-## Main point
+## Key findings
 
-Development of key ideas.
+Brief overview of main results.
 
-## Implications
+## Availability
 
-What this means for research/practice.
-
-## Further information
-
-Links to related content or citations.
+Links to open-access version (on this site or elsewhere) and official publication.
