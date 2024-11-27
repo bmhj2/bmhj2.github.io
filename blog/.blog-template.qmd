@@ -1,0 +1,48 @@
+---
+# abstract: >
+#   [add]
+
+# author:
+# title: 
+# description: 
+# subtitle: # [add if needed]
+# date: "YYYY-MM-DD"
+# date-modified: last-modified
+# categories: # select from
+# 	- news
+#	  - reading note
+#	  - research log
+#	  - [add new]
+# keywords:  
+#   - one
+#   - two
+#   - three
+# image: "xxx.jpg" # add as appropriate
+# lang: en-GB
+# license: [add]
+# strip-comments: true
+# copyright:
+  # holder: 
+  # year: 
+# toc: [true|false] # Will depend on whether it's a full text or a summary.
+# format-links: [true|false] # select 
+# draft: [true|false] # select
+# bibliography: [citekey].bib
+
+# citation:
+  # [add CSL YAML from Zotero here]
+---
+
+Brief opening paragraph introducing the topic.
+
+## Main point
+
+Development of key ideas.
+
+## Implications
+
+What this means for research/practice.
+
+## Further information
+
+Links to related content or citations.
