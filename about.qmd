@@ -7,25 +7,25 @@ about:
   links:
     - icon: envelope-at-fill
       text: Email
-      href: mailto:ben@benjarman.uk
+      href: "mailto:ben@benjarman.uk"
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/bjarman-/
-    - icon: '/_assets/bsky.png'
-      text: Bluesky
-      href: https://bsky.app/profile/benjarman.uk
+    - text: "{{< iconify simple-icons bluesky >}} Bluesky"
+      href: "https://bsky.app/profile/benjarman.uk"
     - icon: mastodon
       text: Mastodon
-      href: https://mastodonapp.uk/@bmhj
-    - icon: '/_assets/orcid.svg'
-      text: ORCiD
-      href: https://orcid.org/0000-0003-3527-5437 
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.co.uk/citations?user=tArQ5lcAAAAJ&hl=en
+      href: "https://mastodonapp.uk/@bmhj"
+      rel: me
+    - text: "{{< iconify simple-icons orcid >}} ORCiD"
+      href: "https://orcid.org/0000-0003-3527-5437"
+    - text: "{{< iconify academicons zotero-square >}} Zotero"
+      href: "https://www.zotero.org/bmhj"
+    - text: "{{< iconify academicons google-scholar-square >}} Google Scholar"
+      href: "https://scholar.google.co.uk/citations?user=tArQ5lcAAAAJ&hl=en"
     - icon: github
       text: GitHub
-      href: https://github.com/bmhj2
+      href: "https://github.com/bmhj2"
 appendix-style: none
 ---
 
