@@ -37,7 +37,7 @@ website:
   open-graph:
     locale: en_GB
     site-name: Ben Jarman
-  reader-mode: true
+  reader-mode: false
   repo-url: https://github.com/bmhj2/bmhj2.github.io/
   repo-actions: [source, issue]
   issue-url: https://github.com/bmhj2/bmhj2.github.io/issues

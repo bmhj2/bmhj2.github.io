@@ -44,14 +44,10 @@ format-links: false
 draft: false
 bibliography: jarmanCanConfidentialResearch2021.bib
 
-references:
-- id: jarmanCanConfidentialResearch2021
+citation:
+  id: jarmanCanConfidentialResearch2021
   abstract: >
     A presentation given at the ESRC DTP conference on 29th January 2021, reflecting on the Open Research agenda and some ethical questions it raises in relation to interviews conducted in prison.
-  accessed:
-    - year: 2021
-      month: 2
-      day: 12
   author:
     - family: Jarman
       given: Ben
@@ -60,20 +56,12 @@ references:
   event-place: Cambridge
   event-title: ESRC Doctoral Training Partnership Annual Conference
   genre: Conference paper
-  issued:
-    - year: 2021
-      month: 1
-      day: 29
-  language: en
+  issued: 2021-01-29
+  language: en_GB
   license: Attribution 4.0 International
-  note: |-
-    ZSCC: NoCitationData[s0] 
-    Accepted: 2021-02-11T12:40:03Z
   publisher-place: Cambridge
-  title: >-
-    Can confidential research be reproducible? Consent, ethics, prison
-    interviews and the Open Research agenda
-  title-short: Can confidential research be reproducible
+  title:  "Can confidential research be reproducible? Consent, ethics, prison interviews and the Open Research agenda"
+  title-short: "Can confidential research be reproducible?"
   type: speech
   URL: https://www.repository.cam.ac.uk/handle/1810/317486
 ---

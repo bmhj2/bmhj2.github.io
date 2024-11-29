@@ -7,8 +7,8 @@ affiliations:
     department: "Faculty of Humanities and Social Sciences"
     group: Institute for Crime & Justice Policy Research (ICPR)
     address: |
-      "Malet Street"
-      "Bloomsbury"
+      Malet Street
+      Bloomsbury
     city: London
     postal-code: "WC1E 7HX"
     country: "United Kingdom"
@@ -32,30 +32,32 @@ keywords:
   - 2019 london bridge attack
 lang: en-GB
 date: 2024-07-27
-description: Keynote lecture delivered at the 2024 annual meeting of British Quakers
 
 url: https://www.youtube.com/watch?v=vwqolkC0nnc
-copyright: "© Ben Jarman, 2024"
-license: CC-BY-NC-SA 4.0
+copyright:
+  holder: Ben Jarman
+  year: 2024
+license: All rights reserved
 toc: true # Will depend on whether it's a full text or a summary.
 categories: lecture
-# description: 
+description: Keynote lecture given in July 2024 to the annual meeting of British Quakers, on the topic of who deserves what in punishment
 
 bibliography: jarmanGettingWhatWe2024.bib
-csl: cambridge-university-press-author-date.csl
-draft: true # remove after finishing.
+draft: false # remove after finishing.
 
 citation:
   id: jarmanGettingWhatWe2024
+  abstract: >
+    In this lecture, Ben explores the myth and reality in how society responds to serious crimes, charting the uses and abuses of retributive punishment, rehabilitative intervention, public protection, and calls for incremental or radical reform. Drawing on personal and professional experiences, Ben will invite Friends to reflect on where current prison conditions belong in the longer flow of Quaker witness on penal reform, and to ask: who (if anyone) gets what they deserve from the institutions we have?
   author:
     - family: Jarman
       given: Ben
-  event-place: London
-  event-title: Swarthmore Lecture, 2024
+  event-place: Friends House, London
+  event-title: 2024 Swarthmore Lecture
   genre: Lecture
   issued: 2024-07-27
   language: en-GB
-  license: CC-BY-NC-SA
+  license: All rights reserved
   publisher-place: London
   title: "Getting what we deserve? Imprisonment and the challenge of doing justice"
   title-short: Getting what we deserve?
@@ -64,7 +66,7 @@ citation:
 ---
 
 ::: {.callout-note}
-This was the text of a keynote lecture given in July 2024 to the annual meeting of British Quakers, in London. The text below is the lecture as delivered. A publication expanding it will appear in 2025. The lecture can also be viewed on YouTube.
+This is the text of a keynote lecture given in July 2024 to the yearly meeting of British Quakers, as delivered. A publication expanding on it is in preparation and will appear in 2025. The lecture can also be viewed on YouTube.
 :::
 
 {{< video https://www.youtube.com/watch?v=vwqolkC0nnc >}}
