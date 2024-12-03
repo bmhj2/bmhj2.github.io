@@ -13,10 +13,6 @@ about:
       href: https://www.linkedin.com/in/bjarman-/
     - text: "{{< iconify simple-icons bluesky >}} Bluesky"
       href: "https://bsky.app/profile/benjarman.uk"
-    - icon: mastodon
-      text: Mastodon
-      href: "https://mastodonapp.uk/@bmhj"
-      rel: me
     - text: "{{< iconify simple-icons orcid >}} ORCiD"
       href: "https://orcid.org/0000-0003-3527-5437"
     - text: "{{< iconify academicons zotero-square >}} Zotero"
