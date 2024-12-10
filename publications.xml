@@ -15,7 +15,7 @@
 <title>Ben Jarman</title>
 <link>https://benjarman.uk/publications.html</link>
 </image>
-<generator>quarto-1.6.39</generator>
+<generator>quarto-1.6.37</generator>
 <lastBuildDate>Tue, 10 Sep 2024 23:00:00 GMT</lastBuildDate>
 <item>
   <title>Working prisoners in the USA</title>
@@ -118,11 +118,21 @@
   <pubDate>Sun, 31 Jul 2022 23:00:00 GMT</pubDate>
 </item>
 <item>
+  <title>“I’m part of the furniture now, innit?”</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanPartFurnitureNow2022.html</link>
+  <description><![CDATA[ Conference paper, delivered at a workshop in Cambridge in 2022 ]]></description>
+  <category>news</category>
+  <category>conference paper</category>
+  <guid>https://benjarman.uk/publications/jarmanPartFurnitureNow2022.html</guid>
+  <pubDate>Tue, 05 Jul 2022 23:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Making sense of sentencing</title>
   <dc:creator>Ben Jarman</dc:creator>
   <dc:creator>Independent Commission into the Experience of Victims and Long-Term Prisoners</dc:creator>
   <link>https://benjarman.uk/publications/icevlpMakingSenseSentencing2022.html</link>
-  <description><![CDATA[ Report by an independent commission to which I contributed draft chapters and editing support ]]></description>
+  <description><![CDATA[ Report by an independent commission for which I worked as a specialist advisor, contributing draft chapters and editing ]]></description>
   <category>news</category>
   <category>report</category>
   <category>knowledge exchange</category>
@@ -213,16 +223,6 @@
   <category>journal article</category>
   <guid>https://benjarman.uk/publications/jarmanPoorProspectIndeed2019.html</guid>
   <pubDate>Wed, 17 Apr 2019 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The historical criminology of ‘safeguarding’</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <dc:creator>Louise Jackson</dc:creator>
-  <link>https://benjarman.uk/publications/jarmanHistoricalCriminologySafeguarding2.html</link>
-  <description><![CDATA[ Paper presented at the BSC Historical Criminology network’s conference in 2019 ]]></description>
-  <category>conference paper</category>
-  <guid>https://benjarman.uk/publications/jarmanHistoricalCriminologySafeguarding2.html</guid>
-  <pubDate>Mon, 08 Apr 2019 23:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
