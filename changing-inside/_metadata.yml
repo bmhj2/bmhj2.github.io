@@ -1,16 +1,17 @@
 google-scholar: true
 csl: cambridge-university-press-author-date.csl
-title-block-banner: false
-title-block-style: none
+title-block-banner: true
+title-block-style: default
 link-citations: true
 numbersections: false
 strip-comments: true
 citation-location: document
 reference-location: margin
-format-links: false
+citation: true
 
 format:
   html: default
+format-links: false
 
 affiliations:
   - id: cam
