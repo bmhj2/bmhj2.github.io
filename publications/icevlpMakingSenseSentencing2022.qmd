@@ -21,7 +21,7 @@ categories:
   - knowledge exchange
 format-links: false
 draft: false
-description: Report by an independent commission to which I contributed draft chapters and editing support
+description: Report by an independent commission for which I worked as a specialist advisor, contributing draft chapters and editing
 
 citation:
   id: icevlpMakingSenseSentencing2022
@@ -29,8 +29,14 @@ citation:
     - literal: >
         Independent Commission into the Experience of Victims and Long-Term Prisoners
   contributor:
+    - family: Gifford
+      given: Christine
     - family: Jarman
       given: Ben
+    - family: Tapley
+      given: Jacki      
+    - family: Tully
+      given: Christ
   genre: Final report
   issued: 2022-06-15
   language: en-GB

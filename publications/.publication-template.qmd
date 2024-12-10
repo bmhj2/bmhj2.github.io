@@ -30,7 +30,7 @@ funding: # see [schema](https://quarto.org/docs/authoring/front-matter.html#fund
 # lang: [add] # en-GB per _metadata.yml default
 doi: 
 url: 
-license: [add] # CC-BY-NC-SA 4.0 per _metadata.yml default
+license: [add] # CC BY-NC-SA 4.0 per _metadata.yml default
 copyright:
   holder: 
   year: 

@@ -43,7 +43,7 @@ keywords:
   - punishment
   - risk
 lang: en-GB
-license: CC-BY 4.0
+license: CC BY 4.0
 copyright: © Ben Jarman, 2024
 strip-comments: true
 title: 'Risk and self-governance'

@@ -36,7 +36,7 @@ date: 2021-06-14
 lang: en-GB
 funding: 
   statement: "Ben Jarman received funding for the empirical research on which this article is based via an UKRI PhD studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
-license: CC-BY 4.0
+license: All rights reserved
 copyright: © The authors, 2021
 publisher: Jesuit Centre for Faith and Justice
 source: www.repository.cam.ac.uk

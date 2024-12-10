@@ -40,7 +40,7 @@ lang: en-GB
 date: 2019-05-22
 doi: 10.17863/CAM.40463
 url: https://www.repository.cam.ac.uk/handle/1810/322528
-license: CC-BY-NC 4.0
+license: CC BY-NC 4.0
 strip-comments: true
 copyright: © Ben Jarman, 2019
 toc: false
@@ -64,7 +64,7 @@ citation:
   issued: 2019-05-22
   language: en-GB
   license: >
-    Creative Commons Attribution-NonCommercial 4.0 International Licence (CC-BY-NC)
+    Creative Commons Attribution-NonCommercial 4.0 International Licence (CC BY-NC)
   publisher-place: Oxford Brookes University
   title: >
     Tracing the history of child abuse in youth custody: does the archive offer current practitioners anything beyond useless knowledge after the fact?

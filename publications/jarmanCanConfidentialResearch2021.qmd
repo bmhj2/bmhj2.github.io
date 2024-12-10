@@ -35,7 +35,7 @@ keywords:
 lang: en-GB
 doi: 10.17863/CAM.64602
 url: https://www.repository.cam.ac.uk/handle/1810/317486
-license: CC-BY 4.0
+license: CC BY 4.0
 copyright: © Ben Jarman, 2024
 toc: false
 categories: conference paper

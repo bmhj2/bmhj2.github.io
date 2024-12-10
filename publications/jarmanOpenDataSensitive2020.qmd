@@ -34,7 +34,7 @@ lang: en-GB
 date: 2020-12-03
 doi: 10.17863/CAM.62157
 url: https://www.repository.cam.ac.uk/handle/1810/315050
-license: CC-BY-NC-SA 4.0
+license: CC BY-NC-SA 4.0
 strip-comments: true
 copyright: © Ben Jarman, 2020
 toc: false
@@ -57,7 +57,7 @@ citation:
   event-title: Brown Bag seminar
   genre: Seminar
   issued: 2020-12-03
-  license: CC-BY-NC-SA 4.0
+  license: CC BY-NC-SA 4.0
   publisher: Apollo - University of Cambridge Repository
   publisher-place: University of Cambridge Institute of Criminology
   title: 'Open Data and sensitive interviews: Reflecting on ethics, consent, and reproducibility'

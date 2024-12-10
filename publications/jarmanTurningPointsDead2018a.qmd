@@ -32,7 +32,7 @@ keywords: [life imprisonment, criminology, prisons, desistance, long-term impris
 lang: en-GB
 doi: 10.17863/CAM.33383
 url: https://www.repository.cam.ac.uk/handle/1810/286064
-license: CC-BY-NC-SA 4.0
+license: CC BY-NC-SA 4.0
 copyright:
   holder: Ben Jarman
   year: 2018

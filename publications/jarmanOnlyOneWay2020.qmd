@@ -41,7 +41,7 @@ date: 2020-10-21
 doi: 10.17863/CAM.51646
 url: https://www.repository.cam.ac.uk/handle/1810/304564
 copyright: © Ben Jarman, 2020
-license: CC-BY-ND-SA 4.0
+license: CC BY 4.0
 toc: false
 categories: journal article
 description: >
@@ -61,6 +61,7 @@ citation:
   container-title: The British Journal of Criminology
   container-title-short: Br J Criminol
   DOI: 10.17863/CAM.51646
+  license: CC BY 4.0
   ISSN: 0007-0955
   volume: '60'
   issue: '6'

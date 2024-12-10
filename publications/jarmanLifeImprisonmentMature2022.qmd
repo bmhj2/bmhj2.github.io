@@ -50,7 +50,7 @@ toc: true
 lot: true
 doi: 10.17863/CAM.87314
 url: https://www.crimeandjustice.org.uk/sites/crimeandjustice.org.uk/files/PSJ%20261%2C%20Mature%20adulthood.pdf
-license: CC-BY-NC-ND 4.0
+license: CC BY 4.0
 copyright: "© Ben Jarman, 2022"
 funding:
   statement: "The author received funding for this research via an UKRI PhD studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
@@ -71,7 +71,7 @@ citation:
   issue: '261'
   issued: 2022-08-01
   language: en
-  license: All rights reserved
+  license: CC BY 4.0
   page: 33-38
   publisher: HM Prison & Probation Service
   title: >

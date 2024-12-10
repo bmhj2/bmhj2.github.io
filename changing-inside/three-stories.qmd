@@ -6,7 +6,7 @@ lang: en-GB
 categories:
   - changing inside
   - research log
-description: Three stories one interviewee told about briefly visiting the outside world during a very long sentence
+description: Three stories one interviewee told about briefly visiting the outside world during a very long prison sentence
 keywords:
   - prison fieldwork
   - interviews

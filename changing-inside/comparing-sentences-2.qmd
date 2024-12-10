@@ -6,7 +6,7 @@ lang: en-GB
 categories:
   - changing inside
   - research log
-description: First of two posts on how lifers (and others) might compare what it means to be sent to prison for different lengths of time 
+description: Second of two posts on how lifers (and others) might compare what it means to be sent to prison for different lengths of time 
 keywords:
   - censure
   - england and wales

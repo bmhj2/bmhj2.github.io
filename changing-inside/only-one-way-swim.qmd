@@ -11,7 +11,7 @@ keywords:
   - long-term imprisonment
   - murder
   - moral reflexivity
-description: News item listing a new peer-reviewed publication
+description: News item describing a new peer-reviewed publication
 image: '/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg'
 ---
 

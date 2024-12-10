@@ -43,16 +43,16 @@ title: The historical criminology of ‘safeguarding’
 subtitle: Children in the secure estate, 1960-2016
 funding: The research on which this paper is based was commissioned and funded by HM Prison and Probation Service, reference RG 92270.
 keywords:  
-  - child abuse, 
-  - youth custody, 
-  - youth justice, 
-  - historical criminology, 
+  - child abuse
+  - youth custody
+  - youth justice
+  - historical criminology
   - safeguarding
 lang: en-GB
 date: 2019-04-09
 doi: 10.17863/CAM.39128
 url: https://www.repository.cam.ac.uk/handle/1810/291976
-license: CC-BY 4.0
+license: CC BY 4.0
 copyright: © The authors, 2019.
 toc: false
 categories: conference paper

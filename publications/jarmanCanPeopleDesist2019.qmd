@@ -35,7 +35,7 @@ lang: en-GB
 date: 2019-03-08
 doi: 10.17863/CAM.38676
 url: https://www.repository.cam.ac.uk/handle/1810/291516
-license: CC-BY-ND 4.0
+license: CC BY-ND 4.0
 copyright: © Ben Jarman, 2019
 toc: false
 categories: presentation
@@ -57,7 +57,7 @@ citation:
   genre: Seminar
   issued: 2019-03-08
   language: en-GB
-  license: Attribution-NoDerivatives 4.0 International
+  license: CC BY-ND
   publisher-place: Cambridge Institute of Criminology
   title: >
     Can people 'desist' in prison? Reflections on the implications of desistance theory for long-term imprisonment

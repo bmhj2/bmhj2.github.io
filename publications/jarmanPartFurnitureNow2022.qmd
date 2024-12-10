@@ -49,12 +49,12 @@ categories:
   - conference paper
 toc: true
 toc-depth: 2
-draft: true
+draft: false
 date: 2022-07-06
 funding:
   statement: "The author received funding for this research via an UKRI PhD studentship, ESRC reference 2405252, co-funded by Quakers in Britain."
 copyright: "© Ben Jarman, 2024"
-license: All rights reserved.
+license: All rights reserved
 description: Conference paper, delivered at a workshop in Cambridge in 2022
 
 citation:

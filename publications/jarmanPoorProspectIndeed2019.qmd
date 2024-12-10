@@ -61,7 +61,7 @@ lang: en-GB
 date: 2019-04-18
 doi: 10.3390/soc9020027
 url: https://www.mdpi.com/2075-4698/9/2/27
-license: CC-BY 4.0
+license: CC BY 4.0
 copyright: © The Authors, 2019.
 toc: false
 categories: journal article
@@ -87,7 +87,7 @@ citation:
   issue: '2'
   issued: 2019-04-18
   language: en-GB
-  license: CC-BY 3.0
+  license: CC BY 3.0
   note: 1 citations (Crossref) [2022-06-27]
   page: '27'
   source: www.mdpi.com

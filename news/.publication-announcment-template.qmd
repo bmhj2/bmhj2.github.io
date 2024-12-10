@@ -15,7 +15,7 @@ description: "[add]" # add
 #   - three
 image: "xxx.jpg" # add as appropriate
 lang: en-GB
-license: [add] # select, CC-BY-NC-SA 4.0 by _metadata.yml default
+license: [add] # select, CC BY-NC-SA 4.0 by _metadata.yml default
 copyright:
   holder: [add]
   year: [add]

@@ -35,7 +35,7 @@ keywords:
 lang: en-GB
 doi: 10.17863/CAM.64601
 url: https://www.repository.cam.ac.uk/handle/1810/317485
-license: CC-BY 4.0
+license: CC BY 4.0
 copyright: © The authors, 2021
 toc: false
 categories: presentation
@@ -59,7 +59,7 @@ citation:
   genre: Webinar
   issued: 2021-02-02
   language: en_GB
-  license: Attribution 4.0 International
+  license: CC BY 4.0
   publisher-place: University of Cambridge Institute of Criminology
   title: 'Research Data Management: An introduction'
   title-short: Research Data Management
