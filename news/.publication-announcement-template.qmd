@@ -6,7 +6,7 @@ subtitle: "[add]" # [add if needed]
 date: "YYYY-MM-DD"
 categories: # select from
   - publication
-	- news
+  - news
   # - [add new]
 description: "[add]" # add
 # keywords: # add as needed
