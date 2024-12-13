@@ -15,19 +15,8 @@
 <title>Ben Jarman</title>
 <link>https://benjarman.uk/blog.html</link>
 </image>
-<generator>quarto-1.6.39</generator>
-<lastBuildDate>Wed, 11 Dec 2024 00:00:00 GMT</lastBuildDate>
-<item>
-  <title>New publication</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <link>https://benjarman.uk/news/medomsley-submission.html</link>
-  <description><![CDATA[ A submission to the Prisons and Probation Ombudsman’s special investigation into past institutional abuses at Medomsley Detention Centre ]]></description>
-  <category>news</category>
-  <category>publication</category>
-  <guid>https://benjarman.uk/news/medomsley-submission.html</guid>
-  <pubDate>Wed, 11 Dec 2024 00:00:00 GMT</pubDate>
-  <media:content url="https://benjarman.uk/_assets/zetong-li-jiVBqdZNXcg-unsplash.jpg" medium="image" type="image/jpeg"/>
-</item>
+<generator>quarto-1.7.3</generator>
+<lastBuildDate>Fri, 29 Nov 2024 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Remembering Fishmongers Hall</title>
   <dc:creator>Ben Jarman</dc:creator>
@@ -251,6 +240,18 @@
   <guid>https://benjarman.uk/changing-inside/agenda-research-long-term-imprisonment.html</guid>
   <pubDate>Mon, 28 Jan 2019 00:00:00 GMT</pubDate>
   <media:content url="https://benjarman.uk/_assets/scott-graham-5fNmWej4tAA-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Lifers and the right to hope: a new campaign</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/changing-inside/lifers-right-hope.html</link>
+  <description><![CDATA[ Link to a new campaign by Penal Reform International ]]></description>
+  <category>posts</category>
+  <category>changing inside</category>
+  <category>news</category>
+  <guid>https://benjarman.uk/changing-inside/lifers-right-hope.html</guid>
+  <pubDate>Fri, 14 Dec 2018 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/greg-rosenke-wlu3SeMLLSQ-unsplash.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

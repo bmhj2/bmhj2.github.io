@@ -1,9 +1,35 @@
 [
   {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/fishmongers-hall-five-years.html",
+      "/news/welcome-new-homepage.html",
+      "/changing-inside/even-roses-grow.html",
+      "/changing-inside/perfectly-happy-in-prison.html",
+      "/changing-inside/only-one-way-swim.html",
+      "/changing-inside/three-stories.html",
+      "/changing-inside/interviews-power-games.html",
+      "/changing-inside/interviews-transactions.html",
+      "/changing-inside/rules-game-prison-research.html",
+      "/changing-inside/comparing-sentences-2.html",
+      "/changing-inside/comparing-sentences-1.html",
+      "/changing-inside/not-just-piece-cake.html",
+      "/changing-inside/poor-prospect-indeed.html",
+      "/changing-inside/rehabilitation-aims-prisons-3.html",
+      "/changing-inside/how-lifers-adapt-2.html",
+      "/changing-inside/how-lifers-adapt-1.html",
+      "/changing-inside/rehabilitation-aims-prisons-2.html",
+      "/changing-inside/rehabilitation-aims-prisons-1.html",
+      "/changing-inside/agenda-research-long-term-imprisonment.html",
+      "/changing-inside/lifers-right-hope.html",
+      "/changing-inside/life-sentences-long-view.html",
+      "/changing-inside/welcome.html"
+    ]
+  },
+  {
     "listing": "/publications.html",
     "items": [
       "/publications/jarmanWorkingPrisonersUSA2024.html",
-      "/publications/jarmanSubmissionPPOsCall2024.html",
       "/publications/jarmanPrisonWorkLaw2024.html",
       "/publications/jarmanGettingWhatWe2024.html",
       "/publications/jarmanWorkingPrisonersUK2024.html",
@@ -28,34 +54,6 @@
       "/publications/jarmanSafeguardingChildrenSecure2018.html",
       "/publications/jarmanScandalReform196020162018.html",
       "/publications/jarmanTurningPointsDead2018a.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/news/medomsley-submission.html",
-      "/blog/fishmongers-hall-five-years.html",
-      "/news/welcome-new-homepage.html",
-      "/changing-inside/even-roses-grow.html",
-      "/changing-inside/perfectly-happy-in-prison.html",
-      "/changing-inside/only-one-way-swim.html",
-      "/changing-inside/three-stories.html",
-      "/changing-inside/interviews-power-games.html",
-      "/changing-inside/interviews-transactions.html",
-      "/changing-inside/rules-game-prison-research.html",
-      "/changing-inside/comparing-sentences-2.html",
-      "/changing-inside/comparing-sentences-1.html",
-      "/changing-inside/not-just-piece-cake.html",
-      "/changing-inside/poor-prospect-indeed.html",
-      "/changing-inside/rehabilitation-aims-prisons-3.html",
-      "/changing-inside/how-lifers-adapt-2.html",
-      "/changing-inside/how-lifers-adapt-1.html",
-      "/changing-inside/rehabilitation-aims-prisons-2.html",
-      "/changing-inside/rehabilitation-aims-prisons-1.html",
-      "/changing-inside/agenda-research-long-term-imprisonment.html",
-      "/changing-inside/lifers-right-hope.html",
-      "/changing-inside/life-sentences-long-view.html",
-      "/changing-inside/welcome.html"
     ]
   }
 ]
