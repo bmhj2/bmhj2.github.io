@@ -1,0 +1,37 @@
+---
+title: "New publication" # add
+subtitle: "Paper submitted to a call for evidence" # [add if needed]
+date: "2024-12-11"
+categories: # select from
+  - publication
+  - news
+description: >
+  A submission to the Prisons and Probation Ombudsman's special investigation into past institutional abuses at Medomsley Detention Centre
+keywords: # add as needed
+  - youth custody
+  - medomsley
+  - detention centres
+  - historical criminology
+  - child abuse
+  - archival research
+image: "/_assets/zetong-li-jiVBqdZNXcg-unsplash.jpg" # add as appropriate
+lang: en-GB
+copyright:
+  holder: Ben Jarman
+  year: 2024
+draft: true # select
+---
+
+A new publication has been added to the site: a submission Caroline Lanskey and I made to support [Operation Deerness](https://ppo.gov.uk/about-operation-deerness/), the Prisons and Probation Ombudsman's investigation into historical abuse at Medomsley Detention Centre. The submission draws on research we conducted in 2017--18.
+
+The original project, commissioned by HM Prison and Probation Service, examined the development of safeguards against mistreatment and abuse in places of child detention, between 1960 and 2016. Through records at The National Archives and the Radzinowicz Library in Cambridge, we traced how institutions attempted---and often failed---to protect children in their care, triggering multiple cycles of reform. The project resulted in publications describing how the state's duty of care was understood and discharged, then and now, including [a report](/publications/jarmanSafeguardingChildrenSecure2018.qmd) and a [peer-reviewed article](/publications/jarmanPoorProspectIndeed2019.qmd).
+
+In the latter, we suggested that historical research has unique value in understanding why abuses can still occur in custody today, despite acknowledge improvements to the safeguarding framework. We suggested that flaws in protective systems stem not just from policy design, but from deeper challenges around changing regulations, political disagreements over the purpose of custody, and fluctuating resource allocations. Archival records can paint a deceptively smooth and trouble-free picture of how institutions operated in the past, but examining them critically---informed by professional experience and other perspectives---reveals underlying conflicts. We suggested that historical examples might help practitioners think about their current working practices, noticing how these emerged from past political choices and encouraging reflection on contemporary risks.
+
+That article was published in 2019, and I'd mostly forgotten about it until hearing about the PPO's call for evidence. In our submission to them, mindful that they would also be examining archival materials, we offered some reflections on how to approach and interpret these records. I was keen to write the submission, since this unexpected application for our earlier work showed how academic work sometimes finds a new application long after its apparent completion.
+
+The full submission is available [here](/publications/jarmanSubmissionPPOsCall2024.qmd), with additional context on the project [here](/publications/jarmanSubmissionPPOsCall2024.qmd).
+
+::: {.callout-note}
+Photo by [Zetong Li](https://unsplash.com/@zetong?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-row-of-bookshelves-in-a-library-filled-with-books-jiVBqdZNXcg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+:::
