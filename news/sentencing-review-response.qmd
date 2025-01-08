@@ -1,0 +1,35 @@
+---
+author:
+  - ref: bj
+title: "New publication" # add
+subtitle: "Response to the Independent Sentencing Review" # [add if needed]
+date: 2025-01-07
+categories: # select from
+  - publication
+  - news
+description: "Announcing publication of consultation response on sentencing" # add
+keywords: # add as needed
+  - criminal justice policy
+  - sentencing
+image: "/_assets/wesley-tingey-9z9fxr_7Z-k-unsplash.jpg" # add as appropriate
+lang: en-GB
+copyright:
+  holder: Ben Jarman
+  year: 2025
+draft: false # select
+---
+
+I have submitted a detailed response to the Ministry of Justice's Independent Sentencing Review, drawing on my research on life imprisonment and comparative work on prison systems internationally. The response examines how current approaches to sentencing and progression create particular challenges for those serving longer sentences, and proposes reforms to progression frameworks and risk assessment.
+
+The response makes several **key recommendations**, including:
+
+- Establishing a citizens' assembly to enable informed public deliberation about sentencing for serious offences
+- Developing structured progression pathways with clear, staged incentives
+- Creating robust administrative systems for recording and recognising progression
+- Reforming risk assessment to better recognise positive evidence of change
+
+The full response is available [here](/publications/jarmanIndependentSentencingReview2025.qmd) and discusses these recommendations in detail, drawing on evidence from both UK and international research. It particularly focuses on how sentence progression might better serve both institutional needs and individual development while maintaining appropriate public protection measures.
+
+::: {.callout-note}
+Photo by <a href="https://unsplash.com/@wesleyphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wesley Tingey</a> on <a href="https://unsplash.com/photos/brown-mallet-on-gray-wooden-surface-9z9fxr_7Z-k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+:::

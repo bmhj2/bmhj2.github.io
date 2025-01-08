@@ -37,10 +37,7 @@ description: >
 draft: false
 funding: None declared
 keywords:
-  - life sentences
-  - long-term imprisonment
-  - risk assessment
-  - sentence progression
+  - criminal justice policy
   - sentencing
 lang: en-GB
 license: CC BY-NC-SA 4.0
