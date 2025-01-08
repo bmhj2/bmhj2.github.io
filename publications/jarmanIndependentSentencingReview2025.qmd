@@ -31,11 +31,10 @@ copyright:
   year: 2024
 csl: cambridge-university-press-numeric.csl
 date: 2025-01-07
-date-modified: last-modified
+date-modified: 2025-01-07
 description: >
-  Analysis of sentence management and progression for people serving long prison sentences, drawing on empirical research to propose practical reforms to a review of sentencing policy
-draft: true
-format-links: true
+  Analysis of the management and progression of people serving long prison sentences, drawing on research to propose reforms to a review of sentencing policy
+draft: false
 funding: None declared
 keywords:
   - life sentences
@@ -46,11 +45,26 @@ keywords:
 lang: en-GB
 license: CC BY-NC-SA 4.0
 number-sections: false
+reference-location: document
 title: A response to the Independent Sentencing Review's call for evidence
-toc: true
-toc-depth: 3
-toc-title: Contents
+format:
+  html: default
+  docx:
+    reference-doc: ./phd-reference.docx
+  typst: 
+    number-sections: false
+    papersize: a4
+    toc: true
+    toc-depth: 2
+    toc-indent: 1.5em
+    toc-title: Contents
 ---
+
+::: {.callout-note}
+This text was written in response to an open call for evidence by the Ministry of Justice's Independent Sentencing Review. The original call can be found on [the Review's webpage](https://www.gov.uk/government/calls-for-evidence/independent-sentencing-review-2024-to-2025/independent-sentencing-review-2024-to-2025-call-for-evidence).
+:::
+
+{{< pagebreak >}}
 
 # Executive summary {.unnumbered}
 
@@ -96,7 +110,7 @@ In response to the Review’s call for evidence, **I make the following recommen
 These recommendations aim to balance public protection with other sentencing goals while offering concrete, implementable reforms to support both justice and improved outcomes for offenders, victims, and communities.
 
 ::: {.callout-note}
-About the author: [Dr Ben Jarman](https://benjarman.uk)
+About the author, [Dr Ben Jarman](https://benjarman.uk):
 
 I make this response as an individual with academic expertise on long-term imprisonment and a professional and personal interest in sentencing.
 

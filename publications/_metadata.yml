@@ -8,7 +8,7 @@ numbersections: true
 secnumdepth: 3
 strip-comments: true
 citation-location: document
-reference-location: margin
+reference-location: document
 
 affiliations:
   - id: cam
@@ -56,7 +56,6 @@ author:
 lang: en-GB
 license: CC BY-NC-SA 4.0
 toc: false
-categories: news
 
 format:
   html: default
@@ -72,4 +71,4 @@ format:
     toc-title: Contents
     papersize: a4
 format-links:
-  - typst
+  - academic-typst
