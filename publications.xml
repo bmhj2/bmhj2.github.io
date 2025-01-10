@@ -15,15 +15,23 @@
 <title>Ben Jarman</title>
 <link>https://benjarman.uk/publications.html</link>
 </image>
-<generator>quarto-1.7.3</generator>
-<lastBuildDate>Tue, 10 Sep 2024 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.6</generator>
+<lastBuildDate>Tue, 07 Jan 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>A response to the Independent Sentencing Review’s call for evidence</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanIndependentSentencingReview2025.html</link>
+  <description><![CDATA[ Analysis of the management and progression of people serving long prison sentences, drawing on research to propose reforms to a review of sentencing policy ]]></description>
+  <category>consultation response</category>
+  <guid>https://benjarman.uk/publications/jarmanIndependentSentencingReview2025.html</guid>
+  <pubDate>Tue, 07 Jan 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Working prisoners in the USA</title>
   <dc:creator>Ben Jarman</dc:creator>
   <dc:creator>Helen Fair</dc:creator>
   <link>https://benjarman.uk/publications/jarmanWorkingPrisonersUSA2024.html</link>
   <description><![CDATA[ A briefing paper on the law and policy surrounding prison work and prison labour in the US ]]></description>
-  <category>news</category>
   <category>briefing paper</category>
   <guid>https://benjarman.uk/publications/jarmanWorkingPrisonersUSA2024.html</guid>
   <pubDate>Tue, 10 Sep 2024 23:00:00 GMT</pubDate>
@@ -34,7 +42,6 @@
   <dc:creator>Catherine Heard</dc:creator>
   <link>https://benjarman.uk/publications/jarmanPrisonWorkLaw2024.html</link>
   <description><![CDATA[ A journal article accepted for publication in the European Journal of Labour Law. ]]></description>
-  <category>news</category>
   <category>journal article</category>
   <guid>https://benjarman.uk/publications/jarmanPrisonWorkLaw2024.html</guid>
   <pubDate>Sat, 31 Aug 2024 23:00:00 GMT</pubDate>
@@ -54,7 +61,6 @@
   <dc:creator>Helen Fair</dc:creator>
   <link>https://benjarman.uk/publications/jarmanWorkingPrisonersUK2024.html</link>
   <description><![CDATA[ A briefing paper on prison work and prison labour in the UK ]]></description>
-  <category>news</category>
   <category>briefing paper</category>
   <guid>https://benjarman.uk/publications/jarmanWorkingPrisonersUK2024.html</guid>
   <pubDate>Tue, 09 Jul 2024 23:00:00 GMT</pubDate>
@@ -64,7 +70,6 @@
   <dc:creator>Ben Jarman</dc:creator>
   <link>https://benjarman.uk/publications/jarmanMoralMessagesEthical2024.html</link>
   <description><![CDATA[ PhD thesis, based on research on life-sentenced prisoners in England ]]></description>
-  <category>news</category>
   <category>thesis</category>
   <guid>https://benjarman.uk/publications/jarmanMoralMessagesEthical2024.html</guid>
   <pubDate>Wed, 05 Jun 2024 23:00:00 GMT</pubDate>
@@ -75,7 +80,6 @@
   <dc:creator>Catherine Heard</dc:creator>
   <link>https://benjarman.uk/publications/jarmanLabouringBarsAssessing2023.html</link>
   <description><![CDATA[ A briefing paper on the international legal framework for regulating prison work and prison labour ]]></description>
-  <category>news</category>
   <category>briefing paper</category>
   <guid>https://benjarman.uk/publications/jarmanLabouringBarsAssessing2023.html</guid>
   <pubDate>Thu, 09 Nov 2023 00:00:00 GMT</pubDate>
@@ -101,7 +105,6 @@
   <dc:creator>Claudia Vince</dc:creator>
   <link>https://benjarman.uk/publications/jarmanMakingProgressWhat2022.html</link>
   <description><![CDATA[ Report published by the Prison Reform Trust, on the findings of a consultation on how prisoners understand the idea of progression during a long prison sentence ]]></description>
-  <category>news</category>
   <category>report</category>
   <category>knowledge exchange</category>
   <guid>https://benjarman.uk/publications/jarmanMakingProgressWhat2022.html</guid>
@@ -112,7 +115,6 @@
   <dc:creator>Ben Jarman</dc:creator>
   <link>https://benjarman.uk/publications/jarmanLifeImprisonmentMature2022.html</link>
   <description><![CDATA[ Peer-reviewed article accepted for publication in the Prison Service Journal. ]]></description>
-  <category>news</category>
   <category>journal article</category>
   <guid>https://benjarman.uk/publications/jarmanLifeImprisonmentMature2022.html</guid>
   <pubDate>Sun, 31 Jul 2022 23:00:00 GMT</pubDate>
@@ -122,7 +124,6 @@
   <dc:creator>Ben Jarman</dc:creator>
   <link>https://benjarman.uk/publications/jarmanPartFurnitureNow2022.html</link>
   <description><![CDATA[ Conference paper, delivered at a workshop in Cambridge in 2022 ]]></description>
-  <category>news</category>
   <category>conference paper</category>
   <guid>https://benjarman.uk/publications/jarmanPartFurnitureNow2022.html</guid>
   <pubDate>Tue, 05 Jul 2022 23:00:00 GMT</pubDate>
@@ -133,7 +134,6 @@
   <dc:creator>Independent Commission into the Experience of Victims and Long-Term Prisoners</dc:creator>
   <link>https://benjarman.uk/publications/icevlpMakingSenseSentencing2022.html</link>
   <description><![CDATA[ Report by an independent commission for which I worked as a specialist advisor, contributing draft chapters and editing ]]></description>
-  <category>news</category>
   <category>report</category>
   <category>knowledge exchange</category>
   <guid>https://benjarman.uk/publications/icevlpMakingSenseSentencing2022.html</guid>
@@ -213,16 +213,6 @@
   <category>conference paper</category>
   <guid>https://benjarman.uk/publications/jarmanTracingHistoryChild2019.html</guid>
   <pubDate>Tue, 21 May 2019 23:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>‘A Poor Prospect Indeed’</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <dc:creator>Caroline Lanskey</dc:creator>
-  <link>https://benjarman.uk/publications/jarmanPoorProspectIndeed2019.html</link>
-  <description><![CDATA[ Article based on archival research on youth custody, in the journal Societies ]]></description>
-  <category>journal article</category>
-  <guid>https://benjarman.uk/publications/jarmanPoorProspectIndeed2019.html</guid>
-  <pubDate>Wed, 17 Apr 2019 23:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
