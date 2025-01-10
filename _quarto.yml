@@ -39,11 +39,11 @@ website:
     site-name: Ben Jarman
   reader-mode: false
   repo-url: https://github.com/bmhj2/bmhj2.github.io/
-  repo-actions: [source, issue]
+  repo-actions: [issue]
   issue-url: https://github.com/bmhj2/bmhj2.github.io/issues
   page-footer:
     left: >
-      Site content © 2003-2025 by Ben Jarman and all rights reserved unless otherwise noted.
+      © 2003-2025 Ben Jarman. All rights reserved except where indicated.
     right: >
       Powered by [Quarto](https://quarto.org/)
   search:
@@ -67,5 +67,7 @@ format:
 editor:
   render-on-save: false
 
-copyright: >
-  Site content © 2003-2025 by Ben Jarman and all rights reserved, except where otherwise noted.
+copyright:
+  holder: Ben Jarman
+  year: 2003 - 2025
+  # statement: All rights reserved except where otherwise noted

@@ -4,8 +4,7 @@ csl: cambridge-university-press-author-date.csl
 title-block-banner: true
 title-block-style: default
 link-citations: true
-numbersections: true
-secnumdepth: 3
+numbersections: false
 strip-comments: true
 citation-location: document
 reference-location: document
@@ -61,14 +60,15 @@ format:
   html: default
   docx:
     reference-doc: ./phd-reference.docx
-  academic-typst: 
-    number-sections: true
-    number-depth: 3
-    section-numbering: "1.1.1"
-    toc: true
-    toc-indent: 1.5em
-    toc-depth: 2
-    toc-title: Contents
+  typst: 
+    number-sections: false
+    columns: 1
     papersize: a4
+    toc: true
+    toc-depth: 2
+    toc-indent: 1.5em
+    toc-title: Contents
+    font-paths: "~/.fonts"
+    mainfont: "minion pro"
 format-links:
-  - academic-typst
+  - typst
