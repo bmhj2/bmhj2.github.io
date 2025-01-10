@@ -1,8 +1,16 @@
 ---
 abstract: >
   This submission to the Independent Sentencing Review draws on empirical prison research to examine how sentences are experienced and managed in practice. It focuses particularly on sentence progression and individual assessment, arguing for more nuanced approaches to long-term imprisonment that better balance security needs with meaningful opportunities for progression. The response emphasises practical implementation challenges and offers concrete recommendations for reform based on direct research evidence.
-affiliations:
-  - id: soton
+    
+author:
+  name:
+    given: Ben
+    family: Jarman
+    literal: Ben Jarman
+  email: ben@benjarman.uk
+  orcid: 0000-0003-3527-5437
+  url: https://benjarman.uk
+  affiliation:
     name: University of Southampton
     department: Law School
     address: University Road
@@ -10,17 +18,6 @@ affiliations:
     postal-code: SO17 1BJ
     country: United Kingdom
     url: https://www.southampton.ac.uk
-author:
-  - id: bj
-    name:
-      given: Ben
-      family: Jarman
-      literal: Ben Jarman
-    email: ben@benjarman.uk
-    orcid: 0000-0003-3527-5437
-    url: https://benjarman.uk
-    affiliation:
-    - ref: soton
 bibliography: jarmanIndependentSentencingReview2025.bib
 categories:
   - consultation response
@@ -28,7 +25,7 @@ citation: true
 citeproc: true
 copyright:
   holder: © Ben Jarman
-  year: 2024
+  year: 2025
 csl: cambridge-university-press-numeric.csl
 date: 2025-01-07
 date-modified: 2025-01-07
@@ -44,17 +41,8 @@ license: CC BY-NC-SA 4.0
 number-sections: false
 reference-location: document
 title: A response to the Independent Sentencing Review's call for evidence
-format:
-  html: default
-  docx:
-    reference-doc: ./phd-reference.docx
-  typst: 
-    number-sections: false
-    papersize: a4
-    toc: true
-    toc-depth: 2
-    toc-indent: 1.5em
-    toc-title: Contents
+toc: true
+toc-depth: 3
 ---
 
 ::: {.callout-note}
@@ -124,15 +112,15 @@ Before working in academia, I was a secondary schoolteacher for seven years, bef
 
 {{< pagebreak >}}
 
-# Response
+# Response {.unnumbered}
 
-## Theme 1: History and trends in sentencing
+## Theme 1: History and trends in sentencing {.unnumbered}
 
 ::: {.callout-tip title="Theme and question covered"}
 1: What have been the key drivers in changes in sentencing, and how have these changes met the statutory purposes of sentencing?
 :::
 
-### Key points and recommendations
+### Key points and recommendations {.unnumbered}
 
 This section demonstrates that the current prison capacity crisis emerges from the interaction of multiple long-term pressures affecting both "front door" sentencing and "back door" progression arrangements. **Based on historical trends and current challenges, I recommend that the Review**:
 
@@ -142,7 +130,7 @@ This section demonstrates that the current prison capacity crisis emerges from t
 
 These recommendations are based on the following evidence and analysis.
 
-#### Evidence: Three phases of prison population growth
+#### Evidence: Three phases of prison population growth {.unnumbered}
 
 The section presents evidence that the principal long-term drivers of prison population growth can be understood by thinking of prison population growth since the 1990s as a story with three distinct phases:
 
@@ -164,7 +152,7 @@ The section presents evidence that the principal long-term drivers of prison pop
 - Covid-19 temporarily masked underlying pressures
 - Current crisis emerges from combined effects
 
-#### Analysis: Systemic pressures on progression
+#### Analysis: Systemic pressures on progression {.unnumbered}
 
 Having characterised the population growth of recent decades, the section analyses how the allocation and administration of long sentences for serious offences has been a key long-term driver of capacity pressures. The analysis identifies an interplay between four factors:
 
@@ -173,15 +161,15 @@ Having characterised the population growth of recent decades, the section analys
 3. Growth in the remand population adds operational pressures affecting all prisoners; and
 4. Progression pathways become unclear or inconsistent for many.
 
-#### Looking ahead
+#### Looking ahead {.unnumbered}
 
 The section argues that since these factors relate both to the allocation and to the administration of sentences, neither emergency early release measures nor reduced court backlogs alone will fully address them. The Review must consider *both* ends of the sentencing process if it is to identify long-term, sustainable solutions, and this is the foundation for the recommendations presented at the start of this summary.
 
 The remainder of this section examines these points in greater detail, providing fuller evidence and analysis for each element of the summary above.
 
-### Detailed response: the long-term drivers of capacity pressures
+### Detailed response: the long-term drivers of capacity pressures {.unnumbered}
 
-#### Long-term drivers of population growth
+#### Long-term drivers of population growth {.unnumbered}
 
 The Review’s call for evidence rightly links the current prison capacity crisis with its long-term cause, sentence inflation. This is a welcome development. This section of the response describes how the current situation has developed. As the Ministry of Justice’s own analysis [@ministryofjusticeStoryPrisonPopulation2020] (pp. 4–12). makes clear, there have been three major long-term drivers of prison population growth:
 
@@ -189,13 +177,13 @@ The Review’s call for evidence rightly links the current prison capacity crisi
 2. An across-the board increase in the average length of sentences imposed for all offences; but with particular reference to the group of serious offenders mentioned in the previous point,
 3. An increasing number of sentences involving both an uncertain release date and a period of risk-assessed and conditional release, from which the prisoner may be recalled to custody.
 
-#### Three phases of growth since the 1990s
+#### Three phases of growth since the 1990s {.unnumbered}
 
 An analysis by the Institute for Government [@rowlandCrisisPrisons2024] adds useful nuance to this picture, by dividing the narrative into three distinct periods. It finds that **between the mid-1990s and around 2010**, the growth of the sentenced population was driven mainly by increases in the numbers of cases being handled by the courts, though average sentence lengths grew slightly at the same time. Prison capacity expanded during this period, barely keeping pace. Then, **from around 2010 until around 2019**, the flow of cases ebbed, but increased average sentence lengths and (eventually) a steady increase in recall numbers combined to keep the prison population stable, despite fewer convictions. Capacity overall remained steady, with some new-for-old replacement of closed prisons. For most of the 2010s, the population stayed broadly stable, too, albeit with a growing recall component. Finally, **from around 2019**, rapid increases in the number of recalls, and in the remand population, exacerbated matters. The resulting pressure abated somewhat due to the Covid-19 pandemic, which closed the courts and halted convictions, but has become acute following the pandemic.
 
 This analysis reveals how the current crisis emerges from the interaction of multiple systemic pressures, rather than from any single policy decision or trend. The combination of longer sentences, increased use of recall, and growth in the remand population have created particular challenges for the progression of longer-sentenced prisoners through the system. These pressures are especially acute for those serving sentences for serious offences, who often face unclear or inconsistent progression pathways. Understanding this context is crucial for developing reform proposals that address both immediate capacity pressures and longer-term structural challenges.
 
-#### Current pressures on progression and release
+#### Current pressures on progression and release {.unnumbered}
 
 Increases in the recall and remand populations are, partly, a function of pressures on the probation and courts services. These pressures have been a significant factor in the growth of the remand and recall populations, remain unresolved, and must be factored into any action aiming to reduce pressure on prison capacity.
 
@@ -203,7 +191,7 @@ There is evidence [e.g. @jarmanMakingProgressWhat2022; @edgarNoLifeNo2020] that 
 
 This issue of sentence progression is addressed more fully under theme 6; the point here is that if long-term prisoners do not feel able to address their risk and progress, then this will add to population pressures, since their sentences delay their release if they are unwilling or unable to earn their release and reintegration.
 
-#### Policy implications
+#### Policy implications {.unnumbered}
 
 The evidence presented above suggests three key considerations for policy reform.
 
@@ -215,7 +203,7 @@ Third, the relationship between sentence length and progression needs systematic
 
 These considerations support the case for structured progression reform, particularly for those serving longer sentences. Such reform should aim to create clearer, more consistent progression pathways while maintaining appropriate public protection measures. This approach would address both immediate capacity pressures and longer-term systemic challenges identified in the historical analysis.
 
-#### Implications for the review: considering both "front" and "back" door sentencing
+#### Implications for the review: considering both "front" and "back" door sentencing {.unnumbered}
 
 The policy implications outlined above indicate that the Review must consider both "front" and "back" door sentencing [@padfieldFrontDoorBackdoor2014] in developing its recommendations. This dual focus is particularly important given the evidence that both sentence allocation and sentence administration can contribute to prison population pressure. Neither short-term measures affecting sentence allocation, nor administrative changes to progression arrangements alone, will be sufficient to address the systemic pressures identified in the historical analysis.
 
@@ -225,13 +213,13 @@ It follows that a review seeking long-term solutions should make recommendations
 
 Having established that both "front" and "back" door sentencing require attention, including for serious offences, we must consider how public opinion shapes the political feasibility of reform in this area.
 
-## Theme 2: Structures
+## Theme 2: Structures {.unnumbered}
 
 ::: {.callout-tip title="Theme and question covered"}
 2: How might we reform structures and processes to better meet the purposes of sentencing whilst ensuring a sustainable system?
 :::
 
-### Key points and recommendations
+### Key points and recommendations {.unnumbered}
 
 This section examines how public opinion influences sentencing policy and institutions. Drawing on recent polling and academic research, it shows that public views on sentencing are more complex and potentially less punitive than often assumed. Based on this evidence, I believe that the Review should adopt recommendations made by a 2022 Independent Commission chaired by Bishop James Jones [@icevlpMakingSenseSentencing2022], including:
 
@@ -247,7 +235,7 @@ These recommendations emerge from evidence showing that public opinion on senten
 - Unstable over time, even within individuals
 - Most effectively engaged through deliberative processes
 
-#### Evidence: Understanding public opinion
+#### Evidence: Understanding public opinion {.unnumbered}
 
 Recent research reveals important patterns in how the public understands and engages with sentencing. Opinion polling indicates that public understanding is limited in several key areas:
 
@@ -273,7 +261,7 @@ This evidence suggests that public opinion on sentencing cannot be assumed to be
 - Variable depending on context
 - Focused on public protection more than punishment
 
-#### Analysis: Current institutional responses
+#### Analysis: Current institutional responses {.unnumbered}
 
 The current institutional framework for incorporating public views into sentencing policy faces several challenges.
 
@@ -292,7 +280,7 @@ Second, these campaigns, while legitimate expressions of public concern, may:
 
 Third, existing consultation mechanisms may not effectively capture the complexity of countervailing views, nor enable the kind of informed deliberation that research suggests can lead to more nuanced policy preferences. The result is to contribute to a kind of ratchet whereby it is difficult to turn the clock back on penal excess.
 
-#### Looking ahead
+#### Looking ahead {.unnumbered}
 
 This analysis suggests three broad directions for sentencing reform:
 
@@ -318,7 +306,7 @@ The recommendations of the 2022 Jones review offer a practical blueprint for imp
 
 The remainder of this section examines these points in greater detail, providing fuller evidence and analysis for each element of the argument presented above.
 
-### Detailed response: public opinion and sentencing policy
+### Detailed response: public opinion and sentencing policy {.unnumbered}
 
 To understand how public views might better inform sentencing reform, we must first examine how public opinion currently influences policy. The Review’s call for evidence invites reflection on the structures and processes that contribute to sentencing, naming institutions including the Government, Parliament, the Sentencing Council, the judiciary and the courts, and the Attorney General.
 
@@ -326,7 +314,7 @@ It was striking to me that the call for evidence made relatively few references 
 
 These references imply, subtly, that “the public” may be assumed to favour sentences which i) protect them against crime, and which ii) are "tough" and punitive. In fact, however, public opinion on sentencing is complex and nuanced. Only the first assumption finds strong and unambiguous support from the available evidence. Yet the Review's call for evidence makes few references to public opinion, more broadly, about the aims of sentencing, which seems to me like an omission.
 
-#### Public understanding of sentencing
+#### Public understanding of sentencing {.unnumbered}
 
 A key factor in public opinion research is how well-informed respondents are. Opinion polling indicates that public understanding of sentencing and of the criminal justice system is limited, and does not recognise the recent direction of travel. For example:
 
@@ -336,13 +324,13 @@ A key factor in public opinion research is how well-informed respondents are. Op
 4. A majority believe (incorrectly) that prisoners released after longer sentences are more likely to reoffend [@robertsWhosPrisonWhats2024];
 5. Just under half believe that prison conditions are too "easy" on prisoners, but over three quarters also say that they know "not very much" or "nothing at all" about prisons [@robertsWhosPrisonWhats2024].
 
-#### How information affects public views
+#### How information affects public views {.unnumbered}
 
 Similarly, the degree to which public opinion is informed tends to affect the penal aims it endorses. Members of the public are more likely to support "tougher" penalties when they consider what punishment is appropriate for a given offence in the abstract [9]. They are also less likely to support "tough" sanctions when they are asked to select a penalty in the same way which sentencers must: with relevant information at hand about the circumstances of the offence [9].
 
 Finally, even allowing for these distinctions about how well-informed opinion may be, when asked (in the abstract) to consider the purposes of even the most ostensibly punitive sentence (imprisonment), the public may not actually consider that punishment is the most important aim. Specifically, polling respondents invited to select the most important reason to impose a prison sentence were most likely to select "protecting the public by removing offenders from society" (chosen by 42%). The purpose next most likely to be selected as "most important" was rehabilitation (chosen by 19%), though over half of respondents did not believe that prisons were delivering that aim effectively [8].
 
-#### The (in)stability of public opinion
+#### The (in)stability of public opinion {.unnumbered}
 
 On this basis, two things seem clear about UK public opinion on sentencing. First, it cannot automatically be assumed to be punitive (in the sense of wanting "tough" penalties to the exclusion of other goals), even when considering the reasons to send someone to prison. Second, there is considerable diversity of opinion *between* individuals.
 
@@ -352,7 +340,7 @@ In other words, a preference for "tough"	 or "lenient" sentencing is often not s
 
 This research does not relate to UK public opinion, which (it has often been argued) is typically more punitive than in comparable European countries. But the findings are consistent across the six countries covered by the polling.[^6] There is no obvious reason to suppose that the UK public would depart from this pattern.
 
-#### The role of public campaigns
+#### The role of public campaigns {.unnumbered}
 
 The review invites respondents to reflect on the role played by "external campaigns" in driving up sentencing severity.
 
@@ -372,7 +360,7 @@ This is, largely, because of how public opinion presents itself to decision-make
 
 This analysis of public opinion and campaigns reveals significant tensions in how democratic legitimacy is operationalised in sentencing policy. The evidence suggests that public views on sentencing are more complex and potentially less punitive than often assumed, particularly when better informed. Yet the institutional mechanisms through which public opinion typically influences policy tend to amplify more punitive voices, creating a subtle bias toward increased severity. This raises questions about how sentencing institutions might better reflect the nuanced reality of public opinion while maintaining democratic accountability.
 
-#### Policy implications
+#### Policy implications {.unnumbered}
 
 The evidence presented above about public opinion and its influence on sentencing policy suggests several key considerations for reform.
 
@@ -389,7 +377,7 @@ These implications point toward specific reforms in how sentencing institutions 
 3. Clearer frameworks for balancing public views with other considerations
 4. More systematic collection of evidence about public attitudes to sentencing
 
-#### Implications for the review: reflecting public opinion constructively
+#### Implications for the review: reflecting public opinion constructively {.unnumbered}
 
 The policy implications outlined above suggest that sentencing institutions can and should seek more constructive ways to engage with public opinion. The evidence indicates that public views on sentencing are more complex and potentially less punitive than often assumed, particularly when people are given detailed information about specific cases. This suggests scope for reform that better reflects the nuanced reality of public attitudes while maintaining democratic accountability.
 
@@ -415,7 +403,7 @@ On this basis, **I recommend that this Review should revisit the recommendations
 
 The evidence about public opinion presented above suggests scope for a more nuanced approach to sentencing serious offences than the current bifurcated framework permits.
 
-#### Implementation considerations
+#### Implementation considerations {.unnumbered}
 
 The implementation of these recommendations would require careful attention to several practical considerations:
 
@@ -443,13 +431,13 @@ Third, improved communication about sentencing would need:
 
 These implementation challenges are significant but not insurmountable. The evidence presented above suggests that addressing them would yield substantial benefits in terms of both public confidence and system effectiveness.
 
-## Theme 5: Custodial sentences
+## Theme 5: Custodial sentences {.unnumbered}
 
 ::: {.callout-tip title="Theme and question covered"}
 5: How should custodial sentences be reformed to deliver justice and improve outcomes for offenders, victims and communities?
 :::
 
-### Key points and recommendations
+### Key points and recommendations {.unnumbered}
 
 This section examines how the current approach to sentencing creates particular challenges for those convicted of serious offences, who face a complex and difficult-to-navigate system of risk-based decision-making about their release. Drawing on both research evidence and direct experience of working with prisoners and being affected by serious crime, **I recommend that the Review should**:
 
@@ -459,19 +447,19 @@ This section examines how the current approach to sentencing creates particular 
 
 These recommendations emerge from evidence showing systematic limitations in current approaches to risk assessment and sentence progression.
 
-#### Evidence: understanding risk assessment limitations
+#### Evidence: understanding risk assessment limitations {.unnumbered}
 
 Current arrangements for assessing risk in serious cases face several systematic challenges. First, violence risk assessment, like any prediction of rare events, involves significant uncertainty. Both “false positives” and “false negatives” are difficult to identify at the individual level, but the second category—those denied progression unnecessarily—is likely far larger.
 
 The caution underpinning this approach is understandable given public concerns, but creates practical difficulties. It keeps many people in prison whose real risk to the public may be overstated, straining operational resources and potentially undermining sentence effectiveness. This outcome systematically affects agencies responsible for sentence administration and public protection, and creates particular challenges around access to rehabilitative interventions.
 
-#### Analysis: bridging institutional and individual need
+#### Analysis: bridging institutional and individual need {.unnumbered}
 
 Drawing on both research evidence and personal experience with serious violence, I suggest that current arrangements often create unnecessary barriers between prisoner and victim interests. My research shows that systemic frustrations—particularly regarding unclear or inconsistent progression expectations—can generate additional obstacles to meaningful engagement. When prisoners feel institutional processes have treated them unfairly, their frustration may in itself be interpreted as evidence of risk.
 
 It is easy to dismiss these frustrations by saying that prisoners "did the crime" and must therefore take their punishment. However, the system should treat people fairly and victims should feel confident that it does not exacerbate the anger and alienation which may lead people to offend in the first place. **Reformed progression might bridge gaps between prisoner and victim interests** if they created clearer and more transparent frameworks for recognising and evidencing personal change; if they established better opportunities for victim-prisoner dialogue where appropriate; and if they ensured that progression frameworks maintained accountability while avoiding purely adversarial dynamics.
 
-#### Looking ahead
+#### Looking ahead {.unnumbered}
 
 This analysis indicates three key areas requiring attention:
 
@@ -498,31 +486,31 @@ This analysis indicates three key areas requiring attention:
 
 These recommendations would be challenging to implement, but the challenges should be weighed against potential benefits, including more effective use of prison places, enhanced institutional legitimacy, and improved outcomes for both victims and prisoners.
 
-### Detailed response: understanding risk and progression in sentencing
+### Detailed response: understanding risk and progression in sentencing {.unnumbered}
 
 The remainder of this section examines these points in greater detail, with particular attention to how current approaches to risk assessment create systematic challenges for sentence effectiveness. This analysis begins by examining the broader context of how serious offending is dealt with in the sentencing framework.
 
-#### The bifurcated approach to sentencing
+#### The bifurcated approach to sentencing {.unnumbered}
 
 The sentencing system is "bifurcated", in that it “distinguishes between the treatment of "dangerous" violent and sexual offenders, and those "minor" criminals, typically found guilty of volume property offences” [@guineyMarginalGainsDiminishing2019] (p. 140). As well as being subject to the ratcheting of penalties described above, it typically also subjects the first group to “an increasingly prohibitive system of discretionary decision-making, couched in the language of risk, dangerousness and public protection” [@guineyMarginalGainsDiminishing2019] (p. 141). Meanwhile for the second group of more "minor" offenders, it uses non-custodial sanctions or determinate prison sentences qualifying for automatic release. The aim is to accelerate this group’s progression through the system, or to divert them from custody altogether.
 
-#### Limitations of risk-based decision making
+#### Limitations of risk-based decision making {.unnumbered}
 
 Though this approach to sentencing is now well entrenched, it is not without difficulties. Most fundamentally, violence risk assessment (like any activity involving the prediction of rare events) involves a high risk of error. Risk assessment involves two types of errors: releasing people who later commit serious offences ("false positives"), and keeping people in prison who would have been safe to release ("false negatives"). Because serious reoffending is rare, the system is much more likely to keep people in prison unnecessarily than to release people who go on to commit serious crimes. It is likely that far more people are held in prison when this is *not* necessary to protect the public, than are released when it would have been.
 
-#### Practical implications for sentence administration
+#### Practical implications for sentence administration {.unnumbered}
 
 The caution with which the Parole Board approaches its task is understandable, and is supported by what we know of public opinion on sentencing, which is more likely to support the use of prison to protect the public, than to endorse its use for any other aim. Nonetheless, given the uncertainties of risk assessment, the benefit of the doubt is systematically stacked against those "false negative" prisoners who pose no real risk to the public. The risk of procedural injustice should be named and acknowledged, even if it is considered to be an acceptable trade-off.
 
 More practically, the current approach keeps many people in prison who do not in fact pose a real risk to the public. This outcome stems directly from how we treat "dangerous" offenders differently from others, while also relying on a risk assessment system which inherently tends to overestimate risk. It creates significant pressure not just on prisons, but on every agency involved in managing sentences and protecting the public. It adds to demand for accredited rehabilitative and risk-reducing interventions (since the structure of parole release sentences implies that rehabilitation must be credentialled and ‘evidence-based’), which in turn results in the rationing and demand management of these interventions. This situation has become the context for many of the difficulties with sentence progression described in the following section.
 
-#### Problems with current assumptions
+#### Problems with current assumptions {.unnumbered}
 
 It bears emphasis that many assumptions underpinning the bifurcated approach to more serious cases are questionable [@kemshallDangerousOffendersRelease2013]. The current system expects prisoners to demonstrate they have reduced their risk before release. But this overlooks how risk often depends on changing circumstances and environments, and may be contingent on factors which do not all lie within the prisoner’s control. It also assumes that risk assessments and the prisoner classifications based on them are reliable and based on accurate, complete information. And it assumes that the thresholds between risk levels (i.e. "high", "medium", and "low") are distinct and clearly identifiable, rather than arbitrary and blurred.
 
 These systematic limitations of risk-based decision-making raise fundamental questions about how institutions might better balance public protection with other statutory sentencing aims. The evidence suggests that current arrangements systematically privilege certain forms of knowledge about risk over others, potentially obscuring important evidence of change and development during sentences. This approach to risk affects both how prisoners and victims experience sentences, and how we might better structure progression pathways.
 
-#### Balancing public protection with other aims
+#### Balancing public protection with other aims {.unnumbered}
 
 Public protection is, rightly, understood as an overriding aim in sentencing. However, as the report by Bishop James Jones’s sentencing commission [@icevlpMakingSenseSentencing2022] found, it can also distort the scope for the other aims of the sentence to be realised, as can the sheer length of penalty imposed in the first place. I recommend that report’s chapter on how well long sentences balance the five statutory purposes of sentencing to the Review.[^9]
 
@@ -530,7 +518,7 @@ This section does not minimise the risks to the public associated with releasing
 
 Caution with this "false negative" group is justified, but so too is an attempt to correct for the systematic bias against their progression and release. This should take the form of efforts to recognise and incentivise progression by those serving extended and indeterminate sentences who demonstrate a willingness to develop themselves. The most effective incentive, albeit one which is remote for many, is the prospect of earlier progression and release from prison. This could be achieved either by linking personal development goals to the parole eligibility date, or by permitting an increased (and earlier) use of open conditions as an incentive.
 
-#### Bridging prisoner and victim perspectives: personal and institutional insights
+#### Bridging prisoner and victim perspectives: personal and institutional insights {.unnumbered}
 
 The implications of reformed progression arrangements for victims require careful consideration. Drawing on both research evidence and personal experience, I want to reflect carefully on how institutions might better recognise and respond to the complex relationship between prisoner and victim perspectives.
 
@@ -547,7 +535,7 @@ This has led me to reflect on how sentences might better bridge the apparent gul
 
 These insights align with and extend my evidence about how sentence progression might better serve both institutional and individual needs. The Independent Commission’s report on long sentences [@icevlpMakingSenseSentencing2022] (pp. 55-58) makes particularly relevant observations about institutional barriers to making amends, and about how structured opportunities for victim-prisoner dialogue might help bridge perspective gaps. These findings informed the Commission’s recommendation 5, which has direct relevance for how progression might be reformed.
 
-#### Policy implications
+#### Policy implications {.unnumbered}
 
 The analysis presented above suggests several key considerations for policy reform.
 
@@ -557,7 +545,7 @@ Second, the relationship between institutional frustration and risk assessment r
 
 Third, the evidence about prisoner-victim perspectives suggests potential for approaches which better serve both groups’ interests, without assuming that they must be antagonistic. This might include enhanced opportunities for dialogue; better communication about progression decisions; clearer links between personal development and progression; and more sophisticated approaches to evidencing reform.
 
-#### Implementation considerations
+#### Implementation considerations {.unnumbered}
 
 Addressing these considerations would require attention to several practical challenges:
 
@@ -591,13 +579,13 @@ While significant, these implementation challenges should be weighed against the
 
 Successful implementation would require sustained commitment but could yield substantial improvements in both system effectiveness and individual outcomes, as well as potentially reducing prison population pressures.
 
-## Theme 6: Progression of custodial sentences
+## Theme 6: Progression of custodial sentences {.unnumbered}
 
 ::: {.callout-tip title="Theme and question covered"}
 6: How should we reform the way offenders progress through their custodial sentences to ensure we are delivering justice and improving outcomes for offenders, victims, and communities?
 :::
 
-### Key points and recommendations
+### Key points and recommendations {.unnumbered}
 
 This section examines how sentence progression might be better incentivised using sentence progression and/or remission of the sentence itself. It draws on research projects covering the UK, US, and Brazil. Based on analysis of how different approaches affect prisoner behavior and institutional legitimacy, **I recommend that the Review should consider**:
 
@@ -612,7 +600,7 @@ These recommendations emerge from evidence showing that:
 - Neither incentive alone reliably reduces reoffending risk without other supporting factors
 - Administrative complexity often undermines the effectiveness of progression schemes
 
-#### Evidence: International approaches to progression
+#### Evidence: International approaches to progression {.unnumbered}
 
 US and Brazilian approaches to sentence remission differ, and reveal contrasts in how progression incentives operate:
 
@@ -634,7 +622,7 @@ US and Brazilian approaches to sentence remission differ, and reveal contrasts i
 
 Both systems offer insights relevant to UK reform while highlighting implementation challenges that must be addressed.
 
-#### Analysis: Key considerations for reform
+#### Analysis: Key considerations for reform {.unnumbered}
 
 Evidence from these international comparisons, alongside UK research, suggests several crucial considerations for reform:
 
@@ -659,7 +647,7 @@ Evidence from these international comparisons, alongside UK research, suggests s
 - Consistent implementation is essential
 - Regular evaluation of outcomes is necessary
 
-#### Looking ahead
+#### Looking ahead {.unnumbered}
 
 This analysis indicates three key areas requiring the Review’s attention:
 
@@ -688,15 +676,15 @@ While these implementation challenges are significant, they should be weighed ag
 
 The remainder of this section examines these points in greater detail, providing fuller evidence and analysis to support the summary presented above.
 
-### Detailed response: different approaches to sentence-based incentives
+### Detailed response: different approaches to sentence-based incentives {.unnumbered}
 
-#### Background and scope
+#### Background and scope {.unnumbered}
 
 In this section, I draw on PhD research, as well as the prisoner consultation on progression during long sentences which I carried out in 2021/22 [@jarmanMakingProgressWhat2022]. I also draw on focus groups carried out in my previous job, where I interviewed prisoners in three English prisons who were serving a full range of short and long sentences. During that project I also interviewed several ex-prisoners from three US states[^10] which use credits schemes of the kind mentioned by the Review’s call for evidence; and I learned something about how Brazilian prisons use incentives and sentence credits.
 
 This section does not make substantive recommendations, but instead comments on some considerations which any reform examining the use of sentence-based incentives should consider.
 
-#### Key principles for incentivising progression
+#### Key principles for incentivising progression {.unnumbered}
 
 Before reflecting on how these examples might inform reformed UK sentence progression, it is worth underlining three general points, which are absolutely clear to me from my research and professional experience:
 
@@ -706,7 +694,7 @@ Before reflecting on how these examples might inform reformed UK sentence progre
 
 However, designing incentive schemes is a complex matter, complicated by the fact that strong incentives can generate behaviour which seeks the incentive, rather than the deeper change which the incentive aims to reward. Compliant behaviour is difficult to interpret, and strong incentives exacerbate the problem. People’s reasons for complying may vary between individuals (and within individuals over time). All of this means that incentives schemes need to be structured and designed with care, and some consideration of international examples may be useful. The Review’s call for evidence refers specifically to the use of sentence credits schemes in the United States; the following subsections examine this approach, as well as a contrasting system used in Brazil.
 
-#### International approaches to sentence-based progression incentives
+#### International approaches to sentence-based progression incentives {.unnumbered}
 
 The US and Brazilian systems offer contrasting approaches to incentivising progression through sentences, each highlighting different challenges and opportunities for the Review to consider.
 
@@ -718,7 +706,7 @@ Some similarities to the practices used in US states are evident here, but the d
 
 These contrasting approaches highlight some key issues for the Review’s thinking about the use of sentence-based incentives in England & Wales. The US experience suggests that unchecked staff discretion can undermine the legitimacy of incentive schemes, while the US practice of excluding serious offenders may limit the impact such incentives can make on prison populations. Brazil’s more structured approach offers clearer and more credible incentivisation in theory, and sends a strong message that compliance will be rewarded, but also indicates that operating remission schemes at scale can be administratively challenging. Both examples underline the importance of clear frameworks, consistent implementation, and adequate administrative capacity in any reform of sentence progression.
 
-#### Applying international evidence to UK reforms
+#### Applying international evidence to UK reforms {.unnumbered}
 
 The evidence from US and Brazilian approaches suggests several key considerations for reforming progression arrangements in England and Wales. First, any reform must carefully balance structure with discretion. The US experience shows how excessive staff discretion can undermine legitimacy and breed cynicism and disengagement among prisoners. Brazil’s more structured approach demonstrates that, in principle, clear entitlements can incentivise engagement more effectively. For the UK, this suggests a need for clear progression criteria supported by transparent decision-making processes, with some bounded discretion retained for staff but subject to effective oversight.
 
@@ -728,7 +716,7 @@ Third, both international examples highlight crucial administrative challenges. 
 
 **These insights suggest three considerations for the Review’s attention**. First, progression frameworks should offer clear, staged incentives linked to rehabilitative activities, while maintaining appropriate accountability through bounded discretion and effective oversight. Second, access to progression opportunities should be as universal as possible, supported by adequate provision of work, education and other meaningful activities. Third, implementation should be underpinned by streamlined administrative systems that can reliably record and recognize prisoner development while avoiding unnecessary complexity.
 
-#### Implementation and practical considerations
+#### Implementation and practical considerations {.unnumbered}
 
 **The international evidence presented above suggests clear priorities for implementing a reformed use of sentence-based incentives**, as part of improved sentence progression arrangements in England and Wales.
 

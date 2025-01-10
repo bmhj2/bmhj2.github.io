@@ -1,9 +1,8 @@
 ---
-author:
-  - ref: bj
 title: "New publication" # add
 subtitle: "Response to the Independent Sentencing Review" # [add if needed]
 date: 2025-01-07
+date-modified: 2025-01-07
 categories: # select from
   - publication
   - news
