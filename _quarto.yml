@@ -38,9 +38,9 @@ website:
     locale: en_GB
     site-name: Ben Jarman
   reader-mode: false
-  repo-url: https://github.com/bmhj2/bmhj2.github.io/
-  repo-actions: [issue]
-  issue-url: https://github.com/bmhj2/bmhj2.github.io/issues
+  # repo-url: https://github.com/bmhj2/bmhj2.github.io/
+  # repo-actions: [issue]
+  # issue-url: https://github.com/bmhj2/bmhj2.github.io/issues
   page-footer:
     left: >
       © 2003-2025 Ben Jarman. All rights reserved except where indicated.
