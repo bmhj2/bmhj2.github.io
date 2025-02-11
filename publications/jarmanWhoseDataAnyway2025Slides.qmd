@@ -1,6 +1,6 @@
 ---
 abstract: >
-  Recent years have seen increasing pressure from funders and publishers for researchers to share their data openly. While the underlying aims of reproducibility and transparency are laudable, they create particular challenges for qualitative researchers, whose work emerges from relationships of trust and contains sensitive personal information. This talk examines these tensions through the lens of prison research, where issues of confidentiality, consent, and institutional power are especially sharply drawn. Drawing on examples, the talk develops broader insights about the nature of qualitative data and its relationship to research openness. It describes an alternative framework for conceptualising qualitative data as Dialogic, Emergent, Abundant and Relational [DEAR, see @westburyVoiceRepresentationRelationships2022], and suggests this offers more productive ways to think about the underlying question, transparency, than the FAIR framework developed initially to think about quantitative data publication. Recent debates in criminology illustrate how academic disciplines might engage constructively with the challenge posed by transparency in qualitative research. The talk concludes by exploring practical ways in which qualitative researchers might reconcile the demands of the open research agenda with the integrity of their methodological and ethical approach.
+  Recent years have seen increasing pressure from funders and publishers for researchers to share their data openly. While the underlying aims of reproducibility and transparency are laudable, they create particular challenges for qualitative researchers, whose work emerges from relationships of trust and contains sensitive personal information. This talk examines these tensions through the lens of prison research, where issues of confidentiality, consent, and institutional power are especially sharply drawn. Drawing on examples, the talk develops broader insights about the nature of qualitative data and its relationship to research openness. It describes an alternative framework for conceptualising qualitative data as Dialogic, Emergent, Abundant and Relational [DEAR, see @westburyVoiceRepresentationRelationships2022], and suggests that this offers a more productive angle on the underlying question (transparency) than alternatives. A recent debate in US criminology is referenced to illustrate how academic disciplines might engage constructively with this underlying issue. The talk concludes by reflecting on how qualitative researchers might reconcile the demands of the open research agenda with the integrity of their methodological and ethical approach.
 
 author:
   - id: bmhj
@@ -55,6 +55,8 @@ citeproc: true
 citation: true
 
 format:
+  html: default
+  docx: default
   revealjs:
     incremental: true
     # smaller: true

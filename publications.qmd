@@ -17,8 +17,8 @@ listing:
     language: en-gb
   fields: [date, title, subtitle, keywords, author]
   sort-ui: [date, title]
-  exclude:
-    unlisted: 'true'
+  # exclude:
+  #   unlisted: 'true'
 appendix-style: none
 citation: false
 ---
