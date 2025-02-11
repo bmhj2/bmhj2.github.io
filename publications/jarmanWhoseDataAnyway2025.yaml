@@ -1,0 +1,723 @@
+references:
+- id: allansonDoingESRCData2024
+  abstract: >-
+    Ensuring open data and open science in changing times remains a priority for
+    publicly funded social science research in the UK. Understanding the
+    changing landscape is key to achieving this and implementing it through
+    appropriate policies and practices.
+  author:
+    - family: Allanson
+      given: Paul
+    - family: Daly
+      given: Angela
+    - family: Elahi
+      given: Awais
+    - family: Geddes
+      given: Alistair
+    - family: Malone
+      given: Maeve
+    - family: Nic Daeid
+      given: Niamh
+    - family: Tetley-Brown
+      given: Lucille
+  citation-key: allansonDoingESRCData2024
+  collection-title: Science, Policy and Law Series
+  DOI: 10.20933/100001312
+  issued:
+    - year: 2024
+      month: 5
+      day: 14
+  language: en
+  publisher: University of Dundee
+  source: Discovery - the University of Dundee Research Portal
+  title: >-
+    Doing ESRC data better: a study for the Economic and Social Research Council
+    (ESRC)
+  title-short: Doing ESRC data better
+  type: book
+
+- id: ashbyOpenAccessAvailabilityCriminological2020
+  abstract: >-
+    Criminology produces policy-relevant research and criminologists often seek
+    to influence practice, but most criminological research is confined to
+    expensive subscription journals. This disadvantages researchers in the
+    global south, policy makers and practitioners who have the skills to use
+    research findings but do not have journal subscriptions. Open access seeks
+    to increase availability of research, but take-up among criminologists has
+    been low. This study used a sample of 12,541 articles published in
+    criminology journals between 2017 and 2019 to estimate the proportion of
+    articles available via different types of open access. Overall 22% of
+    research was available to non-subscribers, about half that found in other
+    disciplines, even though authors had the right to make articles open without
+    payment in at least 95% of cases. Open access was even less common in many
+    leading journals and among researchers in the United States. Open access has
+    the potential to increase access to research for those outside academia, but
+    few scholars exercise their existing rights to distribute freely the
+    submitted or accepted versions of their articles online. Policies to
+    incentivise authors to make research open access where possible are needed
+    unlock the benefits of greater access to criminological research.
+  accessed:
+    - year: 2020
+      month: 11
+      day: 24
+  author:
+    - family: Ashby
+      given: Matthew P. J.
+  citation-key: ashbyOpenAccessAvailabilityCriminological2020
+  container-title: Journal of Criminal Justice Education
+  DOI: 10.1080/10511253.2020.1838588
+  ISSN: 1051-1253
+  issue: '0'
+  issued:
+    - year: 2020
+      month: 10
+      day: 25
+  note: 3 citations (Crossref) [2022-06-27]
+  page: 1-21
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  title: >-
+    The Open-Access Availability of Criminological Research to Practitioners and
+    Policy Makers
+  type: article-journal
+  URL: https://doi.org/10.1080/10511253.2020.1838588
+  volume: '0'
+
+- id: buceriusTransparencyTradeoffRisks2024
+  accessed:
+    - year: 2025
+      month: 1
+      day: 6
+  author:
+    - family: Bucerius
+      given: Sandra
+    - family: Copes
+      given: Heith
+  citation-key: buceriusTransparencyTradeoffRisks2024
+  container-title: The Criminologist
+  issue: '2'
+  issued:
+    - year: 2024
+      month: 3
+      day: 1
+  language: en
+  page: 6-9
+  title: 'Transparency trade-off: the risks of criminology’s new data sharing policy'
+  type: article-journal
+  URL: https://asc41.org/wp-content/uploads/ASC-Criminologist-2024-03.pdf
+  volume: '50'
+
+- id: carrollCAREPrinciplesIndigenous2020
+  abstract: "The CODATA\_Data Science Journal\_is a peer-reviewed, open access, electronic journal, publishing papers on the management, dissemination, use and reuse of research data and databases across all research domains, including science, technology, the humanities and the arts. The scope of the journal includes descriptions of data systems, their implementations and their publication, applications, infrastructures, software, legal, reproducibility and transparency issues, the availability and usability of complex datasets, and with a particular focus on the principles, policies and practices for open data. All data is in scope, whether born digital or converted from other sources."
+  accessed:
+    - year: 2025
+      month: 2
+      day: 11
+  author:
+    - family: Carroll
+      given: Stephanie Russo
+    - family: Garba
+      given: Ibrahim
+    - family: Figueroa-Rodríguez
+      given: Oscar L.
+    - family: Holbrook
+      given: Jarita
+    - family: Lovett
+      given: Raymond
+    - family: Materechera
+      given: Simeon
+    - family: Parsons
+      given: Mark
+    - family: Raseroka
+      given: Kay
+    - family: Rodriguez-Lonebear
+      given: Desi
+    - family: Rowe
+      given: Robyn
+    - family: Sara
+      given: Rodrigo
+    - family: Walker
+      given: Jennifer D.
+    - family: Anderson
+      given: Jane
+    - family: Hudson
+      given: Maui
+  citation-key: carrollCAREPrinciplesIndigenous2020
+  container-title: Data Science Journal
+  container-title-short: Data Sci. J.
+  DOI: 10.5334/dsj-2020-043
+  ISSN: 1683-1470
+  issue: '1'
+  issued:
+    - year: 2020
+      month: 11
+      day: 4
+  language: en
+  source: datascience.codata.org
+  title: The CARE principles for indigenous data governance
+  type: article-journal
+  URL: https://datascience.codata.org/articles/10.5334/dsj-2020-043
+  volume: '19'
+
+- id: dickinsonReviewPleaOpen2024
+  accessed:
+    - year: 2025
+      month: 1
+      day: 6
+  author:
+    - family: Dickinson
+      given: Timothy
+  citation-key: dickinsonReviewPleaOpen2024
+  DOI: 10.21428/cb6ab371.e42226cb
+  genre: Review article
+  issued:
+    - year: 2024
+      month: 12
+      day: 18
+  language: en
+  number: 8qb8nsfj
+  publisher: crimRxiv
+  source: DOI.org (Crossref)
+  title: Review of "A plea for open access to qualitative criminology"
+  type: article
+  URL: https://www.crimrxiv.com/pub/8qb8nsfj
+
+- id: gilbyOpenResearchArts
+  author:
+    - family: Gilby
+      given: Emma
+    - family: Ammon
+      given: Matthias
+    - family: Leow
+      given: Rachel
+    - family: Moore
+      given: Sam
+  citation-key: gilbyOpenResearchArts
+  language: en
+  publisher: Cambridge University Working Group on Open Research in the Humanities
+  source: Zotero
+  title: 'Open research and the arts and humanities: opportunities and challenges'
+  type: document
+
+- id: greene-colozziImportanceTransparencyOpensource2024
+  accessed:
+    - year: 2025
+      month: 1
+      day: 29
+  author:
+    - family: Greene-Colozzi
+      given: Emily
+    - family: Freilich
+      given: Joshua D.
+  citation-key: greene-colozziImportanceTransparencyOpensource2024
+  container-title: The Criminologist
+  container-title-short: Criminologist
+  issue: '6'
+  issued:
+    - year: 2024
+      month: 11
+      day: 1
+  language: en
+  page: 1-5
+  title: The importance of transparency in open-source criminological research
+  type: article-journal
+  URL: https://asc41.org/wp-content/uploads/ASC-Criminologist-2024-11.pdf
+  volume: '50'
+
+- id: hanchardFosteringOpenQualitative2023
+  abstract: >-
+    Fostering cultures of open qualitative research: Final Project Report This
+    report was created and deposited onto the University of Sheffield Online
+    Research Data repository (ORDA) on 14-Dec-2023 by Dr. Matthew S. Hanchard,
+    Research Associate at the University of Sheffield iHuman Institute. The
+    report presents findings and recommendations from a project titled
+    ‘Fostering cultures of open qualitative research’ which ran from January
+    2023 to June 2023. The project was funded with £13,913.85 of Research
+    England monies held internally by the University of Sheffield - as part of
+    their ‘Enhancing Research Cultures’ scheme 2022-2023. Research within the
+    report aligns with ethical approval granted by the University of Sheffield
+    School of Sociological Studies Research Ethics Committee (ref: 051118) on
+    23-Jan-2021.This includes due concern for participant anonymity and data
+    management. ORDA has full permission to store and make available datasets
+    and reports from the project for public viewing and reuse on the basis that
+    no commercial gain will be made from reuse. It has been deposited under a
+    CC-BY-NC licence. Overall, the report relies on the below datasets: Survey
+    Responses: Hanchard M and San Roman Pineda I (2023) Fostering cultures of
+    open qualitative research: Dataset 1 – Survey Responses. The University of
+    Sheffield. DOI: 10.15131/shef.data.23567250.v1. Interviews: Hanchard M and
+    San Roman Pineda I (2023) Fostering cultures of open qualitative research:
+    Dataset 2 – Interview Transcripts. The University of Sheffield. DOI:
+    10.15131/shef.data.23567223.v2. Workshop: Hanchard M and San Roman Pineda I
+    (2023) Fostering cultures of open qualitative research: Dataset 3 – Workshop
+    Transcript. The University of Sheffield. DOI:
+    10.15131/shef.data.24807753.v1. The project report covers research
+    undertaken by two staff: Co-investigator: Dr. Itzel San Roman Pineda ORCiD
+    ID: 0000-0002-3785-8057 i.sanromanpineda@sheffield.ac.uk Postdoctoral
+    Research Assistant Labelled as ‘Researcher 1’ throughout all project
+    datasets. Principal Investigator (corresponding dataset author): Dr. Matthew
+    Hanchard ORCiD ID: 0000-0003-2460-8638 m.s.hanchard@sheffield.ac.uk Research
+    Associate iHuman Institute, Social Research Institutes, Faculty of Social
+    Science Labelled as ‘Researcher 2’ throughout all project datasets.
+  accessed:
+    - year: 2025
+      month: 1
+      day: 7
+  author:
+    - family: Hanchard
+      given: Matthew
+    - family: San Roman Pineda
+      given: Itzel
+  citation-key: hanchardFosteringOpenQualitative2023
+  DOI: 10.15131/shef.data.24807987.v1
+  genre: report
+  issued:
+    - year: 2023
+      month: 12
+      day: 19
+  language: en
+  publisher: The University of Sheffield
+  source: orda.shef.ac.uk
+  title: Fostering open qualitative research - final project report
+  type: report
+  URL: >-
+    https://orda.shef.ac.uk/articles/report/Fostering_Open_Qualitative_Research_-_Final_Project_Report/24807987/1
+
+- id: jacquesPleaOpenAccess2024
+  abstract: >-
+    Qualitative researchers are expected, sometimes required, to publish their
+    data open access (OA). This is for the sake of science, impact, and social
+    justice. Yet, understandably, qualitative criminologists are worried about
+    what this means for their workload and their ability to protect subjects’
+    confidentiality. To be solutions-oriented, we developed an open-source
+    Python script for anonymizing qualitative data. It uses named-entity
+    recognition and fuzzy-rule based merging to identify and replace personally
+    identifiable information (PII) with unique pseudonyms. This tool doesn’t
+    eliminate the need for manual work, but it reduces the cost and associated
+    risk. In this article, we describe and explain how our script works and how
+    to use it. We conclude by discussing the implications for open (qualitative)
+    criminology.
+  accessed:
+    - year: 2025
+      month: 1
+      day: 6
+  author:
+    - family: Jacques
+      given: Scott
+    - family: Wheeler
+      given: Andrew
+  citation-key: jacquesPleaOpenAccess2024
+  DOI: 10.21428/cb6ab371.15d7c59e
+  issued:
+    - year: 2024
+      month: 10
+      day: 31
+  language: en
+  source: www.crimrxiv.com
+  title: >-
+    A plea for open access to qualitative criminology: with a python script for
+    anonymizing data and illustrative analysis of error rates
+  title-short: A plea for open access to qualitative criminology
+  type: article
+  URL: https://www.crimrxiv.com/pub/4rupql9o/release/4
+
+- id: jarmanCanConfidentialResearch2021
+  abstract: >-
+    A presentation given at the ESRC DTP conference on 29th January 2021,
+    reflecting on the Open Research agenda and some ethical questions it raises
+    in relation to interviews conducted in prison.
+  accessed:
+    - year: 2021
+      month: 2
+      day: 12
+  author:
+    - family: Jarman
+      given: Ben
+  citation-key: jarmanCanConfidentialResearch2021
+  DOI: 10.17863/CAM.64602
+  event-place: Cambridge
+  event-title: ESRC Doctoral Training Partnership Annual Conference
+  genre: Conference paper
+  issued:
+    - year: 2021
+      month: 1
+      day: 29
+  language: en
+  license: Attribution 4.0 International
+  note: |-
+    ZSCC: NoCitationData[s0] 
+    Accepted: 2021-02-11T12:40:03Z
+  publisher-place: Cambridge
+  title: >-
+    Can confidential research be reproducible? Consent, ethics, prison
+    interviews and the Open Research agenda
+  title-short: Can confidential research be reproducible
+  type: speech
+  URL: https://www.repository.cam.ac.uk/handle/1810/317486
+
+- id: jarmanOpenDataSensitive2020
+  abstract: >-
+    Slides and reference list from a presentation given at a lunchtime webinar
+    organised by the Institute of Criminology. Reflects on the Open Research,
+    Open Data and Open Access agendas; describes ethical and methodological
+    issues raised by these when applied to qualitative data; and identifies how
+    these concerns may be particularly relevant when considering qualitative
+    data gathered through studies of prison(er)s.
+  accessed:
+    - year: 2020
+      month: 12
+      day: 16
+  author:
+    - family: Jarman
+      given: Ben
+  citation-key: jarmanOpenDataSensitive2020
+  DOI: 10.17863/CAM.62157
+  event-place: University of Cambridge Institute of Criminology
+  event-title: Brown Bag seminar
+  genre: Seminar
+  issued:
+    - year: 2020
+      month: 12
+      day: 3
+  language: en-US
+  license: >-
+    Attribution-NonCommercial-ShareAlike 4.0 International,
+    Attribution-NonCommercial-ShareAlike 4.0 International, Creative Commons
+    Attribution Non Commercial Share Alike 4.0 International
+  publisher: Apollo - University of Cambridge Repository
+  publisher-place: University of Cambridge Institute of Criminology
+  title: >-
+    Open Data and sensitive interviews: Reflecting on ethics, consent, and
+    reproducibility
+  title-short: Open Data and sensitive interviews
+  type: speech
+  URL: https://www.repository.cam.ac.uk/handle/1810/315050
+
+- id: lavigneRedefiningRigorEmbracing2025
+  accessed:
+    - year: 2025
+      month: 1
+      day: 29
+  author:
+    - family: La Vigne
+      given: Nancy
+  citation-key: lavigneRedefiningRigorEmbracing2025
+  container-title: The Criminologist
+  container-title-short: Criminologist
+  issue: '1'
+  issued:
+    - year: 2025
+      month: 1
+      day: 1
+  language: en
+  page: 1-6
+  title: 'Redefining rigor: embracing mixed methods research in criminology'
+  type: article-journal
+  URL: https://asc41.org/wp-content/uploads/ASC-Criminologist-2025-01.pdf
+  volume: '51'
+
+- id: nielsenMichaelNielsenOpen
+  abstract: >-
+    What if every scientist could share their data as easily as they tweet about
+    their lunch? Michael Nielsen calls for scientists to embrace new tools for
+    collaboration that will enable discoveries to happen at the speed of
+    Twitter.
+  accessed:
+    - year: 2025
+      month: 2
+      day: 3
+  author:
+    - family: Nielsen
+      given: Michael
+  citation-key: nielsenMichaelNielsenOpen
+  language: en
+  title: 'Michael Nielsen: open science now! | TED talk'
+  title-short: Open Science Now!
+  type: webpage
+  URL: https://www.ted.com/talks/michael_nielsen_open_science_now
+
+- id: UKRIDevelopingNew2024
+  abstract: >-
+    New pan-UKRI research data policy framework will maximise the value of data
+    arising from UKRI funding and support an open research and innovation
+    culture.
+  accessed:
+    - year: 2025
+      month: 2
+      day: 3
+  citation-key: UKRIDevelopingNew2024
+  issued:
+    - year: 2024
+      month: 12
+      day: 13
+  language: en
+  title: UKRI developing new research data policy framework
+  type: webpage
+  URL: >-
+    https://www.ukri.org/news/ukri-developing-new-research-data-policy-framework/
+
+- id: westburyVoiceRepresentationRelationships2022
+  abstract: >-
+    There is strong support for the open research agenda among qualitative
+    researchers. This report broadly defines qualitative research as the
+    exploration of communities’ and individuals’ perspectives and lived
+    experiences and how people meaningfully construct and negotiate social
+    worlds in specific contexts. Such research typically involves
+    natural-language descriptions, rather than numerical measurements. However,
+    University advocates of open research and funders’ open research policies
+    tend to frame key tenets and desired outcomes in terms of the priorities,
+    methodological approaches and quality markers of STEMM fields and the
+    quantitative social sciences. Qualitative research is heterogeneous, and
+    STEMM-oriented open-data policies can be at odds with qualitative
+    researchers’ values. Instead of building trust and transparency into the
+    research process, such policies can undermine or inhibit collaboration and
+    engagement that are crucial for ongoing qualitative work. Nevertheless, many
+    qualitative researchers – and we as a working group – feel that open
+    research presents huge opportunities for innovation in our fields and,
+    therefore, hope to make discussions about open research at Cambridge
+    University more inclusive of qualitative researchers’ viewpoints. This
+    report includes a number of concrete recommendations that respond to the
+    dialogic, emergent, abundant and relational aspects of qualitative research
+    by proposing context-specific guidelines, infrastructures and training
+    resources.
+  accessed:
+    - year: 2023
+      month: 1
+      day: 7
+  author:
+    - family: Westbury
+      given: Margaret
+    - family: Candea
+      given: Mathieu
+    - family: Gabrys
+      given: Jennifer
+    - family: Hennessy
+      given: Sara
+    - family: Jarman
+      given: Ben
+    - family: McNeice
+      given: Kiera
+    - family: Sharma
+      given: Curtis
+  citation-key: westburyVoiceRepresentationRelationships2022
+  contributor:
+    - literal: Apollo - University Of Cambridge Repository
+  DOI: 10.17863/CAM.91979
+  issued:
+    - year: 2022
+      month: 12
+      day: 20
+  language: en-GB
+  license: Creative Commons Attribution No Derivatives 2.0 Generic
+  page: '13'
+  publisher: Apollo - University of Cambridge Repository
+  source: DOI.org (Datacite)
+  title: >-
+    Voice, Representation, Relationships: Report of the Open Qualitative
+    Research Working Group
+  title-short: Voice, Representation, Relationships
+  type: report
+  URL: https://www.repository.cam.ac.uk/handle/1810/344820
+
+- id: whitehouseofficeofscienceandtechnologypolicyostpEnsuringFreeImmediate2022
+  abstract: >-
+    This document is a work of the United States Government and is in the public
+    domain (see 17 U.S.C. §105). Subject to the stipulations below, it may be
+    distributed and copied with acknowledgment to OSTP. Copyrights to graphics
+    included in this document are reserved by the original copyright holders or
+    their assignees and are used here under the Government’s license and by
+    permission. Requests to use any images must be made to the provider
+    identified in the image credits or to OSTP if no provider is identified.
+    Published in the United States of America, 2021.
+  accessed:
+    - year: 2025
+      month: 1
+      day: 30
+  author:
+    - literal: White House Office of Science and Technology Policy (OSTP)
+  citation-key: whitehouseofficeofscienceandtechnologypolicyostpEnsuringFreeImmediate2022
+  issued:
+    - year: 2022
+      month: 8
+      day: 25
+  language: en
+  publisher: Executive Office of the President of the United States
+  title: >-
+    Ensuring Free, Immediate, and Equitable Access to Federally Funded Research
+    ("The Nelson Memo")
+  title-short: The Nelson Memo
+  type: document
+  URL: >-
+    https://bidenwhitehouse.archives.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf
+
+- id: wilkinsonFAIRGuidingPrinciples2016
+  abstract: >-
+    There is an urgent need to improve the infrastructure supporting the reuse
+    of scholarly data. A diverse set of stakeholders—representing academia,
+    industry, funding agencies, and scholarly publishers—have come together to
+    design and jointly endorse a concise and measureable set of principles that
+    we refer to as the FAIR Data Principles. The intent is that these may act as
+    a guideline for those wishing to enhance the reusability of their data
+    holdings. Distinct from peer initiatives that focus on the human scholar,
+    the FAIR Principles put specific emphasis on enhancing the ability of
+    machines to automatically find and use the data, in addition to supporting
+    its reuse by individuals. This Comment is the first formal publication of
+    the FAIR Principles, and includes the rationale behind them, and some
+    exemplar implementations in the community.
+  accessed:
+    - year: 2025
+      month: 2
+      day: 3
+  author:
+    - family: Wilkinson
+      given: Mark D.
+    - family: Dumontier
+      given: Michel
+    - family: Aalbersberg
+      given: IJsbrand Jan
+    - family: Appleton
+      given: Gabrielle
+    - family: Axton
+      given: Myles
+    - family: Baak
+      given: Arie
+    - family: Blomberg
+      given: Niklas
+    - family: Boiten
+      given: Jan-Willem
+    - family: Silva Santos
+      given: Luiz Bonino
+      non-dropping-particle: da
+    - family: Bourne
+      given: Philip E.
+    - family: Bouwman
+      given: Jildau
+    - family: Brookes
+      given: Anthony J.
+    - family: Clark
+      given: Tim
+    - family: Crosas
+      given: Mercè
+    - family: Dillo
+      given: Ingrid
+    - family: Dumon
+      given: Olivier
+    - family: Edmunds
+      given: Scott
+    - family: Evelo
+      given: Chris T.
+    - family: Finkers
+      given: Richard
+    - family: Gonzalez-Beltran
+      given: Alejandra
+    - family: Gray
+      given: Alasdair J. G.
+    - family: Groth
+      given: Paul
+    - family: Goble
+      given: Carole
+    - family: Grethe
+      given: Jeffrey S.
+    - family: Heringa
+      given: Jaap
+    - family: Hoen
+      given: Peter A. C.
+      non-dropping-particle: ’t
+    - family: Hooft
+      given: Rob
+    - family: Kuhn
+      given: Tobias
+    - family: Kok
+      given: Ruben
+    - family: Kok
+      given: Joost
+    - family: Lusher
+      given: Scott J.
+    - family: Martone
+      given: Maryann E.
+    - family: Mons
+      given: Albert
+    - family: Packer
+      given: Abel L.
+    - family: Persson
+      given: Bengt
+    - family: Rocca-Serra
+      given: Philippe
+    - family: Roos
+      given: Marco
+    - family: Schaik
+      given: Rene
+      non-dropping-particle: van
+    - family: Sansone
+      given: Susanna-Assunta
+    - family: Schultes
+      given: Erik
+    - family: Sengstag
+      given: Thierry
+    - family: Slater
+      given: Ted
+    - family: Strawn
+      given: George
+    - family: Swertz
+      given: Morris A.
+    - family: Thompson
+      given: Mark
+    - family: Lei
+      given: Johan
+      non-dropping-particle: van der
+    - family: Mulligen
+      given: Erik
+      non-dropping-particle: van
+    - family: Velterop
+      given: Jan
+    - family: Waagmeester
+      given: Andra
+    - family: Wittenburg
+      given: Peter
+    - family: Wolstencroft
+      given: Katherine
+    - family: Zhao
+      given: Jun
+    - family: Mons
+      given: Barend
+  citation-key: wilkinsonFAIRGuidingPrinciples2016
+  container-title: Scientific Data
+  container-title-short: Sci. Data
+  DOI: 10.1038/sdata.2016.18
+  ISSN: 2052-4463
+  issue: '1'
+  issued:
+    - year: 2016
+      month: 3
+      day: 15
+  language: en
+  license: 2016 The Author(s)
+  page: '160018'
+  publisher: Nature Publishing Group
+  source: www.nature.com
+  title: The FAIR guiding principles for scientific data management and stewardship
+  type: article-journal
+  URL: https://www.nature.com/articles/sdata201618
+  volume: '3'
+
+- id: youngExpandingScopeTransparency2024
+  accessed:
+    - year: 2025
+      month: 1
+      day: 29
+  author:
+    - family: Young
+      given: Jacob T. N.
+  citation-key: youngExpandingScopeTransparency2024
+  container-title: The Criminologist
+  container-title-short: Criminologist
+  issue: '6'
+  issued:
+    - year: 2024
+      month: 11
+      day: 1
+  language: en
+  page: 7-9
+  title: Expanding the scope of transparency in criminology
+  type: article-journal
+  URL: https://asc41.org/wp-content/uploads/ASC-Criminologist-2024-11.pdf
+  volume: '50'

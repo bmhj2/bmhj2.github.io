@@ -1,0 +1,228 @@
+---
+abstract: >
+  Recent years have seen increasing pressure from funders and publishers for researchers to share their data openly. While the underlying aims of reproducibility and transparency are laudable, they create particular challenges for qualitative researchers, whose work emerges from relationships of trust and contains sensitive personal information. This talk examines these tensions through the lens of prison research, where issues of confidentiality, consent, and institutional power are especially sharply drawn. Drawing on examples, the talk develops broader insights about the nature of qualitative data and its relationship to research openness. It describes an alternative framework for conceptualising qualitative data as Dialogic, Emergent, Abundant and Relational [DEAR, see @westburyVoiceRepresentationRelationships2022], and suggests this offers more productive ways to think about the underlying question, transparency, than the FAIR framework developed initially to think about quantitative data publication. Recent debates in criminology illustrate how academic disciplines might engage constructively with the challenge posed by transparency in qualitative research. The talk concludes by exploring practical ways in which qualitative researchers might reconcile the demands of the open research agenda with the integrity of their methodological and ethical approach.
+
+author:
+  - id: bmhj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    attributes:
+      corresponding: true
+    email: b.jarman@soton.ac.uk
+    orcid: 0000-0003-3527-5437
+    url: https://benjarman.uk
+    affiliation:
+      - ref: soton
+
+affiliations:
+  - id: soton
+    name: University of Southampton Law School
+    department: Southampton Law School
+    address: University Road
+    city: Southampton
+    postal-code: SO17 1BJ
+    country: United Kingdom
+    url: https://www.southampton.ac.uk
+
+title: "Whose data is it, anyway?" # add
+subtitle: "Qualitative criminology, prisons, and the Open Research agenda" # add if needed
+date: "2025-02-12"
+date-format: Do MMMM YYYY
+categories: # select from the following
+  - lecture
+description: >
+  This talk uses prison research to explore how qualitative researchers can respond to growing pressure for open data sharing while also protecting research participants and maintaining methodological integrity.
+funding: 
+  statement: "The author received funding for this research via an ESRC Knowledge Exchange PhD Studentship, reference 2405252, co-funded by a Quakers in Britain Adult Education Grant, reference AE-016 2018/19." # see [schema](https://quarto.org/docs/authoring/front-matter.html#funding)
+keywords:  
+  - research ethics
+  - research transparency
+  - prison research
+  - research methods
+  - qualitative social science
+  - open research
+  - open data
+# doi: 
+# url: 
+copyright:
+  holder: Ben Jarman
+  year: 2025
+draft: true # select
+bibliography: jarmanWhoseDataAnyway2025.yaml
+citeproc: true
+citation: true
+
+format:
+  revealjs:
+    incremental: true
+    # smaller: true
+    theme: dark
+    menu: 
+      numbers: true
+    footer: "Love Data Week 2025"
+    number-sections: false
+    auto-animate: true
+    auto-animate-unmatched: true
+    auto-animate-duration: 0.8
+    watch-inputs: true
+    show-slide-number: speaker
+    email-obfuscation: javascript
+    embed-resources: true
+
+unlisted: true
+---
+
+# Setting the scene
+
+## Setting the scene
+
+::: {.nonincremental}
+- A colleague's dilemma
+- Open [Research/Access/Data]: brief definitions
+- Prison research as a lens
+:::
+
+## What do we mean by 'openness'?
+
+Three key concepts:
+
+::: {.panel-tabset .nonincremental}
+### Open Research
+> “the idea that scientific knowledge of all kinds should be openly shared as early as it is practical in the discovery process” [@nielsenMichaelNielsenOpen]
+
+### Open Access
+- Simply: make research outputs freely available (≠ paywall)
+- Publicly-funded = belongs to/available to the public
+
+### Open Data
+Claims about the relationship between research data and transparency, involving:
+
+- Norms re publication---of data, analytical procedures, etc.
+- Promotion of data curation frameworks (FAIR, CARE, CORE, etc.)
+:::
+
+## Prison research as analytical lens
+
+. . .
+
+::: {.nonincremental}
+Three key tensions:
+
+1. Transparency/credibility vs. confidentiality/safeguarding
+2. Formal governance vs. informal reality
+3. Participant autonomy vs. institutional control
+:::
+
+::: {.aside}
+For more depth, see @jarmanOpenDataSensitive2020, @jarmanCanConfidentialResearch2021.
+:::
+
+# Frameworks for understanding 'openness'
+
+## FAIR
+
+::: {.nonincremental}
+Data should be curated, published, and managed so as to be:
+
+- **F**indable
+- **A**ccessible
+- **I**nteroperable
+- **R**eusable
+:::
+
+::: {.aside .smaller}
+See @wilkinsonFAIRGuidingPrinciples2016. Alternatives to FAIR exist for the humanities (CORE^[Collected, Organised, Recontextualised and Explained], see Gilby et al., 2022) and data derived from indigenous knowledge (CARE^[Collective benefit, Authority to control, Responsibility and Ethics], see UNESCO, 2021). I am not aware of alternatives for the qualitative social sciences.
+:::
+
+## DEAR
+
+::: {.panel-tabset .nonincremental}
+### **D**ialogic
+- Knowledge through interaction
+- Trust and relationship-dependent
+- Implications for consent
+
+### **E**mergent
+- Non-linear development
+- Context-dependent insights
+- Implications for interpretation
+
+### **A**bundant
+- Rich, detailed data
+- Complex anonymisation needs
+- Resource implications
+
+### **R**elational
+- Web of relationships
+- Meaning in context
+- Stewardship not ownership
+:::
+
+::: {.aside}
+Cambridge working group report: @westburyVoiceRepresentationRelationships2022.
+:::
+
+## Example of a current debate
+
+Recent developments in US criminology:
+
+::: {.nonincremental}
+- *Criminology* journal -- following policy changes [@whitehouseofficeofscienceandtechnologypolicyostpEnsuringFreeImmediate2022]
+- Debate over qualitative data sharing
+- Emerging constructive responses
+:::
+
+::: {.aside}
+Key contributions described in this section: @buceriusTransparencyTradeoffRisks2024, @greene-colozziImportanceTransparencyOpensource2024, @youngExpandingScopeTransparency2024, @lavigneRedefiningRigorEmbracing2025, @jacquesPleaOpenAccess2024, @dickinsonReviewPleaOpen2024
+:::
+
+# Ways forward?
+
+## 'Re-renderability'
+
+An alternative framing to reproducibility, used alongside (or, as appropriate, in place of) data publication:
+
+::: {.nonincremental}
+- More transparent analytical processes
+- Better documented interpretive approaches
+- Rich contextual documentation
+:::
+
+::: {.aside}
+Sheffield report: @hanchardFosteringOpenQualitative2023.
+:::
+
+## Support for implementation
+
+What do we need from research institutions?
+
+::: {.nonincremental}
+- Technical infrastructure
+- Resource allocation
+- Time recognition
+- Disciplinary development space
+:::
+
+::: {.aside}
+NB: These have implications for funders, research organisations, learned societies, etc.
+:::
+
+## Key messages
+
+::: {.incremental}
+1. Underlying shifts are already underway
+2. Constructive engagement or…?
+3. From ownership to stewardship
+4. Value of practical, grounded intradisciplinary debate
+:::
+
+::: {.aside}
+NB: UKRI [-@UKRIDevelopingNew2024] is developing new policies on data management, which may adopt recommendations by @allansonDoingESRCData2024, commissioned by ESRC. Some of the latter recognise some of the issues raised today.
+:::
+
+## References
+
+::: {.refs .smaller}
+:::
