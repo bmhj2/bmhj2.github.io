@@ -1,0 +1,70 @@
+---
+abstract: >
+  [add]
+  
+author:
+  - ref: bj # also consider roles additions as per https://quarto.org/docs/journals/authors.html
+title: "[add]" # add
+subtitle: "[add]" # add if needed
+date: "YYYY-MM-DD"
+date-format: Do MMMM YYYY
+categories: # Select from:
+  # - presentation
+  # - lecture
+description: >
+  [add]
+funding: 
+  statement: "[add]" # see schema at https://quarto.org/docs/authoring/front-matter.html#funding
+keywords:  
+  - [add]
+doi: 
+url: 
+copyright:
+  holder: Ben Jarman
+  year: YYYY
+draft: true # select
+
+bibliography: [citekey].yaml # add once prepared
+citeproc: true
+citation: true
+
+format:
+  revealjs:
+    incremental: true
+    theme: dark
+    menu: 
+      numbers: true
+    # footer: "[footer text]"
+    number-sections: false
+    auto-animate: true
+    auto-animate-unmatched: true
+    auto-animate-duration: 0.8
+    watch-inputs: true
+    show-slide-number: speaker
+    email-obfuscation: javascript
+    embed-resources: true
+
+format-links: false
+unlisted: true
+---
+
+# Section 1
+
+## First slide
+
+::: {.nonincremental}
+- Point 1
+- Point 2
+- Point 3
+:::
+
+## Second slide
+
+. . .
+
+Content after a pause
+
+## References
+
+::: {.refs .smaller}
+:::

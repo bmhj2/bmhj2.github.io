@@ -50,17 +50,14 @@ copyright:
   holder: Ben Jarman
   year: 2025
 draft: true # select
+
 bibliography: jarmanWhoseDataAnyway2025.yaml
 citeproc: true
 citation: true
 
 format:
-  html: default
-  docx: default
   revealjs:
     incremental: true
-    # smaller: true
-    theme: dark
     menu: 
       numbers: true
     footer: "Love Data Week 2025"
@@ -72,6 +69,7 @@ format:
     show-slide-number: speaker
     email-obfuscation: javascript
     embed-resources: true
+format-links: false
 
 unlisted: true
 ---

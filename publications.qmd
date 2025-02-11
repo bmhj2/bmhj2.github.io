@@ -7,8 +7,9 @@ title-block-style: none
 listing:
   type: table
   contents:
-    - publications/*.qmd
-    - publications/archived.yml
+    - "publications/*.qmd"
+    - "!publications/*Slides.qmd"
+    - "publications/archived.yml"
   sort: "date desc"
   categories: true
   feed:
@@ -17,12 +18,12 @@ listing:
     language: en-gb
   fields: [date, title, subtitle, keywords, author]
   sort-ui: [date, title]
-  # exclude:
-  #   unlisted: 'true'
+  exclude:
+    unlisted: 'true'
 appendix-style: none
 citation: false
 ---
 
 ::: {.callout-note}
-This page lists academic publications. Some fulltexts are available to read or download here. Others are available via external links to an non-paywalled fulltext.
+This page lists academic publications. Some fulltexts are available to read or download here. Others are available via external links to a non-paywalled fulltext.
 :::
