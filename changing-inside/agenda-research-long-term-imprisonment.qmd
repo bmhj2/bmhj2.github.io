@@ -15,6 +15,8 @@ description: Reading notes on an article proposing a research agenda on long-ter
 image: '/_assets/scott-graham-5fNmWej4tAA-unsplash.jpg'
 ---
 
+![]({{< meta image >}})
+
 After a quiet period on the blog while I've been working on other things, this will be the first in a series of posts which are essentially notes on the reading I've been doing. Other posts will specifically be written for the blog, but these notes posts are a way of trying to force myself into some writing, and also to share some of what I'm doing.
 
 This is on an article I've re-read recently, which sets out an agenda for far greater attention by criminologists and policymakers to the needs of long-term prisoners. The citation is at the end.

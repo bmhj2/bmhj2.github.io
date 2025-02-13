@@ -49,7 +49,7 @@ keywords:
 copyright:
   holder: Ben Jarman
   year: 2025
-draft: true # select
+draft: false # select
 
 bibliography: jarmanWhoseDataAnyway2025.yaml
 citeproc: true

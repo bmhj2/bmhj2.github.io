@@ -18,6 +18,8 @@ keywords:
 image: '/_assets/09668-apple-and-orange-e1567544536786.jpg'
 ---
 
+![]({{< meta image >}})
+
 This is the first of two posts thinking about how lifers (and others) might compare what it means to have different lengths of sentence.
 
 ## Selecting participants on tariff length

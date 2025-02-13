@@ -15,6 +15,8 @@ description: News item listing a new peer-reviewed publication
 image: '/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg'
 ---
 
+![]({{< meta image >}})
+
 Things have been quiet on here for the last month or two while I've been working on admin to do with the PhD -- ethics forms, risk assessments, and so on -- and while I've been preparing some past work for publication in an academic journal.
 
 This post is just a quick one to publicise [that journal article](https://www.mdpi.com/2075-4698/9/2/27), by me and Caroline Lanskey, which was published today. It's based on historical research I carried out last year, before starting the PhD, with Caroline and other colleagues from Cambridge and the University of Edinburgh. We investigated what safeguards existed to try and prevent child abuse in youth prisons between 1960 and the present day, and how they changed. It's a grim topic, so I can't say that I'm delighted about publishing it. But I am proud of the work.

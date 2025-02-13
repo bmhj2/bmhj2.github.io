@@ -49,7 +49,7 @@ copyright:
   holder: Ben Jarman
   year: 2025
 toc: true # select - false per _metadata.yml default
-draft: true # select
+draft: false # select
 bibliography: jarmanWhoseDataAnyway2025.yaml
 citeproc: true
 citation: true
@@ -65,7 +65,7 @@ Slides for this talk are available [here](/publications/jarmanWhoseDataAnyway202
 
 A few years ago, a colleague of mine was in a difficult position. They had been engaged in a fraught back-and-forth with a funder, about the publication of data from a proposed project which would involve detailed ethnographic interviews with people in prison. Of central interest to the project was how participants felt about the reasons for their imprisonment. In many cases, would involve them narrating the circumstances surrounding a serious violent offence.
 
-The funder, as is now standard, required the full anonymised dataset to be made available in a data repository. My colleague's worry was that this requirement, imposed at the project's inception, would entail the publication of highly personal and sensitive information about participants' lives, something that they might be ill-equipped to consent to. Some interviews would lead to quite deep and personal territory, and invite participants to describe deeply discrediting acts. All of this would put the researchers in a tricky position. Having secured participation on the basis that people's stories would be handled and written up with respect, they would then publish an anonymised dataset online.
+The funder, as is now standard, required the full anonymised dataset to be made available in a data repository. My colleague's worry was that this requirement, imposed at the project's inception, would entail the publication of highly personal and sensitive information about participants' lives, something they might be ill-equipped to consent to. Some interviews would lead to quite deep and personal territory, and invite participants to describe deeply discrediting acts. All of this would put the researchers in a tricky position. Having secured participation on the basis that people's stories would be handled and written up with respect, they would then publish an anonymised dataset online.
 
 My colleague had been unsuccessful in trying to push back on the funder's publication requirement, and felt that their principled objections were being ignored. They were seriously considering arguably oppositional responses./ Was it possible, for instance, in publishing the data, to specify access restrictions so stringent that the data would effectively be impossible to obtain? Or could such broad redactions be applied in de-identifying the interviews, that they would effectively become unusable by others?
 
@@ -103,13 +103,13 @@ This is because, sociologically, they are highly distinctive, in several importa
 
 A further complication arises from the governance of access. On paper, research is *highly* regulated. You write careful ethics applications saying how you will handle data, and you go through a highly demanding gatekeeping process which rejects many research applications, on grounds which include security, but also prisoners' vulnerability. As a result, there are clear boundaries around matters such as confidentiality.
 
-But researchers have often noted that complex and contested organisational cultures influence prison life, to a far greater degree than the rules. Your relationships with prison officers and prisoners are crucial in conducting the research. Those relationships can be tricky, and sometimes ethically complicated. There are intense and murky subcultures among both staff and prisoners, which impose demands on them not always foreseen in rules and policies. Consent is negotiated; trust is contingent and often temporary; motivations aren’t always clear; strong social undercurrents affect who talks to you and what they're prepared to say.
+But researchers have often noted that complex and contested organisational cultures influence prison life, to a far greater degree than the rules. Your relationships with prison officers and prisoners are crucial in conducting the research. Those relationships can be tricky, and sometimes ethically complicated. There are intense and murky subcultures among both staff and prisoners which impose demands that rules and policies do not always foresee. Consent is negotiated; trust is contingent and often temporary; motivations aren’t always clear; strong social undercurrents affect who talks to you and what they're prepared to say.
 
 Prisoners, in particular, often have very different reasons for participating in research. Many are cynical about the potential for research to improve things, but some badly want their opinions to be heard; others hope there will be some intangible benefit to participation; some simply want to be let out of their cell for a couple of hours, or welcome the chance to talk with someone from the outside world. Prisoners engage with formal requirements like consent forms in varied ways, so that you sometimes have to really work to make the claim of informed consent a substantive, not a tenuous one.
 
 Paradoxically, these complicated, hidden dynamics are often *exactly* what insiders---both prisoners and staff---say they wish the outside world knew more about.
 
-Let me illustrate this through a specific example. One of my participants, whom I’ll call Martin, was in prison for a murder involving particularly extreme forms of violence, committed in the grip of psychosis. When I asked if Martin had a pseudonym he would prefer to be known by, he insisted he’d like to be known by his real name. He was proud of the changes he had made in prison, and the insights he had gained into the way he used and thought about violence. He was proud, too, that he could now walk away from the endless provocations of prison life, without ruminating on them endlessly or seeking vengeance. Martin wanted it known, including by those he’d harmed in the past, that he was no longer that person. But I couldn’t grant this request, because it’s a condition of access that no participant be identifiable, on the basis that this might cause further harm to their victims.
+Let me illustrate this through a specific example. One of my participants, whom I’ll call Martin, was in prison for a murder committed in the grip of psychosis and involving extreme forms of violence. When I asked if Martin had a pseudonym he would prefer to be known by, he insisted he’d like to be known by his real name. He was proud of the changes he had made in prison, and the insights he had gained into the way he used and thought about violence. He was proud, too, that he could now walk away from the endless provocations of prison life, without ruminating on them endlessly or seeking vengeance. Martin wanted it known, including by those he’d harmed in the past, that he was no longer that person. But I couldn’t grant this request, because it’s a condition of access that no participant be identifiable, on the basis that this might cause further harm to their victims.
 
 I’d have liked to use Martin’s real name, since on a human level I think his record of desisting from extreme and habitual violence is something worthy of respect, acknowledgment, and perhaps celebration. But the wider rules of the research game mean I can’t do that. It's a worthwhile illustration of my theme: who does Martin's story belong to?
 
@@ -135,7 +135,7 @@ The dominant framework, as many of us know, bears the acronym FAIR [@wilkinsonFA
 
 These principles, while valuable, emerge from assumptions that don’t necessarily hold for the kind of research I've been talking about. One such assumption: the idea that data exists independently of research relationships, that it can be separated from context and reused without a loss of meaning, and that removing identifiers renders it safe to share.
 
-Returning to Martin’s case illustrates some of these problems. The details of Martin’s offence, and those of all but one of the other people I interviewed—can easily be found by searching online for contemporary media coverage of their court cases. It's hard to eliminate the risk that a de-identified transcript of his interview might identify him to anyone with half an hour and the use of a search engine. Carelessness here could have have serious consequences. Some of Martin's counterparts, for instance, were serving time for the murders of children, or offences against other vulnerable victims. Although it is rare, such people have been murdered by other prisoners. We cannot remove everything from which Martin’s identity could be deduced, without rendering the data less reusable and less accessible.
+Returning to Martin’s case illustrates some of these problems. The details of Martin’s offence, and those of all but one of my other interviewees—can easily be found by searching online for contemporary media coverage of their court cases. It's hard to eliminate the risk that a de-identified transcript of his interview might identify him to anyone with half an hour and the use of a search engine. Carelessness here could have have serious consequences. Some of Martin's counterparts, for instance, were serving time for the murders of children, or offences against other vulnerable victims. Although it is rare, such people have been murdered by other prisoners. We cannot remove everything from which Martin’s identity could be deduced, without rendering the data less reusable and less accessible.
 
 Moreover, even were details of the index offence to be entirely redacted, Martin's references to prison social life, in a setting where everyone knows everyone else's business, could make him identifiable to insiders. More generally, participants might express attitudes about violence risk assessments or rehabilitative interventions, which might complicate their progression through the sentence, or otherwise delay their release from prison. What Martin might say to me, he might not choose to say to a parole board.
 
@@ -201,11 +201,11 @@ All of these ideas have implications for how we behave as researchers, and hence
 
 ## Key messages <!-- (2m30s) -->
 
-All that is left is to offer a few key messages, in closing.
+I'd like to offer a few key messages, in closing.
 
-First, the underlying shifts driving the open data agenda is already underway. Data is normally digital first, and the idea that there is some relationship between transparency and quality isn't going away.
+First, the underlying shifts driving the open data agenda are already underway. Data is normally digital first, and the idea that there is some relationship between transparency and quality isn't going away.
 
-Second, then, our task is to engage constructively—which might still include declining to publish data.
+Second, then, our task is to engage constructively. This might still include declining to publish data.
 
 Third, instead of asking ‘whose data is it?’, or behaving as if the answer to that question is "ours", we should ask what responsibilities arise from how our research knowledge came into being. As stewards of our research relationships and the knowledge they generate, we can find ways to honour both our obligations to participants and our commitment to advance knowledge.
 
@@ -217,4 +217,4 @@ And finally, those are conversations which we need to have both within the wider
 :::
 
 [^1]: This policy is under review [@UKRIDevelopingNew2024], and it appears that UKRI might follow the recommendations of an ESRC-commissioned review, which found that current policies underrecognised both the diversity of data used in the social sciences, and the fact that some forms of data *cannot* be made fully open [@allansonDoingESRCData2024].
-[^2]: Other acronyms are available: one that describes humanities data [CORE—Collected, Organised, Recontextualised and Explained, see @gilbyOpenResearchArts] and one relating to indigenous knowledge [CARE—Collective benefit, Authority to control, Responsibility and Ethics, see @carrollCAREPrinciplesIndigenous2020].
+[^2]: Other frameworks are available: one that describes humanities data [CORE—Collected, Organised, Recontextualised and Explained, see @gilbyOpenResearchArts] and one relating to indigenous knowledge [CARE—Collective benefit, Authority to control, Responsibility and Ethics, see @carrollCAREPrinciplesIndigenous2020].

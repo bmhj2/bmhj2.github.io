@@ -11,6 +11,8 @@ draft: false
 citation: true
 ---
 
+![]({{< meta image >}})
+
 This post launches my new website. The timing coincides with a career move: from next Monday, I will be joining the [University of Southampton Law School](https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-law-school) as a Research Fellow, where I'll be working to prepare to publish [my PhD](/publications/jarmanMoralMessagesEthical2024.qmd) as a book, and to undertake new research on parole decision-making in England and Wales.
 
 The site brings together various aspects of my work. Visitors can find information about my current interests and background, access my publications, and read blog posts about my research. I've migrated content from my previous blog, [Changing Inside](https://changinginside.co.uk), which documented my PhD research on life imprisonment between 2018 and 2024, but which will disappear when its current hosting deal expires in March.

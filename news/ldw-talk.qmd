@@ -1,0 +1,47 @@
+---
+author:
+  - ref: bj
+title: "New talk"
+subtitle: "Whose data is it, anyway?"
+date: 2025-02-13
+categories:
+  - news
+  - publication
+description: "Exploring qualitative research data and transparency through the lens of prison research"
+keywords:
+  - open research
+  - research methods
+  - research ethics
+  - prison research
+image: "/_assets/viktor-forgacs-LNwIJHUtED4-unsplash.jpg"
+lang: en-GB
+copyright:
+  holder: Ben Jarman
+  year: 2025
+draft: false
+---
+
+![]({{< meta image >}})
+
+Yesterday I gave a talk as part of the University of Southampton's Love Data Week 2025, exploring how qualitative researchers might engage constructively with calls to share their data openly. Drawing on the particular example of prison research (which exemplifies and sharpens many of the ethical tensions in qualitative research more generally), the talk examined particular challenges around confidentiality, consent, and institutional power.
+
+It also referred to [my recent work](/publications/westburyVoiceRepresentationRelationships2022.qmd) with an interdisciplinary working group in Cambridge. We tried to develop a way of talking and thinking about 'openness' and qualitative methods, but without using terms derived from quantitative social sciences and the STEMM disciplines.^[For example, those posited by [the FAIR framework](https://doi.org/10.1038/sdata.2016.18) on data curation.] This was because we thought those frameworks often misdescribe qualitative data, obscuring both the arguments in favour of making qualitative research more open, and the difficulties involved.
+
+The talk, as well as revisiting that working group's report, explored how there might be productive ways for qualitative researchers to engage with calls for transparency while still honouring their methodological and ethical commitments. The presentation also engaged with recent developments in the field, particularly an ongoing debate in US criminology about qualitative data sharing policies, which has branched out into a wider discussion of transparency and quality standards.
+
+My argument in the paper was that these issues---transparency and quality---appear to be more fundamental than the question of whether open data publication *per se* should become the norm for qualitative researchers. There are ways that qualitative researchers could make it easier for others to evaluate their knowledge claims, not all of which necessarily require the publication of sensitive datasets. I may try to develop these ideas further with some colleagues, so I'd welcome feedback on this working paper.
+
+Slides and full text are available on this site:
+
+- [Paper text](/publications/jarmanWhoseDataAnyway2025.qmd)
+- [Slides](/publications/jarmanWhoseDataAnyway2025Slides.qmd)
+
+For my earlier work on this topic, see:
+
+- ["Can confidential research be reproducible?"](/publications/jarmanCanConfidentialResearch2021.qmd) (2021)
+- ["Open Data and sensitive interviews"](/publications/jarmanOpenDataSensitive2020.qmd) (2020)
+- ["Voice, representation, relationships: report of the Open Qualitative Working Group"](/publications/westburyVoiceRepresentationRelationships2022.qmd) (2022)
+
+::: {.callout-note}
+Photo by <a href="https://unsplash.com/@sonance?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Viktor Forgacs</a> on <a href="https://unsplash.com/photos/red-and-white-open-neon-signage-LNwIJHUtED4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+:::

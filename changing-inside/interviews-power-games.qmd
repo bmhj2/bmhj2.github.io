@@ -14,6 +14,8 @@ keywords:
 image: '/_assets/d58df-interview.jpg'
 ---
 
+![]({{< meta image >}})
+
 This is the second post on a particular interview. Readers who haven't seen the first part might want to [read it first](https://changinginside.co.uk/?p=706). In it, I described someone whose approach to the interview was much more transactional than most. Before agreeing to it, he asked for a kind of tit-for-tat recognition, in the form of a positive entry about the interview in the prison's database.
 
 ## Manipulation or ordinary human interaction?

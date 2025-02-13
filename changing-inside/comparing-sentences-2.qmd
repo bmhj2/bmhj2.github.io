@@ -18,6 +18,8 @@ keywords:
 image: '/_assets/09668-apple-and-orange-e1567544536786.jpg'
 ---
 
+![]({{< meta image >}})
+
 This is the second of two posts thinking about how lifers (and others) might compare what it means to have different lengths of sentence.
 
 In the last post I published, a lifer I called Richard mused about what it meant to him to have the same tariff as other men in his prison workplace, whose offences he saw as being worse than his. He was making a comparison on tariff lengths, with the tariff the period of retributive punishment imposed for a given murder, based on its supposed blameworthiness.

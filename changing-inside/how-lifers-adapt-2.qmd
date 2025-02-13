@@ -14,7 +14,11 @@ keywords:
 image: '/_assets/a56b2-new-growth.jpg'
 ---
 
+::: {.callout-note}
 This is the second of two posts noting my thoughts about a recent study on life imprisonment. The first post can be found [here](https://changinginside.co.uk/?p=414).
+:::
+
+![]({{< meta image >}})
 
 ## Questions raised by this research
 

@@ -18,6 +18,8 @@ copyright:
 draft: false # select
 ---
 
+![]({{< meta image >}})
+
 I have submitted a detailed response to the Ministry of Justice's Independent Sentencing Review, drawing on my research on life imprisonment and comparative work on prison systems internationally. The response examines how current approaches to sentencing and progression create particular challenges for those serving longer sentences, and proposes reforms to progression frameworks and risk assessment.
 
 The response makes several **key recommendations**, including:

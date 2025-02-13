@@ -14,6 +14,8 @@ keywords:
 image: '/_assets/Fish_bowl2.jpeg'
 ---
 
+![]({{< meta image >}})
+
 In my last post I wrote briefly about the rules governing research interactions in prisons, and said that what followed would reflect on some dilemmas and questions thrown up by trying to follow these rules in practice. This post reflects on how one interview became rather more of a transaction than some others.
 
 ## Negotiating the interview

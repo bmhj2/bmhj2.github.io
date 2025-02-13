@@ -20,6 +20,8 @@ image: '/_assets/scott-webb-9u8mko3pgww-unsplash.jpg'
 This was originally posted as a Twitter thread and was reposted on the blog.
 :::
 
+![]({{< meta image >}})
+
 I'm coding interviews. Today it's someone I'll call S. I've been thinking about something he said ever since I met him.
 
 I asked him to draw a timeline, representing the ups and downs of his time in prison. Usually, interviewees drew a zig-zagging line and described the highs and lows prompted by events inside and outside prison, how those events had made them feel, and so on. Most described the sentence as if it had some kind of meaning, whether positive, negative, or both. S, by contrast, drew a completely flat line across the top of the page, and then said:

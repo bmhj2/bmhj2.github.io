@@ -12,6 +12,8 @@ description: Welcome page and description of content on the site
 image: '/_assets/20131115_112633_DDF84CD5.jpg'
 ---
 
+![]({{< meta image >}})
+
 Welcome to the Changing Inside blog. This site exists to share information about my PhD research. You can read more about me (Ben Jarman), the research, and its funders in the sidebar menu.
 
 ## What you will find on this site

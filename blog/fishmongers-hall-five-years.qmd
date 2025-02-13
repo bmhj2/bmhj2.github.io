@@ -41,7 +41,7 @@ But whatever its outcome, and however misplaced my earlier hopes for change, tod
 
 > What Jack would want from this is for all of us to walk through the door he has booted down, in his black Doc Martens. That door opens up a world where we do not lock up and throw away the key. Where we do not give indeterminate sentences, or convict people on joint enterprise. Where we do not slash prison budgets, and where we focus on rehabilitation not revenge. Where we do not consistently undermine our public services, the lifeline of our nation. Jack believed in the inherent goodness of humanity, and felt a deep social responsibility to protect that.
 
-![Jack and friends in happier times. Cambridge, May 2018.](/_assets/jack-and-friends.jpg)
+![]({{< meta image >}})
 
 [^1]: The day before the attack, I had finished the first phase of the research, interviewing men serving life sentences for murder at a category-B prison. I finally finished the PhD earlier this year.
 

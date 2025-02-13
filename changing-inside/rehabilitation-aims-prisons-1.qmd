@@ -15,6 +15,8 @@ keywords:
 image: '/_assets/Pentonvilleiso19.jpg'
 ---
 
+![]({{< meta image >}})
+
 This is the first of a series of three posts. It's been prompted by reading *Struggle for Justice*, a report published by the American Friends Service Committee (AFSC -- a Quaker body) in the 1970s. Published at time when the accepted wisdom of the post-war period --- which favoured rehabilitation as the proper aim for punishment --- was coming under sustained challenge, the report makes a powerful case *against* rehabilitative theories of punishment.
 
 This might seem surprising today, in the context of a criminal justice system that is often perceived as excessively punitive. In the last several years, for example, successive governments in England and Wales have promised a 'rehabilitation revolution' as a means of emptying out prisons. Regardless of whether this has been a success, the language is significant: 'rehabilitation' has a certain appeal, holding out the prospect of turning crime, a social ill, into better outcomes in the future. But the AFSC report sounds a note of caution about such language, for reasons that I think are of lasting interest.

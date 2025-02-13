@@ -26,6 +26,8 @@ draft: [true|false] # select
 # bibliography: [citekey].bib # add if required
 ---
 
+![]({{< meta image >}})
+
 Brief opening paragraph introducing the topic.
 
 ## Main point

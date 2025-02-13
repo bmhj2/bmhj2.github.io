@@ -19,6 +19,8 @@ keywords:
 image: '/_assets/john-tecuceanu-w_EXlvIk2Vk-unsplash.jpg'
 ---
 
+![]({{< meta image >}})
+
 Another reflection based on interview coding. This time it's someone I'll call P. He'd been in prison since I was at primary school (I'm pushing 40 now), and was serving a sentence for a very highly stigmatised offence.
 
 #### Living with labels {#living-with-labels .wp-block-heading}
