@@ -16,7 +16,18 @@
 <link>https://benjarman.uk/blog.html</link>
 </image>
 <generator>quarto-1.7.7</generator>
-<lastBuildDate>Tue, 07 Jan 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Feb 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>New talk</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/news/ldw-talk.html</link>
+  <description><![CDATA[ Exploring qualitative research data and transparency through the lens of prison research ]]></description>
+  <category>news</category>
+  <category>publication</category>
+  <guid>https://benjarman.uk/news/ldw-talk.html</guid>
+  <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/viktor-forgacs-LNwIJHUtED4-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>New publication</title>
   <dc:creator>Ben Jarman</dc:creator>
@@ -239,18 +250,6 @@
   <guid>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-1.html</guid>
   <pubDate>Sat, 02 Feb 2019 00:00:00 GMT</pubDate>
   <media:content url="https://benjarman.uk/_assets/Pentonvilleiso19.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Notes: an agenda for research on long-term imprisonment</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <link>https://benjarman.uk/changing-inside/agenda-research-long-term-imprisonment.html</link>
-  <description><![CDATA[ Reading notes on an article proposing a research agenda on long-term imprisonment ]]></description>
-  <category>posts</category>
-  <category>changing inside</category>
-  <category>reading note</category>
-  <guid>https://benjarman.uk/changing-inside/agenda-research-long-term-imprisonment.html</guid>
-  <pubDate>Mon, 28 Jan 2019 00:00:00 GMT</pubDate>
-  <media:content url="https://benjarman.uk/_assets/scott-graham-5fNmWej4tAA-unsplash.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

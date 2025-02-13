@@ -16,7 +16,16 @@
 <link>https://benjarman.uk/publications.html</link>
 </image>
 <generator>quarto-1.7.7</generator>
-<lastBuildDate>Tue, 07 Jan 2025 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 12 Feb 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Whose data is it, anyway?</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanWhoseDataAnyway2025.html</link>
+  <description><![CDATA[ This talk uses prison research to explore how qualitative researchers can respond to calls for open data sharing while also protecting research participants and maintaining methodological integrity. ]]></description>
+  <category>lecture</category>
+  <guid>https://benjarman.uk/publications/jarmanWhoseDataAnyway2025.html</guid>
+  <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+</item>
 <item>
   <title>A response to the Independent Sentencing Review’s call for evidence</title>
   <dc:creator>Ben Jarman</dc:creator>
@@ -205,14 +214,9 @@
   <guid>https://benjarman.uk/publications/jarmanOnlyOneWay2020.html</guid>
   <pubDate>Tue, 20 Oct 2020 23:00:00 GMT</pubDate>
 </item>
-<item>
-  <title>Tracing the history of child abuse in youth custody</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <link>https://benjarman.uk/publications/jarmanTracingHistoryChild2019.html</link>
-  <description><![CDATA[ Presentation at a day workshop at Oxford Brookes University ]]></description>
-  <category>conference paper</category>
-  <guid>https://benjarman.uk/publications/jarmanTracingHistoryChild2019.html</guid>
-  <pubDate>Tue, 21 May 2019 23:00:00 GMT</pubDate>
+</channel>
+</rss>
+/pubDate>
 </item>
 </channel>
 </rss>

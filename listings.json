@@ -2,6 +2,7 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/jarmanWhoseDataAnyway2025.html",
       "/publications/jarmanIndependentSentencingReview2025.html",
       "/publications/jarmanWorkingPrisonersUSA2024.html",
       "/publications/jarmanPrisonWorkLaw2024.html",
@@ -33,6 +34,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/news/ldw-talk.html",
       "/news/sentencing-review-response.html",
       "/blog/fishmongers-hall-five-years.html",
       "/news/welcome-new-homepage.html",
