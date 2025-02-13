@@ -8,7 +8,6 @@ listing:
   type: table
   contents:
     - "publications/*.qmd"
-    - "!publications/*Slides.qmd"
     - "publications/archived.yml"
   sort: "date desc"
   categories: true
@@ -18,8 +17,6 @@ listing:
     language: en-gb
   fields: [date, title, subtitle, keywords, author]
   sort-ui: [date, title]
-  exclude:
-    unlisted: 'true'
 appendix-style: none
 citation: false
 ---
