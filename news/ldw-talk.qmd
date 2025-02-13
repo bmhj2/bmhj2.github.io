@@ -25,16 +25,18 @@ draft: false
 
 Yesterday I gave a talk as part of the University of Southampton's Love Data Week 2025, exploring how qualitative researchers might engage constructively with calls to share their data openly. Drawing on the particular example of prison research (which exemplifies and sharpens many of the ethical tensions in qualitative research more generally), the talk examined particular challenges around confidentiality, consent, and institutional power.
 
-It also referred to [my recent work](/publications/westburyVoiceRepresentationRelationships2022.qmd) with an interdisciplinary working group in Cambridge. We tried to develop a way of talking and thinking about 'openness' and qualitative methods, but without using terms derived from quantitative social sciences and the STEMM disciplines.^[For example, those posited by [the FAIR framework](https://doi.org/10.1038/sdata.2016.18) on data curation.] This was because we thought those frameworks often misdescribe qualitative data, obscuring both the arguments in favour of making qualitative research more open, and the difficulties involved.
+It also referred to [my past work](/publications/westburyVoiceRepresentationRelationships2022.qmd) with an interdisciplinary working group in Cambridge. We tried to develop a way of talking and thinking about 'openness' and qualitative methods, without using terminology derived from quantitative social sciences and the STEMM disciplines.^[For example, those posited by [the FAIR framework](https://doi.org/10.1038/sdata.2016.18) on data curation.] This was because we thought those frameworks often misdescribe qualitative data, obscuring both the arguments in favour of making qualitative research more open, and the difficulties involved.
 
 The talk, as well as revisiting that working group's report, explored how there might be productive ways for qualitative researchers to engage with calls for transparency while still honouring their methodological and ethical commitments. The presentation also engaged with recent developments in the field, particularly an ongoing debate in US criminology about qualitative data sharing policies, which has branched out into a wider discussion of transparency and quality standards.
 
-My argument in the paper was that these issues---transparency and quality---appear to be more fundamental than the question of whether open data publication *per se* should become the norm for qualitative researchers. There are ways that qualitative researchers could make it easier for others to evaluate their knowledge claims, not all of which necessarily require the publication of sensitive datasets. I may try to develop these ideas further with some colleagues, so I'd welcome feedback on this working paper.
+My argument in the paper was that these issues---transparency and quality---appear to be more fundamental than the narrowed question of whether open data publication *per se* should become the norm for qualitative researchers. There are ways that qualitative researchers could make it easier for others to evaluate their knowledge claims, not all of which necessarily require the publication of highly sensitive datasets.
 
-Slides and full text are available on this site:
+I may try to develop these ideas further with some colleagues from other disciplines, and I'd welcome feedback and ideas on what's still a work in progress.
 
-- [Paper text](/publications/jarmanWhoseDataAnyway2025.qmd)
-- [Slides](/publications/jarmanWhoseDataAnyway2025Slides.qmd)
+Availability:
+
+- [Fulltext](/publications/jarmanWhoseDataAnyway2025.qmd)
+- Slides on request - use contact links [here](/index.qmd)
 
 For my earlier work on this topic, see:
 

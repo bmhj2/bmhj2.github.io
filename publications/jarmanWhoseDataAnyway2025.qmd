@@ -56,7 +56,7 @@ citation: true
 ---
 
 ::: {.callout-tip}
-Slides for this talk are available [here](/publications/jarmanWhoseDataAnyway2025Slides.qmd).
+Slides for this talk are available on request: use the contact links [here](/index.qmd).
 :::
 
 # Setting the scene <!-- (12m45s) -->
