@@ -15,8 +15,19 @@
 <title>Ben Jarman</title>
 <link>https://benjarman.uk/blog.html</link>
 </image>
-<generator>quarto-1.7.7</generator>
-<lastBuildDate>Thu, 13 Feb 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Wed, 18 Jun 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>New publication</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/news/phd-available.html</link>
+  <description><![CDATA[ PhD now available open access ]]></description>
+  <category>news</category>
+  <category>publication</category>
+  <guid>https://benjarman.uk/news/phd-available.html</guid>
+  <pubDate>Wed, 18 Jun 2025 23:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/tim-alex-FC1uuekWoZc-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>New talk</title>
   <dc:creator>Ben Jarman</dc:creator>
@@ -237,18 +248,6 @@
   <category>reading note</category>
   <guid>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-2.html</guid>
   <pubDate>Mon, 04 Feb 2019 00:00:00 GMT</pubDate>
-  <media:content url="https://benjarman.uk/_assets/Pentonvilleiso19.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Rehabilitation and the aims of prisons (part 1)</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <link>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-1.html</link>
-  <description><![CDATA[ First in a series of posts on how English prisons realise the aim of rehabilitation ]]></description>
-  <category>posts</category>
-  <category>changing inside</category>
-  <category>reading note</category>
-  <guid>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-1.html</guid>
-  <pubDate>Sat, 02 Feb 2019 00:00:00 GMT</pubDate>
   <media:content url="https://benjarman.uk/_assets/Pentonvilleiso19.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
