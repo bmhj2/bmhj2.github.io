@@ -1,0 +1,35 @@
+---
+author:
+  - ref: bj
+title: "New publication" # add
+date: 2025-06-19
+categories: # select from
+  - news
+  - publication
+description: "PhD now available open access" # add
+keywords: # add as needed
+  - life imprisonment
+  - moral reflection
+  - life sentences
+image: "/_assets/tim-alex-FC1uuekWoZc-unsplash.jpg" # add as appropriate
+lang: en-GB
+license: CC BY 4.0 # select, CC BY-NC-SA 4.0 by _metadata.yml default
+copyright:
+  holder: Ben Jarman
+  year: 2025
+# toc: [true|false] # select, false by _metadata.yml default
+draft: false # select
+# bibliography: [citekey].bib # add if required
+---
+
+![]({{< meta image >}})
+
+My PhD dissertation, completed at Cambridge in 2024, is now Open Access, following the expiry of the embargo period. It investigates how men serving life sentences for murder navigate the moral and ethical dimensions of their punishment, exploring their responses to society's judgement and their attempts to construct positive identities within the constraints of lifelong imprisonment.
+
+The research draws on in-depth interviews with life-sentenced prisoners to examine how they make sense of their situation and engage with questions of responsibility, redemption, and reform. It contributes new insights into the lived experience of extreme punishment and its implications for both penal theory and practice.
+
+The thesis is available [on this website](https://benjarman.uk/phd_thesis "Website version") or [as a PDF](https://www.repository.cam.ac.uk/handle/1810/369145 "PDF version") from the Cambridge repository.
+
+:::{.callout-note}
+Photo by <a href="https://unsplash.com/@thelondoner?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tim Alex</a> on <a href="https://unsplash.com/photos/beige-concrete-building-during-daytime-FC1uuekWoZc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+:::

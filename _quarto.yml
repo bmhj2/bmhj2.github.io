@@ -23,6 +23,8 @@ website:
         text: Blog
       - href: publications.qmd
         text: Publications
+      - href: https://benjarman.uk/phd_thesis
+        text: PhD
       # - href: teaching.qmd
       #   text: Teaching
       - href: _assets/cv.pdf

@@ -100,7 +100,7 @@ citation:
   event-place: Cambridge
   issued: 2024-06-06
   language: en-GB
-  license: CC BY, embargoed to 2025-06-06
+  license: CC-BY
   number-of-pages: '338'
   publisher: Apollo - University of Cambridge repository
   publisher-place: Cambridge
@@ -113,4 +113,4 @@ citation:
 
 # Availability
 
-Embargoed but can be requested from <https://www.repository.cam.ac.uk/handle/1810/369145>.
+Available on the web at <https://benjarman.uk/phd_thesis> or as a PDF from <https://www.repository.cam.ac.uk/handle/1810/369145>.
