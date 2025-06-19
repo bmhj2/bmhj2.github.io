@@ -1,0 +1,155 @@
+---
+title: CV
+format:
+  quarto-cv-pdf: default
+author: Ben Jarman
+date: last-modified
+date-format: Do MMMM YYYY
+phone: "+442380598890"
+address: "University of Southampton Law School · University Road · Southampton SO17 1BJ"
+email: ben@benjarman.uk
+fontsize: 11pt
+orcid: 0000-0003-3527-5437
+web: benjarman.uk
+github: bmhj2
+fontawesome: yes
+nocite: '@*'
+bibliography: 
+  peer: peer_bib.json
+  reports: reports_bib.json
+  thesis: thesis_bib.json
+  keynotes: keynotes_bib.json
+validate-yaml: false
+csl: "./harvard-cite-them-right.csl"
+---
+
+# Education
+
+*University of Cambridge*&nbsp; &nbsp; &nbsp; &nbsp; PhD, Criminology (pass with no corrections) \hfill 2018-2024
+
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;MPhil, Criminological Research (pass with distinction) \hfill 2016-2017
+
+&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;BA (Hons), History & Religious Studies (II:1) \hfill 2000-2003
+
+*UCL Institute of Education*&nbsp; &nbsp;Postgraduate Certificate in Education, Secondary History (pass) \hfill 2006-2007
+
+# Employment
+
+**University of Southampton** \hfill Dec 2024-present
+
+*Anniversary Fellow*&nbsp; &nbsp;
+Postdoctoral research fellowship investigating parole decisions in England & Wales.
+
+**Birkbeck College** (London) \hfill Jul 2022-Nov 2024
+
+*Senior Research Associate*&nbsp; &nbsp;
+Overall responsibility for research on 'Unlocking potential', a comparative project on prison work and prison labour in three countries. Desk research and write-up, designed study, carried out remote and in-person research and fieldwork.
+
+**Prison Reform Trust** (London) \hfill Oct 2021-Apr 2022
+
+*Knowledge Exchange Fellow*&nbsp; &nbsp;
+Collaboration: research and write-up of a prisoner policy consultation; roundtable events with senior practitioners and stakeholders; contributions to independent commission report on sentencing policy.
+
+**Institute of Criminology** (Cambridge) \hfill Nov 2017-Apr 2018
+
+*Research assistant*&nbsp; &nbsp;
+Research assistance on two projects: archival research commissioned by HMPPS to inform its responses to a judicial inquiry; and analysis of qualitative interviews with senior prison leaders.
+
+**Clinks** (London) \hfill Oct 2015-Jul 2016
+
+*Valuing Volunteering Project Manager*&nbsp; &nbsp;
+Project manager for Valuing Volunteering in Prison. Conducted practitioner and prisoner interviews, analysis, write-up, commissioned and project-managed contributions from 14 partner organisations, on a very tight timescale amid evolving funder demands.
+
+**Fine Cell Work** (London) \hfill Oct 2012-Sep 2015
+
+*Volunteers & Programmes Manager*&nbsp; &nbsp;
+Programme manager. Led support, recruitment, training, and management of volunteers working in 25 prisons nationally. Project-managed rollout of new accredited qualifications built around the programme.
+
+**Clinks** (London) \hfill Oct 2011-Sep 2012
+
+*Volunteering Development Officer*&nbsp; &nbsp;
+Liaison with member organisations, research and write-up of case studies, good practice guidance and policy briefings.
+{{< pagebreak >}}
+**Quaker Council for European Affairs** (Brussels) \hfill Sep 2010-Oct 2011
+
+*Programme Assistant*&nbsp; &nbsp;
+International comparative research on prisoner social reintegration policies in Council of Europe member states.
+
+**Immanuel College** (Bushey) \hfill Aug 2007-Jul 2010
+
+*Teacher of History & Politics*&nbsp; &nbsp;
+Classroom teacher of pupils aged 11-18, professional mentor of trainee teachers, curriculum development specialist.
+
+**St Francis Xavier College** (London) \hfill Jan 2005-Jul 2006
+
+*Teacher of Student Support*&nbsp; &nbsp;
+Classroom teacher and teaching assistant working with young people with specific learning difficulties in a 16-19 Further Education college.
+
+**Advertising Standards Authority** (London) \hfill Jul 2003-Nov 2004
+
+*Investigations Executive*&nbsp; &nbsp;
+Investigations into public and B2B complaints about advertising and marketing.
+
+# Grants, awards and professional memberships
+
+**2024-present** University of Southampton Anniversary Fellowship
+
+**2021** ESRC Knowledge Exchange Fellowship
+
+**2018-2022** ESRC Studentship (co-funded by ESRC and Quakers in Britain)
+
+**2017** Manuel López-Rey Graduate Prize, *Proxime accessit* (University of Cambridge, Criminology)
+
+**2017-present** Member: British Society of Criminology, European Society of Criminology
+
+**2013-2014** Successful £150k bid to the Tudor Trust to set up a new mentoring service at HMP Wandsworth
+
+**2008** General Teaching Council for England: Qualified Teacher Status (Secondary History)
+
+**2003** Lightfoot Prize (University of Cambridge, History)
+
+# Selected publications^[Full list: <https://benjarman.uk/publications.html>]
+
+## Peer-reviewed articles
+
+::: {#refs-peer}
+:::
+
+## PhD
+
+::: {#refs-thesis}
+:::
+
+## Briefings and reports
+
+::: {#refs-reports}
+:::
+
+## Keynotes
+
+::: {#refs-keynotes}
+:::
+
+# Selected knowledge exchange activities
+
+**2022** Two roundtable events bringing together senior prison managers and civil servants to discuss the findings of PRT consultation on progression and parole for long-term prisoners in England & Wales
+
+**2021** Adviser to the Independent Commission on the Experiences of Victims and Long-Term Prisoners, attending meetings, writing briefings, and drafting report chapters
+
+**2019** Led workshop on desistance and long-term prisoners for staff and volunteers working with the Community Chaplaincy Association
+
+**2018** Practitioner training for prison staff on findings of the Safeguarding in the Secure Estate project
+
+# Key research skills
+
+**Qualitative** Research methods training: Qualitative Research in Practice (University of Cambridge). Experienced in sensitive research topics; semi-structured interviews; focus groups; qualitative analysis with NVivo/Atlas.ti; historical/archival research; team research; research data management; AI transcription using open-source LLMs.
+
+**Quantitative** Research methods training: Introducing Quantitative Analysis and Factor Analysis (University of Cambridge). SPSS, SurveyMonkey.
+
+**Publishing** Self-taught user of document publication systems (WordPress, Markdown, Typora, VSCode, Pandoc, Quarto, GitHub Pages, Typst); self-taught user of software packages and platforms relating to Open Access publishing and version control systems (PubPub, Symplectic Elements, Git); has published on the ethics of open research and data publication in qualitative research featuring confidential and sensitive data.
+
+**Prison-specific** Negotiating access and recruiting participants in challenging environments; working with prison staff; building rapport; conducting research ethically in complex circumstances.
+
+# References
+
+Available on request.

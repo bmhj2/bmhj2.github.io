@@ -27,7 +27,7 @@ website:
         text: PhD
       # - href: teaching.qmd
       #   text: Teaching
-      - href: _assets/cv.pdf
+      - href: "/cv/cv.pdf"
         text: CV
     right:
       - icon: rss

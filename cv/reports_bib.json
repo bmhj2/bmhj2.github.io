@@ -1,0 +1,97 @@
+[
+  {
+    "id": "jarmanWorkingPrisonersUSA2024",
+    "type": "report",
+    "title": "Working prisoners in the USA: laws, policies, and practical realities",
+    "author": [
+      {"family": "Jarman", "given": "Ben"},
+      {"family": "Fair", "given": "Helen"}
+    ],
+    "publisher": "Institute for Crime & Justice Policy Research",
+    "publisher-place": "London",
+    "issued": {"date-parts": [["2024", 9, 11]]},
+    "URL": "https://eprints.bbk.ac.uk/id/eprint/53813"
+  },
+  {
+    "id": "jarmanWorkingPrisonersUK2024",
+    "type": "report",
+    "title": "Working prisoners in the UK: laws, policies, and practical realities",
+    "author": [
+      {"family": "Jarman", "given": "Ben"},
+      {"family": "Fair", "given": "Helen"}
+    ],
+    "publisher": "Institute for Crime & Justice Policy Research",
+    "publisher-place": "London",
+    "issued": {"date-parts": [["2024", 7, 10]]},
+    "URL": "https://eprints.bbk.ac.uk/id/eprint/53811"
+  },
+  {
+    "id": "jarmanLabouringBarsAssessing2023",
+    "type": "report",
+    "title": "Labouring behind bars: assessing international law on working prisoners",
+    "author": [
+      {"family": "Jarman", "given": "Ben"},
+      {"family": "Heard", "given": "Catherine"}
+    ],
+    "publisher": "Institute for Crime & Justice Policy Research",
+    "publisher-place": "London",
+    "issued": {"date-parts": [["2023", 11, 9]]},
+    "URL": "https://eprints.bbk.ac.uk/id/eprint/53263"
+  },
+  {
+    "id": "westburyVoiceRepresentationRelationships2022",
+    "type": "report",
+    "title": "Voice, Representation, Relationships: Report of the Open Qualitative Research Working Group",
+    "author": [
+      {"family": "Westbury", "given": "Margaret"},
+      {"family": "Candea", "given": "Mathieu"},
+      {"family": "Gabrys", "given": "Jennifer"},
+      {"family": "Hennessy", "given": "Sara"},
+      {"family": "Jarman", "given": "Ben"},
+      {"family": "McNeice", "given": "Kiera"},
+      {"family": "Sharma", "given": "Curtis"}
+    ],
+    "publisher": "University of Cambridge",
+    "issued": {"date-parts": [["2022", 12, 20]]},
+    "DOI": "10.17863/CAM.91979"
+  },
+  {
+    "id": "jarmanMakingProgressWhat2022",
+    "type": "report",
+    "title": "Making Progress? What progression means for people serving the longest sentences",
+    "author": [
+      {"family": "Jarman", "given": "Ben"},
+      {"family": "Vince", "given": "Claudia"}
+    ],
+    "publisher": "Prison Reform Trust",
+    "publisher-place": "London",
+    "issued": {"date-parts": [["2022", 10, 3]]},
+    "ISBN": "978-1-908504-61-6",
+    "DOI": "10.17863/CAM.89107"
+  },
+  {
+    "id": "icevlpMakingSenseSentencing2022",
+    "type": "report",
+    "title": "Making sense of sentencing: Doing justice to both victim and prisoner",
+    "author": [{"literal": "Independent Commission into the Experience of Victims and Long-Term Prisoners"}],
+    "publisher": "Independent Commission into the Experience of Victims and Long-Term Prisoners",
+    "publisher-place": "London",
+    "issued": {"date-parts": [["2022", 6, 15]]}
+  },
+  {
+    "id": "jarmanSafeguardingChildrenSecure2018",
+    "type": "report",
+    "title": "Safeguarding Children in the Secure Estate, 1960-2016",
+    "author": [
+      {"family": "Jarman", "given": "Ben"},
+      {"family": "Delap", "given": "Lucy"},
+      {"family": "Jackson", "given": "Louise"},
+      {"family": "Lanskey", "given": "Caroline"},
+      {"family": "Marshall", "given": "Hannah"},
+      {"family": "Gelsthorpe", "given": "Loraine"}
+    ],
+    "publisher": "University of Cambridge Institute of Criminology",
+    "issued": {"date-parts": [["2018", 10, 18]]},
+    "DOI": "10.17863/CAM.34871"
+  }
+]

@@ -96,6 +96,8 @@ $endfor$
 
 
 % Make lists without bullets
+$if(bullets)$
+$else$
 \renewenvironment{itemize}{
   \begin{list}{}{
     \setlength{\leftmargin}{1.5em}
@@ -103,7 +105,7 @@ $endfor$
 }{
   \end{list}
 }
-
+$endif$
 
 % Make parskips rather than indent with lists.
 \usepackage{parskip}
@@ -152,8 +154,7 @@ $endif$
 % Make AP style (kinda) dates for the updated/today field
 
 \usepackage{datetime}
-\newdateformat{apstylekinda}{%
-  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+\newdateformat{apstylekinda}{\THEDAY\nobreakspace\monthname[\THEMONTH]\nobreakspace\THEYEAR}
 
 % \emph{Updated:} \apstylekinda\today
 % ^ removed from that front bar.
