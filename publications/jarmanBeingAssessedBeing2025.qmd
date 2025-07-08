@@ -1,0 +1,149 @@
+---
+abstract: >
+  This paper draws on qualitative data from interviews with men serving life
+  sentences for murder to explore their experiences of parole decision-making
+  processes. Whilst research on parole decisions has historically focused on
+  the oral hearing as a discrete event, this paper offers a preliminary
+  investigation into how prisoners perceive and navigate the broader
+  administrative processes that shape parole outcomes. Drawing on an
+  understanding of parole as a 'social process' [@tataSentencingSocialProcess2020] rather than a
+  singular decision point, the paper will consider how prisoners interpret and
+  respond to the compilation of their parole dossiers, their perceptions of risk
+  assessment procedures, and the ways in which their lived experiences are
+  translated by the parole dossier to become evidence of manageable or
+  unmanageable risk, for consideration by the Parole Board. Through this
+  consideration, the paper will reflect on questions regarding power, legitimacy
+  and agency at the intersection of punishment and risk management.
+
+author:
+  - ref: bj
+title: "Being assessed, being processed"
+subtitle: "Life-sentenced prisoners' experiences of parole decision-making"
+date: "2025-07-03"
+categories:
+  - conference paper
+  - presentation
+description: >
+  Working paper presented in July 2025, describing a qualitative analysis of
+  life-sentenced prisoners' experiences navigating parole decision-making
+  processes.
+funding: >
+  The research described here was conducted as part of an ESRC Knowledge
+  Exchange PhD Studentship, grant reference ESRC-2405252, co-funded by a
+  Quakers in Britain Adult Education Grant, reference AE-016 2018/19. The new
+  research referenced here is part of the author's Anniversary Fellowship at the
+  University of Southampton. The funders had no role in the design, conduct,
+  analysis or reporting of the research.
+keywords:  
+  - parole
+  - decision-making
+  - life sentences
+  - risk assessment
+  - back-door sentencing
+  - time
+  - performativity
+lang: en-GB
+# doi: 
+# url: 
+license: CC BY-NC-SA 4.0
+copyright:
+  holder: Ben Jarman
+  year: 2025
+toc: false
+format-links:
+  - typst
+draft: true
+bibliography: jarmanBeingAssessedBeing2025.bib
+citation: true
+---
+
+::: {.callout-tip}
+Slides for this talk are available on request: use the contact links [here](/index.qmd).
+:::
+
+## Introduction
+
+This paper bridges past and future research. My PhD analysed how men serving life sentences for murder navigate moral questions and institutional demands for risk reduction. I used interviews and prison documents to explore these questions with 48 men held in two English prisons, in 2019 and early 2020.
+
+Twenty-six of them were approaching or had passed their tariff dates, placing them in scope for parole decisions—a term I’m using broadly to encompass not just oral hearings, but the wider apparatus of sentence planning, risk assessment, and dossier compilation. This reflects how participants themselves saw the decision: as the result of a process, not an event, and in which they did not always differentiate clearly between the roles of the Prison Service and the Parole Board.
+
+Though parole remains under-researched [@sparksCrimeJusticeResearch2020], recent interest is growing. Existing observational research, both in the past and more recently, has tended to focus on parole hearings themselves [e.g. @hawkinsAssessingEvilDecision1983; @padfieldExplorationDecisionmakingDiscretionary2000; @padfieldParoleBoardOral2017; @shammasPerilsParoleHearings2019; @daganParoleBoxingMatch2024; @peplowCommunicationRepairParole2024]. A consistent finding, both from quantitative studies which note strong correlations, and observational studies of parole board panellists' thinking, is that the pre-hearing stages of the process strongly shape the eventual decision [e.g. @hoodParoleSystemWork2000; @dykeHowParoleBoard2020; @padfieldParoleBoardOral2017; @bradfordDecisionmakingProcessParole2012; @powerReleaseNotRelease2018; @finnisFormidableDocumentFailure2017]. But the pre-hearing stages remain under-explored: our view of *how* work by prison staff shapes the decision is dated, and there's very little available on decision-making in the roughly 45% of all cases that are concluded on the papers. We know *that* it does, but not *how* they interpret evidence, understand risk, or prioritise competing considerations.
+
+Given these gaps in our understanding, today I'll describe three themes from re-analysing those 26 interviews: temporal disruption, procedural expectations, and performativity. These represent a rough-and-ready exploration whilst I develop new research—offered to stimulate discussion, not as any last word.
+
+After covering these themes, I’ll draw together some threads and relate them to the new research I’ve got in the pipeline; and in the discussion at the end, I’d love to hear what resonates with you.
+
+## Temporal disruption: the parole process and lived time
+
+My first theme relates to time. Entering the parole process appeared to disrupt participants’ experience of time, reactivating past events and future possibilities in ways that were often disorienting.
+
+The 26 men I’m focusing on had served an average of 17 years. For most, there had been long stretches of what some called ‘dead time’ or ‘stagnation’. They felt warehoused by a system that expected little from them. Then the parole process changed everything: unsettling the past; making the future more uncertain (and yet more appealing); and puitting them into a cycle of increased urgency and fresh delay.
+
+The relevant past suddenly expanded beyond the original offence to encompass years of documented custodial behaviour. Participants found themselves blindsided when long-dormant incidents acquired fresh significance through risk assessment—often resurfacing on paper, without interview or context. Billy had served around ten years and had believed that he was in good shape to progress to an open prison, when a Prison Offender Manager told him that he should have been given a full psychological assessment, something which Billy believed could add conditions to his progression. The POM had admitted, he said, that “we forgot you. You’ve gone through the system and you’ve been forgotten.”
+
+As to the future: a new version of it comes into view when the parole window kicks in. It is a profoundly uncertain future, yet also an intensely appealing one, if the alternative is more prison time. Often, the uncertainties related to whether they were, in fact, in good standing regarding their sentence plan objectives. Ebo expressed frustration that his many years of effort to "put [him]self in a good position" were captured neither by prison files, nor by any contact between him and report writers.
+
+Paradoxically, some participants welcomed impending reviews as they could prompt OMUs to address neglected casework, though assessment by unfamiliar staff carried risks
+
+External circumstances compounded uncertainty. Some faced serious health problems or bereavement, desperate to see family while still possible. As Tom said: “[I just want to] get it over and done with […] I just want to know […] All this time [since the last assessment] is limbo.”
+
+As some of these quotes suggest, some participants were increasingly perceiving time as cyclical, not linear. Fred, who was 15 years over tariff and waiting for what would be his seventh hearing, felt as if he was on the verge of disengaging entirely, instead of remaining trapped in this cycle: “I’ve had enough of this bullshit and dickering around and I’m going to get to the stage where [I say] ‘That’s YOUR parole board. I’m not even engaging. Just leave me alone.’ […] They keep dangling the carrot, and just as I get to the carrot, they hit you with a fucking stick.”
+
+This temporal disorientation gives past actions new significance whilst future possibilities feel simultaneously urgent and illusory. Having experienced years of ‘nothing time’ in which they felt they had been ignored, being up for review caused many of these men to reflect on what was under scrutiny. Those who were approaching their first few reviews, and did not yet feel trapped in the cycle, often expressed hopes for a particular kind of recognition.
+
+
+## Procedural expectations: risk assessment vs. moral evaluation
+
+What they discovered in practice was a tension between expectation and reality. My second theme relates to expectations of the process. Administratively, a parole review is a risk assessment—nothing more, nothing less. It decides only whether continued incarceration is necessary to protect the public. But the Board’s ‘court-like’ functions mean that it also exercises sentencing powers [@padfieldTariffHumanRights2002]. Its decisions inevitably communicate something normative, raising questions—within prisons and among the wider public—about the moral justifications for punishment, and about who ‘deserves’ freedom. Many participants expected the parole process to engage in this kind of evaluation, and they mostly discovered that it did not.
+
+Most participants narrated significant personal change after an average of 17 years inside. While earlier-stage prisoners often used language recognisable from cognitive behavioural programmes, those approaching release described deeper shifts in _character_ [@sennettCorrosionCharacterPersonal1998]—that is, long-term changes in their emotional priorities. Daniel reflected on this in relation to a growing sense of interdependency. Jeff simply said: "I didn't know then that I could be kind to people, you know?" And Grant remarked that though his beliefs had not changed, his willingness to inflict them on others had lessened over time.
+
+Though these quotes might describe something very real about the person, they don't necessarily translate easily into the language of risk. Participants sometimes approached parole hearings expecting that these broader changes in character would be taken into account, but then found the process focused tightly on more technical risk indicators. To put this bluntly, risk assessments are not necessarily interested in personal transformations in character. Frank remarked on how much of a recent hearing had been taken up with discussing a pain relief prescription.
+
+> They were so intent on the fact that [I’ve been prescribed codeine] for pain […] They spent maybe even half an hour talking about it, which is [more than] they talked about the crime I committed.
+
+The focus on codeine was justified by Frank's history of opiate abuse. Yet he seemed bemused by the relative neglect of his changing feelings about the lives lost through his offence—a misrecognition [@mcneillMassSupervisionMisrecognition2019] captured when the Board told him:^[These words are clearly used a lot, because other participants mentioned them as well.]
+
+> What the Parole Board did say, was, we don’t focus on the positives, because they’re a given. We’re here to focus on the negatives.
+
+It wasn't exactly that a risk focus was seen as illegitimate. Grant insisted that having killed his wife, there was "absolutely no way I’ll get into a future relationship”, but his proposed licence conditions included a disclosure requirement if he did, and he accepted this, saying, "of course there’s a bloody increased risk". But participants found dissonance between their moral frames and the process's risk focus. Nicholas captured this:
+
+> I understand that there is that risk… But I still believe that everybody should be treated as an individual.
+
+While I’m not trying to downplay the importance of risk assessment, these examples reveal how it also fails to recognise that lifers have often experienced personal change in a language and a register which doesn’t resonate with the risk paradigm. Learning that this disconnect exists, and learning (like Grant and Nicholas) to accept its demands, represented a performative challenge, and it's performativity that's my third theme.
+
+
+## Performativity: self-presentation and psychological integrity
+
+Self-presentation emerged as a prominent theme, which I'll discuss as performativity—acknowledging that performance implies an audience.
+
+Given that parole involves release from prison, the incentives to perform are extremely powerful ones. As Taylor observed, “90% of us in this jail tell [parole boards] what they want to know.” But this represented a spectrum of different approaches. At one end stood Alf’s defensive minimalism: “I’m just going to say, ‘yes, sir. No, sir. Three bags full, sir.’” Quite similar was Nixon’s calculated compliance—engaging “because I had to” and being open on a "need to know basis". At another extreme was Daniel's commitment to full disclosure—"you just lay your soul bare"—though he and others identified personal costs such as retraumatisation, and there were also risks to offering up too much information. In the middle there were a range of sophisticated attempts to negotiate over the narrative: to perform manageable risk, while also carving out space for one's own particular self-identity.
+
+This was starkest among those maintaining innocence. Ian claimed innocence of murder yet accepted responsibility for managing risks portrayed in his dossier. When I asked about this contradiction Ian said:
+
+> I’ve said I’m not proud of the way I was […] in relation to the affairs. I can openly admit, I said, “No-one deserves that, I wouldn’t want that for my daughters.” And it’s a matter then of just having the empathy, to the […] hurt and the pain that you’ve caused.
+
+This is a particularly striking example, but well illustrates the kinds of balancing act I am describing. So rather than suggesting a clear division between open/honest engagement on the one hand, and strategic/manipulative engagement on the other, what we actually see is something more nuanced, in which most participants were perform in line with what they thought assessors expected, while also trying to maintain a sense of psychological integrity with aspects of how they saw themselves and their biographies.
+
+Those repeatedly knocked back showed different patterns. Chris, facing the possibility of a seventh or eighth knockback, adopted a self-destructive flippancy. Pressed repeatedly about encountering his co-defendant—"What if he follows you? What if he won't go away?"—he finally snapped: "Well then I'll fucking kill him!" adding bitterly, "that's the answer he wanted." Fred—in a similar position and who we heard earlier speaking of the carrot and the stick—offered another image to describe the stacked odds he perceived:
+
+> It’s like having a a pair of scales, yeah? And they’ve got a big weight already fucking tilting the scales on one side that says public protection.
+
+What I’m suggesting, again, is that for those who return to the process over and over again, performing a certain kind of selfhood and putting their hopes in the Board’s hands, there may be diminishing returns. Fred and Chris prioritised psychological and narrative integrity over continued engagement. As Derek, who at 35 years and counting was the longest-serving prisoner in my whole sample, remarked: “It’s the hope that kills you”.
+
+
+## Future directions: beyond prisoner testimony
+
+How do decision-makers perceive different presentational styles? Do *they* recognise performative compliance, and if so, how do they interpret it in making their assessments? How do prisoners fare who cannot find psychologically sustainable ways of engaging with risk frameworks?
+
+Observing that prisoners are frustrated and feel objectified by risk assessment isn't groundbreaking. But prisoner interviews alone can't explain why these patterns emerge. Despite parole's considerable impact, the dossier preparation process has never been observed in depth. Without understanding how dossiers are compiled—under what constraints, with what priorities—we cannot distinguish between administrative carelessness, resource limitations, and fundamental problems.
+
+There are critical issues that prisoner accounts alone cannot illuminate. Given serious staffing pressures and shortages of experienced OMU staff, who receives genuinely individualised assessment? How do staff weigh different forms of evidence? When Frank’s hearing focused more on his codeine prescription than his expressions of remorse, why was that? Understanding these patterns requires triangulating prisoner testimonies with staff interviews, observational data, and documentary evidence.
+
+The research I’m developing therefore examines the parole decision as a socially situated process [see @tataSentencingSocialProcess2020] to which many different people contribute—not as the product of a single decision-making event. It will be a mixed-methods study combining quantitative analysis of Parole Board documents with ethnographic work following individual cases through the parole process.
+
+The quantitative component will code a dataset from Parole Board documents, and then analyse associations between dossier data points and parole outcomes relating to prisoners held at specific sites. The qualitative component will follow 25-30 cases at the same sites longitudinally, through interviews, observation, and document analysis.
+
+Triangulating these perspectives should illuminate how resource constraints shape assessment, what drives staff priorities, and how strategic presentations are perceived. I’ve just received ethics clearance, and submitted access applications to the Parole Board and HMPPS last week. I hope to start data collection later this year.
+
+This matters because parole decisions carry enormous symbolic weight and practical consequences—shaping prison populations, communicating societal values, affecting individual lives. Understanding them as complex institutional processes rather than discrete events is essential for meaningful improvement. I'd love to hear your thoughts.
