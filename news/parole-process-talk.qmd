@@ -1,0 +1,57 @@
+---
+author:
+  - ref: bj
+title: "New talk"
+subtitle: "Being assessed, being processed: Life-sentenced prisoners' experiences of parole"
+date: "2025-07-03"
+categories:
+  - news
+  - publication
+description: "Exploring themes of time, moral evaluation, and performativity in parole processes"
+keywords:
+  - parole
+  - risk assessment
+  - life sentences
+  - research presentation
+image: "/_assets/srijan-mohan-V9D6ItZvhnM-unsplash.jpg"
+lang: en-GB
+copyright:
+  holder: Ben Jarman
+  year: 2025
+draft: false
+---
+
+![]({{< meta image >}})
+
+Last week I presented new research on a panel about parole at the British Society of Criminology conference. This working paper bridges my PhD research and my current work as an Anniversary Fellow at Southampton, and offers some preliminary insights into an under-researched area.
+
+While existing research on parole has typically focused on the oral hearing as a discrete event, I'm interested in thinking about the parole decision as the product of a complex social process, which shapes prisoners' experiences long before and after the hearing itself.
+
+## Key findings
+
+Drawing on interviews with 26 of the life-sentenced men who participated in my PhD research---those who were approaching or had passed their tariff dates, and hence had some experience of this longer social process---the paper explores three key themes. The analysis revealed three interconnected themes in prisoners' experiences:
+
+- **Temporal disruption**: The parole process significantly disrupts prisoners' experience of time, reactivating past events and future possibilities in often disorienting ways. For many, this creates a cycle of heightened hope followed by prolonged uncertainty.
+
+- **Procedural expectations**: A tension exists between prisoners' expectations of moral evaluation and recognition versus the system's narrow focus on risk assessment. This disconnect creates challenges for those who have experienced personal transformation in prison.
+
+- **Performativity**: Prisoners must navigate complex self-presentation challenges, balancing compliance with psychological integrity while facing strong incentives to perform in ways that demonstrate reduced risk.
+
+These findings highlight issues including power, legitimacy, and agency which arise in the parole process, particularly for those who are repeatedly assessed and knocked back for parole.
+
+I'd welcome feedback on the working paper, or the project itself. Contact links are at the end of this post, or on the [homepage](/index.qmd).
+
+## Future directions
+
+The paper is based on a re-analysis of interviews which were not initially designed to 'target' views of the parole process. The findings are therefore exploratory, but they are intended to freshen my thinking for a longer mixed-methods study which will examine parole as a socially situated process. It aims to combine quantitative analysis of Parole Board documents with ethnographic work following individual cases through the entire parole process, providing a more comprehensive understanding of how these decisions are made and experienced.
+
+I plan to write a little more about that study once I have the approvals I need to go ahead, and the shape of the project is clearer. But I've been working on the design and various ethics and access applications for this project since I started at Southampton last December---the barriers to entry for prison research are steep, and simply getting into the field can take a long time. Final ethics approval came through last month, and I am waiting to hear back from HMPPS's and the Parole Board's research application procedures.
+
+## Links
+
+- Working paper: [Full text](/publications/jarmanBeingAssessedBeing2025.qmd)
+- Slides available on request - use contact links [here](/index.qmd) to request
+
+::: {.callout-note}
+Photo by <a href="https://unsplash.com/@srijancm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Srijan Mohan</a> on <a href="https://unsplash.com/photos/a-clock-on-a-wall-V9D6ItZvhnM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+:::

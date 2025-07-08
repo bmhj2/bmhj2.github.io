@@ -52,7 +52,7 @@ copyright:
 toc: false
 format-links:
   - typst
-draft: true
+draft: false
 bibliography: jarmanBeingAssessedBeing2025.bib
 citation: true
 ---
