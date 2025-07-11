@@ -5,7 +5,9 @@ about:
   template: jolla
   image: profile.jpg
   links:
-    - icon: envelope-at-fill
+    - text: "{{< iconify fa-solid university >}} Staff profile"
+      href: "https://www.southampton.ac.uk/people/667tyx/doctor-ben-jarman"
+    - icon: envelope-fill
       text: Email
       href: "mailto:ben@benjarman.uk"
     - icon: linkedin
@@ -13,7 +15,7 @@ about:
       href: https://www.linkedin.com/in/bjarman-/
     - text: "{{< iconify simple-icons bluesky >}} Bluesky"
       href: "https://bsky.app/profile/benjarman.uk"
-    - text: "{{< iconify simple-icons orcid >}} ORCiD"
+    - text: "{{< iconify academicons orcid >}} ORCiD"
       href: "https://orcid.org/0000-0003-3527-5437"
     - text: "{{< iconify academicons zotero-square >}} Zotero"
       href: "https://www.zotero.org/bmhj"
