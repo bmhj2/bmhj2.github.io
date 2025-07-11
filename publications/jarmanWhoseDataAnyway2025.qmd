@@ -213,7 +213,11 @@ And finally, those are conversations which we need to have both within the wider
 
 [Offer a final note on the UKRI change…]
 
-::: {.refs}
+{{< pagebreak >}}
+
+# References
+
+::: {#refs}
 :::
 
 [^1]: This policy is under review [@UKRIDevelopingNew2024], and it appears that UKRI might follow the recommendations of an ESRC-commissioned review, which found that current policies underrecognised both the diversity of data used in the social sciences, and the fact that some forms of data *cannot* be made fully open [@allansonDoingESRCData2024].

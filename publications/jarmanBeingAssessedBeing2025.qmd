@@ -147,3 +147,12 @@ The quantitative component will code a dataset from Parole Board documents, and 
 Triangulating these perspectives should illuminate how resource constraints shape assessment, what drives staff priorities, and how strategic presentations are perceived. I’ve just received ethics clearance, and submitted access applications to the Parole Board and HMPPS last week. I hope to start data collection later this year.
 
 This matters because parole decisions carry enormous symbolic weight and practical consequences—shaping prison populations, communicating societal values, affecting individual lives. Understanding them as complex institutional processes rather than discrete events is essential for meaningful improvement. I'd love to hear your thoughts.
+
+::::: {.content-hidden when-format="html" unless-format="revealjs"}
+{{< pagebreak >}}
+
+# References {.unnumbered}
+
+::: {#refs}
+:::
+:::::

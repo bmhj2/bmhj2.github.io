@@ -199,9 +199,11 @@ So I think there's enough here to suggest that we really have to complicate that
 
 To that I want to suggest adding a critique of the moral communicativeness of the life sentence, where that is structured on risk. Just because someone is adapted to custody cannot be taken to mean that their punishment has 'worked' or even that the wrongs and harms done to victims or the public have been communicated very well. We need a more nuanced account of prison adaptation, because if we expect imprisonment to hold those convicted of the most serious crimes accountable, we can't be sure---at least on this evidence---that that's happening.
 
+::::: {.content-hidden when-format="html" unless-format="revealjs"}
 {{< pagebreak >}}
 
 # References {.unnumbered}
 
-:::{refs}
+::: {#refs}
 :::
+:::::

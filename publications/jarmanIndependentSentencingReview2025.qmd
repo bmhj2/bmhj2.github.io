@@ -729,12 +729,14 @@ The third requirement is **maintaining consistent implementation across the pris
 
 **Regular evaluation** is the fourth and final essential element. This should examine both implementation quality and outcomes, with particular attention to whether progression opportunities are being offered equitably, how progression decisions are being made in practice, what impact reformed arrangements have on prisoner engagement, and (in the longer term) whether the changes are supporting reduced reoffending.
 
+::::: {.content-hidden when-format="html" unless-format="revealjs"}
 {{< pagebreak >}}
 
 # References {.unnumbered}
 
-::: {refs}
+::: {#refs}
 :::
+:::::
 
 [^1]: Developed in more detail under Theme 2.
 [^2]: Developed in more detail under Theme 6, with additional context under Theme 5.

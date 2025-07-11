@@ -231,12 +231,14 @@ In either case, the commensurate ethical response from the recipient of punishme
 
 <!--JW: This is ethics: choosing a retributive worldview to make sense of their situation. It traps them in the past, yes. But I wonder: What does it allow? What does this worldview free them from? Can it be only explained through the constraints?-->
 
+::::: {.content-hidden when-format="html" unless-format="revealjs"}
 {{< pagebreak >}}
 
 # References {.unnumbered}
 
-:::{refs}
+::: {#refs}
 :::
+:::::
 
 [^fn1]: An official tasked with assessing a prisoner’s risk of causing harm in future, and with formulating a plan to manage it.
 

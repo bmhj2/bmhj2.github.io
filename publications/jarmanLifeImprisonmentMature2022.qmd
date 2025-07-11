@@ -216,12 +216,14 @@ By contrast, the category-B research sites offered ample opportunities for instr
 
 This perhaps raises the following questions for reflection: what do prisoners infer about the kinds of index offence that *matter*, based on how rehabilitative resources are currently targeted? Are minimisations and neutralisations challenged too little among the low(er)-risk? And if so, how legitimate would the victims of very serious violent offences, including murder, perceive this to be?
 
+::::: {.content-hidden when-format="html" unless-format="revealjs"}
 {{< pagebreak >}}
 
 # References {.unnumbered}
 
-:::{refs}
+::: {#refs}
 :::
+:::::
 
 [^9]: For clarity, this means that they had all been convicted of murder.
 

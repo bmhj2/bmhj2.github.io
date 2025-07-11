@@ -367,12 +367,14 @@ Finally, there’s the idea that we ought to ‘answer that of God in everyone�
 
 This is creative work. It has to be done up close. It can be painful, disorientating, and difficult. But it matters.
 
+::::: {.content-hidden when-format="html" unless-format="revealjs"}
 {{< pagebreak >}}
 
 # References {.unnumbered}
 
-:::{refs}
+::: {#refs}
 :::
+:::::
 
 [^1]: People who have gone through Grendon often stand out when you meet them. While drafting the lecture my research fieldwork took me to an open prison, where a colleague and I interviewed a focus group composed of four men. Within a minute or two of the interview starting, the way one man was talking made me think, “Grendon”. And sure enough, later in the interview he mentioned that he had done part of his sentence there.
 
