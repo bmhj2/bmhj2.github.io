@@ -5,14 +5,14 @@ format:
 author: Ben Jarman
 date: last-modified
 date-format: Do MMMM YYYY
-phone: "+442380598890"
+phone: "+44 2380 598 890"
+fontawesome: yes
 address: "University of Southampton Law School · University Road · Southampton SO17 1BJ"
 email: ben@benjarman.uk
 fontsize: 11pt
 orcid: 0000-0003-3527-5437
 web: benjarman.uk
 github: bmhj2
-fontawesome: yes
 nocite: '@*'
 bibliography: 
   peer: peer_bib.json
