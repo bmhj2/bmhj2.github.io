@@ -16,7 +16,7 @@ keywords:
 image: "/_assets/srijan-mohan-V9D6ItZvhnM-unsplash.jpg"
 lang: en-GB
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: 2025
 draft: false
 ---

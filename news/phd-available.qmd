@@ -15,7 +15,7 @@ image: "/_assets/tim-alex-FC1uuekWoZc-unsplash.jpg" # add as appropriate
 lang: en-GB
 license: CC BY 4.0 # select, CC BY-NC-SA 4.0 by _metadata.yml default
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: 2025
 # toc: [true|false] # select, false by _metadata.yml default
 draft: false # select

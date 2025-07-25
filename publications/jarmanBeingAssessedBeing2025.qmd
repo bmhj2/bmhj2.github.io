@@ -16,7 +16,21 @@ abstract: >
   and agency at the intersection of punishment and risk management.
 
 author:
-  - ref: bj
+  name:
+    given: Ben
+    family: Jarman
+    literal: Ben Jarman
+  email: ben@benjarman.uk
+  orcid: 0000-0003-3527-5437
+  url: https://benjarman.uk
+  affiliation:
+    name: University of Southampton
+    department: Law School
+    address: University Road
+    city: Southampton
+    postal-code: SO17 1BJ
+    country: United Kingdom
+    url: https://www.southampton.ac.uk
 title: "Being assessed, being processed"
 subtitle: "Life-sentenced prisoners' experiences of parole decision-making"
 date: "2025-07-03"
@@ -43,18 +57,50 @@ keywords:
   - time
   - performativity
 lang: en-GB
-# doi: 
-# url: 
+url: https://benjarman.uk/publications/jarmanBeingAssessedBeing2025.html
 license: CC BY-NC-SA 4.0
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: 2025
 toc: false
 format-links:
   - typst
 draft: false
 bibliography: jarmanBeingAssessedBeing2025.bib
-citation: true
+citation:
+  id: jarmanBeingAssessedBeing2025
+  abstract: >-
+    This paper draws on qualitative data from interviews with men serving life
+    sentences for murder to explore their experiences of parole decision-making
+    processes. Whilst research on parole decisions has historically focused on
+    the oral hearing as a discrete event, this paper offers a preliminary
+    investigation into how prisoners perceive and navigate the broader
+    administrative processes that shape parole outcomes. Drawing on an
+    understanding of parole as a 'social process'
+    (Tata, 2020) rather than a singular decision point,
+    the paper will consider how prisoners interpret and respond to the
+    compilation of their parole dossiers, their perceptions of risk assessment
+    procedures, and the ways in which their lived experiences are translated by
+    the parole dossier to become evidence of manageable or unmanageable risk,
+    for consideration by the Parole Board. Through this consideration, the paper
+    will reflect on questions regarding power, legitimacy and agency at the
+    intersection of punishment and risk management.
+  author:
+    - family: Jarman
+      given: Ben
+  event-place: University of Portsmouth
+  event-title: British Society of Criminology Conference 2025
+  genre: Conference paper
+  issued: 2025-07-03
+  language: en-GB
+  license: © Ben Jarman 2025, CC BY 4.0
+  publisher-place: University of Portsmouth
+  title: >-
+    Being assessed, being processed: Life-sentenced prisoners’ experiences of
+    parole decision-making
+  title-short: Being assessed, being processed
+  type: speech
+  URL: https://benjarman.uk/publications/jarmanBeingAssessedBeing2025.html
 ---
 
 ::: {.callout-tip}

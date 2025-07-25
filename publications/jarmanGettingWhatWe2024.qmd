@@ -35,7 +35,7 @@ date: 2024-07-27
 
 url: https://www.youtube.com/watch?v=vwqolkC0nnc
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: 2024
 license: All rights reserved
 toc: true # Will depend on whether it's a full text or a summary.

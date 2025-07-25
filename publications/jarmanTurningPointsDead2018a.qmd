@@ -34,7 +34,7 @@ doi: 10.17863/CAM.33383
 url: https://www.repository.cam.ac.uk/handle/1810/286064
 license: CC BY-NC-SA 4.0
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: 2018
 categories: thesis
 description: MPhil thesis, completed in 2017

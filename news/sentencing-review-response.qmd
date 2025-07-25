@@ -13,7 +13,7 @@ keywords: # add as needed
 image: "/_assets/wesley-tingey-9z9fxr_7Z-k-unsplash.jpg" # add as appropriate
 lang: en-GB
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: 2025
 draft: false # select
 ---

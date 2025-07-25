@@ -5,7 +5,7 @@ date: "2024-11-27"
 image: ../profile.jpg
 lang: en-GB
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: 2024
 draft: false
 citation: true

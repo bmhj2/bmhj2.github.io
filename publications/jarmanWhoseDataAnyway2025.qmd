@@ -27,14 +27,14 @@ affiliations:
     url: https://www.southampton.ac.uk
 
 title: "Whose data is it, anyway?" # add
-subtitle: "Qualitative criminology, prisons, and the Open Research agenda" # add if needed
+subtitle: "Qualitative criminology, prisons, and the Open Research agenda"
 date: "2025-02-12"
-categories: # select from the following
+categories:
   - lecture
 description: >
   This talk uses prison research to explore how qualitative researchers can respond to calls for open data sharing while also protecting research participants and maintaining methodological integrity.
 funding: 
-  statement: "The author received funding for this research via an ESRC Knowledge Exchange PhD Studentship, reference 2405252, co-funded by a Quakers in Britain Adult Education Grant, reference AE-016 2018/19." # see [schema](https://quarto.org/docs/authoring/front-matter.html#funding)
+  statement: "The author received funding for this research via an ESRC Knowledge Exchange PhD Studentship, reference 2405252, co-funded by a Quakers in Britain Adult Education Grant, reference AE-016 2018/19."
 keywords:  
   - research ethics
   - research transparency
@@ -44,15 +44,34 @@ keywords:
   - open research
   - open data
 # doi: 
-# url: 
+url: https://benjarman.uk/publications/jarmanWhoseDataAnyway2025.html
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: 2025
 toc: true # select - false per _metadata.yml default
 draft: false # select
 bibliography: jarmanWhoseDataAnyway2025.yaml
 citeproc: true
-citation: true
+citation:
+  id: jarmanWhoseDataAnyway2025
+  author:
+    - family: Jarman
+      given: Ben
+  citation-key: jarmanWhoseDataAnyway2025
+  event-place: University of Southampton
+  event-title: Love Data Week
+  genre: Lecture
+  issued: 2025-02-12
+  language: en-GB
+  license: CC BY 4.0
+  publisher-place: University of Southampton
+  title: >
+    Whose data is it, anyway? Qualitative criminology, prisons, and the Open Research agenda
+  title-short: Whose data is it, anyway?
+  type: speech
+  URL: https://benjarman.uk/publications/jarmanWhoseDataAnyway2025.html
+  abstract: >-
+    Recent years have seen increasing calls from funders and publishers for researchers to share their data openly. While the underlying aims of reproducibility and transparency are laudable, they create particular challenges for qualitative researchers, whose work emerges from relationships of trust and contains sensitive personal information. This talk examines these tensions through the lens of prison research, where issues of confidentiality, consent, and institutional power are especially sharply drawn. Drawing on examples, the talk develops broader insights about the nature of qualitative data and its relationship to research openness. It describes an alternative framework for conceptualising qualitative data as Dialogic, Emergent, Abundant and Relational (DEAR, see Westbury et al. 2022), and suggests that this offers a more productive angle on the underlying question (transparency) than alternatives. A recent debate in US criminology is referenced to illustrate how academic disciplines might engage constructively with this underlying issue. The talk concludes by reflecting on how qualitative researchers might engage with the open research agenda while maintaining their methodological and ethical commitments.
 ---
 
 ::: {.callout-tip}

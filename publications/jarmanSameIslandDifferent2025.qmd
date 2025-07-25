@@ -98,7 +98,7 @@ lang: en-GB
 # url: 
 license: CC BY-NC-SA 4.0
 copyright:
-  holder: The Authors
+  holder: © The Authors
   year: 2025
 draft: true
 toc: true

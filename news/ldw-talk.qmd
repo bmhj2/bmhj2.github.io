@@ -16,7 +16,7 @@ keywords:
 image: "/_assets/viktor-forgacs-LNwIJHUtED4-unsplash.jpg"
 lang: en-GB
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: 2025
 draft: false
 ---

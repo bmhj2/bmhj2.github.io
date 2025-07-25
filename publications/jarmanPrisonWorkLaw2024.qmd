@@ -65,6 +65,7 @@ citation:
   container-title-short: Eur. Labour Law J.
   DOI: 10.1177/20319525241263179
   ISSN: 2031-9525
+  volume: '15'
   issue: '3'
   issued: 2024-09-01
   language: en
@@ -76,7 +77,6 @@ citation:
   title-short: Prison work in law and reality
   type: article-journal
   URL: https://eprints.bbk.ac.uk/id/eprint/53597
-  volume: '15'
 ---
 
 # Availability

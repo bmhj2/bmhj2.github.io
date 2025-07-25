@@ -20,7 +20,7 @@ keywords:
 doi: 
 url: 
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: YYYY
 draft: true # select
 

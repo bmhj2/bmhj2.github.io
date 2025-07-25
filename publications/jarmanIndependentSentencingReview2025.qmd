@@ -21,7 +21,30 @@ author:
 bibliography: jarmanIndependentSentencingReview2025.bib
 categories:
   - consultation response
-citation: true
+citation:
+  id: jarmanCallEvidenceIndependent2025
+  abstract: >-
+    This submission to the Independent Sentencing Review draws on empirical
+    prison research to examine how sentences are experienced and managed in
+    practice. It focuses particularly on sentence progression and individual
+    assessment, arguing for more nuanced approaches to long-term imprisonment
+    that better balance security needs with meaningful opportunities for
+    progression. The response emphasises practical implementation challenges and
+    offers concrete recommendations for reform based on direct research
+    evidence.
+  author:
+    - given: Ben
+      family: Jarman
+  citation-key: jarmanCallEvidenceIndependent2025
+  DOI: 10.5258/SOTON/PP0076
+  issued: 2025-01-07
+  language: en-GB
+  license: CC BY 4.0
+  publisher: University of Southampton
+  title: 'Call for evidence: independent sentencing review 2024 to 2025'
+  title-short: Call for evidence
+  type: document
+  URL: https://eprints.soton.ac.uk/497076/
 citeproc: true
 copyright:
   holder: © Ben Jarman

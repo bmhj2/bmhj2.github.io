@@ -14,7 +14,7 @@ image: "/_assets/jack-and-friends.jpg" # add as appropriate
 lang: en-GB
 license: CC BY-NC-SA 4.0 # select, CC BY-NC-SA 4.0 by _metadata.yml default
 copyright:
-  holder: Ben Jarman
+  holder: © Ben Jarman
   year: 2024
 draft: false # select
 ---
