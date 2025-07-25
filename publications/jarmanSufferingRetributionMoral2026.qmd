@@ -1,0 +1,323 @@
+---
+abstract: |
+    This chapter examines how life imprisonment fails to achieve its retributive purposes, using data from qualitative interviews with 194 life-sentenced prisoners in England and Wales. We demonstrate a fundamental contradiction: whilst life sentences effectively inflict suffering, this suffering obstructs the moral reflection that retributive theorists assume punishment facilitates.
+  
+    We develop three interconnected arguments. First, while the acute anguish of early imprisonment produces a form of suffering that impedes the capacity for moral reflection, the ways that life-sentenced prisoners adjust to this suffering suppresses the moral emotions that promote accountability or leaves them in a relatively unformed state. Second, risk discourse creates an ‘actuarial morality system’ that transforms ethical questions into technical problems, privileging future harm prevention over engagement with past wrongdoing. Third, genuine moral reflection typically occurs through non-institutional channels—personal bereavement, faith practices, informal relationships—rather than formal programmes.
+
+    Our findings question some of the assumptions made by communicative accounts of retribution. We offer empirical support for Zaibert's [-@zaibertRethinkingPunishment2018] critique of retributivist 'simple-mindedness', suggesting that legitimate punishment requires acknowledgement of irreducible moral conflicts. The contemporary life sentence, by necessitating emotional suppression and reducing ethical considerations to questions of risk management, mirrors the 'impoverished' theories of value Zaibert identifies in some philosophical justifications of punishment. Rather than facilitating dialogical moral communication [@duffPunishmentCommunicationCommunity2001] or symbolic vindication [@hamptonCorrectingHarmsRighting1991], these sentences obstruct meaningful moral engagement. We conclude that life imprisonment functions less as legitimate punishment than as institutionalised vengeance, failing even on retributivist grounds.
+  
+authors:
+  - id: bmhj
+    name:
+      given: Ben
+      family: Jarman
+      literal: Ben Jarman
+    attributes:
+      corresponding: true
+    email: ben@benjarman.uk
+    orcid: 0000-0003-3527-5437
+    url: https://benjarman.uk
+    affiliation:
+      - ref: soton
+  - id: bc
+    name:
+      given: Ben
+      family: Crewe
+      literal: Ben Crewe
+    attributes:
+      corresponding: false
+    email: bc247@cam.ac.uk
+    orcid: 0000-0002-5296-5475
+    url: https://www.crim.cam.ac.uk/People/professor-ben-crewe
+    affiliation:
+      - ref: cam
+
+affiliations:
+  - id: soton
+    name: University of Southampton
+    department: Southampton Law School
+    group: Centre for Justice Studies
+    address: University Road
+    city: Southampton
+    postal-code: SO17 1BJ
+    country: United Kingdom
+    url: https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-law-school
+  - id: cam
+    name: University of Cambridge
+    department: Institute of Criminology
+    group: Prisons Research Centre
+    address: Sidgwick Avenue
+    city: Cambridge
+    postal-code: CB3 9DA
+    country: United Kingdom
+    url: https://www.crim.cam.ac.uk
+
+title: "Suffering, retribution, and moral accountability in the contemporary life sentence"
+date: 2025-07-25
+categories:
+  - conference paper
+  - book chapter
+description: >
+  Chapter written for a forthcoming collection, *Do we punish too much?*, to be
+  published by Hart in 2026
+funding: >
+  This work was supported by the UK Economic & Social Research Council via
+  grants ES/J007935/1 and ES/T005459/1, and PhD studentship 2405252 under grant
+  ES/P000738/1 (co-funded by Quakers in Britain under grant AE016 2018/19). The
+  funders played no part in the design of the study or the analysis and
+  interpretation of data).
+keywords:  
+  - life imprisonment
+  - england & wales
+  - penal theory
+  - retributivism
+  - moral communication
+  - risk
+lang: en-GB
+# doi: 
+# url: 
+license: CC BY 4.0
+# copyright:
+#   holder: © The Authors
+#   year: 2026
+toc: true
+# format-links: # select - "typst" per _metadata.yml default
+draft: true
+bibliography: jarmanSufferingRetributionMoral2026.yaml
+citation: true
+---
+
+## Introduction
+
+Our starting point is the empirical reality of life sentences as experienced by those serving them. Drawing on extensive qualitative research, we describe the acute suffering of long-term imprisonment and analyse the complex processes of moral reflection among prisoners that follow. These diverge markedly from sentencing policy's intended outcomes. While life sentences cause suffering effectively, they often do so excessively, failing to facilitate coherent moral communication or to consistently foster reflection on wrongdoing. Indeed, intense anguish appears to inhibit constructive moral engagement. By evidencing this, we aim to enrich the dialogue between penal theory and empirical penology.
+
+## Context
+
+As of March 2025, 7,491 men and women were serving life sentences in custody in England & Wales [@ministryofjusticeOffenderManagementStatistics2025, tbl. 1.Q.14]. This is double the 1993 figure and almost 2,000 more than 20 years ago, meaning life-sentenced prisoners constitute over eight per cent of the prison population. The number serving very long sentences [i.e. with tariffs over 20 years---see @ministryofjusticeOffenderManagementStatistics2025, tbl. 1.Q.16] has grown significantly, as has the average tariff for mandatory life sentences [12.5 years in 2003, rising to around 21 years since 2016---see @ministryofjusticeFOIRequestISAS2014], and time actually served beyond the tariff point [@ministryofjusticeOffenderManagementStatistics2025, tbl. 1.Q.16].
+
+These changes stem primarily from legislative action, rather than quantitative or qualitative shifts in the incidence of homicide [@officefornationalstatisticsHomicideEnglandWales2019]. Introducing the current statutory sentencing regime in 2003, then Home Secretary David Blunkett explicitly rejected releasing those convicted of "bestial murders", even with "sustained evidence of repentance and rehabilitation". Unambiguous censure was his major theme: the new law would "send appropriate signals to both perpetrators and the wider community" and exercise deterrent effects by "showing [offenders] that there will be clear and unequivocal consequences". Blunkett also cited high-profile examples of serious reoffending to suggest that longer minimum terms would benefit public protection. Other parliamentarians largely echoed his reasoning.[^1] Thus, political justifications for increasing murder penalties emphasised censure in the public name and interest; but offered few pointers on what censuring offenders might achieve, what censure might mean to them, or what response might bring about its remission.
+
+Increasingly severe sentences create manifold problems: they prompt feelings of illegitimacy, heighten the appeal of radical ideologies, and further strain an over-stretched prison system [@lieblingExplorationStaffPrisoner2011; @creweLifeImprisonmentYoung2020; @woolfSentencingInflationJudicial2024]. Here, though, we focus on severity's non-instrumental consequences---what it means to imprison people for such extended periods.
+
+Our empirical data come from two related projects on people serving life sentences for murder in England & Wales. The first involved men and women with tariffs of 15+ years, sentenced from an early age [for details, see @creweLifeImprisonmentYoung2020]. Surveys were administered to 303 individuals, 146 of whom also engaged in in-depth interviews, sampled by sentence stage. The second involved 48 life-sentenced men in one long-term closed and one open prison [for details, see @jarmanMoralMessagesEthical2024], selected for diversity in age at conviction (from teenaged to septuagenarian) and in the severity of the tariff.
+
+## Life imprisonment and suffering
+
+Evidence shows the early sentence stage is most associated with distress [e.g. @lieblingPrisonSuicidePrisoner1999]. Our research corroborates this through survey data [@hulleyReexaminingProblemsLongterm2016] and prisoners' accounts. Most describe their early sentence phase as a period of acute anguish, when they are flooded with negative sentiments and an overwhelming hopelessness and despair.
+
+Typically, at this stage, the present feels meaningless, and any future seems impossible to contemplate.
+
+  > It felt like somebody was ripping my chest open. I saw no future, no point to tomorrow. It was the darkest time of my life. (Maria, 20s, mid)[^2]
+
+  > A life sentence kills your hope, man, it takes it; \[…\] it swallows it. You've got no hope and no future, no life, no nothing. (Ashley, 30s, early)
+
+Many individuals whose tariffs exceed their age at conviction struggle to comprehend what lies ahead of them:
+
+  > When I was convicted, I really did think it was over. I just thought, like, '18 years? At that age?' I thought to myself, 'I haven't even lived 18 years \[…\] This is madness, this'. I thought, 'I'm never getting out of jail'. (Kenny, 20s, mid)
+
+Some find thoughts of the future impossible; others know that contemplating the time which must elapse before it becomes possible will damage their psychological wellbeing. The metaphors used to describe this period are telling, referencing sinking and drowning, or death and decay---"dead time" (Jared, 20s, early), "a waste of life" (Aaron, 40s, late), "like you're wasting away… you're not living, really. \[…\] You're just existing" (Sean, 20s, early).
+
+Alongside existential hopelessness comes diffuse, unfocused anger: Asad (30s, mid) was "angry with me, angry with how my life turned out", while Ignacio (20s, early) felt "constantly angry…at everything". Many report deep nihilism, manifested in violence, drug involvement, or moral disengagement:
+
+  > I was in that stage where nothing mattered. I was going back to my little dark world. \[…\] I didn't care. I knew right from wrong, but being early in my sentence you're like 'what have I got?' (Victor, 30s, post-tariff)
+
+Prisoners consistently report lacking institutional support to mitigate the sentence's profound shock. Later, they acknowledge their mental state would have made engaging with such support---let alone meaningfully reflecting on what they had done---nearly impossible. Their suffering and distress inhibit meaningful moral reflection.
+
+In what follows, we highlight the ruptures that life imprisonment engenders to illustrate the nature of suffering such sentences entail, and how the resulting coping styles either suppress appetites for moral and existential reflection, or leave them in a relatively unformed state.
+
+## The ruptures of life imprisonment
+
+Life imprisonment's impact varies significantly by life-stage [@jarmanOnlyOneWay2020; @jarmanMoralMessagesEthical2024]. Receiving a life-changing tariff in one's seventies after building a family and career differs vastly from receiving it in childhood or when adult life has barely begun. Nevertheless, generally a life sentence entails three major ruptures: separation from loved ones; reconsideration of moral selfhood ('who am I, if I am capable of this?'); and, except for those convicted later in life, abandoning or radically rethinking the expected future life course.
+
+The fracturing of parental relations is particularly painful. As Gail (30s, late) said, "the hardest thing for me when I came into jail was nobody told me how *not* to be a mum. [...] I didn't know how to switch that off". One participant described a recurring nightmare in which, beyond a wall too high to scale, he could hear his young child crying. Others speak in terms of bereavement:
+
+  > I only get to see \[my daughter\] three times a year, so in a sense I've lost the main part of her, but she's still alive, and then that makes it really difficult because every time I see her it brings up all my feelings for her again, and then I spend the next four months grieving, and that's really difficult because you're constantly going through it, so you're breaking your heart a little bit more every time. (Kathryn, 20s, early)
+
+Those without children fear their parents will not live to see them released ("You're in your cell crying, [thinking] my mum and my dad will probably be dead; my brothers will have all moved on" (Ashley, 30s, early). Many feel responsible for their parents' distress ("37 years down the line, and it's still causing pain" (Ray, 50s, post-tariff) or deterioration ("[My mum's] at home depressed and crying and upset, and I can't help her" (Kenny, 20s, mid). For many, such feelings are almost intolerable:
+
+  > The thought \[of taking my life\] came through my head \[…\] That was when the first visit came, and I saw my mum and everyone. \[…\] I've never seen my dad cry, but he was broken. I seen my missus crying her eyes out \[…\] she was giving birth soon. \[…\] I thought 'I'll never see my little girl… I'm never going to be able to take you out, do all this stuff that a father wants to', you know? \[…\] I remember going back to my cell and sitting there thinking 'Would it be easier \[if I died\]?'
+
+Such suicidal ideation---"there's no point in living anymore" (Darrin, 20s, early)---is almost ubiquitous: "I think everyone who gets a life sentence probably spends the first year or so secretly debating whether they are going to actually do the sentence or not" (Rafe, 30s, mid). For those imprisoned when older, the rupture centres on lost opportunities to enjoy grandchildren and age peacefully at home. Though profound losses, both are felt less intensely as a life ruined, since there are also often career and family-related achievements (not only opportunity costs) to look back on [see @jarmanLifeImprisonmentMature2022].
+
+Initially, most individuals dispute their guilt[^3]---some clinging to slim hopes of appeal, others psychologically unable to acknowledge their actions ("I couldn't believe I could be that person"---John, 20s, mid).[^4] A significant number are tormented by recalling the offence, sometimes questioning their basic humanity and often struggling to cope with intrusive thoughts and continuous feelings of self-reproach and shame:
+
+  > I will never come to terms with it.  
+  > *No. And how much time do you spend thinking about it?*  
+  > The majority of the day. (Martin, 20s, early)
+
+  > I'm deeply ashamed of what I've done. I hate myself for it. (Garrett, 20s, early)
+
+Once they are a few years into their sentence, most participants (unless claiming innocence) attain a more stable emotional state and adapt somewhat to their circumstances. Typically, they learn to use time productively, re-establishing a limited sense of control and finding purpose [@creweLifeImprisonmentYoung2020; @creweSwimmingTideAdapting2017]. Most importantly, many begin to come to terms with what they have done and---unless claiming categorical innocence---express regret and remorse at their involvement in someone else's death.
+
+However, it would be mistaken to identify this adaptation with the absence of suffering, or with the moral engagement required for reflective contemplation on personal wrongdoing. Indeed, prisoners at this sentence stage---in a seemingly endless life chapter, before release is even worth contemplating---often describe 'sedative coping' [@creweSedativeCopingContextual2024], in which they engage in psychological anaesthesia, numbing emotions and suppressing painful realities. As Zara (20s, early) explained, "If you do sit and dwell on things then that's when your mental health will get really low. So \[…\] yes, I have to block things off". Mason (30s, mid) summarised as follows:
+
+  > \[Prison has\] made me emotionless \[…\] It's like a dark hole. \[…\] I think that's the most thing that jail has done to me, it's just left me an emotionless person which I think is very damaging for me. \[…\] I just can't grieve about anything. If someone just told me something, it's just like 'Alright', nothing, the day just goes. \[…\] I don't feel it.
+
+In some respects, then, life-sentenced prisoners learn to cope. But many do so in---and because of---a state of sustained anaesthesia, numbing precisely the moral emotions which might facilitate deeper accountability. What makes the sentence bearable might compromise the accountability it seeks; it is worth questioning whether, over a long period, this form of living---one which requires the absence of feeling---is conducive to moral dialogue.
+
+Other prisoners, having moved beyond early turmoil and found ways to cope, engage in nascent forms of reflective contemplation. They wish to explore existential questions---how they have arrived here, what it means to take a life, their place in the world. Yet these reflections remain amorphous, and institutional practices rarely provide the frameworks of meaning they seek. Thus, they tend to be impeded by emotional anaesthesia, or to result in on solitary journeys toward moral understanding that institutional discourse fails to recognise or support.
+
+Before we move on, three points are worth emphasising. First, what we have described is not merely the unpleasantness retributive theorists see as inherent to punishment, nor even Zaibert's [-@zaibertRethinkingPunishment2018] concept of suffering, but something far more acute, painful, and prolonged. To subject people to such experiences requires strong justification.
+
+Second, what contributes most to these feelings is not direct institutional treatment, but existential factors, or relationships and events outside the prison. Indeed, the five problems rated in the survey as most severe were 'Missing somebody', 'Worrying about people outside', 'Feeling that you are losing the best years or your life', 'Having to follow other people's rules and orders' and 'Feeling that your life is being wasted'.[^5] This suggests that, regardless of how decent any institution might be, life imprisonment will generate suffering that is both profound and hard to mitigate.
+
+Third, there seems to be an inverse relationship between levels of suffering and the potential for constructive moral reflection. At the very least, once distress is extremely intense, it colonises mental headspace to a degree that precludes productive moral agency. Perhaps ironically, in time, the same ruptures that initially generate trauma open up space for more fruitful moral deliberation (or spur it directly), not through unmitigated suffering but through a complicated interaction between sorrow and interruption: by removing people from their pre-carceral lifestyles, placing them in circumstances that produce existential clarity about what matters [@lieblingWhatPhilosophyPrison2021], and giving them a surfeit of time to reflect on these losses and aspirations.
+
+## Moral communication and reflection in practice
+
+We now explore what forms of moral reflection are evident, and how institutional discourse activates, transforms or misapprehends them. Empirically, we suggest that they diverge markedly from what retributive theorists might anticipate. To understand this, we need first to explore how such theorists envisage moral communication.
+
+### Moral communication in retributive theory
+
+We can select only highlights from a sizeable literature. While 'pure' desert theorists like Moore [-@moorePlacingBlameTheory2010] justify punishment simply because wrongdoers deserve to suffer---with minimal consideration for effects---communicative theories of retribution make stronger prospective claims about punishment's moral purposes, suggesting that legitimate punishment must engage offenders in meaningful moral dialogue, and not merely inflict deserved suffering.
+
+Duff [-@duffPunishmentCommunicationCommunity2001; -@duffRetrievingRetributivism2011] sees punishment as a "secular penance" reaffirming communal values; without punishing, he thinks, communities fail to declare that wrongdoing matters. Penal suffering should be "onerous independently of any censorial message" [@duffRetrievingRetributivism2011, p. 16] yet function communicatively---keeping offenders' attention on their wrongdoing while providing structures within which to face it. Crucially, punishment must involve "calling \[them\] to account" [-@duffRetrievingRetributivism2011, p. 16] by inviting explanations and taking them seriously. It should be dialogical, seeking two-way communication and active engagement, rather than passive endurance of the penalty.
+
+Hampton [-@hamptonCorrectingHarmsRighting1991] views retributive punishment as symbolically restoring moral relationships violated by wrongdoing. Wrongdoing creates "moral injury"---the offender 'uses' the victim, assaulting their dignity and falsely asserting their lesser worth. Punishment must vindicate the victim's worth, restoring rightful relationships by "remak\[ing\] the world in a way that denies what the wrongdoer \[…\] attempted to establish" [-@hamptonCorrectingHarmsRighting1991, p. 1686]. For serious cases, punishment might force offenders to "experience the \[offence\] from the victim's point of view" [-@hamptonCorrectingHarmsRighting1991, p. 1690]. Yet Hampton recognises limits: excessive harshness violates rightful values as much as excessive leniency. However, in serious cases only the state---functioning as the impartial representative of the whole polity---can deliver the "profoundly humbling experience" capable of vindicating victims [-@hamptonCorrectingHarmsRighting1991, p. 1694].
+
+Both theorists assume punishment can facilitate an acknowledgement of wrongdoing, an acceptance of responsibility, and a renewed commitment to shared values. They presuppose that 'hard treatment' makes censure difficult to ignore, that calibrated suffering communicates effectively, that offenders will receive the intended moral messages, and that they recognise their punisher's legitimate authority. Critics [e.g. @golashCasePunishmentRetribution2005, ch. 6] have challenged these assumptions. Nevertheless, communicative frameworks offer greater clarity than 'pure' desert theories on retributive punishment's *prospective* aims: meaningful dialogue, respect for moral agency, acknowledgment of wrongdoing, and a potential end to punishment for those who respond appropriately.
+
+A different picture emerges when we examine how moral communication actually unfolds among long-term prisoners. Rather than facilitating moral reflection, we argue that the sentence imposes a distorting lens, which often obscures, sometimes occludes, and at best fails to attend to the genuine moral engagement communication theorists seek to promote.
+
+### Risk discourse and moral communication
+
+Because prisons are closed institutions, censure is "oblique" [@garlandPunishmentModernSociety1990, p. 186]: implicit, and mediated through institutional practices, rather than declared directly in public (as by a court). For life-sentenced prisoners, risk assessment and management are the most important such practices---and, because they govern progression and release, they deliver powerful if indirect messages about desirable moral selfhood. This creates what might be termed, following Williams [-@williamsMoralityPeculiarInstitution2011], an 'actuarial morality system': a framework that transforms ethical considerations into risk factors and subordinates moral dialogue to risk management. While unambiguously aimed at public protection and not censure, this focus on prospective risk can distort recognition of past wrongs.
+
+The distortion has several facets. First, attempts to alter future behaviour can indirectly censure past behaviour. Risk assessments draw heavily on interpretations of the past. Similarly, psychological interventions (such as offending behaviour courses) act on future risk partly by labelling past conduct, with the tacit expectation that prisoners learn to apply these labels to themselves. The aim is prospective: to classify attitudes and thereby change them. But it can also intensify censure by imposing a different view of the past, as Rafiq (30s, early) articulated:
+
+  > The prison courses \[are\] more focused on your victims, more focused on your danger to society. \[…\] That's probably why I liked the Sycamore Tree[^6] a fair bit more. \[…\] It's not about demonising you, it's not all about breaking you down. It's about you acknowledging what you've done, but also that you can give so much back.
+
+The contrast here is between two styles of engagement. In the more dialogical Sycamore Tree course, Rafiq felt recognised as a moral agent whose offence occurred *within a specific relational setting* (in his case, a dysfunctional and emotionally volatile marriage). Seeking moral restoration might include "acknowledging what you've done" and seeking to 'give something back'. By contrast, Rafiq felt that prison courses classified him as a *general* "danger to society" *lacking* specific context. The basis for restoration was not dialogue, reflection, and amends, but learned acquiescence to the prison's framing of his selfhood.
+
+Our contention is that prison risk practices *intensify censure*: they detach the offence from its specific relational contexts, replacing these with a generic presumption of risk. Rather than engaging prisoners in meaningful dialogue respecting their autonomy as moral subjects, this treats prisoners as permanently risky objects whose autonomy must be constrained indefinitely. As Timothy (20s, very early) put it: "when staff look at me, they only look at me from the end of a cattle prod".
+
+A second distortion arises from how risk assessment, though prospective, demands retrospective narrative performances with opaque and shifting requirements. To demonstrate reduced future risk, prisoners must somehow signal "insight" into their past behaviour. Yet what constitutes insight seems to depend on individual assessors, institutional cultures, and the quality of relationships. The resulting uncertainty is most acute for those maintaining innocence. Unable to admit the index offence, yet wishing to demonstrate some form of accountability, they face a balancing act and sometimes hope that strategic partial admissions---acknowledging peripheral but not core wrongs---will suffice:
+
+  > \[I'm innocent of murder, but\] I've said I'm not proud of the way I was \[…\] in relation to the affairs. I can openly admit \[that\], I said, 'No-one deserves that'. (Ian, 50s, post-tariff)
+
+Ian's carefully calibrated statement exemplifies the "narrative labour" [@warrAlwaysGottaBe2020] prisoners must perform, crafting accounts that might satisfy perceived demands for "insight" while preserving a personal understanding of past events. Rather than fostering genuine moral dialogue, this is a fraught performance, where prisoners guess at what the system wants to hear.
+
+  > I said, 'well, you know… I have to manage my risk. Because it's me that is responsible for my actions'. And \[my offender manager\] said, 'no, we manage your risk'. \[…\] She's talking as though I have a child's level of responsibility for my actions. (Frank, 40s, post-tariff)
+
+Frank's words indicate the mutual incomprehension which can result. They suggest that when risk assessment distorts moral communication, it imposes a contradictory double imperative: for independent insight and agency ("I am responsible for my actions") *but also* acquiescence and childlike dependency ("we manage your risk").
+
+A third distortion arises from inconsistent access to risk-focused interventions. Resource constraints have transformed systematic sentence planning into "fire-fighting" and generic assessment [@shinglerTheirLifeYour2020, 5; see also @hminspectorateofprobationOffenderManagementCustody2022 on the practical consequences]. Consequently, both the demands made of prisoners and the support offered have become inconsistent: "tight" for those prioritised because of high or imminent risk, but "loose" or "lax" [see @creweTightnessRecognitionPenal2021] for others. Prisoners understand that interventions shape their progression chances, and often interpret the prison's delayed or inconsistent focus on risk as evidence of official indifference:
+
+  > \[Prison staff\] come here thinking it is just a job, but \[…\] this is real-life shit, man. \[…\] \[They're\] too young, too inexperienced, and they're having a say on your freedom, your \[risk\] reviews \[…\] They don't know you or what you've been through. (Ebo, 20s, mid)
+
+  > They put me on the back burner, because… 'he's got a long time to do.' But, I mean, \[I've been here\] six years… And I've asked for a sentence plan, but… 'being considered' \[…\] I think I still deserve being hung. (Gary, 50s, early)
+
+Gary's words suggest someone grappling with profound feelings of guilt and responsibility, which attract no recognition or support. The absence of intervention signals that prisoners' moral development matters only when accompanied by risk.
+
+### Temporal misalignment and missed opportunities
+
+Given these resourcing pressures, accessing risk-focused interventions can be difficult, and the intensity and timing of official communication becomes highly contingent. Generally, prisoners with earlier release dates take priority (meaning lifers far from potential release do not). However, those assessed as high-risk *in custody* or whose behaviour (e.g. self-harm, segregation status, prison violence, substance misuse) causes immediate concern may receive intensified attention, or expedited intervention.[^14]
+
+Though a rational allocation of scarce resources, this ensures the timing and intensity of moral communication varies considerably, and not according to the 'seriousness' of the offence. The absence or deferral of communication has unforeseen effects on the messages prisoners receive. During the early sentence stages Tony (30s, mid) described the nihilistic anger and overwhelm we note above, particularly rooted in shame about his offence. His violence towards prison staff expedited his access to intervention, and yielded unexpected benefits:
+
+  > I'm telling you now, I put my heart and soul into it \[…\] \[They\] said to \[make a life map, to\] sit and write down everything from birth. \[…\] I had to stand up in front of everyone and \[present it\] \[…\] Three times I broke down and cried and had to walk out of the room. And \[…\] an officer, he's come back and said, 'Fucking hell, Tony, it's all right.' \[…\] It broke down barriers \[…\] I realised that all right, some of these cunts are in to punish you, but not all of them. And I worked fucking hard to turn my life around \[from there\].
+
+Many others access interventions only near tariff expiry, if at all; low-risk prisoners may receive none. Systemic inattentiveness, again, seems to signal an indifference to personal development. In such circumstances, 'accountability' seems to mean mere compliance:
+
+  > It's the courses I get told to do. \[…\] \[I go for the assessment and\] they come back: "he's not eligible for it." And then it's, "Terry keeps himself to himself, he's polite". And all that.  
+  > *So what really matters to them?*  
+  > Don't go out there messing around the system and playing up. (Terry, 50s, mid)
+
+  > \[They want you to\] just be a good boy \[…\] The system is not set up to recognise anything more. (Rafiq, 30s, early)
+
+These examples demonstrate not only that moral communication with prisoners may be distorted by risk, but even that institutions may fail to engage in it at all, even where prisoners are attempting to do so:
+
+  > There's a lad on my spur, I think he's about 20 months into a 22-year tariff. He's asked them \[…\] he's asked for TSP,[^7] to get on it, and they're saying, well, you know what, we'll put you on the waiting list, but… there'll be people \[…\] that'll need it before you. So \[…\] he wrote to Grendon,[^8] and they wrote back \[and said\] you need to do half your sentence and then reapply. And he's like, woah, that's eleven years! (Liam, 40s, mid)
+
+Our suggestion is that interventions can be poorly timed if they fail to align with windows of moral openness. As we saw above, the early sentence stage is characterised by distress which obstructs meaningful reflection. Some high-risk prisoners encounter intensive programming at this stage, with potentially positive results. Conversely, those accessing interventions much later---when the offence's immediacy has faded---show considerable defensiveness and disengagement:
+
+  > I've done two… three… four… five courses while I've been here, I think. But I couldn't tell you what they're called. It just fucking goes in one ear and out the other now.
+  >
+  > *Yeah. Are you past the point where you engage with them seriously?*
+  >
+  > Yeah, exactly \[…\] I mean it's been \[nearly thirty\] years. (Chris, 60s, post-tariff)
+
+If moral communication is genuinely a goal for life imprisonment, the state should attend to when prisoners can best receive its messages [see @creweTightnessRecognitionPenal2021]. Instead, by privileging bureaucratic deferral over moral engagement, it makes inconsistent demands, bemusing participants like Grant (50s, late):
+
+  > I haven't felt, from day one, the prison has wanted anything from me. \[…\] I had to get a solicitor to write in, and say, you know, isn't it about time we had a sentence plan and an OASys? Cos I was asking to do courses myself \[and it'd been five years\] \[…\] And then when I got my sentence plan there was only the one course on it. I didn't qualify for the others, because my risk level was so low.
+
+Windows for moral dialogue can also close. Often, prisoners reflect that beyond a certain point, continued imprisonment becomes counter-productive, pushing them into a hopelessness which suppresses productive reflection:
+
+  > It gets to the point where you think, 'This is too long, this.' \[After 10 years\], I'm at a good stage where I could get out and I know I could do well, and I could stay out. But in seven years' time, I don't know. (Kenny, 20s, mid)
+
+  > Is it going to be worth me getting out at 65? \[…\] I keep thinking 'What life have I got when I get out? What have I got to make a life when I get out? Who's going to employ me when I get out?' \[…\] Then it comes the obvious question, and you go, 'Do I actually fucking want to get out?' I'm still questioning it. (Marty, 50s, post-tariff)
+
+### Moral reflection through non-institutional channels
+
+Prisons standardise moral communication through programmatic interventions, but prisoners' reflections follow individual pathways, require individual catalysts, and tend to explore *both* culpability and redemption. Such reflections often occur beyond the scope or the prompting of institutional risk frameworks, and take hold through varied channels. Here, we discuss four significant examples: experiences of grief and loss, informal relationships, commitments to faith and education, and private practices of penance.
+
+Many life-sentenced prisoners reflect on loss---through bereavement or the ruptures we describe above---as a kind of solvent for trivial concerns. It clarifies what truly matters, and produces a desire to take responsibility for change. Tom (50s, post-tariff) argued that the efficaciousness of offending behaviour courses *depended on* an earlier experience of bereavement in prison:
+
+  > It made me concentrate on what happened and how I felt when my mum died, so I could understand how they felt when I took their daughter or niece away \[…\] *You do not understand loss until you have experienced it*.[^9] \[…\] It made my sentence seem more real, in a way \[…\] I was not under any illusion that I was in jail just for nicking a pint of milk \[…\] But that is what made me think about it more. Whereas before I was, 'I am a lifer, I am in jail, so what? Let's just get on with it'. I was concentrating on getting my little goals. Now I was concentrating on \[my victim and her family\]. \[…\] It made me realise that \[…\] I have not really gone into it, and I need to go into it.
+
+Tom's experience illustrates how imprisonment's ruptures---in this example, being unable to comfort grieving family members---can deepen moral understanding through loss. However, it also shows how the challenges of *getting through the sentence* ("my little goals") can distract attention from the offence. The demands of accountability and the pragmatics of survival are in conflict, particularly in prisons marked by pervasive violence and tension. In such environments---young offender, high-security, or 'failed-state' [@lieblingAppreciativeInquiryGenerative2015] institutions, for example---the possibilities for moral engagement are constrained, because daily survival demands emotional suppression and candour about offences can be risky.
+
+Ethical shifts in prison, then, seem highly personal. For Tom, bereavement was the catalyst. For Leon (40s, mid), reflecting on his family's loyalty during his sentence, and the disappearance of his friendships with criminal associates, shifted his priorities:
+
+  > The most meaningful thing in my life right now? I'd say family. My mum, my brother, my nan \[…\] My priorities wasn't in the right place \[…\] That's changed now. \[…\] Eyes on the prize.
+
+Within the prison, supportive, trusting relationships could play a similar role. Tony (quoted above) described how supportive words from a prison officer opened a new, less defensive standpoint on his punishment For a few participants, similar shifts had followed comments---not always positive---by trusted peers about the offence itself:
+
+  > 'He was your best mate, Bill. How could you kill your best mate?' That was \[my friend\] actually, we were having a proper conversation \[…\] He was deliberately making me realise what I'd done. \[…\] I needed that. \[…\] I think sometimes I can be a bit blasé about the index, \[…\] like, 'Oh yes, I did that' and then brush it off. \[…\] I need somebody else to go, 'Hang on, Bill, wait a minute, fucking hell, Bill, you were out of line.' (Billy, 40s, late)
+
+However, abandoning such a "blasé" attitude brought new challenges. Frank (40s, post-tariff) described his shift from defensive indifference, via destructive guilt, to forward-looking regret:
+
+  > I regret killing the man \[…\] I wish he was still alive today \[…\] and I'd trade myself for him if I could. But I don't feel guilty \[…\] There was a time when I used to say, 'Oh, I killed him, so what?' But that was bravado. \[…\] A prison chaplain helped me with that \[…\] He said, 'you can't change it, so don't be ashamed. But do the better thing in the future.'
+
+What enabled Frank to move beyond both defensive indifference and paralysis was not risk controls or formal programmes, but a chaplain's recognition of his humanity and potential. This pastoral encounter offered a perspective on grave wrongdoing not predicated on presumed risk, but instead holding out possibilities for moral rehabilitation. Others described how faith practices acknowledged, yet paradoxically also relieved, guilt's impact:
+
+  > I believe, that everything that I've done is forgiven because I'm in Christ. I think it's Romans 8 verse 1, 'there is now no condemnation for those in Christ Jesus' \[…\] *It's let me go away from my past more*.[^10] (Andy, 30s, late)
+
+A final channel for reflection was private practices relating to feelings of guilt. Some participants, particularly those who had killed loved ones, engaged in unrecognised forms of self-punishment. Grant (50s, late) believed the state could never punish him more than he punished himself---"I'll never forgive myself. I don't want to forgive myself"---and deliberately stopped taking medication to induce illness. Tom (50s, post-tariff) practised similar self-denial:
+
+  > I don't want to feel too good. \[My victim\] cannot laugh, she cannot smile, she cannot see her family, so why should I? So, if I \[feel too good\] I would punish myself.
+
+His methods ranged from self-harm (in earlier years) to refusing entertainment or moments of conviviality: "If the lads were having a food boat…[^11] I would say no, bang up, go without, just to punish myself." The voluntary nature of these practices distinguishes them, as does their connection to meaningful relationships, including those with victims. Unlike institutional programmes, they emerge from prisoners' inner lives. By acknowledging wrongdoing without seeking institutional validation, they hint at private penance. Their prevalence remains unclear to us, and probably to prisons themselves. Ironically, then, a system ostensibly promoting accountability shows little interest in prisoners' capacity for it; and much meaningful reflection occurs beyond institutional view.
+
+The existence of these alternative pathways raises uncomfortable questions about how legitimate penal aims of public protection and rehabilitation might distort retributive communication. As Golash [-@golashCasePunishmentRetribution2005] notes in critiquing retributive theories, the state's relationship with offenders typically lacks the emotional depth which might support moral education. Our participants' accounts lend empirical weight to this theoretical concern. When Ebo (20s, mid; quoted above) spoke of inexperienced staff who assessed risk but "don't know you or what you've been through", he added: "You need someone that knows you and has that sort of faith in you". He suggested that meaningful moral communication requires relational foundations the prison context too often fails to provide. Risk assessments conducted by strangers, however predictively valid or professionally competent, lack the standing to elicit genuine moral engagement.
+
+Where there are exceptions, they are usually found among participants who have served time in institutions which provide a foundation of dignity, alongside a deep commitment to both moral accountability and personal growth. Specifically, prisoners who have been through prison-based therapeutic communities often attest to how these environments treat them as moral agents rather than dangerous objects [@lieblingDescriptionEdgeIIt2015], grant opportunities for development via education and the arts, and look to reconstruct (not colonise) their ethical selfhood [@stevensOffenderRehabilitationTherapeutic2013]. Such contexts offer resources to plot a route away from emotional sedation, defensiveness, and the 'monistic' [@zaibertRethinkingPunishment2018] treatment of risk which typifies contemporary prisons in England & Wales.
+
+## Conclusion
+
+It might be necessary or inevitable that punishment causes suffering. Our argument starts from the idea---gleaned from penal theory---that retributive suffering might have important the communicative purpose of reaffirming and vindicating the values violated by wrongdoing. We have described the acute suffering generated by the contemporary life sentence, and argued that both its extreme length, and the centrality of risk to its paradigm of moral evaluation, compromise its communicative functions. To emphasise this point: if retributive punishment means something more than vengeance, and if the suffering it inflicts ought to promote moral engagement, then life sentences in England & Wales do not punish effectively.
+
+Zaibert's [-@zaibertRethinkingPunishment2018, ch. 4] critique of retributivism illuminates why this is so. He argues that 'pure' desert theories suffer from simple-mindedness, specifically an impoverished theory of value.[^12] In reducing all values to desert, they evade the responsibilities those who inflict suffering---however deserved---ought to feel. This is "impoverished" because it is inhospitable to what Zaibert, quoting Wilfred Owen, calls the 'eternal reciprocity of tears'---the moral emotions that *should* trouble us, even when punishment is incontrovertibly justified. Such "remainders" [@zaibertRethinkingPunishment2018, pp. 145–6] persist even after we have acted rightfully, since they relate to conflict between irreconcilable values. To shut oneself off from these emotions is sometimes adaptive, but also dehumanising (as Owen, reflecting on war trauma, recognised). "Remainders" are crucial to Zaibert's distinction between punishment and revenge, which hinges precisely on the punisher's capacity for moral conflict: while the avenger inflicts suffering 'simplemindedly', the legitimate punisher experiences something like agent regret[^13] about the suffering they inflict---a feeling not quite of moral guilt, but more than generic sadness. They might, on this basis, also acknowledge that this emotion carries moral implications for how they implement the penalty.
+
+We elaborate Zaibert's critique in two ways. First, prisoners' own accounts of punishment and suffering offer evidence of the moral conflict which Zaibert argues punishers ought to feel. Just as he insists that legitimate punishment must acknowledge "remainders" of conflicting value, many life-sentenced prisoners---including Tom and Frank, both quoted above---demonstrate sophisticated moral reasoning. They neither wholly accept nor wholly reject institutional narratives about their culpability. They forgive themselves for some aspects while accepting profound responsibility for others---recognising that quibbles over some elements of the official account pale against the grave losses they caused. This nuanced moral engagement emerges through contingent, personal processes. We do not claim such epiphanies are universal. Crucially, though, we do not believe they are rare, and our account of risk management practices suggests little space for the pluralistic forms of responsibility such reflections produce. Such value pluralism, Zaibert suggests, is perhaps *the* hallmark of legitimate punishment.
+
+Second, and more importantly, we suggest that the current implementation of the life sentence---comprising an extremely long penalty phase, with progression organised around a monistic understanding of risk---mirrors the 'simple-mindedness' Zaibert identifies in 'pure' desert theories. Much as Moore [-@moorePlacingBlameTheory2010] reduced all values to desert, argued that punishment required no further justification, and admitted no limit beyond proportionality, what we have called an 'actuarial morality system' reduces all values to risk, and defers recognition for prisoners' moral engagement until they have a) consumed a surfeit of retributive time, and b) learned to account for themselves in line with official expectations.
+
+The irreducible burden of time leads to what we have called 'sedative coping'. When prisoners must anaesthetise themselves to survive---becoming, in Mason's words, "an emotionless person"---they lose access to precisely those moral emotions which might deepen their engagement. A system that necessitates the suppression of feeling promotes passive endurance, and fails consistently to awaken or facilitate the moral engagement it purports to seek. Alternatively, prisoners serving long sentences are calling out for such engagement, but find a response that does not align with their grounds for seeking it.
+
+The obverse of this systemic disengagement is its selection of certain cases for intensive intervention based on assessed risk. By "gripping" prisoners and their wrongdoing "imperfectly" [see @creweTightnessRecognitionPenal2021, p. 58], and unevenly, according to criteria many find mystifying [@jarmanMoralMessagesEthical2024, ch. 6], and by failing to align with what we call windows of moral openness, the system fails to engage seriously with its communicative duties. If anything, the acute anguish caused by very long sentences seems to impede such a goal, at least during the initial years of custody; at best, life sentences might produce space for prisoners to engage in moral reflection and accept some form of accountability. But they do so clumsily, unevenly, and inconsistently, often substituting responsibilities associated with avoiding future harms for responsibilities arising from past wrongs. Our suggestion is that they ought to support prisoners in synthesising these two forms of responsibility, instead of monistically privileging one over the other.
+
+::::: {.content-hidden when-format="html" unless-format="revealjs"}  
+{{< pagebreak>}}
+
+## References {.unnumbered}
+
+::: {#refs}  
+:::
+
+:::::
+
+[^1]: *Hansard*, HC Deb 20 May 2003 vol 405 c 867--8, 874
+[^2]: All names provided here are pseudonyms. We also include details of age and sentence stage.
+[^3]: Only 13% of men in the very early stage of their tariff considered themselves to be guilty of murder [@creweLifeImprisonmentYoung2020].
+[^4]: A third group comprised individuals convicted under Joint Enterprise, who felt---not unwarrantedly---that their convictions or sentences were illegitimate.
+[^5]: In survey data, the mean severity scores for four out of these five items were considerably higher for men serving life sentences than for other prisoner sub-groups serving shorter sentences.
+[^6]: A discontinued offending behaviour programme, operated under external contract, facilitating encounters between perpetrators and victims of violence.
+[^7]: An offending behaviour programme.
+[^8]: A therapeutic prison.
+[^9]: Emphasis added.
+[^10]: Emphasis added.
+[^11]: A shared meal prepared using pooled canteen purchases.
+[^12]: Zaibert's original term is an 'impoverished monistic axiology': a theory of value which acknowledges, and seeks to realise, only one value.
+[^13]: Originally coined by Williams [-@williamsMoralLuckPhilosophical1981] in his classic work on moral luck, 'agent regret' classifies cases in which someone feels responsible for harmful actions which were nevertheless *not wrong*, and distinguishes such feelings from the regret one might experience on witnessing or learning about sad events at second or third hand.
+[^14]: Published policies [e.g. @ministryofjusticeManageCustodialSentence2018; @ministryofjusticePrisonPublicProtection2024] specify a tiered approach to risk management but do not detail treatment allocation criteria. We understand that internal HMPPS guidance prioritises allocations based firstly on assessed risk and the imminence of actual or potential release and secondly on various factors including those we describe.
