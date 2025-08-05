@@ -15,23 +15,23 @@ website:
   favicon: logo.png
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: blog.qmd
-        text: Blog
-      - href: publications.qmd
-        text: Publications
-      - href: https://benjarman.uk/phd_thesis
-        text: PhD
-      # - href: teaching.qmd
-      #   text: Teaching
-      - href: "/cv/cv.pdf"
-        text: CV
+    - href: index.qmd
+      text: Home
+    - href: about.qmd
+      text: About
+    - href: blog.qmd
+      text: Blog
+    - href: publications.qmd
+      text: Publications
+    - href: https://benjarman.uk/phd_thesis
+      text: PhD
+    # - href: teaching.qmd
+    #   text: Teaching
+    - href: "/cv/cv.pdf"
+      text: CV
     right:
-      - icon: rss
-        href: blog.xml
+    - icon: rss
+      href: blog.xml
   google-analytics: "G-M798KNBF6D"
   cookie-consent:
     type: implied
@@ -45,14 +45,14 @@ website:
   # issue-url: https://github.com/bmhj2/bmhj2.github.io/issues
   page-footer:
     left: >
-      © 2003-2025 Ben Jarman. All rights reserved except where indicated.
+      © 2003-2025 Ben Jarman. All rights reserved except where indicated per page.
     right: >
       Powered by [Quarto](https://quarto.org/)
   search:
-    keyboard-shortcut: ["f"]
+    keyboard-shortcut: [ "f" ]
     copy-button: true
 
-execute: 
+execute:
   freeze: auto
 
 date-format: iso
@@ -60,8 +60,8 @@ date-format: iso
 format:
   html:
     theme:
-      light: [flatly, _light.scss]
-      dark: [darkly, _dark.scss]
+      light: [ flatly, _light.scss ]
+      dark: [ darkly, _dark.scss ]
     css: styles.css
     toc: true
     email-obfuscation: javascript

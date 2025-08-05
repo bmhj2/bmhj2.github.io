@@ -36,7 +36,7 @@ citation:
     - family: Tapley
       given: Jacki      
     - family: Tully
-      given: Christ
+      given: Chris
   genre: Final report
   issued: 2022-06-15
   language: en-GB

@@ -5,7 +5,7 @@ about:
   template: jolla
   image: profile.jpg
   links:
-    - text: "{{< iconify fa-solid university >}} Staff profile"
+    - text: "{{< iconify fa-solid university >}} University profile"
       href: "https://www.southampton.ac.uk/people/667tyx/doctor-ben-jarman"
     - icon: envelope-fill
       text: Email
