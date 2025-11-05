@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -38,18 +38,19 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2fef5ea3f8957b3e4ecc936fc74692ca.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-707d8167ce6003fca903bfe2be84ab7f.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-57aae3676c5e11e1c0d8cddef165a900.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-703f0e38f729bf9de888edb59699de16.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-57aae3676c5e11e1c0d8cddef165a900.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-532dc14c29ca403b9379c33abf0778c6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-c679e6772669c748136b64f4a195b6e4.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-532dc14c29ca403b9379c33abf0778c6.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": true,
@@ -146,7 +147,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -339,6 +340,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Ben Jarman</span>
     </a>
@@ -442,7 +445,7 @@ Note
   </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ3B1YmxpY2F0aW9u" data-listing-date-sort="1751497200000" data-listing-file-modified-sort="1753778008270" data-listing-date-modified-sort="1753778008000" data-listing-reading-time-sort="3" data-listing-word-count-sort="476">
+<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ3B1YmxpY2F0aW9u" data-listing-date-sort="1751497200000" data-listing-file-modified-sort="1762367729416" data-listing-date-modified-sort="1762367729000" data-listing-reading-time-sort="3" data-listing-word-count-sort="476">
 <div class="thumbnail"><a href="./news/parole-process-talk.html" class="no-external">
 
 <img loading="lazy" src="./_assets/srijan-mohan-V9D6ItZvhnM-unsplash.jpg" class="thumbnail-image">
@@ -477,7 +480,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="bmV3cyUyQ3B1YmxpY2F0aW9u" data-listing-date-sort="1750287600000" data-listing-file-modified-sort="1753778008275" data-listing-date-modified-sort="1753778008000" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
+<div class="quarto-post image-right" data-index="1" data-categories="bmV3cyUyQ3B1YmxpY2F0aW9u" data-listing-date-sort="1750287600000" data-listing-file-modified-sort="1762367742077" data-listing-date-modified-sort="1762367742000" data-listing-reading-time-sort="1" data-listing-word-count-sort="130">
 <div class="thumbnail"><a href="./news/phd-available.html" class="no-external">
 
 <img loading="lazy" src="./_assets/tim-alex-FC1uuekWoZc-unsplash.jpg" class="thumbnail-image">
@@ -512,7 +515,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="bmV3cyUyQ3B1YmxpY2F0aW9u" data-listing-date-sort="1739404800000" data-listing-file-modified-sort="1753778008268" data-listing-date-modified-sort="1753778008000" data-listing-reading-time-sort="2" data-listing-word-count-sort="345">
+<div class="quarto-post image-right" data-index="2" data-categories="bmV3cyUyQ3B1YmxpY2F0aW9u" data-listing-date-sort="1739404800000" data-listing-file-modified-sort="1762367711906" data-listing-date-modified-sort="1762367711000" data-listing-reading-time-sort="2" data-listing-word-count-sort="345">
 <div class="thumbnail"><a href="./news/ldw-talk.html" class="no-external">
 
 <img loading="lazy" src="./_assets/viktor-forgacs-LNwIJHUtED4-unsplash.jpg" class="thumbnail-image">
@@ -547,7 +550,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="bmV3cyUyQ3B1YmxpY2F0aW9u" data-listing-date-sort="1736208000000" data-listing-file-modified-sort="1753778008276" data-listing-date-modified-sort="1736208000000" data-listing-reading-time-sort="1" data-listing-word-count-sort="155">
+<div class="quarto-post image-right" data-index="3" data-categories="bmV3cyUyQ3B1YmxpY2F0aW9u" data-listing-date-sort="1736208000000" data-listing-file-modified-sort="1762367750278" data-listing-date-modified-sort="1736208000000" data-listing-reading-time-sort="1" data-listing-word-count-sort="155">
 <div class="thumbnail"><a href="./news/sentencing-review-response.html" class="no-external">
 
 <img loading="lazy" src="./_assets/wesley-tingey-9z9fxr_7Z-k-unsplash.jpg" class="thumbnail-image">
@@ -582,7 +585,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="cG9zdHM=" data-listing-date-sort="1732838400000" data-listing-file-modified-sort="1753778008265" data-listing-date-modified-sort="1753778008000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1044">
+<div class="quarto-post image-right" data-index="4" data-categories="cG9zdHM=" data-listing-date-sort="1732838400000" data-listing-file-modified-sort="1762367246536" data-listing-date-modified-sort="1762367246000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1044">
 <div class="thumbnail"><a href="./blog/fishmongers-hall-five-years.html" class="no-external">
 
 <img loading="lazy" src="./_assets/jack-and-friends.jpg" class="thumbnail-image">
@@ -615,7 +618,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="bmV3cw==" data-listing-date-sort="1732665600000" data-listing-file-modified-sort="1753778008278" data-listing-date-modified-sort="1753778008000" data-listing-reading-time-sort="2" data-listing-word-count-sort="273">
+<div class="quarto-post image-right" data-index="5" data-categories="bmV3cw==" data-listing-date-sort="1732665600000" data-listing-file-modified-sort="1762367756588" data-listing-date-modified-sort="1762367756000" data-listing-reading-time-sort="2" data-listing-word-count-sort="273">
 <div class="thumbnail"><a href="./news/welcome-new-homepage.html" class="no-external">
 
 <img loading="lazy" src="./profile.jpg" class="thumbnail-image">
@@ -648,7 +651,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1608422400000" data-listing-file-modified-sort="1739634546107" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1333">
+<div class="quarto-post image-right" data-index="6" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1608422400000" data-listing-file-modified-sort="1762367455047" data-listing-date-modified-sort="1762367455000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1333">
 <div class="thumbnail"><a href="./changing-inside/even-roses-grow.html" class="no-external">
 
 <img loading="lazy" src="./_assets/john-tecuceanu-w_EXlvIk2Vk-unsplash.jpg" class="thumbnail-image">
@@ -685,7 +688,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1606435200000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271">
+<div class="quarto-post image-right" data-index="7" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1606435200000" data-listing-file-modified-sort="1762367555613" data-listing-date-modified-sort="1762367555000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1271">
 <div class="thumbnail"><a href="./changing-inside/perfectly-happy-in-prison.html" class="no-external">
 
 <img loading="lazy" src="./_assets/scott-webb-9u8mko3pgww-unsplash.jpg" class="thumbnail-image">
@@ -722,7 +725,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ25ld3M=" data-listing-date-sort="1588633200000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1201">
+<div class="quarto-post image-right" data-index="8" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ25ld3M=" data-listing-date-sort="1588633200000" data-listing-file-modified-sort="1762367549607" data-listing-date-modified-sort="1762367549000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1201">
 <div class="thumbnail"><a href="./changing-inside/only-one-way-swim.html" class="no-external">
 
 <img loading="lazy" src="./_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg" class="thumbnail-image">
@@ -759,7 +762,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1580947200000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
+<div class="quarto-post image-right" data-index="9" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1580947200000" data-listing-file-modified-sort="1762367599891" data-listing-date-modified-sort="1762367599000" data-listing-reading-time-sort="9" data-listing-word-count-sort="1713">
 <div class="thumbnail"><a href="./changing-inside/three-stories.html" class="no-external">
 
 <img loading="lazy" src="./_assets/large-group-wallpaper-black-and-white-vector-illustration1.jpg" class="thumbnail-image">
@@ -796,7 +799,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1573430400000" data-listing-file-modified-sort="1739634546116" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="10" data-listing-word-count-sort="1902">
+<div class="quarto-post image-right" data-index="10" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1573430400000" data-listing-file-modified-sort="1762367492929" data-listing-date-modified-sort="1762367492000" data-listing-reading-time-sort="10" data-listing-word-count-sort="1902">
 <div class="thumbnail"><a href="./changing-inside/interviews-power-games.html" class="no-external">
 
 <img loading="lazy" src="./_assets/d58df-interview.jpg" class="thumbnail-image">
@@ -833,7 +836,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1572480000000" data-listing-file-modified-sort="1739634546116" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1004">
+<div class="quarto-post image-right" data-index="11" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1572480000000" data-listing-file-modified-sort="1762367508985" data-listing-date-modified-sort="1762367508000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1004">
 <div class="thumbnail"><a href="./changing-inside/interviews-transactions.html" class="no-external">
 
 <img loading="lazy" src="./_assets/Fish_bowl2.jpeg" class="thumbnail-image">
@@ -870,7 +873,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1572220800000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="4" data-listing-word-count-sort="652">
+<div class="quarto-post image-right" data-index="12" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1572220800000" data-listing-file-modified-sort="1762368326868" data-listing-date-modified-sort="1762368326000" data-listing-reading-time-sort="4" data-listing-word-count-sort="652">
 <div class="thumbnail"><a href="./changing-inside/rules-game-prison-research.html" class="no-external">
 
 <img loading="lazy" src="./_assets/78c21-tit-for-tat.jpg" class="thumbnail-image">
@@ -907,7 +910,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1568156400000" data-listing-file-modified-sort="1739634546107" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="8" data-listing-word-count-sort="1436">
+<div class="quarto-post image-right" data-index="13" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1568156400000" data-listing-file-modified-sort="1762367449882" data-listing-date-modified-sort="1762367449000" data-listing-reading-time-sort="8" data-listing-word-count-sort="1436">
 <div class="thumbnail"><a href="./changing-inside/comparing-sentences-2.html" class="no-external">
 
 <img loading="lazy" src="./_assets/09668-apple-and-orange-e1567544536786.jpg" class="thumbnail-image">
@@ -944,7 +947,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1567551600000" data-listing-file-modified-sort="1739634546107" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="5" data-listing-word-count-sort="900">
+<div class="quarto-post image-right" data-index="14" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1567551600000" data-listing-file-modified-sort="1762367444515" data-listing-date-modified-sort="1762367444000" data-listing-reading-time-sort="5" data-listing-word-count-sort="900">
 <div class="thumbnail"><a href="./changing-inside/comparing-sentences-1.html" class="no-external">
 
 <img loading="lazy" src="./_assets/09668-apple-and-orange-e1567544536786.jpg" class="thumbnail-image">
@@ -981,7 +984,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1566169200000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="9" data-listing-word-count-sort="1638">
+<div class="quarto-post image-right" data-index="15" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3Jlc2VhcmNoJTIwbG9n" data-listing-date-sort="1566169200000" data-listing-file-modified-sort="1762367545838" data-listing-date-modified-sort="1762367545000" data-listing-reading-time-sort="9" data-listing-word-count-sort="1638">
 <div class="thumbnail"><a href="./changing-inside/not-just-piece-cake.html" class="no-external">
 
 <img loading="lazy" src="./_assets/3e8c8-cake.jpg" class="thumbnail-image">
@@ -1018,7 +1021,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ25ld3M=" data-listing-date-sort="1555542000000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="2" data-listing-word-count-sort="299">
+<div class="quarto-post image-right" data-index="16" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ25ld3M=" data-listing-date-sort="1555542000000" data-listing-file-modified-sort="1762368165589" data-listing-date-modified-sort="1762368165000" data-listing-reading-time-sort="2" data-listing-word-count-sort="299">
 <div class="thumbnail"><a href="./changing-inside/poor-prospect-indeed.html" class="no-external">
 
 <img loading="lazy" src="./_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg" class="thumbnail-image">
@@ -1055,7 +1058,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1549670400000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1291">
+<div class="quarto-post image-right" data-index="17" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1549670400000" data-listing-file-modified-sort="1762367591687" data-listing-date-modified-sort="1762367591000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1291">
 <div class="thumbnail"><a href="./changing-inside/rehabilitation-aims-prisons-3.html" class="no-external">
 
 <img loading="lazy" src="./_assets/Pentonvilleiso19.jpg" class="thumbnail-image">
@@ -1092,7 +1095,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1549497600000" data-listing-file-modified-sort="1739634546107" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1096">
+<div class="quarto-post image-right" data-index="18" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1549497600000" data-listing-file-modified-sort="1762367487704" data-listing-date-modified-sort="1762367487000" data-listing-reading-time-sort="6" data-listing-word-count-sort="1096">
 <div class="thumbnail"><a href="./changing-inside/how-lifers-adapt-2.html" class="no-external">
 
 <img loading="lazy" src="./_assets/a56b2-new-growth.jpg" class="thumbnail-image">
@@ -1129,7 +1132,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1549324800000" data-listing-file-modified-sort="1739634546107" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="8" data-listing-word-count-sort="1543">
+<div class="quarto-post image-right" data-index="19" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1549324800000" data-listing-file-modified-sort="1762367459242" data-listing-date-modified-sort="1762367459000" data-listing-reading-time-sort="8" data-listing-word-count-sort="1543">
 <div class="thumbnail"><a href="./changing-inside/how-lifers-adapt-1.html" class="no-external">
 
 <img loading="lazy" src="./_assets/a56b2-new-growth.jpg" class="thumbnail-image">
@@ -1166,7 +1169,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1549238400000" data-listing-file-modified-sort="1740957760745" data-listing-date-modified-sort="1740957760000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1281">
+<div class="quarto-post image-right" data-index="20" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1549238400000" data-listing-file-modified-sort="1762367587591" data-listing-date-modified-sort="1762367587000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1281">
 <div class="thumbnail"><a href="./changing-inside/rehabilitation-aims-prisons-2.html" class="no-external">
 
 <img loading="lazy" src="./_assets/Pentonvilleiso19.jpg" class="thumbnail-image">
@@ -1203,7 +1206,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="21" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1549065600000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1379">
+<div class="quarto-post image-right" data-index="21" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1549065600000" data-listing-file-modified-sort="1762367563248" data-listing-date-modified-sort="1762367563000" data-listing-reading-time-sort="7" data-listing-word-count-sort="1379">
 <div class="thumbnail"><a href="./changing-inside/rehabilitation-aims-prisons-1.html" class="no-external">
 
 <img loading="lazy" src="./_assets/Pentonvilleiso19.jpg" class="thumbnail-image">
@@ -1240,7 +1243,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="22" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1548633600000" data-listing-file-modified-sort="1739634546107" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="10" data-listing-word-count-sort="1844">
+<div class="quarto-post image-right" data-index="22" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ3JlYWRpbmclMjBub3Rl" data-listing-date-sort="1548633600000" data-listing-file-modified-sort="1762367435317" data-listing-date-modified-sort="1762367435000" data-listing-reading-time-sort="10" data-listing-word-count-sort="1844">
 <div class="thumbnail"><a href="./changing-inside/agenda-research-long-term-imprisonment.html" class="no-external">
 
 <img loading="lazy" src="./_assets/scott-graham-5fNmWej4tAA-unsplash.jpg" class="thumbnail-image">
@@ -1277,7 +1280,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="23" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ25ld3M=" data-listing-date-sort="1544745600000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="5" data-listing-word-count-sort="967">
+<div class="quarto-post image-right" data-index="23" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ25ld3M=" data-listing-date-sort="1544745600000" data-listing-file-modified-sort="1762367517049" data-listing-date-modified-sort="1762367517000" data-listing-reading-time-sort="5" data-listing-word-count-sort="967">
 <div class="thumbnail"><a href="./changing-inside/lifers-right-hope.html" class="no-external">
 
 <img loading="lazy" src="./_assets/greg-rosenke-wlu3SeMLLSQ-unsplash.jpg" class="thumbnail-image">
@@ -1314,7 +1317,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="24" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ25ld3M=" data-listing-date-sort="1544400000000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="1" data-listing-word-count-sort="160">
+<div class="quarto-post image-right" data-index="24" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ25ld3M=" data-listing-date-sort="1544400000000" data-listing-file-modified-sort="1762367513011" data-listing-date-modified-sort="1762367513000" data-listing-reading-time-sort="1" data-listing-word-count-sort="160">
 <div class="thumbnail"><a href="./changing-inside/life-sentences-long-view.html" class="no-external">
 
 <img loading="lazy" src="./_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg" class="thumbnail-image">
@@ -1351,7 +1354,7 @@ Ben Jarman
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="25" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ25ld3M=" data-listing-date-sort="1543881600000" data-listing-file-modified-sort="1739634546118" data-listing-date-modified-sort="1739634546000" data-listing-reading-time-sort="5" data-listing-word-count-sort="857">
+<div class="quarto-post image-right" data-index="25" data-categories="cG9zdHMlMkNjaGFuZ2luZyUyMGluc2lkZSUyQ25ld3M=" data-listing-date-sort="1543881600000" data-listing-file-modified-sort="1762367603710" data-listing-date-modified-sort="1762367603000" data-listing-reading-time-sort="5" data-listing-word-count-sort="857">
 <div class="thumbnail"><a href="./changing-inside/welcome.html" class="no-external">
 
 <img loading="lazy" data-src="./_assets/20131115_112633_DDF84CD5.jpg" class="thumbnail-image">
@@ -1458,13 +1461,14 @@ Ben Jarman
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
