@@ -44,7 +44,7 @@ toc: true
 
 This submission responds to Issues 3, 7, 8, 12, and 13 of the Law Commission's call for evidence on homicide law reform. It draws on qualitative research with 66 men serving mandatory life sentences for murder, examining how they understood and evaluated their convictions at different sentence stages.
 
-Around four-fifths initially pleaded not guilty; only one-quarter denied guilt when interviewed years later. This shift reveals that the capacity for accountability develops over time, not simply at conviction—yet current law assumes fixedness and contains no mechanism to respond when its assumptions prove false.
+**Key finding**: Around four-fifths initially pleaded not guilty; only one-quarter denied guilt when interviewed years later. This shift reveals that the capacity for accountability develops over time, not simply at conviction—yet current law assumes fixedness and contains no mechanism to respond when its assumptions prove false.
 
 **Three structural problems impede accountability**. First, Schedule 21's mechanistic severity creates conditions systematically hostile to moral reflection. Extreme tariffs necessitate emotional anaesthesia for survival, blocking access to the moral emotions that accountability requires. Prisoners describe "sedative coping"—numbing themselves to endure sentences so long they feel incomprehensible—which directly contradicts punishment's claimed communicative purposes.
 
@@ -57,12 +57,10 @@ Third, current partial defences recognise certain vulnerability patterns while m
 ::: {.callout-tip title="Key recommendation"}
 **Recommendation**: Introduce statutory second-look mechanisms to align punishment's communicative purpose with empirical reality.
 
-"Second look" provisions, used in various forms internationally, could address these structural problems by creating mechanisms to revisit sentences when circumstances materially change. While this would represent a significant departure from current practice, the alternative—treating as legally irrelevant all changes that occur after sentencing—serves neither victims' interests in genuine accountability nor punishment's claimed communicative purposes. Second-look provisions would allow courts to revisit sentences when the capacity for accountability develops, or when sentencing assumptions prove false.
+"Second look" provisions, used in various forms internationally,^[Second-look mechanisms exist in various forms across multiple jurisdictions, most of all in some US states where they have been implemented following the US Supreme Court's decision in Miller v. Alabama [567 U.S. 460 (2012)] that mandatory life-without-parole sentences for juvenile offenders were unconstitutional. Their specific structures and criteria vary considerably. Whilst a detailed comparative analysis is beyond my current scope, the existence of such provisions elsewhere demonstrates their feasibility as a structural response to the problems associated with inflexible and severe sentencing frameworks. The Commission may wish to examine international models in developing any recommendations.] could address these structural problems by creating mechanisms to revisit sentences when circumstances materially change. While this would represent a significant departure from current practice, the alternative—treating as legally irrelevant all changes that occur after sentencing—serves neither victims' interests in genuine accountability nor punishment's claimed communicative purposes. Second-look provisions would allow courts to revisit sentences when the capacity for accountability develops, or when sentencing assumptions prove false.
 
 For further detail, see [@sec-conclusion]
 :::
-
-***
 
 ::: {.content-hidden when-format="html"}
 {{< pagebreak >}}
@@ -101,7 +99,7 @@ For further detail, see [@sec-conclusion]
 
 ### Structural responses {.unnumbered}
 
-**Second-look provisions** could create mechanisms to revisit sentences when:
+**Second-look sentencing provisions** could create mechanisms to revisit sentences when:
 - Substantial new information about culpability emerges
 - Offenders demonstrate accountability capacity absent at conviction  
 - Developmental changes make original sentence disproportionate
@@ -124,23 +122,21 @@ This research systematically explores prisoners' attitudes to their index offenc
 
 Participants, who were all serving the mandatory life sentence, were sampled by sentence stage and tariff length to represent offences of very variable seriousness. They participated voluntarily on a promise of confidentiality, meaning that I use pseudonyms throughout this response and must report individual cases with care to avoid identification. Their offences had been committed between 1983 and 2017, when they had been aged between their mid-teens and their mid-seventies. They had received tariffs of between 8 and 30 years. It should be noted that all interviews were conducted in male prisons, and the findings cannot be assumed to apply to women serving the mandatory life sentence.
 
-One clear overall finding from this research deserves emphasis: **many of the men I interviewed had changed their stance regarding guilt since their trial**. The broad argument of this submission will be that considering this finding in context has implications for the Commission’s thinking about the law of homicide.
+One clear overall finding from this research deserves emphasis: **many of the men I interviewed had changed their stance regarding guilt since their trial**. The broad argument of this submission will be that considering this finding in context has implications for the Commission's thinking about the law of homicide.
 
-[@tbl-guilt] summarises the responses of 48 PhD participants to the question, “Do you consider yourself to be guilty \[of murder\]?”. It compares these figures to figures summarising their earlier pleas in court:^[Comparable data for the MPhil sample are not available.]
+[@tbl-guilt] summarises the responses of 48 PhD participants to the question, "Do you consider yourself to be guilty \[of murder\]?". It compares these figures to figures summarising their earlier pleas in court:^[Comparable data for the MPhil sample are not available.]
 
 |                    | Guilty of murder? | Participants | Percentage (N=48) |
 | -----------------: | :---------------: | :----------: | :---------------: |
 | **Current belief** |      Guilty       |      28      |        58%        |
 |                    |     Not sure      |      7       |        15%        |
-|                    |    Not guilty     |      13      |      27%[^1]      |
+|                    |    Not guilty     |      13      |  27%[^notguilty]  |
 |  **Original plea** |      Guilty       |      9       |        19%        |
 |                    |    Not guilty     |      39      |        81%        |
 
-: PhD participants’ current beliefs about their guilt, compared with original pleas. Percentages are rounded. {#tbl-guilt}
+: PhD participants' current beliefs about their guilt, compared with original pleas. Percentages are rounded. {#tbl-guilt}
 
-[^1]: This number masks diverse positions. Seven individuals admitted some involvement in the chain of events leading to the victim’s death. This includes all of those convicted under joint enterprise. Six individuals denied any involvement whatsoever.
-
-What is striking, and invites exploration, is that while around four-fifths of the sample pleaded not guilty, only around a quarter denied guilt by the time they were interviewed—with only one-eighth^[Comprising those six of the 48 PhD participants who answered that they currently believed themselves to be not guilty of murder, and whose answer represented a categorical rather than technical claim of innocence.] maintaining a categorical claim of innocence. These figures offer no direct answers to the Commission’s questions about homicide law; nor can they be assumed representative of the wider population. However, they suggest a classification of attitudes to guilt which underpins later sections of this response:
+What is striking, and invites exploration, is that while around four-fifths of the sample pleaded not guilty, only around a quarter denied guilt by the time they were interviewed—with only one-eighth^[Comprising those six of the 48 PhD participants who answered that they currently believed themselves to be not guilty of murder, and whose answer represented a categorical rather than technical claim of innocence.] maintaining a categorical claim of innocence. These figures offer no direct answers to the Commission's questions about homicide law; nor can they be assumed representative of the wider population. However, they suggest a classification of attitudes to guilt which underpins later sections of this response:
 
 - **Group 1: Categorical denial of guilt**: some mandatory lifers who have been convicted of murder maintain a strong claim of innocence throughout their sentence.
 - **Group 2: Guilt admitted during sentence**: among those who admit some involvement in the events leading to a homicide, many individuals come to admit guilt during their sentence, having initially denied guilt at trial.
@@ -152,15 +148,15 @@ The response is organised thematically around three structural problems where em
 
 # Structure and scope {#sec-roadmap}
 
-The current legal framework for murder—both substantive law and sentencing provisions—shapes prisoners' capacity to engage with their moral accountability. By “accountability”, I mean something specific and demanding, which I elaborate in [@sec-accountability] below. For present purposes, it is enough to note that accountability is not simply remorse or rehabilitation, but the difficult work of acknowledging moral truth: that the offender had no right to cause harm, that the victim was undeserving of that pain, and that the harm was the offender’s choice and fault.
+The current legal framework for murder—both substantive law and sentencing provisions—shapes prisoners' capacity to engage with their moral accountability. By "accountability", I mean something specific and demanding, which I elaborate in [@sec-accountability] below. For present purposes, it is enough to note that accountability is not simply remorse or rehabilitation, but the difficult work of acknowledging moral truth: that the offender had no right to cause harm, that the victim was undeserving of that pain, and that the harm was the offender's choice and fault.
 
-This response addresses the following Issues identified in the Law Commission’s call for evidence:
+This response addresses the following Issues identified in the Law Commission's call for evidence:
 
 **Issues 13--15 (Sentencing framework for murder)**: [@sec-severity] examines how the mechanistic severity of Schedule 21's tariff structure creates conditions systematically hostile to accountability, particularly for tariffs beyond approximately 10-15 years.
 
 **Issue 3 (Complicity, including joint enterprise)**: [@sec-jointEnterprise] considers how the attribution of equal culpability for joint enterprise murder can prevent offenders from engaging with their actual moral responsibility, blocking genuine accountability.
 
-**Issues 7, 8, and 12 (Partial defences; domestic abuse as a partial defence; victims’ perspectives on abuse)**: [@sec-vulnerabilities] explores how current partial defences recognise certain vulnerability patterns while missing others, creating barriers to accountability at multiple stages.
+**Issues 7, 8, and 12 (Partial defences; domestic abuse as a partial defence; victims' perspectives on abuse)**: [@sec-vulnerabilities] explores how current partial defences recognise certain vulnerability patterns while missing others, creating barriers to accountability at multiple stages.
 
 # Accountability: what it means and why it matters {#sec-accountability}
 
@@ -168,15 +164,15 @@ This response addresses the following Issues identified in the Law Commission’
 
 Accountability does not mean simply feeling remorse, rehabilitation, or expressing regret. It is more specific and demanding. Following restorative justice practitioner Danielle Sered [-@seredWeReckonViolence2019, loc. 30.3%], I define accountability to mean the difficult work of acknowledging moral truth. In the context of punishment, it means a recognition on the part of the person held responsible for a crime
 
-  > …that \[they\] had no right to hurt the other person, that the harmed party was undeserving of that pain, and that the pain was the responsible party’s choice and therefore their fault. And if it was their fault, it was not the harmed party’s fault.
+  > …that \[they\] had no right to hurt the other person, that the harmed party was undeserving of that pain, and that the pain was the responsible party's choice and therefore their fault. And if it was their fault, it was not the harmed party's fault.
 
-Sered argues that accountability along these lines is harder—“scarier”, even—than simply surviving prison or enduring a punishment. This is because it requires offenders to “fac\[e\] the people whose lives they’ve changed, as a full human being who is responsible for the pain of others” [-@seredWeReckonViolence2019, loc. 30.3%]. Accountability in this sense is not a recognition of the “technical truth of what happened”, but the moral truth of what it meant. Crucially, it is distinct from deterrence, crime reduction, rehabilitation, risk reduction, or public protection (which all relate in some way to the future). Accountability concerns the past: what was done, to whom, and why that was wrong.
+Sered argues that accountability along these lines is harder—"scarier", even—than simply surviving prison or enduring a punishment. This is because it requires offenders to "fac\[e\] the people whose lives they've changed, as a full human being who is responsible for the pain of others" [-@seredWeReckonViolence2019, loc. 30.3%]. Accountability in this sense is not a recognition of the "technical truth of what happened", but the moral truth of what it meant. Crucially, it is distinct from deterrence, crime reduction, rehabilitation, risk reduction, or public protection (which all relate in some way to the future). Accountability concerns the past: what was done, to whom, and why that was wrong.
 
 Accountability differs from remorse, though they may co-occur. Profound remorse—shame, regret, self-loathing—need not acknowledge that the victim was undeserving of harm and that the harm was the offender's choice. Some participants expressed deep regret for effects on themselves and their families without equivalent concern for victims. Conversely, someone might engage intellectually with moral responsibility without experiencing emotional turmoil. Accountability therefore refers to the cognitive and moral work of facing responsibility, not simply to accompanying emotional states.
 
 ## Why accountability is relevant to the purposes of sentencing
 
-The purposes of sentencing set out in section 57 of the Sentencing Code do not explicitly mention accountability. However, it is implicated in two of the five: “the punishment of offenders” and “the making of reparation by offenders to persons affected by their offences”.^[These purposes technically do not apply to mandatory sentences such as the life sentence for murder, since the sentencing court’s task is only to apply the required sentence. However, they would apply if life sentences became discretionary for some homicides, and they do apply when a court is sentencing manslaughter; hence, they are relevant to at least some of the homicides falling within the review’s terms of reference. They also govern the overall sentencing framework and are therefore of general importance to all sentencing law.]
+The purposes of sentencing set out in section 57 of the Sentencing Code do not explicitly mention accountability. However, it is implicated in two of the five: "the punishment of offenders" and "the making of reparation by offenders to persons affected by their offences".^[These purposes technically do not apply to mandatory sentences such as the life sentence for murder, since the sentencing court's task is only to apply the required sentence. However, they would apply if life sentences became discretionary for some homicides, and they do apply when a court is sentencing manslaughter; hence, they are relevant to at least some of the homicides falling within the review's terms of reference. They also govern the overall sentencing framework and are therefore of general importance to all sentencing law.]
 
 ### Punishment
 
@@ -188,7 +184,7 @@ With homicides, there is no obvious way to make the penalty proportionate to the
 
 Currently, the most influential retributive theories emphasise punishment's role in communicating moral standards about acceptable behaviour. They hold that states punish to censure wrongful acts and declare that they transgress public values—whether enshrined in law (such as the right to life) or representing broader principles (e.g. that life free from violence is to be valued). The resulting communication has various audiences: victims, the wider community, and offenders themselves.
 
-**R.A. Duff** [-@duffPunishmentCommunicationCommunity2001] sees punishment as a “secular penance”: a burdensome duty communicating the censure offenders deserve [-@duffPunishmentCommunicationCommunity2001, p. xvii]. It should hold their attention on wrongdoing while providing structures to face it. Crucially, justifiable punishment must involve "calling \[offenders\] to account"—inviting explanations and taking these seriously [-@duffRetrievingRetributivism2011, p. 16]. Communication should be dialogical, with offenders' active engagement preferable to passive endurance [see @brownleeOffendersPartDialogue2011].
+**R.A. Duff** [-@duffPunishmentCommunicationCommunity2001] sees punishment as a "secular penance": a burdensome duty communicating the censure offenders deserve [-@duffPunishmentCommunicationCommunity2001, p. xvii]. It should hold their attention on wrongdoing while providing structures to face it. Crucially, justifiable punishment must involve "calling \[offenders\] to account"—inviting explanations and taking these seriously [-@duffRetrievingRetributivism2011, p. 16]. Communication should be dialogical, with offenders' active engagement preferable to passive endurance [see @brownleeOffendersPartDialogue2011].
 
 **Jean Hampton** focuses on vindicating victims. Wrongdoing creates 'moral injury'—offenders 'use' victims, assaulting their dignity. Punishment should symbolically restore violated moral relationships and vindicate victims' worth. For serious cases, this might involve making offenders 'experience the offence from the victim's point of view', though excessive harshness can undermine the values punishment claims to uphold. [-@hamptonCorrectingHarmsRighting1991, p. 1690].
 
@@ -204,7 +200,7 @@ Victims have no inherent stake in offenders' future rehabilitation or flourishin
 
 ## How the law of murder distorts accountability
 
-Current homicide law impedes rather than facilitates accountability. This happens in three interconnected ways, each detailed in subsequent sections: Schedule 21's severity creates conditions hostile to accountability ([@sec-severity]); joint enterprise's attribution of equal culpability prevents engagement with actual wrongdoing ([@sec-jointEnterprise]); and current partial defences recognise some vulnerability patterns while missing others (@sec-vulnerabilities). In each case, the law assumes at sentencing that nothing will change, contains no mechanism to respond when it does, and creates conditions impeding the moral work the sentence ostensibly aims to foster. The existential hopelessness of “dead time” and the incomprehensible time horizons of tariffs which may exceed the offender’s lifespan to date act to block the moral reflection the sentence ostensibly aims to foster.
+Current homicide law impedes rather than facilitates accountability. This happens in three interconnected ways, each detailed in subsequent sections: Schedule 21's severity creates conditions hostile to accountability ([@sec-severity]); joint enterprise's attribution of equal culpability prevents engagement with actual wrongdoing ([@sec-jointEnterprise]); and current partial defences recognise some vulnerability patterns while missing others (@sec-vulnerabilities). In each case, the law assumes at sentencing that nothing will change, contains no mechanism to respond when it does, and creates conditions impeding the moral work the sentence ostensibly aims to foster. The existential hopelessness of "dead time" and the incomprehensible time horizons of tariffs which may exceed the offender's lifespan to date act to block the moral reflection the sentence ostensibly aims to foster.
 
 This represents institutional indifference to whether accountability is achieved. Put more precisely, the statutory sentencing framework lacks a responsive mechanism. The punishment component of the life sentence—supposedly justified partly by its communicative and vindicatory functions, or its capacity to 'prompt a change of mind or purpose' [@bottomsPenalCensureRepentance2019] so victims might see offenders take responsibility—routinely fails to achieve these functions. This is not merely a problem of implementation or resources. It is a problem of legal structure and principle.
 
@@ -214,7 +210,7 @@ This represents institutional indifference to whether accountability is achieved
 
 This section addresses **Issue 13** (the sentencing framework for murder).
 
-The consultation document [@thelawcommissionHomicideLawCall2025, ch. 2 and paras. 4.17–4.27] sets out problems with the current sentencing framework and two-tier structuring of homicide offences, noting that these criticisms have been expressed by many stakeholders over a long period. As an empirical researcher rather than a lawyer, I have little to add to these criticisms and simply endorse the views summarised there: Schedule 21’s mechanistic approach to tariff-setting, combined with a single tier of murder, results in a sentencing framework that is complex, prescriptive, and fails to distinguish clearly between offences of differing seriousness. It has also resulted in drastically increasing tariff lengths.
+The consultation document [@thelawcommissionHomicideLawCall2025, ch. 2 and paras. 4.17–4.27] sets out problems with the current sentencing framework and two-tier structuring of homicide offences, noting that these criticisms have been expressed by many stakeholders over a long period. As an empirical researcher rather than a lawyer, I have little to add to these criticisms and simply endorse the views summarised there: Schedule 21's mechanistic approach to tariff-setting, combined with a single tier of murder, results in a sentencing framework that is complex, prescriptive, and fails to distinguish clearly between offences of differing seriousness. It has also resulted in drastically increasing tariff lengths.
 
 My concern here is how this framework, having approximately doubled tariff lengths, fosters conditions systematically hostile to accountability. Research demonstrates that hopelessness produced by incomprehensible time horizons and lengthy periods of 'dead time' [@jarmanMakingProgressWhat2022] blocks the moral reflection the sentence might be expected to foster. Rather than promoting engagement with wrongdoing, extreme sentence length necessitates 'sedative coping' [@creweSedativeCopingContextual2024]—emotional anaesthesia deployed to survive. When prisoners must numb themselves emotionally, they suppress precisely those moral emotions that might facilitate accountability.
 
@@ -222,7 +218,7 @@ This is not an argument that murder sentences are 'too harsh', nor that all pris
 
 ## Sentence length and the prison experience
 
-For most of its history, the life sentence involved an average custody period of around a decade [@anonymous3HowLong1973]. The norm of roughly ten years’ minimum imprisonment, with longer periods for higher-risk cases, remained substantially unchanged until the 2003 Criminal Justice Act [@creweLifeImprisonmentYoung2020, pp. 1–3]. Since Schedule 21 became law, however, average tariffs have increased by 80%, from 12.5 years in 2003 [@prisonreformtrustBromleyBriefingsPrison2018, p. 7] to 22.5 years in 2023 [@ministryofjusticeHomicideSentencingQuestion2024]. The increase, linked by senior judiciary [@woolfSentencingInflationJudicial2024] and the Independent Sentencing Review [-@independentsentencingreviewIndependentSentencingReview2025] to broader sentence inflation, appears to continue.
+For most of its history, the life sentence involved an average custody period of around a decade [@anonymous3HowLong1973]. The norm of roughly ten years' minimum imprisonment, with longer periods for higher-risk cases, remained substantially unchanged until the 2003 Criminal Justice Act [@creweLifeImprisonmentYoung2020, pp. 1–3]. Since Schedule 21 became law, however, average tariffs have increased by 80%, from 12.5 years in 2003 [@prisonreformtrustBromleyBriefingsPrison2018, p. 7] to 22.5 years in 2023 [@ministryofjusticeHomicideSentencingQuestion2024]. The increase, linked by senior judiciary [@woolfSentencingInflationJudicial2024] and the Independent Sentencing Review [-@independentsentencingreviewIndependentSentencingReview2025] to broader sentence inflation, appears to continue.
 
 Parliament explicitly intended this increase, motivated partly by public confidence concerns.^[*Hansard*, HC Deb 20 May 2003 vol 405 c 867--8, 874] However, public understanding of how life sentences operate is limited [@robertsPublicKnowledgeSentencing2022, pp. 8–9], and attitudes are more nuanced when considering specific cases rather than murder abstractly [@mitchellPublicOpinionSentencing2010]. Individual attitudes also appear to show instability over time [@uhlInstabilityPunishmentPreferences2024].
 
@@ -232,15 +228,15 @@ Empirical evidence cannot settle whether ten, twenty, or thirty years is 'suffic
 
 The early stages of any prison sentence involve heightened distress and increased risk of self-harm and suicide [@lieblingPrisonSuicidePrisoner1999]. For life-sentenced prisoners serving the longer tariffs now commonplace, research documents overwhelming hopelessness and despair [@wrightSuppressionDenialSublimation2017]. LSPs face a triple challenge: life as previously known is over; the present feels meaningless and may be dangerous; any future beyond prison seems impossible to contemplate. Coping mechanisms previously available may not work in prison, and some (such as violence and substance misuse) worsen long-term prospects. Interviews suggest these feelings appear regardless of tariff length, but their intensity under current tariffs is striking:
 
-  > It doesn’t matter what anybody says or does to try and help you, it was like being sucked into a black hole and you think the pain’s never going to end, and it doesn’t.  
+  > It doesn't matter what anybody says or does to try and help you, it was like being sucked into a black hole and you think the pain's never going to end, and it doesn't.  
   > [Maria, twenties, mid-sentence stage, quoted in @creweLifeImprisonmentYoung2020, p. 214]
 
-  > A life sentence kills your hope, man, it takes it; \[…\] it swallows it. You’ve got no hope and no future, no life, no nothing.  
+  > A life sentence kills your hope, man, it takes it; \[…\] it swallows it. You've got no hope and no future, no life, no nothing.  
   > [Ashley, thirties, early-sentence stage, quoted in @creweLifeImprisonmentYoung2020, p. 164]
 
 For those whose tariffs exceed their age at conviction—an increasingly common outcome—the time ahead is literally incomprehensible:
 
-  > When I was convicted, I really did think it was over. I just thought, like, ‘18 years? At that age?’ I thought to myself, ‘I haven’t even lived 18 years \[…\] This is madness, this’. I thought, ‘I’m never getting out of jail’.  
+  > When I was convicted, I really did think it was over. I just thought, like, '18 years? At that age?' I thought to myself, 'I haven't even lived 18 years \[…\] This is madness, this'. I thought, 'I'm never getting out of jail'.  
   > [Kenny, twenties, mid-sentence stage, quoted in @creweLifeImprisonmentYoung2020, p. 82]
 
 Research ranking difficulties life-sentenced prisoners experience finds that early-sentence distress relates primarily to existential factors: missing loved ones, worrying about people outside, feeling the best years of one's life are lost [@hulleyReexaminingProblemsLongterm2016]. Those sentenced later sometimes find it easier to imagine the time spans involved, and some find prison routines weigh less heavily [@jarmanLifeImprisonmentMature2022]. Nonetheless, early stages of very long sentences generate profound suffering that, because it relates to the loss of a former life, even the most humane institutions will struggle to mitigate.
@@ -274,12 +270,12 @@ Many life-sentenced prisoners encounter 'windows of moral openness'—periods wh
 
 Windows may open through varied catalysts. Tom's mother died while he was in prison. This clarified what mattered and shifted his focus from sentence-related goals to exploring what he had done to his victim and her family:
 
-  > It made me concentrate on what happened and how I felt, when my mum died, so I could understand how they felt when I took their daughter or niece away \[…\] *You do not understand loss until you have experienced it*. \[…\] It made my sentence seem more real, in a way \[…\] Whereas before I was, ‘I am a lifer, I am in jail, so what? Let’s just get on with it’. I was concentrating on getting my little goals. Now I was concentrating on [my victim and her family].  
+  > It made me concentrate on what happened and how I felt, when my mum died, so I could understand how they felt when I took their daughter or niece away \[…\] *You do not understand loss until you have experienced it*. \[…\] It made my sentence seem more real, in a way \[…\] Whereas before I was, 'I am a lifer, I am in jail, so what? Let's just get on with it'. I was concentrating on getting my little goals. Now I was concentrating on [my victim and her family].  
   > (Tom, 50s, post-tariff stage)
 
 Others—including those who had killed intimate partners—actively engaged with OBPs despite feeling psychological frameworks didn't fully capture their experiences, performing what has been termed 'narrative labour' [@warrAlwaysGottaBe2020] to articulate responsibility even while resisting some censorious labels:
 
-  > They will throw those words like “abusive”—that’s a very strong word \[…\] To me \[…\] [it’s] where you’re going out of your way to abuse this person, whether it be physically or verbally. That was never my intention, that was never me. And maybe that’s why I felt bad \[…\] because *I did become that person* \[…\] “Minimisation”, “justification”, “denial”, “excuse”, “not taking responsibility”, “shifting the blame”. Those are key words that prison psychologists, facilitators use. It’s hard. I can see where they’re coming from, but also *not having my side acknowledged, it’s painful*.  
+  > They will throw those words like "abusive"—that's a very strong word \[…\] To me \[…\] [it's] where you're going out of your way to abuse this person, whether it be physically or verbally. That was never my intention, that was never me. And maybe that's why I felt bad \[…\] because *I did become that person* \[…\] "Minimisation", "justification", "denial", "excuse", "not taking responsibility", "shifting the blame". Those are key words that prison psychologists, facilitators use. It's hard. I can see where they're coming from, but also *not having my side acknowledged, it's painful*.  
   > (Rafiq, thirties, early-sentence stage)^[Emphases added.]
 
 Rafiq was one of many in the samples who fundamentally accepted institutional demands for accountability, while also seeking to be accountable on their own terms.
@@ -287,8 +283,6 @@ Rafiq was one of many in the samples who fundamentally accepted institutional de
 #### RNR principles and deferred accountability
 
 However, many prisoners who develop this readiness encounter institutional structures that fail to engage with it. Current prison practices inconsistently support development of what John called 'logical explanations', facilitating reflection on the index offence. Offending behaviour programmes (OBPs), the main avenue for this work, are organised around risk reduction using Risk-Need-Responsivity (RNR) principles.[^rnr]
-
-[^rnr]: RNR principles require: (1) intervention to be justified by presence of risk (the risk principle—guiding whom to target); (2) interventions targeting specific criminogenic needs to be linked by evidence to future risk (the need principle—guiding what to target so that needs not relating to future risk are not addressed); (3) interventions to be suited to prisoners' capacities (the responsivity principle—guiding how to intervene). RNR is 'the leading model of offender assessment and treatment in the world' [@hminspectorateofprobationProbationServicesModels2020]; adherence is linked with reduced future reoffending, particularly in community settings.
 
 While RNR offers an evidence-based approach to reducing reoffending, its application to life-sentenced populations has unintended consequences for accountability. The key dynamic: people serving extremely long sentences see risk decline considerably simply because they are growing older [the 'age-crime curve'—see @loeberAgecrimeCurve2014]. Combined with RNR principles prioritising high-risk prisoners and those nearing release for intervention, life-sentenced prisoners access OBPs late if at all. Those attempting early access are typically deferred unless they display problematic behaviour in custody.
 
@@ -305,7 +299,7 @@ For many, the middle sentence stages therefore involve not only emotional sedati
 
 While 'dead time' persists, windows of moral openness can close. Some perceive continued incarceration beyond a certain point becomes counter-productive, pushing prisoners into hopelessness that suppresses productive reflection:
 
-  > It gets to the point where you think, ‘This is too long, this.’ \[After 10 years\], I’m at a good stage where I could get out and I know I could do well, and I could stay out. But in seven years’ time, I don’t know.  
+  > It gets to the point where you think, 'This is too long, this.' \[After 10 years\], I'm at a good stage where I could get out and I know I could do well, and I could stay out. But in seven years' time, I don't know.  
   > [Kenny, 20s, mid-sentence stage, quoted in  @creweLifeImprisonmentYoung2020, p. 322]
 
 The problem underlying this quote is not simply psychological but structural, with the current sentencing framework for murder a necessary, though not sufficient, condition. It assumes that windows of openness for accountability—and more generally prisoners' responses to censure—either do not exist or do not matter. It sets tariffs mechanistically at sentencing, when (as [@sec-vulnerabilities] shows) relevant information may not be fully available, and contains no mechanism to respond when circumstances change—when prisoners develop a capacity for accountability which was absent initially, or when continued imprisonment pushes someone past the point where engagement remains possible.
@@ -323,7 +317,7 @@ Both examples suggest tariff length and irreducibility are barriers to focusing 
 
 ## Implications for issue 13
 
-For communicative penal theorists, punishment’s role in the sentence can be justified not because the offender deserves to suffer, but because the penalty should foster moral engagement. Schedule 21 penalises wrongdoing inconsistently and mechanistically, expressing it through the length of the tariff and (for reasons summarised by the call for evidence) failing to distinguish adequately between offences of differing seriousness. A two-tier structure for the offence of homicide exacerbates this effect. Both factors undermine the communicative justification for punishment. By setting tariffs mechanistically without regard to whether they will actually promote accountability, and by containing no mechanism to respond when prisoners develop (or lose) capacity for moral engagement, Schedule 21 displays institutional indifference to whether punishment achieves its communicative aims.
+For communicative penal theorists, punishment's role in the sentence can be justified not because the offender deserves to suffer, but because the penalty should foster moral engagement. Schedule 21 penalises wrongdoing inconsistently and mechanistically, expressing it through the length of the tariff and (for reasons summarised by the call for evidence) failing to distinguish adequately between offences of differing seriousness. A two-tier structure for the offence of homicide exacerbates this effect. Both factors undermine the communicative justification for punishment. By setting tariffs mechanistically without regard to whether they will actually promote accountability, and by containing no mechanism to respond when prisoners develop (or lose) capacity for moral engagement, Schedule 21 displays institutional indifference to whether punishment achieves its communicative aims.
 
 This is not an argument for abandoning punishment for murder, but an argument about what punishment should achieve. Nor is it an argument for greater leniency, since people being punished for murder agree with communicative sentencing theorists and some restorative justice practitioners that accountability demands more than passively enduring punishment. What it is, instead, is an argument that the sentencing framework should promote accountability and stop systematically obstructing it. The argument rests on punishment being justifiable not because offenders deserve to suffer, but because penalties should foster moral engagement. Schedule 21 penalises wrongdoing inconsistently and mechanistically, expressing it through tariff length and failing to distinguish adequately between offences of differing seriousness. A two-tier structure which divides all homicides into murder and manslaughter and sentences them accordingly exacerbates this effect. Both factors undermine the communicative justification for punishment.
 
@@ -337,7 +331,7 @@ This section addresses **Issue 3** (complicity, including joint enterprise).
 
 The call for evidence [@thelawcommissionHomicideLawCall2025, paras. 2.77–2.88] summarises longstanding criticisms of joint enterprise law: that it creates an overly complex framework; that post-*Jogee*,^[R v Jogee, Ruddock v The Queen [2016] UKSC 8] key issues remain unresolved about what counts as sufficient assistance or encouragement; and that inconsistency in jury directions means convictions can sometimes rest on evidence that would be insufficient to convict the principal offender. The Commission notes particular concerns about disproportionate use against BAME defendants and peripheral involvement by women associated with violent partners.
 
-My research documents a more fundamental problem with how joint enterprise operates in practice for those serving life sentences. Its contribution arises from how joint enterprise operates in practice for those serving life sentences. The doctrine’s attribution of broadly equal culpability—which in some cases makes secondary parties liable to the same punishment as if they committed the murder themselves—creates a barrier to the moral work of accountability. When someone is convicted for murdering a victim whose death they did not directly cause, they cannot straightforwardly engage with what they *actually did*. The legal conflation of different forms of responsibility makes a genuine moral reckoning with real responsibility difficult.
+My research documents a more fundamental problem with how joint enterprise operates in practice for those serving life sentences. Its contribution arises from how joint enterprise operates in practice for those serving life sentences. The doctrine's attribution of broadly equal culpability—which in some cases makes secondary parties liable to the same punishment as if they committed the murder themselves—creates a barrier to the moral work of accountability. When someone is convicted for murdering a victim whose death they did not directly cause, they cannot straightforwardly engage with what they *actually did*. The legal conflation of different forms of responsibility makes a genuine moral reckoning with real responsibility difficult.
 
 This is not an argument that secondary parties are blameless or undeserving of serious censure. Rather, it demonstrates that the law's insistence on equal culpability—its refusal to distinguish meaningfully between principal and secondary status—prevents the moral engagement that supposedly justifies punishment. This addresses Issue 3's call for evidence relating to law and conviction, but is conceptually linked to accountability following conviction. If communicative theories hold that punishment should foster acknowledgement of wrongdoing, then joint enterprise systematically obstructs this aim by ensuring offenders are called to account for something they did not do.
 
@@ -359,9 +353,6 @@ For each of the 19 cases, I compare precipitating circumstances and conviction o
 
 : Pattern of guilt acceptance by role in joint enterprise cases {#tbl-jePattern}
 
-[^equivocation]: Some participants could not arrive at a binary position regarding their guilt, instead indicating both acceptance and rejection of the murder conviction.
-[^unclear]: As a safeguard against participant harm interviewees could decline to answer any question; this denotes an offence narrative in which the interviewee claimed secondary involvement without going into further detail.
-
 The pattern in [@tbl-jePattern] is clear. Interviewees who admitted being involved in violence overwhelmingly accepted guilt (9 of 10 with one equivocating), while those who were secondary parties or not present at the fatal moment almost all rejected it (5 of 6 with one equivocating). Those who claimed to be secondary parties without offering further details also rejected guilt in all three cases. Though an ad hoc classification of what cannot be assumed to be a statistically representative sample, but the pattern suggests something more than individual psychology or 'denial'. Rather, it points to a structural problem: that people convicted of joint enterprise murder as secondary parties cannot engage with their actual wrongdoing—what they actually did and should be held accountable for—because the law demands they accept responsibility for an act they did not commit: the killing itself.
 
 These patterns can be further illustrated by drawing some qualitative contrasts between the attitudes of participants falling into the primary/secondary party groups.
@@ -370,17 +361,17 @@ These patterns can be further illustrated by drawing some qualitative contrasts 
 
 Participants convicted as secondary parties generally admitted *some* involvement in events leading to a death, and only one maintained categorical innocence (i.e. denying any involvement). Their difficulty accepting guilt *for murder* generally rested on claims that they had not struck the fatal blow and had not foreseen their co-defendants' actions:
 
-  > I never intended to kill him, and I didn’t kill him, so I don’t lose any sleep over it. It’s a tragedy and I’m sorry that he’s died, but that was out of my control.^[Quote relates to Case 8 in [@tbl-jeOverview].]
+  > I never intended to kill him, and I didn't kill him, so I don't lose any sleep over it. It's a tragedy and I'm sorry that he's died, but that was out of my control.^[Quote relates to Case 8 in [@tbl-jeOverview].]
 
-  > I feel responsible and guilty for my own actions, as in, I shouldn’t have acted the way I did \[…\] I, to some degree I feel responsible for triggering the violence \[…\] that then led to the escalation. \[…\] \[But\] the actual murder was nothing to do with me, it was all to do with \[my co-defendant\] and his own issues.^[Quote relates to Case 13 in [@tbl-jeOverview].]
+  > I feel responsible and guilty for my own actions, as in, I shouldn't have acted the way I did \[…\] I, to some degree I feel responsible for triggering the violence \[…\] that then led to the escalation. \[…\] \[But\] the actual murder was nothing to do with me, it was all to do with \[my co-defendant\] and his own issues.^[Quote relates to Case 13 in [@tbl-jeOverview].]
 
-  > I’m Joint Enterprise, so I didn’t do it. This is just… wrong people, wrong place, wrong time. Wrong whatever.^[Quote relates to Case 4 in [@tbl-jeOverview].]
+  > I'm Joint Enterprise, so I didn't do it. This is just… wrong people, wrong place, wrong time. Wrong whatever.^[Quote relates to Case 4 in [@tbl-jeOverview].]
 
 The above quotes relate to cases where participants admitted involvement in violence against the victim. They represent relatively high degrees of admitted responsibility. However, participants claimed (and their sentencing remarks recorded) that a co-defendant caused the victim's death. This created an impasse: each participant's moral sense of what they had done—and what they could legitimately be held accountable for—diverged sharply from the law's, even as the law punished both parties as if equally responsible. Direct involvement in the chain of violent events may not be understood by those responsible as legitimate basis for a murder conviction, even though they admit some responsibility.
 
-Unable to accept the murder conviction on its own terms, some secondary parties construct alternative narratives. One such pattern is the ‘cosmic justice’ narrative—a sense that while the prisoner didn’t deserve *this* punishment for *this* offence, perhaps it balanced accounts for other wrongs:
+Unable to accept the murder conviction on its own terms, some secondary parties construct alternative narratives. One such pattern is the 'cosmic justice' narrative—a sense that while the prisoner didn't deserve *this* punishment for *this* offence, perhaps it balanced accounts for other wrongs:
 
-  > There’s a thing with me called swings and roundabouts. I’m doing this bird,^[i.e. serving the sentence.] and in the past, I’ve done a lot of stuff that I got away with, so this makes up for it \[…\] Like, sort of, balancing the books, yes? \[…\] \[and then\] I come out and live my life.^[Quote relates to Case 19 in [@tbl-jeOverview].]
+  > There's a thing with me called swings and roundabouts. I'm doing this bird,^[i.e. serving the sentence.] and in the past, I've done a lot of stuff that I got away with, so this makes up for it \[…\] Like, sort of, balancing the books, yes? \[…\] \[and then\] I come out and live my life.^[Quote relates to Case 19 in [@tbl-jeOverview].]
 
 Such narratives have been documented before [@hulleyMakingSenseJoint2019] among people convicted of joint enterprise murder. Their function appears to be rendering an unjust situation personally meaningful—pragmatic accommodation accepting punishment to make peace with serving time, while preserving a sense that the conviction is unjust. This is far from the accountability based on guilt in a specific offence which communicative punishment theories envision. Cosmic justice narratives do not engage with moral truth of what happened to the victim or their family, nor focus the offender's opinion on specific harms they are responsible for. They instead allow the narrator to endure the penalty while rejecting its legitimacy. The law has convicted him of murder; he has accepted he will serve time; but he has not—and perhaps cannot—take moral responsibility for the actions for which he was convicted.
 
@@ -388,16 +379,16 @@ Such narratives have been documented before [@hulleyMakingSenseJoint2019] among 
 
 These attitudes contrast with those expressed by participants who admitted direct involvement in causing the victim's death, who appeared more willing to take responsibility aligning with the actual conviction:
 
-  > You know, it was a fight, it was a misunderstanding, and I kicked somebody \[…\] And a person died, so I have to take responsibility \[…\] for my actions. Back then, I thought I’d done nothing wrong, I’d been in fights, worse than what happened \[…\] \[But\] you have to agree that you are that scumbag, in a way. I kicked the head of a guy who didn’t fight back. It was a shitty thing to do. I have to realise that. I can say, ‘I always try to do good, I am still good, good, good…’. Well you know what? I could have been better, you know? I did this. I can’t take it back any more.^[Quote relates to Case 3 in [@tbl-jeOverview].]
+  > You know, it was a fight, it was a misunderstanding, and I kicked somebody \[…\] And a person died, so I have to take responsibility \[…\] for my actions. Back then, I thought I'd done nothing wrong, I'd been in fights, worse than what happened \[…\] \[But\] you have to agree that you are that scumbag, in a way. I kicked the head of a guy who didn't fight back. It was a shitty thing to do. I have to realise that. I can say, 'I always try to do good, I am still good, good, good…'. Well you know what? I could have been better, you know? I did this. I can't take it back any more.^[Quote relates to Case 3 in [@tbl-jeOverview].]
 
   > *From the sounds of it, \[…\] what you were denying was not what happened, but how it should be interpreted or how it should be defined.*  
-  > Yeah. I mean, I thought… I hadn’t done it \[i.e. murder\] in MY law, do you know what I mean? I thought I was in the right to do what I did. Now I know I wasn’t. Because… the law is SO complicated. \[…\] I didn’t know enough about the law. I don’t think anyone does \[…\] But fucking hell, you know… I did kill some bloke.^[Quote relates to Case 7 in [@tbl-jeOverview].]
+  > Yeah. I mean, I thought… I hadn't done it \[i.e. murder\] in MY law, do you know what I mean? I thought I was in the right to do what I did. Now I know I wasn't. Because… the law is SO complicated. \[…\] I didn't know enough about the law. I don't think anyone does \[…\] But fucking hell, you know… I did kill some bloke.^[Quote relates to Case 7 in [@tbl-jeOverview].]
 
 In these cases, what is evident is participants' willingness—despite misgivings ('I thought I'd done nothing wrong'; 'I thought I was in the right')—to recognise that consequences of their actions outweighed these doubts. Both men admitted that because they had caused another person's death, they had to accept consequences of the conviction and its labels ('you have to agree you are that scumbag'; 'I did kill some bloke'). This contrasts starkly with secondary parties, where perceived injustice of the conviction obstructs such reckoning with actual moral responsibility.
 
 ### The structural barrier to moral reckoning
 
-The contrast between primary and secondary parties’ attitudes reveals not merely individual variation but a structural problem with how the law attributes responsibility in joint enterprise cases: when legal attribution diverges from the individual’s moral sense of responsibility, accountability becomes impossible. While these 19 cases cannot be assumed statistically representative of all joint enterprise murders, the clarity of the pattern suggests it reflects a structural feature of how joint enterprise operates, not individual psychology.
+The contrast between primary and secondary parties' attitudes reveals not merely individual variation but a structural problem with how the law attributes responsibility in joint enterprise cases: when legal attribution diverges from the individual's moral sense of responsibility, accountability becomes impossible. While these 19 cases cannot be assumed statistically representative of all joint enterprise murders, the clarity of the pattern suggests it reflects a structural feature of how joint enterprise operates, not individual psychology.
 
 ## Implications for issue 3
 
@@ -410,20 +401,20 @@ This does not mean secondary parties are blameless or warrant no censure. Those 
 ::: {.callout-tip title="Reform options for joint enterprise"}
 Reform proposals should distinguish more clearly between levels of participation:
 
-1. Create distinct offences for secondary parties
-2. Distinguish between levels of foresight/intention at conviction rather than sentencing  
-3. Allow secondary party convictions for lesser homicide offences where actual role was assistance rather than perpetration
+1) Create distinct offences for secondary parties
+2) Distinguish between levels of foresight/intention at conviction rather than sentencing  
+3) Allow secondary party convictions for lesser homicide offences where actual role was assistance rather than perpetration
 
 Such reforms might enable secondary parties to engage honestly with their real responsibility, rather than forcing them either to accept a fiction or to reject accountability entirely.
 :::
 
-Whether such reforms are compatible with maintaining sufficient censure for participation in a homicide offence is a question for the Commission to consider. But the current structure’s systematic obstruction of accountability should inform that consideration.
+Whether such reforms are compatible with maintaining sufficient censure for participation in a homicide offence is a question for the Commission to consider. But the current structure's systematic obstruction of accountability should inform that consideration.
 
 # Invisible vulnerabilities and accountability {#sec-vulnerabilities}
 
 ## Overview
 
-This section addresses **Issues 7, 8, and 12** (partial defences; domestic abuse as a partial defence; and victims’ perspectives). Like the preceding section, it also draws on the discussion of the sentencing framework in Section [-@sec-accountability].
+This section addresses **Issues 7, 8, and 12** (partial defences; domestic abuse as a partial defence; and victims' perspectives). Like the preceding section, it also draws on the discussion of the sentencing framework in Section [-@sec-accountability].
 
 The call for evidence [@thelawcommissionHomicideLawCall2025, ch. 3] describes how current partial defences have been criticised for failing to recognise patterns of vulnerability that reduce culpability, referring particularly to victims of domestic abuse who kill their abusers. The Wade Review's [-@wadeDomesticHomicideSentencing2023] recommendations acknowledge that the law was formulated before modern understandings of coercive control developed, and that current defences may 'pathologise a normal response to domestic abuse' by requiring defendants to plead mental abnormality rather than recognising self-preservation against ongoing threats.
 
@@ -433,7 +424,7 @@ As a result, the law fixes culpability at sentencing based on incomplete informa
 
 ## Developing understanding during the sentence
 
-LSPs' stances regarding their own culpability, and their insight into factors contributing to their offending, often developed substantially during sentences. This development was highly individual and catalysed in different ways: through psychological/OBP intervention; because bereavements or personally significant events clarified what mattered; through maturation; or via trauma-informed work in therapeutic communities that equipped participants to recognise dynamics they had previously lacked language to describe. Some such changes illustrated timing problems for accountability work by LSPs generally.^[They are discussed in a forthcoming publication [@jarmanSufferingRetributionMoralInpreparation].]
+LSPs' stances regarding their own culpability, and their insight into factors contributing to their offending, often developed substantially during sentences. This development was highly individual and catalysed in different ways: through psychological/OBP intervention; because bereavements or personally significant events clarified what mattered; through maturation; or via trauma-informed work in therapeutic communities that equipped participants to recognise dynamics they had previously lacked language to describe. Some such changes illustrated timing problems for accountability work by LSPs generally.^[They are discussed in a forthcoming publication: [@jarmanSufferingRetributionMoralInpreparation].]
 
 But for some mandatory life-sentence prisoners, the timing problem relates specifically to understanding their own culpability. The specific issue here is prisoners who found themselves unable to explain their actions, even to themselves.
 
@@ -445,7 +436,7 @@ First, regarding what went before conviction: participants were mostly young whe
 
 Second, this group were more likely to have pleaded guilty: 40% did so, roughly double the sample proportion (19%). Nine of ten (90%) admitted guilt without equivocation at interview, again well above the sample rate (58%). In most cases, however, this readiness to admit guilt had not translated to being able to account for their actions. Several described the offence as 'impossible to explain' (Derek, fifties, post-tariff), such that accountability—which requires taking responsibility publicly rather than merely feeling shame privately—presented particular difficulties. Highly stigmatised offences were difficult to explain not because they had involved killed someone, but because some combination of who they had killed and the perceived cruelty or indecency evident in the how and why made developing a 'logical explanation' extremely difficult. The resulting impasse could result in profound self-alienation:
 
-  > Like, before… there were times when I felt really angry, and \[I could\] have really hurt someone… But the person that I killed… \[and\] the way I killed them \[…\] Like, I didn’t think \[…\] that would have happened as well \[…\] It showed me a side of myself \[that\] I’ve never seen before. Or maybe, like, I felt like \[…\] I lost part of myself \[…\] Yeah, it felt… it felt more like, more like a loss, like a loss, of \[…\] part of myself, after I committed that crime.  
+  > Like, before… there were times when I felt really angry, and \[I could\] have really hurt someone… But the person that I killed… \[and\] the way I killed them \[…\] Like, I didn't think \[…\] that would have happened as well \[…\] It showed me a side of myself \[that\] I've never seen before. Or maybe, like, I felt like \[…\] I lost part of myself \[…\] Yeah, it felt… it felt more like, more like a loss, like a loss, of \[…\] part of myself, after I committed that crime.  
   > (Jeremiah, thirties, post-tariff)
 
 Third, a common factor was lengthy experiences of dissociation and social isolation early in sentence. To some degree, this was a consequence of dangers to people convicted of highly stigmatised offences in prison. Members of this group were always aware of risks attendant on their conviction, and many had experienced bullying or violence, including (some said) as a direct result of making disclosures about their offences in OBPs. Early-sentence coping strategies for this group almost always included fearful self-seclusion and a dissociative retreat from reality:
@@ -459,17 +450,17 @@ In prisons research, highly stigmatised offences have been described as 'stainin
 
 However, finding what John (quoted in [@sec-sedative-coping]) called 'logical explanations' was extremely difficult. Those who 'went deep' in seeking such explanations (often via long-term therapeutic interventions) arrived at answers nobody wanted to hear. Long-term therapeutic interventions helped some men find frameworks within which to understand their actions in context of developmental trauma. Psychological interventions focusing on uncovering effects of developmental trauma lent coherence to previously unfathomable experiences:
 
-  > It enabled me to see \[…\] how those childhood events \[…\] shaped that person I’d become. \[…\] It’s hard to sit there, in a group, and \[…\] actually say, “Yes, that person that’s on there that you’re reading out is really horrible. \[…\] That’s not a nice person. \[…\] But that person is me \[…\] It was all about accepting me for who I was.  
+  > It enabled me to see \[…\] how those childhood events \[…\] shaped that person I'd become. \[…\] It's hard to sit there, in a group, and \[…\] actually say, "Yes, that person that's on there that you're reading out is really horrible. \[…\] That's not a nice person. \[…\] But that person is me \[…\] It was all about accepting me for who I was.  
   > (Nicholas, 30s, post-tariff)
 
 The result, even in this group sentenced for highly aggravated and stigmatised offences, was often strong desire for accountability. A striking tendency was to express specific concern for victims' interests and regrets that the sentence generally, and the parole process in particular, afforded few if any opportunities for such dialogue:
 
-  > \[I\] found out \[through an\] impact statement \[in a parole dossier\] the perceptions of the \[victim’s\] family… that they perceived me as someone who’s not taken responsibility \[…\] That troubled me greatly because whilst I can appreciate their grief it seems to me that that letter that I wrote, \[…\] in fact it \[must have\] never reached the family. Because part of that letter was to impart to them how much sorrow and regret I have, how much pain I’m experiencing \[…\] I didn’t \[…\] want them to think I didn’t have any remorse.  
+  > \[I\] found out \[through an\] impact statement \[in a parole dossier\] the perceptions of the \[victim's\] family… that they perceived me as someone who's not taken responsibility \[…\] That troubled me greatly because whilst I can appreciate their grief it seems to me that that letter that I wrote, \[…\] in fact it \[must have\] never reached the family. Because part of that letter was to impart to them how much sorrow and regret I have, how much pain I'm experiencing \[…\] I didn't \[…\] want them to think I didn't have any remorse.  
   > (Harry, 50s, post-tariff)
 
 Some also expressed the view that victims should be able to demand and receive explanations:
 
-  > I also look at it from other people’s point of view. \[…\] My victim’s family \[…\] has that involvement with the victim liaison officer. They went to my hearing when the parole \[board\] sent me to open conditions. So, although they don’t have contact with me, and they never probably will have contact with me because they don’t wish to know me \[…\] they still don’t know why I’ve done what I done.  
+  > I also look at it from other people's point of view. \[…\] My victim's family \[…\] has that involvement with the victim liaison officer. They went to my hearing when the parole \[board\] sent me to open conditions. So, although they don't have contact with me, and they never probably will have contact with me because they don't wish to know me \[…\] they still don't know why I've done what I done.  
   > (Nicholas, 30s, post-tariff)
 
 ### Partial defences, developmental trauma, and invisible vulnerabilities
@@ -480,7 +471,7 @@ The Wade Review expanded on this point, noting that domestic abuse victims who k
 
 Many research participants who had committed highly stigmatised offences had been diagnosed with PTSD or personality disorders in prison, and many described their lives before prison in terms suggesting hypervigilance and reactiveness to perceived threats had become 'normal' responses to developmental experiences of abuse and neglect. The implication: the law does not simply struggle to account for *gendered* vulnerabilities which do not fit neat patterns, but vulnerabilities *per se*. Men who commit intensely stigmatised offences share some features with abused women, in terms of their vulnerabilities, histories of being abused by others with impunity, and the resulting emotional states contributing to the offence.
 
-According to the call for evidence  [@thelawcommissionHomicideLawCall2025, para. 3.87], the Wade Review noted that partial defences currently favour 'masculinist' reactions over 'feminist' ones—in that they recognise fear and anger more readily than the complex admixture of emotions the victims of coercive control experience. But the problem is broader than this: the law *also* systematically misses vulnerabilities that are disparate rather than unified, developmental rather than event-based, and cumulative rather than attributable to a single identifiable relationship.
+According to the call for evidence [@thelawcommissionHomicideLawCall2025, para. 3.87], the Wade Review noted that partial defences currently favour 'masculinist' reactions over 'feminist' ones—in that they recognise fear and anger more readily than the complex admixture of emotions the victims of coercive control experience. But the problem is broader than this: the law *also* systematically misses vulnerabilities that are disparate rather than unified, developmental rather than event-based, and cumulative rather than attributable to a single identifiable relationship.
 
 Developmental trauma—cumulative effects of childhood adversity, neglect, exposure to violence, or inconsistent care—may profoundly shape someone's capacity for emotional regulation, threat assessment, and decision-making. But it does not necessarily present as a documented history of abuse of *a specific victim* in *a specific relationship*. For my research participants, it often emerged via therapeutic work and psychological assessment, years into a sentence. By then, it is too late: the law has already determined culpability at a level which may, in hindsight, be highly inappropriate given the relevant facts.
 
@@ -512,7 +503,7 @@ This matters as a question of legal principle. When Schedule 21 creates tariffs 
 
 In each case, the law creates obstacles to its own legitimacy. If censure requires dialogue—if it requires not just delivering suffering but calling offenders to account and taking their responses seriously [@duffRetrievingRetributivism2011]—then current law systematically forecloses that dialogue. The sentence becomes an obstacle to the moral communication supposedly justifying it.
 
-## Victims’ interests
+## Victims' interests
 
 This failure ill-serves victims as well as offenders. Some victims might want maximal punishment regardless of whether offenders accept responsibility. But others—who may not be a negligible minority [@independentcommissionintotheexperienceofvictimsandlong-termprisonersMakingSenseSentencing2022, chap. 2]—want acknowledgement of moral truth, understanding of what happened and why, recognition that their loved one was undeserving of harm.
 
@@ -530,12 +521,13 @@ These are structural problems requiring structural responses. Improving implemen
 - Offenders demonstrate capacities for accountability they lacked at conviction
 - Developmental changes (particularly for young adult offenders) make the original sentence disproportionate to current culpability
 - Evidence shows the sentence is preventing rather than facilitating its claimed communicative purposes
+- International precedents suggest various models for such provisions, though any UK approach would need careful adaptation to local legal contexts
 
 Such provisions need not involve automatic sentence reductions or represent 'leniency' in any straightforward sense. They would create a legal mechanism to respond when Schedule 21's core assumption—that the only obligation culpability creates is the obligation to endure punishment—proves false. They would acknowledge that people's understanding of their actions develops over time, that relevant information about culpability may emerge during sentences, and that the law should have capacity to recognise these developments rather than treating them as irrelevant.
 
 Different models exist internationally. Any such provision would require careful design to balance finality of sentences, victims' interests, public confidence, and judicial and administrative resources. But the current alternative—treating as legally irrelevant all changes in understanding, capacity, or culpability occurring after sentencing—serves none of these interests well. It makes punishment an end in itself rather than a means to accountability, divorces the law from the moral realities it claims to address, and stores up problems associated with increasing severity.
 
-## Implications for the Commission’s project on homicide law
+## Implications for the Commission's project on homicide law
 
 The Commission's review addresses both substantive homicide law and the sentencing framework. The evidence presented here bears on both dimensions, though with varying degrees of force.
 
@@ -576,11 +568,11 @@ Please note that as the research participants were promised confidentiality and 
 {{< pagebreak >}}
 :::
 
-# Appendix {#sec-appendix .appendix .include-in-table-of-contents}
+# Appendix {#sec-appendix .appendix}
 
 [@tbl-jeOverview] compares the index offences of members of the two research samples who had been charged and tried with co-defendants. It is the basis of the overview analysis in [@tbl-jePattern].^[Unlike elsewhere in this document, participants are not identified by pseudonym. This is because the presentation of specific offence summaries increases the risk of their being identified deductively via cross-reference with other publications from the research.]
 
-| Case number | Precipitating circumstances and conviction outcomes[^provenance]                                                                                                            | Participant’s admitted role[^role]                                                                     | Original plea | Current guilt belief[^guilt] |
+| Case number | Precipitating circumstances and conviction outcomes[^provenance]                                                                                                            | Participant's admitted role[^role]                                                                     | Original plea | Current guilt belief[^guilt] |
 | :---------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------- | ---------------------------- |
 |      1      | Planned attack by two co-defendants against a debtor; both convicted of murder                                                                                              | Unclear; not described in detail[^nodetail]                                                                   | Not guilty    | No                           |
 |      2      | Planned attack by two co-defendants over drug markets; one victim; both convicted of murder                                                                                 | Equal involvement; stabbed victim                                                                      | Not guilty    | Yes                          |
@@ -597,7 +589,7 @@ Please note that as the research participants were promised confidentiality and 
 |     13      | Planned attack by several co-defendants following earlier dispute; two victims; one co-defendant acquitted, others convicted of murder                                      | Secondary party; Instigated attack, beat one victim then left scene; co-defendants killed victims      | Not guilty    | No                           |
 |     14      | Unplanned confrontation/fight involving two co-defendants; one victim; both convicted of murder                                                                             | Equal involvement; both co-defendants beat victim                                                      | Not guilty    | Yes                          |
 |     15      | Unplanned confrontation/fight following earlier dispute, involving two co-defendants; one victim; admitted murder, co-defendant convicted of manslaughter                   | Involved in fight as primary attacker; beat victim fatally                                             | Guilty        | Yes                          |
-|     16      | Planned attack following earlier dispute involving two co-defendants; one victim; both co-defendants convicted of murder                                                    | Not involved at all; co-defendant’s role unclear                                                       | Not guilty    | No                           |
+|     16      | Planned attack following earlier dispute involving two co-defendants; one victim; both co-defendants convicted of murder                                                    | Not involved at all; co-defendant's role unclear                                                       | Not guilty    | No                           |
 |     17      | Planned attack by two co-defendants following dispute; one victim; co-defendant convicted of manslaughter                                                                   | Encouraged and instigated attack, which was carried out by co-defendant; not present during the attack | Not guilty    | Yes and no                   |
 |     18      | Armed robbery by several co-defendants; two victims, one deceased; all co-defendants convicted of murder                                                                    | Planned and carried out robbery; shot victims                                                          | Not guilty    | Yes                          |
 |     19      | Planned attack by several co-defendants following earlier confrontation; one victim; co-defendants all convicted of murder                                                  | Unclear; not described in detail[^nodetail]                                                                   | Not guilty    | No                           |
@@ -613,7 +605,11 @@ Please note that as the research participants were promised confidentiality and 
 :::
 :::::
 
+[^notguilty]: This number masks diverse positions. Seven individuals admitted some involvement in the chain of events leading to the victim's death. This includes all of those convicted under joint enterprise. Six individuals denied any involvement whatsoever.
+[^rnr]: RNR principles require: (1) intervention to be justified by presence of risk (the risk principle—guiding whom to target); (2) interventions targeting specific criminogenic needs to be linked by evidence to future risk (the need principle—guiding what to target so that needs not relating to future risk are not addressed); (3) interventions to be suited to prisoners' capacities (the responsivity principle—guiding how to intervene). RNR is 'the leading model of offender assessment and treatment in the world' [@hminspectorateofprobationProbationServicesModels2020]; adherence is linked with reduced future reoffending, particularly in community settings.
+[^equivocation]: Some participants could not arrive at a binary position regarding their guilt, instead indicating both acceptance and rejection of the murder conviction.
+[^unclear]: As a safeguard against participant harm interviewees could decline to answer any question; this denotes an offence narrative in which the interviewee claimed secondary involvement without going into further detail.
 [^provenance]: Rows 1–4: taken from press coverage of conviction. Rows 5–19: noted from sentencing remarks or OASys.
 [^role]: As described in interviews.
-[^guilt]: From survey item which asked “I consider myself guilty of murder” and offered “yes”/“no”/“yes *and* no” as response options.
+[^guilt]: From survey item which asked "I consider myself guilty of murder" and offered "yes"/"no"/"yes *and* no" as response options.
 [^nodetail]: As an ethical safeguard against participant harm interviewees could decline to answer any question; this interviewee claimed secondary involvement without going into further detail.
