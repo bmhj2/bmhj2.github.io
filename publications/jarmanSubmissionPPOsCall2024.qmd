@@ -1,0 +1,44 @@
+---
+abstract: >
+  This submission responds to the Prisons and Probation Ombudsman's call for evidence for Operation Deerness, its investigation into historic abuse allegations against detainees at Medomsley Detention Centre. Drawing on research conducted in 2016-17 for a project funded by HM Prison & Probation Service, which examined safeguarding in youth custody between 1960-2016, the document provides methodological guidance and substantive insights regarding historical institutional abuse. The submission addresses specific questions about oversight mechanisms, leadership structures, complaint systems, and abuse of power within detention centres. It offers detailed reflections on the challenges of using archival materials to investigate historical institutional abuse, including the limitations of documentary evidence and strategies for interpretation. The document includes comprehensive references to relevant archival sources at The National Archives and provides practical recommendations for accessing and analyzing these materials. Three annexes supplement the main text with additional research resources, including a historical timeline and details of relevant archival records.  
+
+author:
+  - name: Ben Jarman
+    orcid: 0000-0003-3527-5437
+    affiliations: Birkbeck, University of London
+  - name: Caroline Lanskey
+    orcid: 0000-0003-4866-4191
+    affiliation: University of Cambridge Institute of Criminology
+
+title: "Submission to the PPO's call for evidence on Medomsley Detention Centre" # add
+date: 2025-11-14
+categories:
+  - consultation response
+  - knowledge exchange
+description: >
+  A research-based submission guiding investigation of historical abuse at Medomsley Detention Centre
+funding: >
+  The research on which this paper is based was commissioned and funded by HM Prison and Probation Service, reference RG 92270.
+keywords:  
+  - youth custody
+  - medomsley
+  - detention centres
+  - historical criminology
+  - child abuse
+  - archival research
+# doi: 
+# url: 
+license: All rights reserved
+copyright:
+  holder: © The authors
+  year: 2025
+format-links: false
+draft: true
+citation: true
+---
+
+## Availability
+
+Originally submitted to the PPO in September 2024 in response to its [call for evidence](https://ppo.gov.uk/document/operation-deerness-call-for-evidence/ "Operation Deerness – Call for Evidence") relating to its [special investigation](https://ppo.gov.uk/about-operation-deerness/ "Medomsley special investigation: Operation Deerness") into historical abuses at Medomsley Detention Centre, which concluded with the publication of [its report](https://cloud-platform-e218f50a4812967ba1215eaecede923f.s3.amazonaws.com/uploads/sites/14/2025/11/31.122_PPO_Special-investigation-report_WEB.pdf) on 12 November 2025.
+
+Now that the PPO's report has been published, our submission is now available [here](/_assets/jarmanSubmissionPPOsCall2024.pdf "Operation Deerness Submission by Ben Jarman & Caroline Lanskey"). The document has been altered to remove identifying references to specific PPO staff members who engaged with us during the process.
