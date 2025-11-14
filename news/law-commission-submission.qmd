@@ -1,0 +1,51 @@
+---
+title: "New submission: Law Commission homicide review"
+subtitle: "Empirical evidence on how current law prevents accountability"
+description: "Announcing submission of evidence to the Law Commission's review of homicide law, drawing on qualitative research with 66 life-sentenced prisoners"
+date: 2025-11-14
+date-modified: last-modified
+categories:
+  - news
+  - consultation response
+keywords:
+  - life imprisonment
+  - mandatory life sentences
+  - homicide law
+  - joint enterprise
+  - schedule 21
+  - accountability
+lang: en-GB
+draft: false
+---
+
+Last month I submitted evidence to the [Law Commission's review of homicide law](https://www.lawcom.gov.uk/project/homicide/), which is examining how England and Wales categorises different types of unlawful killing, what defences should be available, and how murder should be sentenced. The Commission describes current homicide law as a "rickety structure set upon shaky foundations", with some rules unchanged since the seventeenth century and others altered so frequently they can no longer be stated clearly. The review aims to update recommendations the Commission first made in 2006, taking account of developments since then. One key aspect of the review is the sentencing framework for murder, currently governed by Schedule 21 of the Sentencing Code, which has been heavily criticised for its rigidity and lack of nuance.
+
+My submission, drawing on my research, offers empirical evidence about how those convicted of murder understand their culpability, and how this understanding changes—or fails to change—during their sentences.
+
+## What makes punishment 'tough'?
+
+Politicians and the public often assume that 'tougher' punishment means longer prison sentences. But this simplistic equation doesn't hold. For many of those I interviewed, what's genuinely hard about a life sentence isn't simply enduring years in prison—it's the moral and psychological work of accepting responsibility for having killed another person.
+
+Doing so means acknowledging that you had no right to cause harm, that the people you've harmed did not deserve to suffer, and that what happened was your choice. This kind of accountability is difficult and demanding, and might be impossible where the person convicted harbours serious questions about their real culpability (for example, when they have been convicted as secondary parties in joint enterprise cases). My submission shows that extreme sentence length can actually make this moral work less likely, because prisoners must emotionally numb themselves simply to survive incomprehensibly long sentences.^[This argument draws on a forthcoming chapter by me and Ben Crewe, which builds on [his 2024 paper](https://doi.org/10.1093/bjc/azae001) on what he calls 'sedative coping'.]
+
+In my research, around four-fifths of the participants initially pleaded not guilty at trial. Years later, during interviews, only one-quarter still denied guilt. This shift suggests that the severity of the punishments handed down under the current sentencing framework deter genuine engagement with responsibility. It also indicates that the capacity for accountability develops over time. The central argument of my submission is that the law currently assumes that capacity is fixed at conviction, and that it contains no mechanism to respond when this assumption proves false. I suggest that as the Commission's work on the law of homicide develops, it should consider how to create conditions that foster accountability over time, among which I suggest that the "second-look" sentencing provisions used by some US states to re-examine life sentences could be a model.
+
+## What the research shows
+
+The submission identifies three ways current law prevents the accountability it might be assumed to require.
+
+First, the framework that determines minimum prison terms for murder—Schedule 21 of the Sentencing Code—has produced dramatic sentence inflation. Average minimum terms have increased 80% since 2003, from 12.5 to 22.5 years. Research participants described these extreme sentences as requiring ['sedative coping'](https://academic.oup.com/bjc/article/64/5/1080/7585780): emotional anaesthesia to survive. When prisoners must numb themselves to endure the penalty, they suppress the capacity for moral engagement that the punishment supposedly fosters.
+
+Second, the controversial legal doctrine of joint enterprise—which allows people to be convicted of murder even when they didn't directly cause the victim's death—creates a different barrier to accountability. Examining the data concerning joint enterprise cases in my research was revealing: nine of ten participants who admitted being directly involved in fatal violence accepted that they were guilty of murder. But none of the six participants convicted as secondary parties did so. They could not square their legal conviction with what they actually did. When the law insists someone is a murderer despite their not having directly caused someone else's death, it becomes impossible for them to engage honestly with their real responsibility.
+
+Third, some factors that reduce a person's culpability only become visible years into a sentence, through psychological assessment or therapy. Developmental trauma, cumulative marginalisation, or complex patterns of coercion may not be understood at the time of sentencing. Yet once the court has set the minimum term, the sentencing framework treats any new understanding as irrelevant—even when it fundamentally changes what can be understood about why the offence occurred.
+
+## Implications for legal reform
+
+The case I've tried to put to the Law Commission is that these aren't simply problems of resources or prison conditions. They're problems of legal structure: the law assumes nothing will change after sentencing, contains no mechanism to respond when it does, and thereby creates conditions that impede engagement with responsibility.
+
+The submission argues that if punishment is justified partly by its role in holding people to account—in fostering moral understanding and vindicating victims—then the law should create conditions where accountability becomes possible. At minimum, it should not systematically obstruct it. The evidence shows that in significant respects, current homicide law *does* obstruct accountability. I think this ill-serves both those convicted and people bereaved by homicide, whose wishes are often nuanced, and not always aligned with the punitive logic of the law.
+
+## Availability
+
+The full text of my submission is available [here](/publications/jarmanLawCommissionHomicide2025.qmd). The Law Commission's initial consultation closed in October, but [their wider project](https://lawcom.gov.uk/project/law-of-homicide/#3-Project) on the reform of homicide law is ongoing. It will continue into 2026, with two further public consultations expected between now and the final report in 2028.

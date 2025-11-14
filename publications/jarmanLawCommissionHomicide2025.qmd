@@ -20,7 +20,7 @@ citation: true
 bibliography: jarmanLawCommissionHomicide2025.yaml
 citeproc: true
 appendix-style: plain
-draft: true
+draft: false
 format:
   typst:
     number-sections: true
