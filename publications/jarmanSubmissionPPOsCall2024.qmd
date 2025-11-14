@@ -11,7 +11,7 @@ author:
     affiliation: University of Cambridge Institute of Criminology
 
 title: "Submission to the PPO's call for evidence on Medomsley Detention Centre" # add
-date: "2024-09-09"
+date: 2025-11-14
 categories: # select from the following
   - consultation response
   - knowledge exchange
@@ -31,14 +31,15 @@ keywords:
 license: All rights reserved # CC BY-NC-SA 4.0 per _metadata.yml default
 copyright:
   holder: © The authors
-  year: 2024
+  year: 2025
 toc: false # select - false per _metadata.yml default
 format-links: false # select - "typst" per _metadata.yml default
 draft: true # select
-bibliography: jarmanSubmissionPPOsCall2024.bib # add once prepared, change to CSL json where possible
 citation: true
 ---
 
 ## Availability
 
-Available [here](/_assets/jarmanSubmissionPPOsCall2024.pdf "Operation Deerness Submission by Ben Jarman & Caroline Lanskey"), pending publication by the PPO of submissions in response to its [call for evidence](https://ppo.gov.uk/document/operation-deerness-call-for-evidence/ "Operation Deerness – Call for Evidence") relevant to its ongoing [special investigation](https://ppo.gov.uk/about-operation-deerness/ "Medomsley special investigation: Operation Deerness").
+Originally submitted to the PPO in September 2024 in response to its [call for evidence](https://ppo.gov.uk/document/operation-deerness-call-for-evidence/ "Operation Deerness – Call for Evidence") relating to its [special investigation](https://ppo.gov.uk/about-operation-deerness/ "Medomsley special investigation: Operation Deerness") into historical abuses at Medomsley Detention Centre, which concluded with the publication of [its report](https://cloud-platform-e218f50a4812967ba1215eaecede923f.s3.amazonaws.com/uploads/sites/14/2025/11/31.122_PPO_Special-investigation-report_WEB.pdf) on 12 November 2025.
+
+Now that the PPO's report has been published, our submission is now available [here](/_assets/jarmanSubmissionPPOsCall2024.pdf "Operation Deerness Submission by Ben Jarman & Caroline Lanskey"). The document has been altered to remove identifying references to specific PPO staff members who engaged with us during the process.
