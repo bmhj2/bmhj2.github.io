@@ -65,7 +65,7 @@ funding: >
   grants ES/J007935/1 and ES/T005459/1, and PhD studentship 2405252 under grant
   ES/P000738/1 (co-funded by Quakers in Britain under grant AE016 2018/19). The
   funders played no part in the design of the study or the analysis and
-  interpretation of data).
+  interpretation of data.
 keywords:  
   - life imprisonment
   - england & wales

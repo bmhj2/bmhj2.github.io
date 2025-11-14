@@ -84,7 +84,8 @@ categories: # select from the following
 # description:
 
 funding: >
-  This work was supported by the UK Economic & Social Research Council via grants ES/J007935/1 and ES/T005459/1, and PhD studentship 2405252 (co-funded by Quakers in Britain who played no part in the design of the study or the analysis and interpretation of data); and by the European Research Council via grant 648691)
+  This work was supported by the UK Economic & Social Research Council via grants ES/J007935/1 and ES/T005459/1, and PhD studentship 2405252 under grant
+  ES/P000738/1 (co-funded by Quakers in Britain who played no part in the design of the study or the analysis and interpretation of data); and by the European Research Council via grant 648691)
 
 keywords:  
   - prison sociology
