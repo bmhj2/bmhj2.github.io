@@ -11,7 +11,7 @@ author:
     affiliation: University of Cambridge Institute of Criminology
 
 title: "Submission to the PPO's call for evidence on Medomsley Detention Centre" # add
-date: 2025-11-14
+date: 2024-09-09
 categories:
   - consultation response
   - knowledge exchange
@@ -33,7 +33,7 @@ copyright:
   holder: © The authors
   year: 2025
 format-links: false
-draft: true
+draft: false
 citation: true
 ---
 

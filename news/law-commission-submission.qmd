@@ -1,8 +1,8 @@
 ---
 title: "New submission: Law Commission homicide review"
-subtitle: "Empirical evidence on how current law prevents accountability"
-description: "Announcing submission of evidence to the Law Commission's review of homicide law, drawing on qualitative research with 66 life-sentenced prisoners"
-date: 2025-11-14
+subtitle: "How the law frustrates accountability"
+description: "Evidence submitted to the Law Commission's review of homicide law"
+date: 2025-11-18
 date-modified: last-modified
 categories:
   - news
@@ -14,9 +14,10 @@ keywords:
   - joint enterprise
   - schedule 21
   - accountability
-lang: en-GB
-draft: false
+image: "/_assets/aleix-ventayol-yPoM-wmzKMM-unsplash.jpg"
 ---
+
+![]({{< meta image >}})
 
 Last month I submitted evidence to the [Law Commission's review of homicide law](https://www.lawcom.gov.uk/project/homicide/), which is examining how England and Wales categorises different types of unlawful killing, what defences should be available, and how murder should be sentenced. The Commission describes current homicide law as a "rickety structure set upon shaky foundations", with some rules unchanged since the seventeenth century and others altered so frequently they can no longer be stated clearly. The review aims to update recommendations the Commission first made in 2006, taking account of developments since then. One key aspect of the review is the sentencing framework for murder, currently governed by Schedule 21 of the Sentencing Code, which has been heavily criticised for its rigidity and lack of nuance.
 
@@ -49,3 +50,7 @@ The submission argues that if punishment is justified partly by its role in hold
 ## Availability
 
 The full text of my submission is available [here](/publications/jarmanLawCommissionHomicide2025.qmd). The Law Commission's initial consultation closed in October, but [their wider project](https://lawcom.gov.uk/project/law-of-homicide/#3-Project) on the reform of homicide law is ongoing. It will continue into 2026, with two further public consultations expected between now and the final report in 2028.
+
+::: {.callout-note}
+Photo by <a href="https://unsplash.com/@ventayol?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Aleix Ventayol</a> on <a href="https://unsplash.com/photos/black-book-on-shelf-yPoM-wmzKMM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+:::

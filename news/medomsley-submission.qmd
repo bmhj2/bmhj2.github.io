@@ -1,12 +1,12 @@
 ---
 title: "Historical research and public accountability"
 subtitle: "Supporting the PPO's investigation into Medomsley Detention Centre"
-date: "2024-11-14"
+date: 2025-11-18
 categories:
   - publication
   - news
 description: >
-  Reflections on contributing archival research to the Prisons and Probation Ombudsman's investigation into past institutional abuses at Medomsley Detention Centre
+  On archival research and historical abuses
 keywords:
   - youth custody
   - medomsley
@@ -15,14 +15,12 @@ keywords:
   - child abuse
   - archival research
 image: "/_assets/zetong-li-jiVBqdZNXcg-unsplash.jpg"
-lang: en-GB
-copyright:
-  holder: Ben Jarman
-  year: 2024
 draft: false
 ---
 
-This week, the Prisons and Probation Ombudsman (PPO) published their [investigation report into historical abuse at Medomsley Detention Centre](https://ppo.gov.uk/news/ppo-publish-investigation-report-into-abuse-of-young-men-at-medomsley-detention-centre/). The investigation, which followed multiple convictions of staff members for physical and sexual abuse of young men detained there between the 1960s and 1980s, received substantial media attention—including [coverage by the BBC](https://www.bbc.co.uk/news/articles/cdegpepg6n7o) and a [ministerial statement in Parliament](https://questions-statements.parliament.uk/written-statements/detail/2025-11-12/hcws1050). Caroline Lanskey and I were acknowledged in the report for our support to the investigation, and our 2018 research on safeguarding in youth custody was cited several times.
+![]({{< meta image >}})
+
+Last week, the Prisons and Probation Ombudsman (PPO) published their [investigation report](https://ppo.gov.uk/news/ppo-publish-investigation-report-into-abuse-of-young-men-at-medomsley-detention-centre/) into historical abuse at Medomsley Detention Centre. The investigation, which followed multiple convictions of staff members for physical and sexual abuse of young men detained there between the 1960s and 1980s, received substantial media attention—including [coverage by the BBC](https://www.bbc.co.uk/news/articles/cdegpepg6n7o) and a [ministerial statement in Parliament](https://questions-statements.parliament.uk/written-statements/detail/2025-11-12/hcws1050). Caroline Lanskey and I were acknowledged in the report for our support to the investigation, and our 2018 research on safeguarding in youth custody was cited several times.
 
 The original project, commissioned by HM Prison and Probation Service, examined the development of safeguards against mistreatment and abuse in places of child detention between 1960 and 2016. Working with a team of historians and criminologists, I conducted archival research at The National Archives and the Radzinowicz Library in Cambridge, tracing how institutions attempted—and often failed—to protect children in their care, triggering multiple cycles of reform. The project resulted in publications describing how the state's duty of care was understood and discharged, then and now, including [a report](/publications/jarmanSafeguardingChildrenSecure2018.qmd) and a [peer-reviewed article](/publications/jarmanPoorProspectIndeed2019.qmd) that Caroline and I wrote together.
 
@@ -32,7 +30,7 @@ In that article, we suggested that historical research has unique value in under
 
 When the PPO issued a call for evidence for what they had termed Operation Deerness, Caroline and I agreed that we would try and put together a [submission](/publications/jarmanSubmissionPPOsCall2024.qmd). It drew on our earlier research but also focused on methodological issues which had not been the main focus in our earlier publications, such as how we had identified and interpreted archival materials. We met Adrian Usher, the Ombudsman, in January 2025 to discuss the submission, and remained in contact with his team after that. We were subsequently sent a draft of the report and provided detailed comments.
 
-Much of our overall contribution centred on helping the investigation team read historical documents "against the grain", and how to present the thorny issues associated with cultures (and policies) which have changed substantially over the long term---cultures which are often referred to simplistically as somehow 'explaining' things which happened in the past which we would find troubling or even unimaginable today.
+Much of our overall contribution centred on helping the investigation team read historical documents "against the grain", and how to present the thorny issues associated with cultures (and policies) which have changed substantially over the long term—cultures which are often referred to simplistically as somehow 'explaining' things which happened in the past which we would find troubling or even unimaginable today.
 
 It is hard to overstate the challenges of using archival materials to understand how institutions such as Medomsley operated, and to contextualise the survivor testimony about the abuses that happened there. Archival records often conceal as much as they reveal: what survives in them is not a full record of institutional life, but reflects the priorities of those who created and preserved them. This is a problem historians have noted using the metaphor of 'silences' to describe what archives systematically *exclude*. The archive is not a facsimile of institutional life, but a tiny, curated slice selected by people in positions of power. We offered strategies for reading documents critically, attending to what they reveal about broader cultures and assumptions rather than treating them simply as windows onto past events.
 
@@ -40,11 +38,11 @@ In a sense, our input to the investigation was simply to reflect on how we had n
 
 ## Reflections on accountability and justice
 
-This week's publication represents an important step in documenting what happened at Medomsley and acknowledging the experiences of those who suffered there. Yet it is also important to recognise the investigation's limitations. As [The Guardian's reporting](https://www.theguardian.com/society/2025/nov/12/abuse-ignored-medomsley-detention-centre-prolific-sex-offender-young-men-neville-husband) notes, some survivors' groups had long since disassociated themselves from the PPO investigation, which fell short of their calls for a public inquiry with powers to compel witnesses.
+The report's publication represents an important step in documenting what happened at Medomsley and acknowledging the experiences of those who suffered there. Yet it is also important to recognise its limitations. As [The Guardian's reporting](https://www.theguardian.com/society/2025/nov/12/abuse-ignored-medomsley-detention-centre-prolific-sex-offender-young-men-neville-husband) notes, some survivors' groups had long since disassociated themselves from the PPO investigation, which fell short of their calls for a public inquiry with powers to compel witnesses.
 
-In our 2019 article, Caroline and I reflected on how criminal prosecutions—however important—represent an inadequate framework for justice in cases of institutional child abuse. Prosecutions hold the most blameworthy state agents accountable for the most egregious results of broader crimes of omission by the state, but they fail to reflect the scope and depth of the harms suffered by victims and survivors. They allow the framers of policy to disavow their responsibility and deflect blame onto their subordinates—a process made easier by the passage of time.
+In our 2019 article, Caroline and I drew on a small body of work on the victimology of state crimes, to reflect that criminal prosecutions—however important—represent an inadequate framework for justice in cases of institutional child abuse. Prosecutions hold the most blameworthy state agents accountable for the most egregious results of broader crimes of omission by the state, but they fail to reflect the scope and depth of the harms suffered by victims and survivors. They allow the framers of policy to disavow responsibility and deflect blame onto their subordinates—a process made easier by the passage of time.
 
-The PPO investigation, while more comprehensive than individual prosecutions, still operates within constraints that may limit its capacity to deliver the justice some survivors sought. It has documented what happened and identified failings---and prompted an overdue, though largely symbolic [apology](https://questions-statements.parliament.uk/written-statements/detail/2025-11-12/hcws1050 "Medomsley Detention Centre: Statement made on 12 November 2025") to Medomsley survivors by the current government. I'm proud to have contributed to making the PPO's report as strong as it could be within these constraints, but I'm conscious it may not represent the full accountability many survivors expected.
+The PPO investigation, while more comprehensive than individual prosecutions, still operates within constraints that may limit its capacity to deliver the justice some survivors sought. It has documented what happened and identified failings—and prompted an overdue, though largely symbolic [apology](https://questions-statements.parliament.uk/written-statements/detail/2025-11-12/hcws1050 "Medomsley Detention Centre: Statement made on 12 November 2025") to Medomsley survivors by the current government. I'm proud to have contributed to making the PPO's report as strong as it could be within these constraints, but I'm conscious it may not represent the full accountability many survivors expected.
 
 ## The value of historical research
 

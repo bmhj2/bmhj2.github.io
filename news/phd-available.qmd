@@ -1,25 +1,17 @@
 ---
 author:
   - ref: bj
-title: "New publication" # add
+title: "New publication"
 date: 2025-06-19
-categories: # select from
+categories:
   - news
   - publication
-description: "PhD now available open access" # add
-keywords: # add as needed
+description: "PhD now available open access"
+keywords:
   - life imprisonment
   - moral reflection
   - life sentences
-image: "/_assets/tim-alex-FC1uuekWoZc-unsplash.jpg" # add as appropriate
-lang: en-GB
-license: CC BY 4.0 # select, CC BY-NC-SA 4.0 by _metadata.yml default
-copyright:
-  holder: © Ben Jarman
-  year: 2025
-# toc: [true|false] # select, false by _metadata.yml default
-draft: false # select
-# bibliography: [citekey].bib # add if required
+image: "/_assets/tim-alex-FC1uuekWoZc-unsplash.jpg"
 ---
 
 ![]({{< meta image >}})
