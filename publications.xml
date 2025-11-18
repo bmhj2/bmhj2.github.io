@@ -15,8 +15,17 @@
 <title>Ben Jarman</title>
 <link>https://benjarman.uk/publications.html</link>
 </image>
-<generator>quarto-1.8.25</generator>
-<lastBuildDate>Wed, 02 Jul 2025 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.26</generator>
+<lastBuildDate>Tue, 04 Nov 2025 16:35:12 GMT</lastBuildDate>
+<item>
+  <title>Submission to the Law Commission’s call for evidence</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanLawCommissionHomicide2025.html</link>
+  <description><![CDATA[ Empirical research with 66 life-sentenced prisoners reveals how current homicide law systematically obstructs the accountability it claims to foster, with implications for the sentencing framework for murder, joint enterprise doctrine, and partial defences. ]]></description>
+  <category>consultation response</category>
+  <guid>https://benjarman.uk/publications/jarmanLawCommissionHomicide2025.html</guid>
+  <pubDate>Tue, 04 Nov 2025 16:35:12 GMT</pubDate>
+</item>
 <item>
   <title>Being assessed, being processed</title>
   <dc:creator>Ben Jarman</dc:creator>
@@ -54,6 +63,17 @@
   <category>briefing paper</category>
   <guid>https://benjarman.uk/publications/jarmanWorkingPrisonersUSA2024.html</guid>
   <pubDate>Tue, 10 Sep 2024 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Submission to the PPO’s call for evidence on Medomsley Detention Centre</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <dc:creator>Caroline Lanskey</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanSubmissionPPOsCall2024.html</link>
+  <description><![CDATA[ A research-based submission guiding investigation of historical abuse at Medomsley Detention Centre ]]></description>
+  <category>consultation response</category>
+  <category>knowledge exchange</category>
+  <guid>https://benjarman.uk/publications/jarmanSubmissionPPOsCall2024.html</guid>
+  <pubDate>Sun, 08 Sep 2024 23:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Prison work in law and reality</title>
@@ -196,24 +216,6 @@
   <category>conference paper</category>
   <guid>https://benjarman.uk/publications/jarmanCanConfidentialResearch2021.html</guid>
   <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Response to call for evidence</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <link>https://benjarman.uk/publications/jarmanIcevlpResponse2021.html</link>
-  <description><![CDATA[ Response prepared following a call for evidence by an independent commission on sentencing, and originally published on their website ]]></description>
-  <category>consultation response</category>
-  <guid>https://benjarman.uk/publications/jarmanIcevlpResponse2021.html</guid>
-  <pubDate>Tue, 19 Jan 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Open Data and sensitive interviews</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <link>https://benjarman.uk/publications/jarmanOpenDataSensitive2020.html</link>
-  <description><![CDATA[ Slides and reference list for a seminar ]]></description>
-  <category>presentation</category>
-  <guid>https://benjarman.uk/publications/jarmanOpenDataSensitive2020.html</guid>
-  <pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

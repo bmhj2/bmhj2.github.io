@@ -2,10 +2,12 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/jarmanLawCommissionHomicide2025.html",
       "/publications/jarmanBeingAssessedBeing2025.html",
       "/publications/jarmanWhoseDataAnyway2025.html",
       "/publications/jarmanIndependentSentencingReview2025.html",
       "/publications/jarmanWorkingPrisonersUSA2024.html",
+      "/publications/jarmanSubmissionPPOsCall2024.html",
       "/publications/jarmanPrisonWorkLaw2024.html",
       "/publications/jarmanGettingWhatWe2024.html",
       "/publications/jarmanWorkingPrisonersUK2024.html",
@@ -35,6 +37,8 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/news/law-commission-submission.html",
+      "/news/medomsley-submission.html",
       "/news/parole-process-talk.html",
       "/news/phd-available.html",
       "/news/ldw-talk.html",
