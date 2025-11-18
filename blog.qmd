@@ -24,5 +24,5 @@ listing:
 ---
 
 ::: {.callout-note}
-This page shows news items and blog posts from past and current projects. The 'changing inside' category shows content originally published at the [Changing Inside](https://changinginside.co.uk) blog.
+This page shows news items and blog posts from past and current projects. The 'changing inside' category shows content originally published at the Changing Inside blog.
 :::

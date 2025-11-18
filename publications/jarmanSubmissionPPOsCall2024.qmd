@@ -10,13 +10,13 @@ author:
     orcid: 0000-0003-4866-4191
     affiliation: University of Cambridge Institute of Criminology
 
-title: "Submission to the PPO's call for evidence on Medomsley Detention Centre" # add
+title: "Submission to the PPO's call for evidence on Medomsley Detention Centre"
 date: 2024-09-09
 categories:
   - consultation response
   - knowledge exchange
 description: >
-  A research-based submission guiding investigation of historical abuse at Medomsley Detention Centre
+  A submission to an investigation of historical abuses at Medomsley Detention Centre
 funding: >
   The research on which this paper is based was commissioned and funded by HM Prison and Probation Service, reference RG 92270.
 keywords:  
@@ -34,11 +34,21 @@ copyright:
   year: 2025
 format-links: false
 draft: false
-citation: true
+citation:
+  id: jarmanSubmissionPPOsCall2024
+  author:
+    - family: Jarman
+      given: Ben
+    - family: Lanskey
+      given: Caroline
+  issued: 2024-09-09
+  language: en-GB
+  title: Submission to the PPO's call for evidence on Medomsley Detention Centre
+  type: document
 ---
 
 ## Availability
 
 Originally submitted to the PPO in September 2024 in response to its [call for evidence](https://ppo.gov.uk/document/operation-deerness-call-for-evidence/ "Operation Deerness – Call for Evidence") relating to its [special investigation](https://ppo.gov.uk/about-operation-deerness/ "Medomsley special investigation: Operation Deerness") into historical abuses at Medomsley Detention Centre, which concluded with the publication of [its report](https://cloud-platform-e218f50a4812967ba1215eaecede923f.s3.amazonaws.com/uploads/sites/14/2025/11/31.122_PPO_Special-investigation-report_WEB.pdf) on 12 November 2025.
 
-Now that the PPO's report has been published, our submission is now available [here](/_assets/jarmanSubmissionPPOsCall2024.pdf "Operation Deerness Submission by Ben Jarman & Caroline Lanskey"). The document has been altered to remove identifying references to specific PPO staff members who engaged with us during the process.
+Our submission is available [here](/_assets/jarmanSubmissionPPOsCall2024.pdf "Operation Deerness Submission by Ben Jarman & Caroline Lanskey"). We have removed identifying references to specific PPO staff members we consulted with while preparing the submission.

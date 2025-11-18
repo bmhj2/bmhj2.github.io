@@ -3,8 +3,8 @@ title: "Historical research and public accountability"
 subtitle: "Supporting the PPO's investigation into Medomsley Detention Centre"
 date: 2025-11-18
 categories:
-  - publication
   - news
+  - consultation response
 description: >
   On archival research and historical abuses
 keywords:
