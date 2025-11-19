@@ -1,6 +1,4 @@
 ---
-author:
-  - ref: bj
 title: "New talk"
 subtitle: "Being assessed, being processed: Life-sentenced prisoners' experiences of parole"
 date: "2025-07-03"
@@ -14,10 +12,6 @@ keywords:
   - life sentences
   - research presentation
 image: "/_assets/srijan-mohan-V9D6ItZvhnM-unsplash.jpg"
-lang: en-GB
-copyright:
-  holder: © Ben Jarman
-  year: 2025
 draft: false
 ---
 

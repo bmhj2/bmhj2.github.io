@@ -1,6 +1,4 @@
 ---
-author:
-  - ref: bj
 title: "New publication"
 date: 2025-06-19
 categories:

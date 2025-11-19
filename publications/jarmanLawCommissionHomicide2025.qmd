@@ -11,12 +11,11 @@ description: >
 funding: >
   This work was carried out during the author's Anniversary Fellowship funded by the University of Southampton, based on research originally supported by the UK Economic & Social Research Council via PhD studentship 2405252 under grant ES/P000738/1 (co-funded by Quakers in Britain under grant AE016 2018/19).
 # doi: 
-# url: 
+url: https://benjarman.uk/publications/jarmanLawCommissionHomicide2025.html
 license: CC BY-NC-SA 4.0
 copyright:
   holder: © Ben Jarman
   year: 2025
-citation: true
 bibliography: jarmanLawCommissionHomicide2025.yaml
 citeproc: true
 appendix-style: plain
@@ -38,6 +37,20 @@ keywords:
   - domestic abuse defences
   - developmental trauma
 toc: true
+
+citation:
+  id: jarmanSubmissionLawCommissions2025
+  abstract: >-
+    This submission to the Law Commission&amp;#039;s review of the law of homicide draws on qualitative research with 66 men serving mandatory life sentences for murder across different sentence stages. Around four-fifths initially pleaded not guilty; only one-quarter denied guilt when interviewed years later—a shift revealing that capacity for accountability develops over time. The evidence identifies three structural problems with how current law treats accountability: Schedule 21's mechanistic severity creates conditions hostile to moral reflection; joint enterprise's attribution of equal culpability prevents secondary parties from engaging with their actual wrongdoing; and current partial defences recognise some vulnerability patterns while missing others. In each case, the law assumes at sentencing that nothing will change, contains no mechanism to respond when it does, and creates conditions impeding the moral work supposedly justifying punishment. The submission argues for 'second look' provisions and proposes reforms to joint enterprise doctrine and partial defences.
+  author:
+    - family: Jarman
+      given: Ben
+  issued: 22025-11-04
+  language: en
+  source: benjarman.uk
+  title: "Submission to the law commission's call for evidence: Law of homicide review"
+  type: document
+  URL: https://benjarman.uk/publications/jarmanLawCommissionHomicide2025.html
 ---
 
 # Executive summary {#sec-summary .unnumbered}

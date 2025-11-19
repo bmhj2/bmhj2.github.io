@@ -1,6 +1,4 @@
 ---
-author:
-  - ref: bj
 title: "New talk"
 subtitle: "Whose data is it, anyway?"
 date: 2025-02-13
@@ -14,11 +12,6 @@ keywords:
   - research ethics
   - prison research
 image: "/_assets/viktor-forgacs-LNwIJHUtED4-unsplash.jpg"
-lang: en-GB
-copyright:
-  holder: © Ben Jarman
-  year: 2025
-draft: false
 ---
 
 ![]({{< meta image >}})
