@@ -11,7 +11,7 @@ description: >
 funding: >
   This work was carried out during the author's Anniversary Fellowship funded by the University of Southampton, based on research originally supported by the UK Economic & Social Research Council via PhD studentship 2405252 under grant ES/P000738/1 (co-funded by Quakers in Britain under grant AE016 2018/19).
 # doi: 
-url: https://benjarman.uk/publications/jarmanLawCommissionHomicide2025.html
+url: https://eprints.soton.ac.uk/id/eprint/507579
 license: CC BY-NC-SA 4.0
 copyright:
   holder: © Ben Jarman

@@ -57,7 +57,7 @@ keywords:
   - time
   - performativity
 lang: en-GB
-url: https://benjarman.uk/publications/jarmanBeingAssessedBeing2025.html
+url: https://eprints.soton.ac.uk/id/eprint/504230
 license: CC BY-NC-SA 4.0
 copyright:
   holder: © Ben Jarman
