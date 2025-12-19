@@ -227,10 +227,10 @@ references:
   - year: 2020
   language: English
   note: 'OCLC: 1134074327'
-  publisher: Palgrave
+  publisher: Springer Nature
   publisher-place: London
   source: Open WorldCat
-  title: 'Life imprisonment from young adulthood: adaptation, identity, time'
+  title: Life Imprisonment from Young Adulthood
   title-short: Life imprisonment from young adulthood
   type: book
 
@@ -306,14 +306,15 @@ references:
   - family: Ievins
     given: Alice
   citation-key: creweTightnessRecognitionPenal2021
-  container-title: Punishment & Society
-  container-title-short: Punishment & Society
+  container-title: Punishment &amp; Society
+  container-title-short: Punishment &amp; Society
   DOI: 10.1177/1462474520928115
   ISSN: 1462-4745, 1741-3095
   issue: '1'
   issued:
-  - year: 2021
-    month: 1
+  - year: 2020
+    month: 6
+    day: 23
   language: en
   note: 0 citations (Crossref) [2021-01-24]
   page: 47–68
@@ -323,38 +324,31 @@ references:
   URL: http://journals.sagepub.com/doi/10.1177/1462474520928115
   volume: '23'
 
-- id: daganRetributiveWhisperCommunicative2015
+- id: daganRevisitingJusticeMoral2025
   abstract: >-
-    The aims of retributive or nonutilitarian sentencing are said to conflict with parole as part of a determinate sentencing framework. In this article, we claim that a nonutilitarian approach to punishment does not necessarily conflict with parole. In particular, by adopting core elements of Duff's framework of communicative sentencing, we argue that parole inherently holds a communicative meaning in the form of retributive whisper and can thus be reconciled with a nonutilitarian approach to punishment. In addition, we explore a way to enhance the communicative potential in the parole process and suggest that by recognizing and further incorporating the inherent communicative message in parole we can increase or maximize the board's communicative potential. Finally, we discuss some benefits that can emerge from adapting a communicative sentencing framework to the parole process.
+    Expanding the boundaries of the 'moral turn' in criminology to the realm of punishment administration, this Element proposes reconceptualizing parole through a moral lens. Drawing from a mixed-method study of parole hearings for homicide cases in Israel, the author argues that during parole hearings, parole actors (Attorney General representatives, secondary victims, parole applicants, and parole board members) conduct complex forms of moral labor, specifically retributive-oriented. This moral labor goes beyond rehabilitation and risk assessment to 'do late justice.' In doing such moral labor, parole actors negotiate the moral meaning of crime, character, and deserved punishment with the passage of time. In conclusion, as demonstrated by the current study, Criminologists should engage to a greater extent with the moral meaning of punishment administration, and retributive theorists should aim to better understand the lived experiences of punishment.
   accessed:
-  - year: 2020
-    month: 7
-    day: 13
+  - year: 2025
+    month: 11
+    day: 17
   author:
   - family: Dagan
     given: Netanel
-  - family: Segev
-    given: Dana
-  citation-key: daganRetributiveWhisperCommunicative2015
-  container-title: Law & Social Inquiry
-  container-title-short: Law Soc. Inq.
-  DOI: 10.1111/lsi.12090
-  ISSN: 0897-6546, 1747-4469
-  issue: '3'
+  citation-key: daganRevisitingJusticeMoral2025
+  DOI: 10.1017/9781009587709
+  edition: '1'
+  ISBN: 978-1-009-58770-9 978-1-009-58768-6 978-1-009-58772-3
   issued:
-  - year: 2015
-    month: 7
-  language: en
-  note: 5 citations (Crossref) [2022-06-27]
-  page: 611–630
+  - year: 2025
+    month: 12
+    day: 31
+  license: https://www.cambridge.org/core/terms
   publisher: Cambridge University Press
-  source: Cambridge University Press
-  title: 'Retributive whisper: communicative elements in parole'
-  title-short: Retributive whisper
-  type: article-journal
-  URL: >-
-    https://www.cambridge.org/core/journals/law-and-social-inquiry/article/abs/retributive-whisper-communicative-elements-in-parole/4D99AE2B009DEDF2B6321B785B868CBA
-  volume: '40'
+  source: DOI.org (Crossref)
+  title: 'Revisiting Justice: The Moral Meaning of Parole'
+  title-short: Revisiting Justice
+  type: book
+  URL: https://www.cambridge.org/core/product/identifier/9781009587709/type/element
 
 - id: digardSexOffendersTheir2010
   author:
@@ -642,9 +636,9 @@ references:
   - year: 1990
   language: eng
   number-of-pages: '312'
-  publisher: Clarendon
+  publisher: Clarendon Press
   publisher-place: Oxford
-  title: 'Punishment and modern society: a study in social theory'
+  title: Punishment and modern society
   title-short: Punishment and modern society
   type: book
 
@@ -919,6 +913,7 @@ references:
   - family: Crewe
     given: Benjamin
   DOI: 10.17863/CAM.109063
+  event-place: Cambridge
   genre: PhD
   issued:
   - year: 2024
@@ -927,7 +922,8 @@ references:
   language: en-GB
   license: Creative Commons Attribution 4.0 International, embargo
   number-of-pages: '338'
-  publisher: Apollo - University of Cambridge repository
+  publisher: University of Cambridge
+  publisher-place: Cambridge
   source: DOI.org (Datacite)
   title: >-
     Moral messages, ethical responses: Punishment and self-governance among men serving life sentences for murder
@@ -1555,7 +1551,7 @@ references:
   collection-number: '4'
   collection-title: International series on desistance and rehabilitation
   DOI: 10.4324/9780203101124
-  event-place: Abingdon, Oxon New York, N.Y
+  event-place: Abingdon
   ISBN: >-
     978-0-415-63527-1 978-0-203-10112-4 978-1-136-23387-6 978-1-136-23391-3 978-1-136-23392-0
   issued:
@@ -1563,7 +1559,7 @@ references:
   language: en
   number-of-pages: '1'
   publisher: Routledge
-  publisher-place: Abingdon, Oxon New York, N.Y
+  publisher-place: Abingdon
   source: K10plus ISBN
   title: >-
     Offender rehabilitation and therapeutic communities: enabling change the TC way
