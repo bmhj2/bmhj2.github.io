@@ -53,7 +53,7 @@ affiliations:
     url: https://www.crim.cam.ac.uk
 
 title: "Suffering, retribution, and moral accountability in the contemporary life sentence"
-date: 2025-12-12
+date: 2026-01-05
 categories:
   - conference paper
   - book chapter
@@ -151,13 +151,13 @@ Once they are a few years into their sentence, most participants (unless claimin
 
 While ostensibly productive, it would be mistaken to identify this adaptation with the absence of suffering, or with the moral engagement required for reflective contemplation on personal wrongdoing. Indeed, prisoners at this sentence stage -- in a seemingly endless life chapter, before release is even worth contemplating -- often describe 'sedative coping' [@creweSedativeCopingContextual2024], in which they engage in psychological anaesthesia, numbing emotions and suppressing painful realities. As Zara (20s, early) explained, 'If you do sit and dwell on things then that's when your mental health will get really low. So … yes, I have to block things off'. Mason (30s, mid) summarised as follows:
 
-  > [Prison has] made me emotionless … It's like a dark hole … I think that's the most thing that jail has done to me, it's just left me an emotionless person which I think is very damaging for me … I just can't grieve about anything. If someone just told me something, it's just like 'Alright', nothing, the day just goes … I don't feel it.
+  > [Prison has] made me emotionless … It's like a dark hole … I think that's the most \[i.e. biggest\] thing that jail has done to me, it's just left me an emotionless person which I think is very damaging for me … I just can't grieve about anything. If someone just told me something, it's just like 'Alright', nothing, the day just goes … I don't feel it.
 
 In some respects, then, LSPs learn to cope. But many do so in -- and because of -- a state of sustained anaesthesia, numbing precisely the moral emotions which might facilitate deeper accountability. What makes the sentence bearable might compromise the accountability it seeks; it is worth questioning whether, over a long period, this form of living -- one which requires the suppression of feeling -- is conducive to moral dialogue.
 
 Other prisoners, having moved beyond early turmoil and found ways to cope, engage in nascent forms of reflective contemplation. They wish to explore existential questions -- how they have arrived here, what it means to take a life, their place in the world. Yet these reflections remain amorphous, and institutional practices rarely provide the frameworks of meaning they seek. Thus, they tend to be impeded by emotional anaesthesia, or to result in on solitary journeys toward moral understanding that institutional discourse fails to recognise or support.
 
-Before we move on, three points are worth emphasising. First, what we have described is not merely the 'unpleasantness' [@clarkeMoralResponsibilityGuilt2016] or 'burdensomeness' [@duffPunishmentCommunicationCommunity2001] some retributive theorists see as inherent to punishment. Nor is it consistent with experiences at the milder end of  Zaibert's [-@zaibertRethinkingPunishment2018] broadly-drawn concept of 'suffering', a label which eschews euphemism, and highlights the responsibilities punishers incur when they inflict it. Penal suffering thus defined might encompass experiences that are milder (such as sorrow) or harsher (such as psychological disintegration); their effects will influence their justifiability. At the very least, imposing what we have described -- suffering which is acute, harmful, and prolonged, and which appears to numb moral reflection, kill hope, and dehumanise its targets -- will require strong justification.
+Before we move on, three points are worth emphasising. First, what we have described is not merely the 'unpleasantness' [@clarkeMoralResponsibilityGuilt2016] or 'burdensomeness' [@duffPunishmentCommunicationCommunity2001] some retributive theorists see as inherent to punishment. Nor is it consistent with experiences at the milder end of  Zaibert's [-@zaibertRethinkingPunishment2018] broadly-drawn concept of 'suffering', a label which eschews euphemism, and highlights the responsibilities punishers incur when they inflict it. Penal suffering thus defined might encompass experiences that are milder (such as sorrow) or harsher (such as psychological disintegration); their effects will influence their justifiability. At the very least, imposing what we have described -- suffering which is acute, harmful, and prolonged, and which appears to numb moral reflection, kill hope, and dehumanise its targets -- would require strong justification.
 
 Second, what contributes most to these feelings is not direct institutional treatment, but existential factors, or relationships and events outside the prison. Indeed, the five problems rated in the survey as most severe were 'Missing somebody', 'Worrying about people outside', 'Feeling that you are losing the best years or your life', 'Having to follow other people's rules and orders' and 'Feeling that your life is being wasted'.[^6] This suggests that, regardless of how decent any institution might be, life imprisonment will generate suffering that is profound, hard to mitigate, and difficult to justify.
 
@@ -179,7 +179,7 @@ Both theorists assume punishment can facilitate an acknowledgement of wrongdoing
 
 A different picture emerges when we examine how moral communication actually unfolds among long-term prisoners. Rather than facilitating moral reflection, we argue that the centrality of risk assessment and management to how the sentence is administered imposes a distorting lens, which often obscures, sometimes occludes, and at best fails to attend to the genuine moral engagement communication theorists seek to promote.
 
-### Risk discourse and moral communication
+### Risk Discourse and Moral Communication
 
 Because prisons are closed institutions, the moral dialogue of censure is 'oblique' [@garlandPunishmentModernSociety1990, p 186]: implicit and mediated through institutional practices, rather than declared directly in public (as by a court). For LSPs, risk assessment and management are the most important such practices -- and deliver powerful if indirect messages about desirable moral selfhood because they govern progression and release. Risk is *the* dominant rationality directing how the sentence is managed; it dominates policy and public discourse concerning how prisoners may be treated, and dictates the terms on which they might be rehabilitated.
 
@@ -315,6 +315,6 @@ The obverse of this systemic disengagement is its selection of certain cases for
 [^10]: A therapeutic prison.
 [^11]: A shared meal prepared using pooled canteen purchases.
 [^12]: Zaibert's original term is an 'impoverished monistic axiology': a theory of value which acknowledges, and seeks to realise, only one value.
-[^13]: Wilfred Owen, 'Insensibility'
+[^13]: Wilfred Owen, 'Insensibility'; independently from Zaibert, one of us (BC) cited the same poem in an article which first elaborated the concept of 'sedative coping' which we expand here [@creweSedativeCopingContextual2024, pp. 1094–95].
 [^14]: Zaibert's concept of 'remainders' originates in an essay by Williams [-@williamsPoliticsMoralCharacter1978] on the moral compromises inherent in public life, which identifies 'remainders" as the persistent moral discomfort or regret that can arise even from justified actions. Such feelings are often prompted by conflicts between rights and consequences, or by the tragic impossibility of reconciling contradictory moral values.
 [^15]: Also coined by Williams [-@williamsMoralLuckPhilosophical1981] in his classic work on moral luck, 'agent regret' classifies the kind of regret a person might experience after causing harm without having done wrong. He offers the thought experiment of a lorry driver whose vehicle strikes a child who has darted into the road, and suggests that a driver who did not experience persistent feelings of regret might lack fully-developed moral sensibilities, even if to have prevented the collision would have been impossible. For Williams, such feelings are distinct from the regret one might experience on witnessing or learning about sad events at second or third-hand.
