@@ -45,7 +45,7 @@ website:
   # issue-url: https://github.com/bmhj2/bmhj2.github.io/issues
   page-footer:
     left: >
-      © 2003-2025 Ben Jarman. All rights reserved except where indicated per page.
+      © 2003-2026 Ben Jarman. All rights reserved except where indicated per page.
     right: >
       Powered by [Quarto](https://quarto.org/)
   search:
@@ -71,5 +71,5 @@ editor:
 
 copyright:
   holder: © Ben Jarman
-  year: 2003 - 2025
+  year: 2003 - 2026
   # statement: All rights reserved except where otherwise noted
