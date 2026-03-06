@@ -3,7 +3,7 @@ title: CV
 format:
   quarto-cv-pdf: default
 author: Ben Jarman
-date: last-modified
+date: quarto last-modified
 date-format: Do MMMM YYYY
 phone: "+44 2380 598 890"
 fontawesome: yes
@@ -38,9 +38,9 @@ csl: "./harvard-cite-them-right.csl"
 **University of Southampton** \hfill Dec 2024-present
 
 *Anniversary Fellow*&nbsp; &nbsp;
-Postdoctoral research fellowship investigating parole decisions in England & Wales.
+Postdoctoral research fellowship with two main objectives: converting my PhD research into a monograph and investigating parole decisions in England & Wales.
 
-**Birkbeck College** (London) \hfill Jul 2022-Nov 2024
+**Birkbeck University of London** \hfill Jul 2022-Nov 2024
 
 *Senior Research Associate*&nbsp; &nbsp;
 Overall responsibility for research on 'Unlocking potential', a comparative project on prison work and prison labour in three countries. Desk research and write-up, designed study, carried out remote and in-person research and fieldwork.
@@ -115,7 +115,7 @@ Investigations into public and B2B complaints about advertising and marketing.
 ::: {#refs-peer}
 :::
 
-## PhD
+## Theses
 
 ::: {#refs-thesis}
 :::
@@ -142,11 +142,11 @@ Investigations into public and B2B complaints about advertising and marketing.
 
 # Key research skills
 
-**Qualitative** Research methods training: Qualitative Research in Practice (University of Cambridge). Experienced in sensitive research topics; semi-structured interviews; focus groups; qualitative analysis with NVivo/Atlas.ti; historical/archival research; team research; research data management; AI transcription using open-source LLMs.
+**Qualitative** Research methods training: Qualitative Research in Practice (University of Cambridge). Experienced in sensitive research topics; semi-structured interviews; focus groups; qualitative analysis with NVivo/Atlas.ti; historical/archival research; team research; research data management; AI transcription using open-source models.
 
 **Quantitative** Research methods training: Introducing Quantitative Analysis and Factor Analysis (University of Cambridge). SPSS, SurveyMonkey.
 
-**Publishing** Self-taught user of document publication systems (WordPress, Markdown, Typora, VSCode, Pandoc, Quarto, GitHub Pages, Typst); self-taught user of software packages and platforms relating to Open Access publishing and version control systems (PubPub, Symplectic Elements, Git); has published on the ethics of open research and data publication in qualitative research featuring confidential and sensitive data.
+**Publishing** Document publication systems (WordPress, Markdown, Typora, VSCode, Pandoc, Quarto, GitHub Pages, Typst); packages and platforms relating to Open Access publishing and version control (PubPub, Symplectic Elements, Git).
 
 **Prison-specific** Negotiating access and recruiting participants in challenging environments; working with prison staff; building rapport; conducting research ethically in complex circumstances.
 

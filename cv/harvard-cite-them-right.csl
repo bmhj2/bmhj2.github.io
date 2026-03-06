@@ -106,14 +106,6 @@
       <else-if variable="URL">
         <text term="available at" suffix=": " text-case="capitalize-first"/>
         <text variable="URL"/>
-        <group prefix=" (" delimiter=": " suffix=")">
-          <text term="accessed" text-case="capitalize-first"/>
-          <date form="text" variable="accessed">
-            <date-part name="day"/>
-            <date-part name="month"/>
-            <date-part name="year"/>
-          </date>
-        </group>
       </else-if>
     </choose>
   </macro>
