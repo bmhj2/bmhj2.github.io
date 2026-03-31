@@ -99,9 +99,9 @@ keywords:
   - legitimacy
   - adaptation
 lang: en-GB
-# doi: 
+doi: 10.1177/26326663261442087
 url: https://eprints.soton.ac.uk/id/eprint/507473
-license: CC BY-NC-SA 4.0
+license: CC BY 4.0
 copyright:
   holder: © The Authors
   year: 2026
