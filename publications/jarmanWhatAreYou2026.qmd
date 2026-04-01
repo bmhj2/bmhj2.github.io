@@ -10,7 +10,7 @@ authors:
       literal: Ben Jarman
     attributes:
       corresponding: true
-    email: mail@benjarman.uk
+    email: ben@benjarman.uk
     orcid: 0000-0003-3527-5437
     url: https://benjarman.uk
     affiliation:

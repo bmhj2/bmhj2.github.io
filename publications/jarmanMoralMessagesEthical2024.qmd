@@ -42,7 +42,7 @@ author:
       - id: cam
         name: University of Cambridge
         department: Institute of Criminology
-        group: Prison Research Centre
+        group: Prisons Research Centre
         address: Sidgwick Avenue
         city: Cambridge
         region: Cambridgeshire
