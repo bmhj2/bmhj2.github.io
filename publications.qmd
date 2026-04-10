@@ -22,5 +22,5 @@ citation: false
 ---
 
 ::: {.callout-note}
-This page lists academic publications. Some fulltexts are available to read or download here. Others are available via external links to a non-paywalled fulltext.
+This page lists academic publications. Some fulltexts are available to read or download here. Others are available via external links to a non-paywalled site.
 :::

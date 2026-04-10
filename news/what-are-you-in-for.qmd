@@ -1,6 +1,6 @@
 ---
 title: "New publication: \"What are you in for?\""
-date: "2026-03-05"
+date: 2026-04-10
 categories:
   - publication
   - news
@@ -12,7 +12,7 @@ keywords:
   - legitimacy
 image: "/_assets/marek-mucha-MFiekVrRagM-unsplash.jpg"
 toc: false
-draft: true
+draft: false
 copyright:
   holder: © Ben Jarman
   year: 2026
@@ -24,26 +24,20 @@ copyright:
 Photo by <a href="https://unsplash.com/@marcc">Marek Mucha</a> on <a href="https://unsplash.com/photos/person-wearing-silver-link-bracelet-watch-MFiekVrRagM">Unsplash</a>
 :::
 
-I'm pleased to announce the publication of [a new article](/publications/jarmanWhatAreYou2026.qmd) appearing soon in the journal *Incarceration*. It's titled *"What are you in for?" The neglected role of the offence in prison sociology*, and is co-authored by me, Alice Ievins (University of Liverpool) and Ben Crewe (University of Cambridge).
+I'm pleased to announce the publication of [a new article](/publications/jarmanWhatAreYou2026.qmd) in the journal *Incarceration*. It's titled *"What are you in for?" The neglected role of the offence in prison sociology*, and is co-authored by me, Alice Ievins (University of Liverpool) and Ben Crewe (University of Cambridge).
 
-The article addresses a striking omission in prison research: that scholars have typically avoided asking people in prison what they think about their crimes, or examining how the offence shapes their experience of imprisonment. This, we argue, has left a significant blind spot in our understanding of what prisons actually do and how they are experienced.
+The article addresses a striking omission in prison research: that scholars have typically avoided asking people in prison what they think about their offences, or examining how these shape their experience of imprisonment. This, we argue, has left a significant blind spot in our understanding of what prisons actually do and how they are experienced.
 
-## Why does the offence matter?
-
-Drawing on three detailed case studies, we show how the offence—what someone did, or is deemed to have done—actively shapes daily prison life. For some people in prison, the primary struggle is not social survival in a difficult environment, but rather an internal, psychological battle to come to terms with feelings of shame, bewilderment, or a more complex mixture of feelings about why they are there.
-
-The offence influences:
+Drawing on three detailed case studies, we show how the offence—what someone did, or is deemed to have done—plays an active role in daily prison life. For some people in prison, the primary struggle is not social survival in a difficult environment, but rather an internal, psychological battle to come to terms with shame, bewilderment, or a more complex mixture of feelings about why they are there. In our view, how people relate to the offence can influence:
 
 - How people in prison relate to staff and each other
 - Whether and how they engage with rehabilitation programmes
 - The intensity of their emotional and moral struggles during imprisonment
 - How they experience punishment itself
 
-## Prisons as morally communicative institutions
+We develop a line of thinking that has featured differently in each author's work to date: that prisons operate as institutions of moral communication, conveying messages about wrongdoing and responsibility. Yet this communication is often inconsistent, oblique, and distorted. Some people in prison never receive the censure that sentencers intended; others are overwhelmed by shame that makes reflection upon it difficult or impossible; still others find that prison impedes the very moral work—such as making amends to victims—that punishment is claimed to promote.
 
-We argue that prisons operate as institutions of moral communication, deliberately conveying messages about wrongdoing and responsibility. Yet this communication is often inconsistent, oblique, and distorted. Some people in prison never receive the censure that sentencers intended; others are overwhelmed by shame that makes reflection impossible; still others find that prison thwarts the very moral work—such as making amends to victims—that punishment is claimed to promote.
-
-This leads us to identify tensions in how contemporary prisons operate. They initiate moral processes they cannot complete, leaving people at various stages of grappling with accountability, remorse, and redemption.
+This leads us to identify tensions in how contemporary prisons operate. They initiate moral processes they cannot complete, leaving people at various stages of grappling with responsibility and remorse, and the incomplete work of censure.
 
 ## Implications for prison research
 
@@ -53,54 +47,8 @@ We propose a framework for recentring the offence in prison sociology, examining
 2. **What prisons do**: Recognising prisons as sites of moral communication, whether intended or not
 3. **What prisons are for**: Engaging with normative debates about punishment's purposes and whether prisons can achieve them
 
-This work contributes to ongoing debates about penal legitimacy, the justification of punishment, and the ethics of imprisonment. By bringing empirical complexity to these discussions, we challenge both punitive rhetoric ("bad places for bad people") and naïve rehabilitation fantasies ("using prisons to reduce reoffending").
+Our aim is for this work to contribute to ongoing debates about penal legitimacy, the justification of punishment, and the ethics of imprisonment. By bringing empirical complexity to these discussions, we hope to challenge both punitive rhetoric ("bad places for bad people") and naïve rehabilitation fantasies ("using prisons to reduce reoffending"), suggesting that both of these perspectives overlook what actually happens in prisons.
 
 ## Availability
 
-The article is available open access at the publisher's website [here](https://dx.doi.org/10.1177/26326663261442087). A pre-publication version is available on this website by clicking [here](/publications/jarmanWhatAreYou2026.qmd).
-
-<!-- # Social Media Posts
-
-## Bluesky Post
-
-**Main post:**
-New article out in Incarceration with Alice Ievins and Ben Crewe: "What are you in for?" 
-
-We argue that prison researchers have largely avoided a crucial question: what do people in prison think about their crimes? This creates a significant blind spot in understanding what imprisonment is actually like.
-
-**Thread continuation (post 2):**
-Using three case studies, we show how the offence shapes daily prison life in profound ways. For some people in prison, the primary struggle isn't social survival—it's an internal battle with shame, moral complexity, and the challenge of accountability.
-
-**Thread continuation (post 3):**
-Prisons operate as sites of moral communication, but this communication is often inconsistent and incomplete. They initiate moral processes they cannot finish, leaving people grappling with questions about responsibility, remorse, and redemption.
-
-**Thread continuation (post 4):**
-We propose recentring the offence in prison research, examining: what prisons are like (subjective experience), what they do (moral communication), and what they are for (normative purposes).
-
-Link: https://benjarman.uk/news/what-are-you-in-for.html
-
----
-
-## LinkedIn Post
-
-I'm pleased to share new research published in *Incarceration*, co-authored with Alice Ievins (University of Liverpool) and Ben Crewe (University of Cambridge): "What are you in for? The neglected role of the offence in prison sociology".
-
-This article addresses a striking gap in prison research. Scholars have typically avoided asking people in prison what they think about their crimes, or examining how the offence shapes their experience of imprisonment. This omission has created a significant blind spot in our understanding of what prisons do and how they are experienced.
-
-Drawing on detailed case studies, we demonstrate how the offence—what someone did, or is deemed to have done—actively shapes daily prison life. For many people in prison, the primary struggle is not social survival in a difficult environment, but rather an internal, psychological battle to come to terms with feelings of shame, bewilderment, or moral complexity.
-
-**Key findings:**
-
-• Prisons operate as institutions of moral communication, conveying messages about wrongdoing and responsibility—though this communication is often inconsistent and distorted
-
-• The offence influences how people in prison relate to staff and each other, engage with programmes, and experience punishment itself
-
-• Contemporary imprisonment often initiates moral processes it cannot complete, thwarting the very work—such as making amends to victims—that punishment is claimed to facilitate
-
-We propose a framework for recentring the offence in prison sociology, examining three dimensions: what prisons are like (subjective experience), what they do (moral communication), and what they are for (normative purposes). This approach brings empirical complexity to debates about penal legitimacy and the justification of punishment.
-
-The article challenges both punitive rhetoric ("bad places for bad people") and naïve rehabilitation fantasies ("using prisons to reduce reoffending"), offering instead a nuanced understanding of imprisonment's moral dimensions.
-
-Open access link: https://benjarman.uk/news/what-are-you-in-for.html
-
-#Criminology #PrisonResearch #PenalPolicy #SocialJustice #OpenAccess -->
+The article is Open Access and is available at the journal's website [here](https://dx.doi.org/10.1177/26326663261442087). You can also read the full article text on this website by clicking [here](/publications/jarmanWhatAreYou2026.qmd).

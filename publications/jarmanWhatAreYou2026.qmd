@@ -1,8 +1,18 @@
 ---
 abstract: >
-  Why have prison scholars so seldom discussed what people in prison think about their crimes? This article addresses a striking gap: the omission of the originating reason for incarceration—the offence—from sociological analyses of carceral life. We examine its past treatment in prison scholarship and argue for recentring it. Drawing on three case studies, we show how the offence actively shapes daily experience, institutional engagement, and social dynamics. Our framework explores how attention to the offence can illuminate what prisons are like, what they do through moral communication, and what they are for as sites of punishment. Our analysis suggests that attending to the offence can enrich our understanding of adaptation, compliance, and legitimacy, and more generally add to our understanding of imprisonment.
+  Why have prison scholars so seldom discussed what people in prison think about
+  their crimes? This article addresses a striking gap: the omission of the
+  originating reason for incarceration—the offence—from sociological analyses of
+  carceral life. We examine its past treatment in prison scholarship and argue
+  for recentring it. Drawing on three case studies, we show how the offence
+  actively shapes daily experience, institutional engagement, and social
+  dynamics. Our framework explores how attention to the offence can illuminate
+  what prisons are like, what they do through moral communication, and what they
+  are for as sites of punishment. Our analysis suggests that attending to the
+  offence can enrich our understanding of adaptation, compliance, and
+  legitimacy, and more generally add to our understanding of imprisonment.
   
-authors:
+author:
   - id: bmhj
     name:
       given: Ben
@@ -16,7 +26,12 @@ authors:
     affiliation:
       - ref: soton
     role: >
-      This article builds from conversations which developed over several years. We would find it difficult to specify precisely which author contributed which parts of the argument, and all authors contributed equally overall. Author names appear in reverse alphabetical order by surname, to avoid replicating academic seniority based on the alphabetical positioning of our surnames.
+      This article builds from conversations which developed over several years.
+      We would find it difficult to specify precisely which author contributed
+      which parts of the argument, and all authors contributed equally overall.
+      Author names appear in reverse alphabetical order by surname, to avoid
+      replicating academic seniority based on the alphabetical positioning of
+      our surnames.
   - id: amani
     name:
       given: Alice
@@ -30,7 +45,12 @@ authors:
     affiliation:
       - ref: liv
     role: >
-      This article builds from conversations which developed over several years. We would find it difficult to specify precisely which author contributed which parts of the argument, and all authors contributed equally overall. Author names appear in reverse alphabetical order by surname, to avoid replicating academic seniority based on the alphabetical positioning of our surnames.
+      This article builds from conversations which developed over several years.
+      We would find it difficult to specify precisely which author contributed
+      which parts of the argument, and all authors contributed equally overall.
+      Author names appear in reverse alphabetical order by surname, to avoid
+      replicating academic seniority based on the alphabetical positioning of
+      our surnames.
   - id: bc
     name:
       given: Ben
@@ -44,7 +64,12 @@ authors:
     affiliation:
       - ref: cam
     role: >
-      This article builds from conversations which developed over several years. We would find it difficult to specify precisely which author contributed which parts of the argument, and all authors contributed equally overall. Author names appear in reverse alphabetical order by surname, to avoid replicating academic seniority based on the alphabetical positioning of our surnames.
+      This article builds from conversations which developed over several years.
+      We would find it difficult to specify precisely which author contributed
+      which parts of the argument, and all authors contributed equally overall.
+      Author names appear in reverse alphabetical order by surname, to avoid
+      replicating academic seniority based on the alphabetical positioning of
+      our surnames.
 
 affiliations:
   - id: soton
@@ -78,10 +103,12 @@ affiliations:
 
 title: "\"What are you in for?\""
 subtitle: "The neglected role of the offence in prison sociology"
-date: 2026-03-05
+date: 2026-04-10
 categories:
   - journal article
-# description:
+description: >-
+  A journal article accepted for publication in *Incarceration: An international
+  journal of imprisonment, detention and coercive confinement*
 
 funding: >
   This work was supported by the UK Economic & Social Research Council via 
@@ -109,7 +136,25 @@ draft: false
 toc: true
 toc-depth: 2
 bibliography: jarmanWhatAreYou2026.yaml
-citation: true
+citation:
+  author:
+    - family: Jarman
+      given: Ben
+    - family: Ievins
+      given: Alice
+    - family: Crewe
+      given: Ben
+  container-title: >-
+    Incarceration: An international journal of imprisonment, detention and
+    coercive confinement
+  container-title-short: Incarceration
+  DOI: 10.1177/26326663261442087
+  issued: 2026-04-10
+  language: en
+  title: ‘What are you in for?’ The neglected role of the offence in prison sociology
+  type: article-journal
+  URL: https://journals.sagepub.com/doi/10.1177/26326663261442087
+  volume: '7'
 ---
 
 # Introduction
@@ -130,7 +175,7 @@ Laursen and Mjåland [-@laursenAbsentpresenceOffencePrisons2025] recently descri
 
 Influential early texts acknowledged offences, but did so mainly to construct analytical groupings---Schrag [-@schragLeadershipPrisonInmates1954] found that first-time and non-violent offenders more readily resisted "prisonisation" [@clemmerPrisonCommunity1958], while Irwin and Cressey [-@irwinThievesConvictsInmate1962, p. 141] distinguished between how professional "thieves" and state-raised "convicts" adapted to the sentence. Both examples theorised adaptative styles via categories derived from conviction types and criminal orientations; neither explored how individuals thus categorised reflected upon the meanings of their convictions. A similar approach persisted later, where scholars concerned with prison order continued to feature the offence as a classificatory variable. For example, Jacobs [-@jacobsStatevillePenitentiaryMass1977, p. 159] noted that an offence-based status system at Stateville had been replaced by a "balkanized" one based on racial and gang affiliations, while Flanagan [-@flanaganCorrectionalPolicyLongTerm1982, p. 83] suggested murderers were often "essentially noncriminal", and thus distinct from the broader prisoner population.
 
-Some exceptions to this pattern exist, most prominently in relation to the moral distinctions made about prisoners convicted of sexual offences, including their low status within prisoner hierarchies [@cohenPsychologicalSurvivalExperience1972], their subjection to intensified staff control [@sparksPrisonsProblemOrder1996], and their increased isolation, guilt and shame [@sapsfordLifesentencePrisonersDeterioration1979]. Mathiesen [-@mathiesenDefencesWeakSociological1965] suggested that such prisoners defended their moral status by engaging in "censorious" critique of prison staff. Meanwhile, *Psychological Survival* [@cohenPsychologicalSurvivalExperience1972] addressed guilt and shame only in relation to sex offenders (who it classified as 'sinners'). Yet a re-analysis of their archived materials uncovered these emotions among all the Durham prisoners, who felt safe to surface these emotions in Cohen and Taylor's classroom "without worrying about being evaluated" by prison authorities [@fieldingResistanceAdaptationCriminal2008, p. 90]. Moral reflection was thus occurring, unprompted by institutional attempts to induce it, and unnoticed by sociologists more interested by authority relations.
+Some exceptions to this pattern exist, most prominently in relation to the moral distinctions made about prisoners convicted of sexual offences, including their low status within prisoner hierarchies [@cohenPsychologicalSurvival1981], their subjection to intensified staff control [@sparksPrisonsProblemOrder1996], and their increased isolation, guilt and shame [@sapsfordLifesentencePrisonersDeterioration1979]. Mathiesen [-@mathiesenDefencesWeakSociological1965] suggested that such prisoners defended their moral status by engaging in "censorious" critique of prison staff. Meanwhile, *Psychological Survival* [@cohenPsychologicalSurvival1981] addressed guilt and shame only in relation to sex offenders (who it classified as 'sinners'). Yet a re-analysis of their archived materials uncovered these emotions among all the Durham prisoners, who felt safe to surface these emotions in Cohen and Taylor's classroom "without worrying about being evaluated" by prison authorities [@fieldingResistanceAdaptationCriminal2008, p. 90]. Moral reflection was thus occurring, unprompted by institutional attempts to induce it, and unnoticed by sociologists more interested by authority relations.
 
 Latterly, though, researchers have increasingly recognised the offence's influence over how prisoners experience punishment, understand themselves, and engage in ethical self-formation. This shift partly mirrors the changing character of penal power. In England & Wales, and many other jurisdictions, prisons have become "tighter" [@creweDepthWeightTightness2011; @creweTightnessRecognitionPenal2021]. Prisoners' narratives---particularly those relating to their offending---have become objects of discipline. Offending behaviour programmes and risk assessments structure progression and release decisions, and construct prisoners by reference to their offences [@foxChangingViolentMinds1999; @lacombeConsumedSexTreatment2008]. Meanwhile, sentence inflation has intensified retributive severity for some categories of offending [@pina-sanchezMeasuringSentenceInflation2025].
 
@@ -259,7 +304,7 @@ Regarding our first analytical dimension, attending to the offence clarifies *wh
 
 To develop this point, the primary preoccupation for many prisoners may be psychological rather than social survival: an *internal* struggle relating to the moral implications of serious offending. Grasping *what imprisonment is like* for Mick, Chris, or Nicholas---what dominates mental headspace---requires centring the offence. For all three, the importance of the prisoner social world is subordinate to that of coming to terms with feelings of shame and bewilderment relating to the offence. This was most strongly exemplified by Nicholas, who stated explicitly that his outward adjustment had concealed inward turbulence.
 
-This inner-outer contrast can enrich our understanding of topics of longstanding interest. For example, staff-prisoner relationships have typically been understood through criminal codes, authority orientations, and power disparities [e.g. @cohenPsychologicalSurvivalExperience1972; @irwinThievesConvictsInmate1962; @drakePrisonsPunishmentPursuit2012]. Yet Mick and Chris show that prisoners who distance themselves from officers (or other staff) might have in mind how those staff members represent certain feelings about their convictions, or about how the criminal justice system has interpreted their acts. Prison staff do not simply represent state repression [e.g. @irwinPrisonsTurmoil1980; @jacobsStatevillePenitentiaryMass1977], nor act simply as agents of discipline and control [@carrollHacksBlacksCons1974; @drakePrisonsPunishmentPursuit2012]. They also symbolise *punishment*: if prisoners perceive staff to be the deliverers of a deserved (or harsh) penalty, their orientations towards them may be altered as a result.
+This inner-outer contrast can enrich our understanding of topics of longstanding interest. For example, staff-prisoner relationships have typically been understood through criminal codes, authority orientations, and power disparities [e.g. @cohenPsychologicalSurvival1981; @irwinThievesConvictsInmate1962; @drakePrisonsPunishmentPursuit2012]. Yet Mick and Chris show that prisoners who distance themselves from officers (or other staff) might have in mind how those staff members represent certain feelings about their convictions, or about how the criminal justice system has interpreted their acts. Prison staff do not simply represent state repression [e.g. @irwinPrisonsTurmoil1980; @jacobsStatevillePenitentiaryMass1977], nor act simply as agents of discipline and control [@carrollHacksBlacksCons1974; @drakePrisonsPunishmentPursuit2012]. They also symbolise *punishment*: if prisoners perceive staff to be the deliverers of a deserved (or harsh) penalty, their orientations towards them may be altered as a result.
 
 Compliance, including engagement with programmes, is shaped by offence-related sentiments—hence Mick’s tense relationship with staff and refusal to conform to an undeserved regime, Chris's general disengagement and resistance to activities he expected to vivify his intrusive thoughts, and Nicholas's difficulties in accounting for his past actions without therapeutic tutelage. Just as prisoners' (non)compliance can be motivated by the perceived legitimacy of their treatment [@sparksPrisonsProblemOrder1996; @lieblingPrisonsTheirMoral2005], so too it can be shaped by feelings about the offence for which they are imprisoned.
 
