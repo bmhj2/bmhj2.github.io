@@ -15,8 +15,17 @@
 <title>Ben Jarman</title>
 <link>https://benjarman.uk/publications.html</link>
 </image>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 04 Nov 2025 16:35:12 GMT</lastBuildDate>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Thu, 09 Apr 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>“What are you in for?”</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/publications/jarmanWhatAreYou2026.html</link>
+  <description><![CDATA[ A journal article accepted for publication in Incarceration: An international journal of imprisonment, detention and coercive confinement ]]></description>
+  <category>journal article</category>
+  <guid>https://benjarman.uk/publications/jarmanWhatAreYou2026.html</guid>
+  <pubDate>Thu, 09 Apr 2026 23:00:00 GMT</pubDate>
+</item>
 <item>
   <title>Submission to the Law Commission’s call for evidence</title>
   <dc:creator>Ben Jarman</dc:creator>
@@ -207,15 +216,6 @@
   <category>presentation</category>
   <guid>https://benjarman.uk/publications/kennedyResearchDataManagement2021.html</guid>
   <pubDate>Tue, 02 Feb 2021 00:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Can confidential research be reproducible?</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <link>https://benjarman.uk/publications/jarmanCanConfidentialResearch2021.html</link>
-  <description><![CDATA[ Paper given at the 2021 Cambridge ESRC Doctoral Training Partnership conference ]]></description>
-  <category>conference paper</category>
-  <guid>https://benjarman.uk/publications/jarmanCanConfidentialResearch2021.html</guid>
-  <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

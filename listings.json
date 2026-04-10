@@ -2,6 +2,7 @@
   {
     "listing": "/publications.html",
     "items": [
+      "/publications/jarmanWhatAreYou2026.html",
       "/publications/jarmanLawCommissionHomicide2025.html",
       "/publications/jarmanBeingAssessedBeing2025.html",
       "/publications/jarmanWhoseDataAnyway2025.html",
@@ -37,6 +38,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/news/what-are-you-in-for.html",
       "/news/law-commission-submission.html",
       "/news/medomsley-submission.html",
       "/news/parole-process-talk.html",

@@ -15,8 +15,19 @@
 <title>Ben Jarman</title>
 <link>https://benjarman.uk/blog.html</link>
 </image>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 18 Nov 2025 00:00:00 GMT</lastBuildDate>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Thu, 09 Apr 2026 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>New publication: “What are you in for?”</title>
+  <dc:creator>Ben Jarman</dc:creator>
+  <link>https://benjarman.uk/news/what-are-you-in-for.html</link>
+  <description><![CDATA[ Announcing publication of a new article examining why prison researchers have largely avoided discussing what people in prison think about their crimes ]]></description>
+  <category>news</category>
+  <category>publication</category>
+  <guid>https://benjarman.uk/news/what-are-you-in-for.html</guid>
+  <pubDate>Thu, 09 Apr 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://benjarman.uk/_assets/marek-mucha-MFiekVrRagM-unsplash.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>New submission: Law Commission homicide review</title>
   <dc:creator>Ben Jarman</dc:creator>
@@ -234,18 +245,6 @@
   <guid>https://benjarman.uk/changing-inside/poor-prospect-indeed.html</guid>
   <pubDate>Wed, 17 Apr 2019 23:00:00 GMT</pubDate>
   <media:content url="https://benjarman.uk/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Rehabilitation and the aims of prisons (part 3)</title>
-  <dc:creator>Ben Jarman</dc:creator>
-  <link>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-3.html</link>
-  <description><![CDATA[ Last in a series of posts on how English prisons realise the aim of rehabilitation ]]></description>
-  <category>posts</category>
-  <category>changing inside</category>
-  <category>reading note</category>
-  <guid>https://benjarman.uk/changing-inside/rehabilitation-aims-prisons-3.html</guid>
-  <pubDate>Sat, 09 Feb 2019 00:00:00 GMT</pubDate>
-  <media:content url="https://benjarman.uk/_assets/Pentonvilleiso19.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

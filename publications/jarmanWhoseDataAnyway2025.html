@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB" xml:lang="en-GB"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.26">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -13,6 +13,9 @@
 
 <title>Whose data is it, anyway? – Ben Jarman</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -59,19 +62,18 @@ div.csl-indent {
 <link href="../site_libs/cookie-consent/cookie-consent.css" rel="stylesheet">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-b758ccaa5987ceb1b75504551e579abf.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark-c2534cd48d25e2e1f464fa8ef8f3847a.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="../site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-6b423f165eeea3787de40cb4f8e821c3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-fd696e037b083c4ef7f91900b63d0ef0.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-6b423f165eeea3787de40cb4f8e821c3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": true,
@@ -494,7 +496,7 @@ Tip
 <p>Second, we have Open Access, which most of us will by now be familiar with. Simply put, it reflects a specific commitment that publicly-funded research should be publicly available, not hidden behind paywalls. In some sense, the research belongs to the public, and should be available to the public.</p>
 <p>Finally, there’s Open Data, which extends this principle of openness to research data itself. This is my definition, but I want to highlight the idea that it involves a set of normative claims about the relationship between research data and research quality. It is associated with the idea that we should publish not just our findings, but the underlying data that supported them, making it available for reuse and verification. And it’s associated with various frameworks for thinking about data.</p>
 <p>I’ll come back to those frameworks later, but for now I want to note that these principles are not operationalised identically across different academic disciplines. In STEMM subjects and some quantitative social sciences, this normative agenda is particularly strongly articulated, for good reasons associated with reproducibility and the cost/benefit implications of secondary data reuse.</p>
-<p>The social sciences more broadly have moved more slowly, and criminology especially so <span class="citation" data-cites="ashbyOpenAccessAvailabilityCriminological2020">(<a href="#ref-ashbyOpenAccessAvailabilityCriminological2020" role="doc-biblioref">Ashby 2020</a>)</span>. There is some evidence of unease among qualitative researchers about Open Data <span class="citation" data-cites="hanchardFosteringOpenQualitative2023 buceriusTransparencyTradeoffRisks2024">(<a href="#ref-buceriusTransparencyTradeoffRisks2024" role="doc-biblioref">Bucerius &amp; Copes 2024</a>; e.g. <a href="#ref-hanchardFosteringOpenQualitative2023" role="doc-biblioref">Hanchard &amp; San Roman Pineda 2023</a>)</span>. As my colleague’s example illustrates, this isn’t a coincidence. Qualitative data give rise to particular ethical and practical questions.</p>
+<p>The social sciences more broadly have moved more slowly, and criminology especially so <span class="citation" data-cites="ashbyOpenAccessAvailabilityCriminological2020">(<a href="#ref-ashbyOpenAccessAvailabilityCriminological2020" role="doc-biblioref">Ashby 2020</a>)</span>. There is some evidence of unease among qualitative researchers about Open Data <span class="citation" data-cites="hanchardFosteringOpenQualitative2023 buceriusTransparencyTradeoffRisks2024">(e.g. <a href="#ref-hanchardFosteringOpenQualitative2023" role="doc-biblioref">Hanchard &amp; San Roman Pineda 2023</a>; <a href="#ref-buceriusTransparencyTradeoffRisks2024" role="doc-biblioref">Bucerius &amp; Copes 2024</a>)</span>. As my colleague’s example illustrates, this isn’t a coincidence. Qualitative data give rise to particular ethical and practical questions.</p>
 <p>Even so, data publication is increasingly becoming a default practice, driven from above by funders. Currently, UKRI expects data arising from its funding “to be made as open as possible and as restricted as necessary”.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> There have been similar developments with publicly funded research in the United States <span class="citation" data-cites="whitehouseofficeofscienceandtechnologypolicyostpEnsuringFreeImmediate2022">(<a href="#ref-whitehouseofficeofscienceandtechnologypolicyostpEnsuringFreeImmediate2022" role="doc-biblioref">White House Office of Science and Technology Policy (OSTP) 2022</a>)</span> and elsewhere.</p>
 <p>So this is the wider context for my talk: something we might call an ‘Open Data agenda’, favouring data publication by default, and making the case in terms derived from the STEMM subjects and quantitative social sciences. How can we as qualitative researchers engage with this agenda?</p>
 </section>
@@ -1097,7 +1099,7 @@ University of Southampton. Retrieved from <a href="https://benjarman.uk/publicat
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© 2003-2025 Ben Jarman. All rights reserved except where indicated per page.</p>
+<p>© 2003-2026 Ben Jarman. All rights reserved except where indicated per page.</p>
 </div>   
     <div class="nav-footer-center">
 
