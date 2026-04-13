@@ -19,7 +19,7 @@ keywords:
 image: '/_assets/john-tecuceanu-w_EXlvIk2Vk-unsplash.jpg'
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 Another reflection based on interview coding. This time it's someone I'll call P. He'd been in prison since I was at primary school (I'm pushing 40 now), and was serving a sentence for a very highly stigmatised offence.
 
@@ -90,6 +90,6 @@ But having spent most of my lifetime in prison, it was clear that he had had eno
 >
 > P: No. It's all regrettable and it's all remorseful. Without it, who would I be? Where would I be? Would I have ever had a wake-up call? Would I have experienced the things I've experienced? It's a hard one, that one. I know it's heinous, horrendous, horrible, all the fucking expletives you want to throw at it. All the nasty, horrible... But even roses grow out of shit, don't they? And that's, you know, prison. Prison has had its uses [for me]. But I don't want to be a caretaker for every fucker else. I need to move on and take care of myself.
 
-::: {.callout-note}
+::: {.callout-note collapse="true" title="Image credit"}
 Photo by <a href="https://unsplash.com/@pixeldustie?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">John Tecuceanu</a> on <a href="https://unsplash.com/photos/white-petaled-flower-w_EXlvIk2Vk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 :::

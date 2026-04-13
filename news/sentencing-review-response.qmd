@@ -18,7 +18,7 @@ copyright:
 draft: false # select
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 I have submitted a detailed response to the Ministry of Justice's Independent Sentencing Review, drawing on my research on life imprisonment and comparative work on prison systems internationally. The response examines how current approaches to sentencing and progression create particular challenges for those serving longer sentences, and proposes reforms to progression frameworks and risk assessment.
 
@@ -31,6 +31,6 @@ The response makes several **key recommendations**, including:
 
 The full response is available [here](/publications/jarmanIndependentSentencingReview2025.qmd) and discusses these recommendations in detail, drawing on evidence from both UK and international research. It particularly focuses on how sentence progression might better serve both institutional needs and individual development while maintaining appropriate public protection measures.
 
-::: {.callout-note}
+::: {.callout-note collapse="true" title="Image credit"}
 Photo by <a href="https://unsplash.com/@wesleyphotography?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Wesley Tingey</a> on <a href="https://unsplash.com/photos/brown-mallet-on-gray-wooden-surface-9z9fxr_7Z-k?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 :::

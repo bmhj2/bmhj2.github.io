@@ -24,7 +24,7 @@ draft: [true|false] # select
 # bibliography: [citekey].bib # add if required
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 Opening announcing publication and its significance.
 

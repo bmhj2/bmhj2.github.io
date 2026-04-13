@@ -15,7 +15,7 @@ keywords:
 image: '/_assets/Pentonvilleiso19.jpg'
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 This is the second of three posts in a series looking at rehabilitation as an aim of punishment. You can find the first post in the series [here](https://changinginside.co.uk/?p=369).
 

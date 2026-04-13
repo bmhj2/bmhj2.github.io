@@ -14,7 +14,7 @@ keywords:
 image: "/_assets/viktor-forgacs-LNwIJHUtED4-unsplash.jpg"
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 Yesterday I gave a talk as part of the University of Southampton's Love Data Week 2025, exploring how qualitative researchers might engage constructively with calls to share their data openly. Drawing on the particular example of prison research (which exemplifies and sharpens many of the ethical tensions in qualitative research more generally), the talk examined particular challenges around confidentiality, consent, and institutional power.
 
@@ -37,6 +37,6 @@ For my earlier work on this topic, see:
 - ["Open Data and sensitive interviews"](/publications/jarmanOpenDataSensitive2020.qmd) (2020)
 - ["Voice, representation, relationships: report of the Open Qualitative Working Group"](/publications/westburyVoiceRepresentationRelationships2022.qmd) (2022)
 
-::: {.callout-note}
+::: {.callout-note collapse="true" title="Image credit"}
 Photo by <a href="https://unsplash.com/@sonance?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Viktor Forgacs</a> on <a href="https://unsplash.com/photos/red-and-white-open-neon-signage-LNwIJHUtED4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 :::

@@ -20,7 +20,7 @@ image: '/_assets/scott-webb-9u8mko3pgww-unsplash.jpg'
 This was originally posted as a Twitter thread and was reposted on the blog.
 :::
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 I'm coding interviews. Today it's someone I'll call S. I've been thinking about something he said ever since I met him.
 

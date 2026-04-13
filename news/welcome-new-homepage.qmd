@@ -11,7 +11,7 @@ draft: false
 citation: true
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 This post launches my new website. The timing coincides with a career move: from next Monday, I will be joining the [University of Southampton Law School](https://www.southampton.ac.uk/about/faculties-schools-departments/southampton-law-school) as a Research Fellow, where I'll be working to prepare to publish [my PhD](/publications/jarmanMoralMessagesEthical2024.qmd) as a book, and to undertake new research on parole decision-making in England and Wales.
 

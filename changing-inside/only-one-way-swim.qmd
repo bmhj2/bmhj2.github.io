@@ -15,7 +15,7 @@ description: News item describing a new peer-reviewed publication
 image: '/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg'
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 I've had an article published in the *British Journal of Criminology*. The [published version](https://dx.doi.org/10.1093/bjc/azaa036) is behind a paywall, but those without access can download the accepted manuscript [here](https://changinginside.co.uk/200416-only-one-way-to-swim-accepted-manuscript/), or a pre-print (i.e. the version I originally submitted to the journal, before peer review) [here](https://doi.org/10.31235/osf.io/z4cwa) or [here](https://ssrn.com/abstract=3585421).
 
@@ -61,6 +61,6 @@ My argument in the article is that all of this underlines the need for clear thi
 
 These are bigger questions, but they can't be properly thought about unless we have a more nuanced understanding of what 'adaptation' means. This is what the article (and the PhD) tries to do.
 
-::: {.callout-note}
+::: {.callout-note collapse="true" title="Image credit"}
 Photo by <a href="https://unsplash.com/@mariasolponce?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Maria Sol Ponce</a> on <a href="https://unsplash.com/photos/an-open-book-with-glasses-on-top-of-it-qHz5jg_8f04?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 :::

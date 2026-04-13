@@ -14,7 +14,7 @@ description: Link to a new publication by the Prison Reform Trust
 image: '/_assets/maria-sol-ponce-qHz5jg_8f04-unsplash.jpg'
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 The Prison Reform Trust has published its Bromley Briefing today -- an indispensable twice-yearly compilation of facts and figures on the criminal justice system in the UK.
 
@@ -24,6 +24,6 @@ However, I just want this post to draw attention to the Briefing, and especially
 
 You can read the press release [here](http://www.prisonreformtrust.org.uk/PressPolicy/News/vw/1/ItemID/601) and the Briefing itself [here](http://www.prisonreformtrust.org.uk/Portals/0/Documents/Bromley%20Briefings/Autumn%202018%20Factfile.pdf).
 
-::: {.callout-note}
+::: {.callout-note collapse="true" title="Image credit"}
 Photo by <a href="https://unsplash.com/@mariasolponce?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Maria Sol Ponce</a> on <a href="https://unsplash.com/photos/an-open-book-with-glasses-on-top-of-it-qHz5jg_8f04?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 :::

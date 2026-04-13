@@ -18,7 +18,7 @@ image: "/_assets/zetong-li-jiVBqdZNXcg-unsplash.jpg"
 draft: false
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 Last week, the Prisons and Probation Ombudsman (PPO) published their [investigation report](https://ppo.gov.uk/news/ppo-publish-investigation-report-into-abuse-of-young-men-at-medomsley-detention-centre/) into historical abuse at Medomsley Detention Centre. The investigation, which followed multiple convictions of staff members for physical and sexual abuse of young men detained there between the 1960s and 1980s, received substantial media attention—including [coverage by the BBC](https://www.bbc.co.uk/news/articles/cdegpepg6n7o) and a [ministerial statement in Parliament](https://questions-statements.parliament.uk/written-statements/detail/2025-11-12/hcws1050). Caroline Lanskey and I were acknowledged in the report for our support to the investigation, and our 2018 research on safeguarding in youth custody was cited several times.
 
@@ -54,6 +54,6 @@ Working with the PPO investigation team has reinforced my belief in the value of
 
 The full submission to the PPO is available [here](/publications/jarmanSubmissionPPOsCall2024.qmd). Further context on the original project can be found [here](/publications/jarmanSafeguardingChildrenSecure2018.qmd "Safeguarding in the Secure Estate").
 
-::: {.callout-note}
+::: {.callout-note collapse="true" title="Image credit"}
 Photo by [Zetong Li](https://unsplash.com/@zetong?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-row-of-bookshelves-in-a-library-filled-with-books-jiVBqdZNXcg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 :::

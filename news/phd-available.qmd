@@ -12,7 +12,7 @@ keywords:
 image: "/_assets/tim-alex-FC1uuekWoZc-unsplash.jpg"
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 My PhD dissertation, completed at Cambridge in 2024, is now Open Access, following the expiry of the embargo period. It investigates how men serving life sentences for murder navigate the moral and ethical dimensions of their punishment, exploring their responses to society's judgement and their attempts to construct positive identities within the constraints of lifelong imprisonment.
 

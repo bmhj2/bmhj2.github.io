@@ -15,7 +15,7 @@ image: "/_assets/srijan-mohan-V9D6ItZvhnM-unsplash.jpg"
 draft: false
 ---
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 Last week I presented new research on a panel about parole at the British Society of Criminology conference. This working paper bridges my PhD research and my current work as an Anniversary Fellow at Southampton, and offers some preliminary insights into an under-researched area.
 
@@ -46,6 +46,6 @@ I plan to write a little more about that study once I have the approvals I need 
 - Working paper: [Full text](/publications/jarmanBeingAssessedBeing2025.qmd)
 - Slides available on request - use contact links [here](/index.qmd) to request
 
-::: {.callout-note}
+::: {.callout-note collapse="true" title="Image credit"}
 Photo by <a href="https://unsplash.com/@srijancm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Srijan Mohan</a> on <a href="https://unsplash.com/photos/a-clock-on-a-wall-V9D6ItZvhnM?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 :::

@@ -18,7 +18,7 @@ image: '/_assets/a56b2-new-growth.jpg'
 This is the second of two posts noting my thoughts about a recent study on life imprisonment. The first post can be found [here](https://changinginside.co.uk/?p=414).
 :::
 
-![]({{< meta image >}})
+<img src="{{< meta image >}}" class="img-fluid" alt="">
 
 ## Questions raised by this research
 
